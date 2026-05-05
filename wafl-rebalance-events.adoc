@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: wafl-rebalance-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: wafl.rebalance events
+---
+
+= wafl.rebalance events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== wafl.rebalance.vol_affi
+*Severity*::
+NOTICE
+*Description*::
+A volume rebalance event has happened.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Volume "%s" is rebalanced from "%u" to "%u". Error code: "%u".
+*Parameters*::
+*volname* (STRING): The name of the volume being rebalanced.
+*source_affid* (INT): The VOL affinity at which the volume was rooted before rebalancing.
+*target_affid* (INT): The target VOL affiinty which the volume will be rebalanced.
+*error* (INT): Error code when the volume failed to be rebalanced. It's 0 if it was successfully rebalanced.
+*trigger* (INT): Reason that triggered the volume rebalance event.

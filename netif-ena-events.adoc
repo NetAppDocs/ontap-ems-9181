@@ -1,0 +1,70 @@
+---
+sidebar: sidebar
+permalink: netif-ena-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: netif.ena events
+---
+
+= netif.ena events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== netif.ena.allowance.exceeded
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the network throughput exceeds the bandwidth allowance for the node
+*Corrective Action*::
+(None).
+*Syslog Message*::
+"%s" AWS ENA metric "%s" changed from %llu to %llu.
+*Parameters*::
+*ifName* (STRING): Name of the network interface
+*metric* (STRING): Only one of the following metrics is displayed at a time. bw_in_allowance_exceeded: The number of packets queued or dropped because the inbound aggregate bandwidth exceeded the maximum for the instance. bw_out_allowance_exceeded: The number of packets queued or dropped because the outbound aggregate bandwidth exceeded the maximum for the instance. pps_allowance_exceeded: The number of packets queued or dropped because the bidirectional Packet-per-second exceeded the maximum for the instance.
+*oldValue* (LONGINT): old ena metric value
+*newValue* (LONGINT): new ena metric value
+
+== netif.ena.express.changed
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when AWS ENA Express feature is changed for the NIC.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+AWS ENA Express for "%s" is changed from mode "%s" to "%s".
+*Parameters*::
+*ifName* (STRING): Name of the network interface.
+*oldMode* (STRING): ENA Express feature bits (0: off, 1: on with TCP, 2: on with UDP)
+*newMode* (STRING): ENA Express feature bits (0: off, 1: on with TCP, 2: on with UDP)
+
+== netif.ena.express.detected
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when AWS ENA Express feature is turned on for the NIC.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+AWS ENA Express for "%s" is detected: mode "%s".
+*Parameters*::
+*ifName* (STRING): Name of the network interface.
+*mode* (STRING): ENA Express feature bits (0: off, 1: on with TCP, 2: on with UDP)
+
+== netif.ena.express.disabled
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when AWS ENA Express feature is disabled for the NIC.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+AWS ENA Express for "%s" is disabled from mode "%s".
+*Parameters*::
+*ifName* (STRING): Name of the network interface.
+*oldMode* (STRING): ENA Express feature bits (0: off, 1: on with TCP, 2: on with UDP)

@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: san-duplicatewwpn-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: san.duplicatewwpn events
+---
+
+= san.duplicatewwpn events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== san.DuplicateWWPN
+*Severity*::
+ERROR
+*Description*::
+This message occurs in MetroCluster(tm) configurations of clustered Data ONTAP(R), when an FC LIF is created in the source cluster, but one of the Vservers in the destination cluster is already configured with an FC LIF having the same WWPN.
+*Corrective Action*::
+Contact NetApp technical support for assistance in resolving the FC LIF WWPN conflict.
+*Syslog Message*::
+The WWPN %s of FC LIF %s conflicts with an FC LIF in a Vserver in the destination cluster. Contact NetApp technical support for assistance in resolving the FC LIF WWPN conflict.
+*Parameters*::
+*wwpn* (STRING): WWPN existing in the destination cluster.
+*lif* (STRING): Name of the primary Vserver FC LIF.

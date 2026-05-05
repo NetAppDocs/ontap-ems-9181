@@ -1,0 +1,41 @@
+---
+sidebar: sidebar
+permalink: de-job-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: de.job events
+---
+
+= de.job events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== de.job.failure
+*Severity*::
+ERROR
+*Description*::
+This message occurs when a job in AIDP fails to complete successfully. An EMS event will be logged every time a job moves to failure state.
+*Corrective Action*::
+Check the description of the job that has failed and retry the workflow if necessary. For example, if the workspace creation job failed, check which sub-job or task caused the failure and retry the workflow. The following API shows all details of the job - /data-engine/jobs/{uuid} where uuid is jobId param.
+*Syslog Message*::
+Job failure event for AIDP with id: %s, owner: %s, description: %s, user/group: %s, severity: %s, createTime: %s, resource UUID: %s, resource name: %s, resource type: %s, job ID: %s, job name: %s, job type: %s, job state: %s
+*Parameters*::
+*id* (STRING): Event ID of the job failure event.
+*owner* (STRING): Owner of the event.
+*description* (STRING): Description of the job failure event.
+*userOrGroup* (STRING): User or group that owns the job failure event.
+*severity* (STRING): Severity of the event.
+*createTime* (STRING): Creation time.
+*resourceUUID* (STRING): ID of the resource - workspace, data collection, policy ID etc.
+*resourceName* (STRING): Name of the resource.
+*resourceType* (STRING): Resource type of the event - workspace, data collection, policy etc.
+*jobId* (STRING): Job ID of the job that failed.
+*jobName* (STRING): Name of the job that failed.
+*jobType* (STRING): Job type of the job that failed.
+*jobState* (STRING): Job state of the job that failed.
+*attributes* (STRING): Dynamic attributes related to the job failure event. It can be anything like size, space, usage etc.
+*visibility* (STRING): To whom the event is visible.

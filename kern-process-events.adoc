@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: kern-process-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: kern.process events
+---
+
+= kern.process events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== kern.process.alloc.limit
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when a process creation has the system close to the maximum limit for the number of processes. The system's process counts and limits are included as part of this message.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Process creation by "%s" resulted in %d processes on the system. The system's process limit is %d. The system's SK process count is %d and the SK process limit is %d.
+*Parameters*::
+*process_name* (STRING): Name of the process performing the process creation.
+*proc_count* (INT): Current number of processes in the system.
+*proc_max_limit* (INT): Maximum number of processes allowed by the system.
+*sk_proc_count* (INT): Current number of SK processes in the system.
+*sk_proc_max_limit* (INT): Maximum number of SK processes allowed by the system.

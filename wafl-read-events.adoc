@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: wafl-read-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: wafl.read events
+---
+
+= wafl.read events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== wafl.read.incorrect.data
+*Severity*::
+NOTICE
+*Description*::
+Potential incorrect data read is detected.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Potential incorrect data read is detected in fsid 0x%08x
+*Parameters*::
+*fsid* (INT): File system identifier of the volume.
