@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: rri-mount-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: rri.mount events
+---
+
+= rri.mount events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== rri.mount.fail
+*Severity*::
+NOTICE
+*Description*::
+This event is issued to indicate that flexaggr RRI mount failed.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+RRI mount on flexaggr %s has aborted because of error %s.
+*Parameters*::
+*flexaggr* (STRING): Name of Flexaggr.
+*err* (STRING): Error message that caused the failure.

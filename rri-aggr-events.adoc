@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: rri-aggr-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: rri.aggr events
+---
+
+= rri.aggr events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== rri.aggr.nospace
+*Severity*::
+ERROR
+*Description*::
+This event is issued to indicate there is not enough free space to do RRI work.
+*Corrective Action*::
+Free disk space in the flexaggr, or increse the size of flexaggr, then retry the RRI operation.
+*Syslog Message*::
+[%s] : RRI on flexaggr %s has aborted because there is insufficient free space.
+*Parameters*::
+*oper* (STRING): RRI operation that is doing space check.
+*flexaggr* (STRING): Name of Flexaggr.

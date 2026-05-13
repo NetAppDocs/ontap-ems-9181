@@ -1,0 +1,147 @@
+---
+sidebar: sidebar
+permalink: aps-rebal-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: aps.rebal events
+---
+
+= aps.rebal events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== aps.rebal.perf.advise
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the performance rebalancing service detects that a node is at risk in an advisory mode. This service will suggest to move volumes to another node to keep the node utilization under the maximum permissible threshold.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+The Node "%s" has exceeded the utilization threshold of %d%%. The volume(s) must be moved from the node to free up utilization. %s.
+*Parameters*::
+*node* (STRING): Name of the node at risk.
+*node_utilization_threshold* (INT): Node utilization threshold.
+*volume* (STRING): Volume names and their destination nodes and aggregates.
+
+== aps.rebal.perf.auto
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the performance rebalancing service detects that a node is at risk in an automated mode. This service will automatically move volumes to another node to keep the node utilization under the maximum permissible threshold.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+The Node "%s" has exceeded the utilization threshold of %d%%. The volume(s) will be automatically moved from the node to free up utilization. %s.
+*Parameters*::
+*node* (STRING): Name of the node at risk.
+*node_utilization_threshold* (INT): Node utilization threshold.
+*volume* (STRING): Volume names and their destination nodes and aggregates.
+
+== aps.rebal.perf.evac
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the performance rebalancing service initiates an evacuation of an aggregate by moving all of its volumes.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+The performance rebalancing service is evacuating aggregate "%s". The following volumes will be moved: %s.
+*Parameters*::
+*aggregate* (STRING): Name of the aggregate.
+*volumes* (STRING): The names of the volumes that will be moved as part of the evacuation.
+
+== aps.rebal.perf.evac.fail
+*Severity*::
+ERROR
+*Description*::
+This message occurs when the performance rebalancing service is unable to evacuate an aggregate.
+*Corrective Action*::
+Use the (privilege: diag) "volume move start -vserver vsname -volume volname -destination-aggregate aggrname" command to manually move the volumes.
+*Syslog Message*::
+The performance rebalancing service failed to evacuate aggregate "%s" because the following volumes could not be moved: %s.
+*Parameters*::
+*aggregate* (STRING): Name of the aggregate.
+*volumes* (STRING): Names of the volumes for which the move failed.
+
+== aps.rebal.perf.evac.success
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the performance rebalancing service successfully evacuates an aggregate.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+The performance rebalancing service successfully evacuated aggregate "%s".
+*Parameters*::
+*aggregate* (STRING): Name of the aggregate.
+
+== aps.rebal.perf.evac.vol.move
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the performance rebalancing service moves volumes from an aggregate during the evacuation process. The overall evacuation result is reported by aps.rebal.perf.evac.success or aps.rebal.perf.evac.fail events.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+While evacuating the aggregate "%s", the following volumes will be moved : %s.
+*Parameters*::
+*aggregate* (STRING): Name of the aggregate.
+*destination_aggregates* (STRING): Names of the volumes being moved, destination aggregates and SVMs.
+
+== aps.rebal.perf.failed
+*Severity*::
+ERROR
+*Description*::
+This message occurs when the performance rebalancing service is unable to bring average utilization for a node below the node utilization threshold. This situation can arise if the available nodes with utilization below the threshold are either already near the threshold themselves, or if they have already reached their limit for volume moves.
+*Corrective Action*::
+For further assistance, contact NetApp technical support.
+*Syslog Message*::
+Performance rebalancing service failed to bring average node utilization for node(s) "%s" below node utilization threshold of %d%%.
+*Parameters*::
+*nodes* (STRING): Name of the nodes.
+*node_utilization_threshold* (INT): Node utilization threshold.
+
+== aps.rebal.perf.move.failed
+*Severity*::
+ERROR
+*Description*::
+This message occurs when the performance rebalancing service attempts to reduce node utilization below the configured threshold, but encounters an error while moving the volume to another node.
+*Corrective Action*::
+Use the (privilege: diag) "volume move start -vserver vsname -volume volname -destination-aggregate aggrname" command to manually move the volumes and free up utilization in the node. For further assistance, contact NetApp technical support.
+*Syslog Message*::
+Performance rebalance service failed to move the volume "%s" to aggregate "%s". Reason: %s.
+*Parameters*::
+*volume* (STRING): Name of the volume.
+*aggregate* (STRING): Name of the aggregate to which the performance rebalancing service attempted to the volume.
+*error* (STRING): The error that the performance rebalancing service encountered during the volume move.
+
+== aps.rebal.perf.noHomeNode
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the performance rebalancing service needs to move all volumes that can be moved from the aggregate because the home node of that aggregate is no longer available.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+The performance rebalancing service is moving eligible volumes from aggregate "%s" because the home node is no longer available. The following volumes will be moved: %s.
+*Parameters*::
+*aggregate* (STRING): Name of the aggregate.
+*volumes* (STRING): The names of the volumes that will be moved due to the home node unavailability condition.
+
+== aps.rebal.perf.noroom
+*Severity*::
+ALERT
+*Description*::
+This message occurs when the performance rebalancing service attempts to reduce node utilization below the configured threshold, but cannot proceed because all nodes have already exceeded the utilization threshold.
+*Corrective Action*::
+For further assistance, contact NetApp technical support.
+*Syslog Message*::
+All nodes "%s" in the cluster have average node utilization above node utilization threshold of %d%%.
+*Parameters*::
+*nodes* (STRING): Name of the nodes.
+*node_utilization_threshold* (INT): Node utilization threshold.

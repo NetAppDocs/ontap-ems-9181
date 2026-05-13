@@ -1,0 +1,46 @@
+---
+sidebar: sidebar
+permalink: security-cluster-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: security.cluster events
+---
+
+= security.cluster events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== security.cluster.network.cert.expired
+*Severity*::
+ERROR
+*Description*::
+This message occurs when a digital certificate associated with a node for cluster-network security is already expired. Cluster-network communication will be disrupted.
+*Corrective Action*::
+Update the node certificate with a valid CA-signed certificate using the 'security cluster-network certificate modify' command.
+*Syslog Message*::
+A digital certificate associated with cluster-network security for the Node %s with Certificate Name %s, Certificate UUID %s and Certificate Authority '%s' has already expired.
+*Parameters*::
+*node* (STRING): Name of the Node associated with this certificate.
+*cert_name* (STRING): Name of the digital certificate that is about to expire.
+*uuid* (STRING): UUID of the digital certificate under certificate manager.
+*certificate_authority* (STRING): Name of the Certificate Authority whose digital certificate that is about to expire.
+
+== security.cluster.network.cert.expiring
+*Severity*::
+ERROR
+*Description*::
+This message occurs when a digital certificate associated with a node for cluster-network security is about to expire. Cluster-network communication will be disrupted if the certificate expires.
+*Corrective Action*::
+Update the node certificate with a valid CA-signed certificate using the 'security cluster-network certificate modify' command.
+*Syslog Message*::
+A digital certificate associated with cluster-network security for the Node %s with Certificate Name %s, Certificate UUID %s and Certificate Authority '%s' will expire in %d day(s).
+*Parameters*::
+*node* (STRING): Name of the Node associated with this certificate.
+*cert_name* (STRING): Name of the digital certificate that is about to expire.
+*uuid* (STRING): UUID of the digital certificate under certificate manager.
+*certificate_authority* (STRING): Name of the Certificate Authority whose digital certificate that is about to expire.
+*days* (INT): Number of days remaining until the certificate expires.

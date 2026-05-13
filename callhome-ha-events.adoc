@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: callhome-ha-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: callhome.ha events
+---
+
+= callhome.ha events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== callhome.ha.net.sec.enabled
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the HA network security is enabled.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Callhome for %s
+*Parameters*::
+*subject* (STRING): AutoSupport subject or title for this event.

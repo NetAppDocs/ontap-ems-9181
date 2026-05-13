@@ -1,0 +1,30 @@
+---
+sidebar: sidebar
+permalink: de-storage-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: de.storage events
+---
+
+= de.storage events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== de.storage.vol.full
+*Severity*::
+ERROR
+*Description*::
+This message occurs when ONTAP volume used by AI Data Engine (AIDE) is close to full capacity.
+*Corrective Action*::
+Monitor the volume usage. If the usage percentage continues to rise, Contact NetApp technical support.
+*Syslog Message*::
+Volume %s is at %s percent used capacity used by %s service.
+*Parameters*::
+*volumeName* (STRING): Name of the volume.
+*usagePercentage* (STRING): Percentage usage of the volume.
+*serviceName* (STRING): Name of the impacted service.
+*createTime* (STRING): Event creation time.

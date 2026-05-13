@@ -1,0 +1,51 @@
+---
+sidebar: sidebar
+permalink: vifmgr-dns-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: vifmgr.dns events
+---
+
+= vifmgr.dns events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== vifmgr.dns.reconfigured
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when LIF changes cause the ONTAP DNS server to be reconfigured.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+ONTAP DNS server successfully reconfigured due to LIF configuration changes.
+*Parameters*::
+(None).
+
+== vifmgr.dns.restarted
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the ONTAP DNS server is restarted because attempts to reconfigure it failed.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+ONTAP DNS server successfully restarted due to reconfiguration attempt failure.
+*Parameters*::
+(None).
+
+== vifmgr.dns.update.failed
+*Severity*::
+ALERT
+*Description*::
+This message occurs when configuration changes could not be propagated to the ONTAP DNS server. Clients using the ONTAP DNS server may not be able to acquire IP addresses resulting in the inability to access data.
+*Corrective Action*::
+Contact NetApp technical support.
+*Syslog Message*::
+ONTAP DNS server configuration failed to be updated by reconfiguring or restarting.
+*Parameters*::
+(None).

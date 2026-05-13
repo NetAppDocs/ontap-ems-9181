@@ -1,0 +1,39 @@
+---
+sidebar: sidebar
+permalink: asup-dcn-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: asup.dcn events
+---
+
+= asup.dcn events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== asup.dcn.sync.failed
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the AutoSupport configurations in the ONTAP cluster fail to propagate to the Data Compute nodes and the AI Data Engine cluster.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+AutoSupport configurations failed to propagate to Data Compute nodes and AI Data Engine cluster. Error: %s
+*Parameters*::
+*FailureReason* (STRING): Sync failure reason.
+
+== asup.dcn.sync.success
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the AutoSupport configurations in the ONTAP cluster have successfully propagated to the Data Compute nodes and the AI Data Engine cluster after a previous failure.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+AutoSupport configurations successfully propagated to Data Compute nodes and AI Data Engine cluster.
+*Parameters*::
+(None).
