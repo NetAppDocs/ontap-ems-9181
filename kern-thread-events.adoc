@@ -1,0 +1,32 @@
+---
+sidebar: sidebar
+permalink: kern-thread-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: kern.thread events
+---
+
+= kern.thread events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== kern.thread.alloc.limit
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when a thread creation has the system close to the maximum limit for the number of threads. The system's SK and BSD thread counts and limits are included as part of this message.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Thread creation by "%s" resulted in %d SK threads and %d BSD threads on this system. The high watermark for thread count on this system is %d. The system's SK thread limit is %d, BSD thread limit is %d.
+*Parameters*::
+*process_name* (STRING): Name of the process performing the thread creation.
+*sk_proc_count* (INT): Current number of SK threads in the system.
+*bsd_thread_count* (INT): Current number of BSD threads in the system.
+*thread_count_highmark* (INT): High watermark of thread count in the system, including both BSD and SK threads.
+*sk_proc_max_limit* (INT): Maximum number of SK threads allowed by the system.
+*bsd_thread_max_limit* (INT): Maximum number of BSD threads allowed by the system.

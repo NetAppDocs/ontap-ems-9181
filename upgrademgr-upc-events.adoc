@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: upgrademgr-upc-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: upgrademgr.upc events
+---
+
+= upgrademgr.upc events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== upgrademgr.upc.skip
+*Severity*::
+NOTICE
+*Description*::
+This message appears when the update preparedness job skips all update preparedness checks because an automated nondisruptive upgrade (ANDU) is currently in progress.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Skipping this upgrade preparedness check job execution cycle because a cluster upgrade is currently in progress.
+*Parameters*::
+(None).

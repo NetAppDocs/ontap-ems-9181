@@ -1,0 +1,45 @@
+---
+sidebar: sidebar
+permalink: sk-long-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: sk.long events
+---
+
+= sk.long events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== sk.long.queued.msg
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when an SK process detects that a message has been queued longer than expected, as defined by an internal threshold. System features and performance are not affected.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+"%s" started processing a long queued message: "%s" queued %lu ms.
+*Parameters*::
+*procname* (STRING): The name of the SK process.
+*message_type* (STRING): The message type.
+*queue_time* (LONGINT): Message queued duration, in milliseconds.
+*threshold* (LONGINT): Message queued threshold, in milliseconds.
+
+== sk.long.running.msg
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when an SK process has finished processing a message that took longer than expected, as defined by an internal threshold.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+"%s" finished processing a long running message: "%s" took %lu ms.
+*Parameters*::
+*procname* (STRING): The name of the SK process.
+*message_type* (STRING): The message type.
+*duration* (LONGINT): Message processing duration, in milliseconds.
+*threshold* (LONGINT): Message processing threshold, in milliseconds.

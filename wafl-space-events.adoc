@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: wafl-space-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: wafl.space events
+---
+
+= wafl.space events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== wafl.space.balancing.op.hung
+*Severity*::
+ERROR
+*Description*::
+This message occurs when an internal error has occurred during a space balancing activity. Space balancing will not work as intended until the error is resolved.
+*Corrective Action*::
+Contact Contact NetApp technical support. for assistance.
+*Syslog Message*::
+A space balancing operation has hung on Storage Availability Zone "%s"
+*Parameters*::
+*spod_uuid* (STRING): Storage availability zone UUID which has a hung space balancing op

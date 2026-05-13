@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: flexcache-auto-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: flexcache.auto events
+---
+
+= flexcache.auto events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== flexcache.auto.cache.config.cleanup
+*Severity*::
+ALERT
+*Description*::
+This message occurs when a FlexCache(R) configuration is deleted automatically on the FlexCache Origin cluster as the config refresh operation failed due to the FlexCache volume being deleted.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+FlexCache configuration corresponding to FlexCache volume %s in Vserver with UUID %s on cluster with UUID %s has been deleted automatically as the config refresh operation failed due to the FlexCache volume being deleted. The FlexCache origin volume %s in Vserver with UUID %s has been cleaned up.
+*Parameters*::
+*cacheVolumeName* (STRING): Name of the FlexCache volume.
+*cacheVserverUuid* (STRING): Universal unique identifier (UUID) of the storage virtual machine (SVM) hosting the FlexCache volume.
+*cacheClusterUuid* (STRING): UUID of the cluster hosting the FlexCache volume.
+*originVolumeName* (STRING): Name of the FlexCache origin volume.
+*originVserverUuid* (STRING): Universal unique identifier (UUID) of the storage virtual machine (SVM) hosting the FlexCache origin volume.

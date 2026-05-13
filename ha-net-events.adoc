@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: ha-net-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: ha.net events
+---
+
+= ha.net events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== ha.net.sec.disabled
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when HA network security is disabled.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+HA network security has been disabled.
+*Parameters*::
+(None).

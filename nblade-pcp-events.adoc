@@ -1,0 +1,42 @@
+---
+sidebar: sidebar
+permalink: nblade-pcp-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: nblade.pcp events
+---
+
+= nblade.pcp events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== Nblade.pcp.linkThrashing
+*Severity*::
+INFORMATIONAL
+*Description*::
+This message occurs when a network port undergoes multiple link state transitions within a short period of time. The event might be triggered in response to a rapid sequence of switch events or there might be a bad link.
+*Corrective Action*::
+If this problem persists, check the physical connections between the affected port and its network switch. You can identify the faulty port by reviewing the event log for link state transitions reported by the NIC. One or more ports should have reported multiple linkUp and linkDown events prior to the linkThrashing message. ::> event log show -node <node> -messagename netif.link* If checking physical connections does not identify the problem, consider replacing the corresponding NIC.
+*Syslog Message*::
+Link thrashing detected on port %u.
+*Parameters*::
+*port* (INT): Port ID.
+
+== Nblade.pcp.rdma.connReject
+*Severity*::
+ERROR
+*Description*::
+This message occurs when the system enters into RDMA Flow Control. Under this state, the system does not have enough resources to support new connections, therefore incoming connection requests are rejected. Once enough execution contexts become available, new connection requests will be serviced.
+*Corrective Action*::
+The system will keep rejecting new RDMA connection requests until the availability of resources improves with existing ongoing RDMA connections closing. Use the (privilege: advanced) "statistics show -object rpc_rdma -node [node-name] -raw true" command to follow the current node state. Wait until some connections release some resources. For further assistance, contact NetApp technical support.
+*Syslog Message*::
+Rejected RDMA connection request from "%s:%d" on SVM "%d" at lif "%d" due to low resource availability.
+*Parameters*::
+*rAddr* (STRING): Remote IP address rejected.
+*rAddrPort* (INT): Port on the remote rejected.
+*svmId* (INT): ID of the SVM.
+*lifId* (INT): ID of the Lif.

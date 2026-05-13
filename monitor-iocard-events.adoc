@@ -1,0 +1,63 @@
+---
+sidebar: sidebar
+permalink: monitor-iocard-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: monitor.iocard events
+---
+
+= monitor.iocard events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== monitor.ioCard.degraded
+*Severity*::
+ALERT
+*Description*::
+This message indicates that an I/O card is degraded.
+*Corrective Action*::
+Exchange or replace the card with a known good card in the same I/O slot. If the problem persists, contact NetApp technical support for replacement assistance.
+*Syslog Message*::
+IO card is degraded: %s
+*Parameters*::
+*reasonText* (STRING): Slot number of the card and the reason the card is degraded.
+
+== monitor.ioCard.ok
+*Severity*::
+NOTICE
+*Description*::
+This message indicates that an I/O card is operating properly.
+*Corrective Action*::
+None.
+*Syslog Message*::
+IO card on slot %d is OK
+*Parameters*::
+*slot_number* (INT): Slot number of the card.
+
+== monitor.ioCard.sfp.noTemp
+*Severity*::
+ERROR
+*Description*::
+This message occurs when an optical transceiver or cable connected to the I/O module does not report an internal temperature reading. The transceiver or cable might not include a temperature sensor or the sensor is not currently readable. The system's environmental policy will not be able to regulate cooling for this hardware component via system fan speed changes.
+*Corrective Action*::
+If possible, exchange or replace the transceiver with one that includes a temperature sensor.
+*Syslog Message*::
+Optical transceiver or cable does not support an internal temperature sensor. Sensor: %s.
+*Parameters*::
+*sensor* (STRING): Sensor ID of the optical transceiver.
+
+== monitor.ioCard.temp.timeout
+*Severity*::
+ERROR
+*Description*::
+This message occurs when a timeout occurs while reading the temperature of an I/O card. I/O card temperature-based policies are temporarily disabled. Normal operation will resume once the reading of I/O card temperatures is successful.
+*Corrective Action*::
+Contact NetApp technical support.
+*Syslog Message*::
+Timeout while reading temperature of I/O card in slot %d.
+*Parameters*::
+*slot* (INT): Slot Number of the I/O card.

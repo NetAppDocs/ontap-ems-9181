@@ -1,0 +1,61 @@
+---
+sidebar: sidebar
+permalink: bucket-snapshot-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: bucket.snapshot events
+---
+
+= bucket.snapshot events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== bucket.snapshot.restore.complete
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the object server completes a snapshot restore operation.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Bucket snapshot restore completed [jobid %s]. S3 bucket "%s" in SVM "%s" has been restored to snapshot "%s".
+*Parameters*::
+*jobId* (STRING): Job ID.
+*bucketName* (STRING): Bucket name.
+*vserverName* (STRING): Vserver name.
+*snapshotName* (STRING): Snapshot name.
+
+== bucket.snapshot.restore.fail
+*Severity*::
+ALERT
+*Description*::
+This message occurs when the object server fails a snapshot restore operation. The bucket may remain paused. When a bucket is paused, I/O operations from clients will fail.
+*Corrective Action*::
+Contact NetApp technical support.
+*Syslog Message*::
+Bucket snapshot restore failed [jobid %s]. S3 bucket "%s" in SVM "%s" could not be restored to snapshot "%s". Reason: %s.
+*Parameters*::
+*jobId* (STRING): Job ID.
+*bucketName* (STRING): Bucket name.
+*vserverName* (STRING): Vserver name.
+*snapshotName* (STRING): Snapshot name.
+*error* (STRING): Error message.
+
+== bucket.snapshot.restore.start
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the object server starts a snapshot restore operation.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Bucket snapshot restore started [jobid %s]. S3 bucket "%s" in SVM "%s" will be restored to snapshot "%s".
+*Parameters*::
+*jobId* (STRING): Job ID.
+*bucketName* (STRING): Bucket name.
+*vserverName* (STRING): Vserver name.
+*snapshotName* (STRING): Snapshot name.

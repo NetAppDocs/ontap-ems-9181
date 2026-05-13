@@ -1,0 +1,29 @@
+---
+sidebar: sidebar
+permalink: lmgr-clients-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: lmgr.clients events
+---
+
+= lmgr.clients events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== lmgr.clients.st.limit.hit
+*Severity*::
+ERROR
+*Description*::
+This message occurs when the number of NFSv4 clients reaches the max limit of available per client object allocations, thereby prohibiting allocations for any new NFSv4 clients. This possibly happens due to system being overloaded. Client objects are used to efficiently keep track of all the locks per client.
+*Corrective Action*::
+The per client lcs objects are introduced as part of NFSV4 session trunking. If you do not intend to use session trunking, disable it using "nfs modify -v4.1-trunking disabled" command. Use the "statistics show -raw true -object lmgr_ng" command for displaying all lock manager resource counters. Use the "statistics show -raw true -object lmgr_ng -instance <node-name>" command for displaying the lock manager statistics for a node's limit pool. Use the "statistics show -raw true -object lmgr_ng -node <node-name>" command for displaying all lock manager statistics on the specified node.
+*Syslog Message*::
+The number of NFSV4 clients %u has reached the limit %u, exhausting the client objects available for allocation for the pool %s.
+*Parameters*::
+*clients_st_total* (INT): Number of session trunking capable clients in total in the pool.
+*clients_st_limit* (INT): Max supported limit for the session trunking capable clients in the pool.
+*pool_name* (STRING): Name of the limit pool.

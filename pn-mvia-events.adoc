@@ -1,0 +1,67 @@
+---
+sidebar: sidebar
+permalink: pn-mvia-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: pn.mvia events
+---
+
+= pn.mvia events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== pn.mvia.driver.rtt.high
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the round-trip-time (RTT) measured in pass-through network layer exceeds predefined threshold.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+The Ping RTT %d microseconds exceeded the predefined Ping RTT threshold %d microseconds. Average Ping RTT: %d microseconds. ARP RTT: %d microseconds.
+*Parameters*::
+*ping_rtt* (INT): Ping RTT in microseconds.
+*ping_rtt_threshold* (INT): The ping RTT threshold.
+*ping_rtt_avg* (INT): Lifetime average of ping RTT.
+*arp_rtt* (INT): Address Resolution Protocol (ARP) RTT in microseconds.
+
+== pn.mvia.freeq.empty
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the pass-through network layer depletes its supply of buffers for sending traffic, which could cause an Interconnect timeout.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Pass-through network layer free queue empty for %d msecs, which might cause Interconnect timeout.
+*Parameters*::
+*time* (INT): Duration of depletion in msecs.
+
+== pn.mvia.nic.reset
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the passthrough network layer detects network interface card (NIC) state change caused by an NIC reset.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Passthrough network layer detected NIC %s has changed its operational state. New state: %s.
+*Parameters*::
+*nic_name* (STRING): NIC name.
+*nic_state_change* (STRING): NIC state change.
+
+== pn.mvia.send.starvation
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the pass-through network layer takes too long to execute the logic for sending traffic, which could cause an Interconnect timeout.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Pass-through network layer "send" thread not run for %d msecs, which might cause Interconnect timeout.
+*Parameters*::
+*time* (INT): How long the pass-through network layer has not executed the logic for sending traffic.

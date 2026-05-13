@@ -1,0 +1,30 @@
+---
+sidebar: sidebar
+permalink: wafl-log-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: wafl.log events
+---
+
+= wafl.log events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== wafl.log.languish.messages
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when WAFL reports suspended messages that have been languishing for more than 30 seconds (represented by the macro MAX_SUSP_TIME_REPORT_THRESHOLD).
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Message of type: %s has been in the suspended state for %lu seconds. Reason for suspension: %s. Message address: 0x%llx.
+*Parameters*::
+*message_type* (STRING): Message type.
+*suspended_time* (LONGINT): Suspended time of a message.
+*reason* (STRING): Reason of message suspension.
+*address* (PTR): Address of the suspended message.

@@ -1,0 +1,57 @@
+---
+sidebar: sidebar
+permalink: flexcache-svmdr-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: flexcache.svmdr events
+---
+
+= flexcache.svmdr events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== flexcache.svmdr.ecv.warn
+*Severity*::
+ERROR
+*Description*::
+This message occurs when FlexCache volumes residing on a cluster are not notified about origin vserver going through SVMDR FO/FB events because ECV of FlexCache cluster is less than 9.18.1.
+*Corrective Action*::
+Update the cluster version of %s to 9.18.1 or above.
+*Syslog Message*::
+ECV of FlexCache cluster(%s) is not eligible to receive notifications related to origin vserver %s going through SVMDR FO/FB events.
+*Parameters*::
+*clusterName* (STRING): Name of the cluster hosting the FlexCache volume.
+*originVserver* (STRING): Name of the Origin Vserver.
+
+== flexcache.svmdr.notification.clus.failed
+*Severity*::
+ERROR
+*Description*::
+This message occurs when FlexCache volumes residing on a cluster are not notified about origin vserver going through SVMDR FO/FB events.
+*Corrective Action*::
+Use the 'volume flexcache origin svmdr-origin-refresh' command to update the origin details for given FlexCache vserver and FlexCache volume.
+*Syslog Message*::
+FlexCache SVM_DR notification call has failed for FlexCache cluster %s, Origin Vserver:%s. Error: %s.
+*Parameters*::
+*clusterName* (STRING): Name of the cluster hosting the FlexCache volume.
+*originVserver* (STRING): Name of the Origin Vserver.
+*errorString* (STRING): Error string.
+
+== flexcache.svmdr.notification.failed
+*Severity*::
+ERROR
+*Description*::
+This error message occurs when the SVM-DR operation for the FlexCache volume fails.
+*Corrective Action*::
+Use the 'volume flexcache origin svmdr-origin-refresh' command to update the origin details for given FlexCache vserver and FlexCache volume.
+*Syslog Message*::
+FlexCache SVM_DR notification call has failed for FlexCache cluster %s, FlexCache Vserver:%s, FlexCache Volume:%s. Error: %s.
+*Parameters*::
+*clusterName* (STRING): Name of the cluster hosting the FlexCache volume.
+*cacheVserver* (STRING): Name of the Vserver hosting the FlexCache volume.
+*cacheVolName* (STRING): Name of the FlexCache volume.
+*errorString* (STRING): Error string.

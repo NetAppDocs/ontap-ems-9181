@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: rri-retry-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: rri.retry events
+---
+
+= rri.retry events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== rri.retry.inode
+*Severity*::
+ERROR
+*Description*::
+This event is issued to indicate that flexaggr RRI inode has been requeued back to the queue in event of any failure.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+RRI operation will be retried on flexaggr %s.
+*Parameters*::
+*flexaggr* (STRING): Name of Flexaggr.
