@@ -26,6 +26,21 @@ Link thrashing detected on port %u.
 *Parameters*::
 *port* (INT): Port ID.
 
+== Nblade.pcp.rdma.connDrop
+*Severity*::
+ERROR
+*Description*::
+This message occurs when an NFS connection over Remote Direct Memory Access (RDMA) drops due to an error.
+*Corrective Action*::
+The system drops the connection when errors occur. The error might be due to incorrect configuration or resource exhaustion. For further assistance, contact NetApp technical support.
+*Syslog Message*::
+Dropping RDMA connection request from "%s:%d" on SVM "%d" at LIF "%d" due to an error.
+*Parameters*::
+*rAddr* (STRING): Remote IP address that disconnects.
+*rAddrPort* (INT): Port on the remote system that disconnects.
+*svmId* (INT): ID of the storage virtual machine (SVM).
+*lifId* (INT): ID of the LIF.
+
 == Nblade.pcp.rdma.connReject
 *Severity*::
 ERROR

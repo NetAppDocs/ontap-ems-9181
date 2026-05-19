@@ -1,0 +1,29 @@
+---
+sidebar: sidebar
+permalink: de-mongodb-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: de.mongodb events
+---
+
+= de.mongodb events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== de.mongodb.health.failed
+*Severity*::
+ERROR
+*Description*::
+This message occurs when MongoDB health degrades within the AI Data Engine (AIDE) cluster, impacting shard integrity, replica set consistency, and config server availability, resulting in metadata access failures and disruption of Metadata Engine services.
+*Corrective Action*::
+Contact NetApp technical support.
+*Syslog Message*::
+MongoDB health check failed. Standalone Replica Set Status: %s, Sharded Replica Set Status: %s.
+*Parameters*::
+*standaloneReplicaSetStatus* (STRING): Standalone MongoDB instance status (ReplicaSetStatus)
+*shardedReplicaSetStatus* (STRING): Sharded MongoDB instance status (ShardStatus + ReplicaSetStatus)
+*FailureReasons* (STRING): Detailed JSON capturing the state of the Mongo DB and each shard and replica etc., identified by their name and their health status.

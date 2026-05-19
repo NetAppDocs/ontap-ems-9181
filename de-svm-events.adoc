@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: de-svm-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: de.svm events
+---
+
+= de.svm events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== de.svm.inaccessible
+*Severity*::
+ERROR
+*Description*::
+This message occurs when an SVM (storage virtual machine) becomes inaccessible within the AI Data Engine (AIDE) cluster hindering scan, checks and updates on AIDE data.
+*Corrective Action*::
+Verify NFS is enabled on the SVM with the command "vserver nfs show -vserver svm_name".If not, use "vserver nfs create -vserver svm_name -v3 enabled -v4.0 enabled".
+*Syslog Message*::
+SVM %s with path %s is not accessible.
+*Parameters*::
+*svmID* (STRING): ID of the SVM.
+*svmPath* (STRING): Path of the SVM.

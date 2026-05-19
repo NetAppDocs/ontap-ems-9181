@@ -1,0 +1,39 @@
+---
+sidebar: sidebar
+permalink: license-de-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: license.de events
+---
+
+= license.de events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== license.de.sync.success
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the licensing information in the ONTAP cluster has successfully propagated to the AI Data Engine cluster after a previous failure.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Licensing information successfully propagated to AI Data Engine cluster.
+*Parameters*::
+(None).
+
+== license.de.sync.unsuccessful
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the licensing information in the ONTAP cluster fails to propagate to the AI Data Engine cluster. The system will automatically retry the propagation in the background until it succeeds.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Licensing information failed to propagate to AI Data Engine cluster. Error: %s
+*Parameters*::
+*FailureReason* (STRING): Sync failure reason.

@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: dense-rri-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: dense.rri events
+---
+
+= dense.rri events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== dense.rri.wait.for.free.file.timedout
+*Severity*::
+ERROR
+*Description*::
+This message occurs when WAFL message corresponding to volume level dedupe or cross volume dedupe is timed out while waiting for the Remote Refcount Increment on volume.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Message is timed out while waiting for the Remote Refcount Increment on volume "%s".
+*Parameters*::
+*vol* (STRING): Volume name.
+*msg* (STRING): WAFL Message name

@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: dcn-service-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: dcn.service events
+---
+
+= dcn.service events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== dcn.service.failure
+*Severity*::
+ERROR
+*Description*::
+This message occurs when a service has failed on the Data Compute Node (DCN). The impacts of this range from inconsequential to critical, such as being unable to join or rejoin the AIDE cluster.
+*Corrective Action*::
+No action required if the system is healthy and participating in the AIDE cluster. If the DCN node is reachable, run the 'systemctl status' command to get the current status of the failed service. If the DCN node becomes unreachable, restart or power-cycle the the system. If the problem persists, contact Contact NetApp technical support..
+*Syslog Message*::
+The Data Compute Node: %s, with serial number: %s, and system-id: %s, has service: %s in a failed state. Status: %s
+*Parameters*::
+*nodeName* (STRING): Name of the DCN node.
+*nodeSerial* (STRING): Serial number of the DCN node.
+*nodeSystemID* (STRING): System-id of the DCN node.
+*systemdUnit* (STRING): Systemd service in a failed state.
+*systemctlStatus* (STRING): Output of 'systemctl status' from the service in a failed state.
