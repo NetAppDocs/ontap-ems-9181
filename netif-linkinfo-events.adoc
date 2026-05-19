@@ -16,7 +16,7 @@ summary: netif.linkinfo events
 
 == netif.linkInfo
 *Severity*::
-INFORMATIONAL
+NOTICE
 *Description*::
 This message occurs when a network interface is reset by the software or is configured down by the administrator.
 *Corrective Action*::

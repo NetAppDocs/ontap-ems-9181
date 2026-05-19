@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: de-dsai-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: de.dsai events
+---
+
+= de.dsai events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== de.dsai.service.startup.fail
+*Severity*::
+ERROR
+*Description*::
+This message occurs when there is an error starting up Data Services for AI. In this state, some or all of the functionality related to classification and guardrails is impacted. However, the basic AI Data Engine functionality continues to work normally.
+*Corrective Action*::
+Contact NetApp technical support.
+*Syslog Message*::
+Failed to start Data Services.
+*Parameters*::
+(None).

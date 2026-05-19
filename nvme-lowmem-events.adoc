@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: nvme-lowmem-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: nvme.lowmem events
+---
+
+= nvme.lowmem events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== nvme.lowmem.ec.disabled
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when EC is disabled on low memory cloud instance types. EC is disabled to reduce system memory usage.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+EC caching is disabled due to low physical memory. Memory size is %llu bytes.
+*Parameters*::
+*memory* (LONGINT): Physical memory size.

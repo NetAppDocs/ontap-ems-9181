@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: de-volume-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: de.volume events
+---
+
+= de.volume events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== de.volume.inaccessible
+*Severity*::
+ERROR
+*Description*::
+This message occurs when a volume is inaccessible within the AI Data Engine (AIDE) cluster, hindering access to entities (files) and preventing retrieval-augmented generation (RAG) queries on the data contained within these entities.
+*Corrective Action*::
+Verify volume is online with command "volume show -vserver svm_name -volume volumen_name -fields state" and verify NFS access is configured.If not , use "volume online -vserver svm_name -volume volume_name".
+*Syslog Message*::
+Volume %s is not accessible on SVM %s.
+*Parameters*::
+*volumePath* (STRING): Path of the volume.
+*svmID* (STRING): ID of the SVM.

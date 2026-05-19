@@ -1,0 +1,30 @@
+---
+sidebar: sidebar
+permalink: callhome-dcn-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: callhome.dcn events
+---
+
+= callhome.dcn events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== callhome.dcn.error
+*Severity*::
+ERROR
+*Description*::
+This message occurs when a Data Compute Node (DCN) encounters a problem. If your system is configured to do so, it generates and transmits an AutoSupport (or 'call home') message to NetApp technical support and to the configured destinations. Successful delivery of an AutoSupport message significantly improves problem determination and resolution.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+Callhome for (%s) on DCN: %s
+*Parameters*::
+*subject* (STRING): AutoSupport subject or title for this event.
+*nodeName* (STRING): DCN name.
+*nodeSerial* (STRING): Serial number of the DCN.
+*nodeSystemID* (STRING): System ID of the DCN.
