@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: de-node-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: de.node events
+---
+
+= de.node events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== de.node.unreachable
+*Severity*::
+ERROR
+*Description*::
+This message occurs when the AIDE cluster loses communication with one of its Data Compute Nodes (DCN). In this state, the AIDE cluster remains operational but with reduced capacity and resources, which can impact workload performance and overall efficiency until the node is restored.
+*Corrective Action*::
+To resolve the issue, verify the node status by running kubectl describe node <node-name> or reviewing k8s-nodes.yaml in the support bundle for conditions such as MemoryPressure, DiskPressure, PIDPressure, or NetworkUnavailable. Ensure the node physical power is on and operational, and check that cluster and management network links are connected with correct switch configurations. If the problem persists, Contact NetApp technical support.
+*Syslog Message*::
+The Data Compute Node %s is unreachable in the AIDE Cluster.
+*Parameters*::
+*nodeName* (STRING): Name of the unreachable node in the AIDE Cluster.

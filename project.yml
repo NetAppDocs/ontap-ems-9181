@@ -482,6 +482,8 @@ sidebar:
       url: /callhome-data-events.html
     - title: callhome.dbs events
       url: /callhome-dbs-events.html
+    - title: callhome.dcn events
+      url: /callhome-dcn-events.html
     - title: callhome.device events
       url: /callhome-device-events.html
     - title: callhome.disk events
@@ -1272,6 +1274,8 @@ sidebar:
     entries:
     - title: dcn.callhome events
       url: /dcn-callhome-events.html
+    - title: dcn.service events
+      url: /dcn-service-events.html
   - title: dcs events
     entries:
     - title: dcs.framework events
@@ -1280,12 +1284,26 @@ sidebar:
     entries:
     - title: de.callhome events
       url: /de-callhome-events.html
+    - title: de.dsai events
+      url: /de-dsai-events.html
     - title: de.job events
       url: /de-job-events.html
+    - title: de.mongodb events
+      url: /de-mongodb-events.html
+    - title: de.node events
+      url: /de-node-events.html
     - title: de.pod events
       url: /de-pod-events.html
     - title: de.storage events
       url: /de-storage-events.html
+    - title: de.svm events
+      url: /de-svm-events.html
+    - title: de.volume events
+      url: /de-volume-events.html
+  - title: dense events
+    entries:
+    - title: dense.rri events
+      url: /dense-rri-events.html
   - title: dev events
     entries:
     - title: dev.driver events
@@ -1758,6 +1776,8 @@ sidebar:
       url: /extcache-disabled-events.html
     - title: extcache.enabled events
       url: /extcache-enabled-events.html
+    - title: extcache.fal events
+      url: /extcache-fal-events.html
     - title: extcache.io events
       url: /extcache-io-events.html
     - title: extcache.offline events
@@ -2312,6 +2332,8 @@ sidebar:
       url: /kern-syslogd-events.html
     - title: kern.thread events
       url: /kern-thread-events.html
+    - title: kern.time events
+      url: /kern-time-events.html
     - title: kern.timezone events
       url: /kern-timezone-events.html
     - title: kern.uptime events
@@ -2398,6 +2420,8 @@ sidebar:
       url: /license-cert-events.html
     - title: license.check events
       url: /license-check-events.html
+    - title: license.de events
+      url: /license-de-events.html
     - title: license.feat events
       url: /license-feat-events.html
     - title: license.fpool events
@@ -3444,6 +3468,8 @@ sidebar:
       url: /nvme-fw-events.html
     - title: nvme.link events
       url: /nvme-link-events.html
+    - title: nvme.lowmem events
+      url: /nvme-lowmem-events.html
     - title: nvme.ssd events
       url: /nvme-ssd-events.html
     - title: nvme.subsystem events
@@ -5218,6 +5244,10 @@ sidebar:
       url: /telnet-socket-events.html
     - title: telnet.threadcreate events
       url: /telnet-threadcreate-events.html
+  - title: time events
+    entries:
+    - title: time.stamp events
+      url: /time-stamp-events.html
   - title: tls events
     entries:
     - title: tls.insecure events

@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: extcache-fal-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: extcache.fal events
+---
+
+= extcache.fal events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== extCache.fal.offline
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when the external cache is informed that the Flash Adaptation Layer (FAL) has been taken offline. As a result, caching operations that rely on the external cache might be suspended, which may impact system performance.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+external cache has been informed that FAL has been taken offline.
+*Parameters*::
+(None).
