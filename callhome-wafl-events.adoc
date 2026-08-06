@@ -15,7 +15,7 @@ summary: callhome.wafl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.wafl EMS events for inconsistent block user activity.
+callhome.wafl events are reported when this message occurs after a WAFL(R) check (wack) operation runs, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == callhome.wafl.check
 *Severity*::

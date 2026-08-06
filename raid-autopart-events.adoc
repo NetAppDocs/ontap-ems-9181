@@ -15,7 +15,7 @@ summary: raid.autopart events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.autopart EMS events for done paramsmodified activity.
+raid.autopart events are reported when auto-partitioning for root aggregate creation is disabled on a system, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.autoPart.disabled
 *Severity*::

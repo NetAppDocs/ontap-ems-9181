@@ -15,7 +15,7 @@ summary: dfu.firmwaredownrev events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.firmwaredownrev EMS events, which report when the system finds disks with a downrev version of firmware, as defined by the installed version of Data ONTAP(R).
+dfu.firmwaredownrev events are reported when the system finds disks with a downrev version of firmware, as defined by the installed version of Data ONTAP(R), and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.firmwareDownrev
 *Severity*::

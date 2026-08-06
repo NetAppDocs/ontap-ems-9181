@@ -15,7 +15,7 @@ summary: exports.nsdb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about exports.nsdb EMS events, which report when a user string cannot be mapped to a user id when evaluating the "-anon" portion of an export-policy rule.
+exports.nsdb events are reported when a user string cannot be mapped to a user id when evaluating the "-anon" portion of an export-policy rule, and corrective actions typically involve following the documented corrective action guidance.
 
 == exports.nsdb.anonNameToId
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.svcpolicy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.svcpolicy EMS events for addsvc deprecated remsvc activity.
+vifmgr.svcpolicy events are reported when a service is added to a network interface service policy, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.svcPolicy.addSvc
 *Severity*::

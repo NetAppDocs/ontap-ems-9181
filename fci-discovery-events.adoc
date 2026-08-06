@@ -15,7 +15,7 @@ summary: fci.discovery events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fci.discovery EMS events, which report when the Fibre Channel adapter driver cannot complete device discovery within the specified time.
+fci.discovery events are reported when the Fibre Channel adapter driver cannot complete device discovery within the specified time, and corrective actions typically involve following the documented corrective action guidance.
 
 == fci.discovery.timeout
 *Severity*::

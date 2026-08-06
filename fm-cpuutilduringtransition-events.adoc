@@ -15,7 +15,7 @@ summary: fm.cpuutilduringtransition events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fm.cpuutilduringtransition EMS events, which report when This message occurs during various failover and aggregate mobility events, including start of a takeover, end of a successful takeover, start of root aggregate giveback, after completion of data aggregate giveback and completion of an aggregate relocation.
+fm.cpuutilduringtransition events are reported when this message occurs during various failover and aggregate mobility events, including start of a takeover, end of a successful takeover, start of root aggregate giveback, after completion of data aggregate giveback and completion of an aggregate relocation, and corrective actions typically involve following the documented corrective action guidance.
 
 == fm.cpuUtilDuringTransition
 *Severity*::

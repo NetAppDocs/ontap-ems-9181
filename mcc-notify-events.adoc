@@ -15,7 +15,7 @@ summary: mcc.notify events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.notify EMS events, which report when Failed to queue the "MetroCluster Auto Heal" job.
+mcc.notify events are reported when failed to queue the "MetroCluster Auto Heal" job, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.notify.auto_heal_queue_failure
 *Severity*::

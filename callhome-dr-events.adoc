@@ -15,7 +15,7 @@ summary: callhome.dr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.dr EMS events, which report when all attempts to replicate the configuration fails.
+callhome.dr events are reported when all attempts to replicate the configuration fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.dr.apply.failed
 *Severity*::

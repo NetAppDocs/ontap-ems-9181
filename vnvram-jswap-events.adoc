@@ -15,7 +15,7 @@ summary: vnvram.jswap events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vnvram.jswap EMS events for failure long mode activity.
+vnvram.jswap events are reported when this message occurs whenever a journal swap event takes place, and corrective actions typically involve following the documented corrective action guidance.
 
 == vnvram.jswap
 *Severity*::

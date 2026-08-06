@@ -15,7 +15,7 @@ summary: disk.vendorspecificcode events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.vendorspecificcode EMS events, which report when a disk returns a vendor-specific error.
+disk.vendorspecificcode events are reported when a disk returns a vendor-specific error, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.vendorSpecificCode
 *Severity*::

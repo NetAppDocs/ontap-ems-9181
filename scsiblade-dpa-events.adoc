@@ -15,7 +15,7 @@ summary: scsiblade.dpa events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.dpa EMS events, which report when the node loses connectivity with the majority of the cluster and the Data Plane Availability feature has been explicitly disabled by the user.
+scsiblade.dpa events are reported when the node loses connectivity with the majority of the cluster and the Data Plane Availability feature has been explicitly disabled by the user, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.dpa.disabled
 *Severity*::

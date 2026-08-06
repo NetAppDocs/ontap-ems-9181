@@ -15,7 +15,7 @@ summary: mgmt.cifsshare events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.cifsshare EMS events for duplicatesid failure activity.
+mgmt.cifsshare events are reported when a network client attempts to set a CIFS share's discretionary access control list (DACL) to a list where any security descriptor (SID) appears in more than one access control entry (ACE), and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.cifsshare.duplicatesid
 *Severity*::

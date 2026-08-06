@@ -15,7 +15,7 @@ summary: callhome.sm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.sm EMS events, which report when a break operation on a SnapMirror(R) relationship that is a part of VserverDR fails.
+callhome.sm events are reported when a break operation on a SnapMirror(R) relationship that is a part of VserverDR fails, and corrective actions typically involve contacting NetApp technical support.
 
 == callhome.sm.vsdr.break.fail
 *Severity*::

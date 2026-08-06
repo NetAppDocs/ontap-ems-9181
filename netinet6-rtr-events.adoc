@@ -15,7 +15,7 @@ summary: netinet6.rtr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netinet6.rtr EMS events for mtu invld mismth activity.
+netinet6.rtr events are reported when the Maximum Transmission Unit (MTU) size of the Router Advertisement (RA) message, sent from the specified source IPv6 address, is higher than the upper bound of the Link MTU, and corrective actions typically involve following the documented corrective action guidance.
 
 == netinet6.rtr.high.mtu
 *Severity*::

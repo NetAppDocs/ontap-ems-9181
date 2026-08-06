@@ -15,7 +15,7 @@ summary: km.kmip events
 :imagesdir: ./media/
 
 [.lead]
-Learn about km.kmip EMS events for key mismatch missing activity.
+km.kmip events are reported when this message occurs in a NetApp MetroCluster configuration where both peer clusters are configured with the external key manager on the admin Vserver, but the NSE-AK keys do not match between the local and remote clusters, and corrective actions typically involve contacting NetApp technical support.
 
 == km.kmip.key.mismatch
 *Severity*::

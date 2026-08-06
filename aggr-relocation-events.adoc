@@ -15,7 +15,7 @@ summary: aggr.relocation events
 :imagesdir: ./media/
 
 [.lead]
-Learn about aggr.relocation EMS events, which report when relocation of an aggregate fails.
+aggr.relocation events are reported when relocation of an aggregate fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == aggr.relocation.failed
 *Severity*::

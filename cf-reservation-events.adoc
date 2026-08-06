@@ -15,7 +15,7 @@ summary: cf.reservation events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.reservation EMS events, which report when the system does not halt on a disk reservation conflict and the reservation is not found on the disk.
+cf.reservation events are reported when the system does not halt on a disk reservation conflict and the reservation is not found on the disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.reservation.disk.notFound
 *Severity*::

@@ -15,7 +15,7 @@ summary: user.group events
 :imagesdir: ./media/
 
 [.lead]
-Learn about user.group EMS events for limit reaching activity.
+user.group events are reported when the number of UNIX users or groups in the cluster reaches or exceeds system limits, and corrective actions typically involve following the documented corrective action guidance.
 
 == user.group.limit.reached
 *Severity*::

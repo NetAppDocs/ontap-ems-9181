@@ -15,7 +15,7 @@ summary: callhome.sys events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.sys EMS events for crit activity.
+callhome.sys events are reported when the appliance has an unsupported PCI slot configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.sys.config
 *Severity*::

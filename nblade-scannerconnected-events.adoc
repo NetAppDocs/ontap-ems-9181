@@ -15,7 +15,7 @@ summary: nblade.scannerconnected events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.scannerconnected EMS events, which report when a Vserver connects successfully to a Vscan server.
+nblade.scannerconnected events are reported when a Vserver connects successfully to a Vscan server, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.scannerConnected
 *Severity*::

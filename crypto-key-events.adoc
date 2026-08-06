@@ -15,7 +15,7 @@ summary: crypto.key events
 :imagesdir: ./media/
 
 [.lead]
-Learn about crypto.key EMS events for stored activity.
+crypto.key events are reported when a cryptographic key is deleted, and corrective actions typically involve following the documented corrective action guidance.
 
 == crypto.key.deleted
 *Severity*::

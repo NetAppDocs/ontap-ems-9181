@@ -15,7 +15,7 @@ summary: nblade.vscanexcessivetos events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.vscanexcessivetos EMS events, which report when ONTAP logs excessive timed-out scanning events which are due to delays in scanning response from the virus scanning (Vscan) server.
+nblade.vscanexcessivetos events are reported when oNTAP logs excessive timed-out scanning events which are due to delays in scanning response from the virus scanning (Vscan) server, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.vscanExcessiveTOs
 *Severity*::

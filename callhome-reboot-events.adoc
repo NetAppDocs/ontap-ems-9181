@@ -15,7 +15,7 @@ summary: callhome.reboot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.reboot EMS events for halt reboot sk activity.
+callhome.reboot events are reported when this message occurs after an appliance reboot--the appliance reports this event after the reboot is complete, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.reboot
 *Severity*::

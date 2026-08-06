@@ -15,7 +15,7 @@ summary: root.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about root.vol EMS events for cluster autocreate corrupt activity.
+root.vol events are reported when system creates a root volume automatically, after a cluster reboot occurred before root volume creation, and corrective actions typically involve following the documented corrective action guidance.
 
 == root.vol.cluster.autocreate
 *Severity*::

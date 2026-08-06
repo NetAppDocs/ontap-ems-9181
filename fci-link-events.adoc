@@ -15,7 +15,7 @@ summary: fci.link events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fci.link EMS events for fw activity.
+fci.link events are reported when the Fibre Channel adapter detects a break in the link, and corrective actions typically involve following the documented corrective action guidance.
 
 == fci.link.break
 *Severity*::

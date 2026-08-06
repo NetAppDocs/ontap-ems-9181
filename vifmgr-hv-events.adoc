@@ -15,7 +15,7 @@ summary: vifmgr.hv events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.hv EMS events for nohostconfig nosnmpconfig nouplinkmapping activity.
+vifmgr.hv events are reported when no Hypervisor host configuration is available, and corrective actions typically involve verifying the reported configuration and health state.
 
 == vifmgr.hv.nohostconfig
 *Severity*::

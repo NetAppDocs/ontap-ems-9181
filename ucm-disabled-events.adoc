@@ -15,7 +15,7 @@ summary: ucm.disabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ucm.disabled EMS events, which report when the Unified Target Adapter reads an invalid mode from flash memory.
+ucm.disabled events are reported when the Unified Target Adapter reads an invalid mode from flash memory, and corrective actions typically involve contacting NetApp technical support.
 
 == ucm.disabled.slot
 *Severity*::

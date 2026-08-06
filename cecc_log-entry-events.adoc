@@ -15,7 +15,7 @@ summary: cecc_log.entry events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cecc_log.entry EMS events, which report when Correctable ECC errors occurred in the system memory.
+cecc_log.entry events are reported when correctable ECC errors occurred in the system memory, and corrective actions typically involve following the documented corrective action guidance.
 
 == cecc_log.entry
 *Severity*::

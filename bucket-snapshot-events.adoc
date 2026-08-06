@@ -15,7 +15,7 @@ summary: bucket.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about bucket.snapshot EMS events.
+bucket.snapshot events are reported when the object server completes a snapshot restore operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == bucket.snapshot.restore.complete
 *Severity*::

@@ -15,7 +15,7 @@ summary: sms.transition events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sms.transition EMS events, which report when a SnapMirror(R) initialize or resynchronize operation takes a long time to bring the relationship "in-sync" due to intermittent failure.
+sms.transition events are reported when a SnapMirror(R) initialize or resynchronize operation takes a long time to bring the relationship "in-sync" due to intermittent failure, and corrective actions typically involve following the documented corrective action guidance.
 
 == sms.transition.retry
 *Severity*::

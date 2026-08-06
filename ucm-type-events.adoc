@@ -15,7 +15,7 @@ summary: ucm.type events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ucm.type EMS events, which report when the user changes the FC-4 type on a configurable adapter.
+ucm.type events are reported when the user changes the FC-4 type on a configurable adapter, and corrective actions typically involve following the documented corrective action guidance.
 
 == ucm.type.changed
 *Severity*::

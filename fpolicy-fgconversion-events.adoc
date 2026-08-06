@@ -15,7 +15,7 @@ summary: fpolicy.fgconversion events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fpolicy.fgconversion EMS events, which report when a FlexVol(R) unmount notification is not sent to the FPolicy(tm) server during a FlexGroup conversion.
+fpolicy.fgconversion events are reported when a FlexVol(R) unmount notification is not sent to the FPolicy(tm) server during a FlexGroup conversion, and corrective actions typically involve following the documented corrective action guidance.
 
 == fpolicy.fgconversion.warning
 *Severity*::

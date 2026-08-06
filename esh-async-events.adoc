@@ -15,7 +15,7 @@ summary: esh.async events
 :imagesdir: ./media/
 
 [.lead]
-Learn about esh.async EMS events, which report when there is an error allocating memory for an asynchronous message during disk shelf discovery processing.
+esh.async events are reported when there is an error allocating memory for an asynchronous message during disk shelf discovery processing, and corrective actions typically involve following the documented corrective action guidance.
 
 == esh.async.error
 *Severity*::

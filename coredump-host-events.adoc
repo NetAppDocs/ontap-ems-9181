@@ -15,7 +15,7 @@ summary: coredump.host events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.host EMS events for spare none activity.
+coredump.host events are reported when no sparecore disk is found at boot/takeover time, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.host.spare.none
 *Severity*::

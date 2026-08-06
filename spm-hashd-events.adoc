@@ -15,7 +15,7 @@ summary: spm.hashd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.hashd EMS events, which report when the hashd server (hashd) involuntarily terminates.
+spm.hashd events are reported when the hashd server (hashd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.hashd.process.exit
 *Severity*::

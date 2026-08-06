@@ -15,7 +15,7 @@ summary: de.svm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about de.svm EMS events, which report when an SVM (storage virtual machine) becomes inaccessible within the AI Data Engine (AIDE) cluster hindering scan, checks and updates on AIDE data.
+de.svm events are reported when an SVM (storage virtual machine) becomes inaccessible within the AI Data Engine (AIDE) cluster hindering scan, checks and updates on AIDE data, and corrective actions typically involve verifying the reported configuration and health state.
 
 == de.svm.inaccessible
 *Severity*::

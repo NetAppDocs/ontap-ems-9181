@@ -15,7 +15,7 @@ summary: nvpm.extend events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvpm.extend EMS events, which report when nvlog client segments cannot be enabled in a partner NVRAM section following a controller failover or MetroCluster(R) switchover.
+nvpm.extend events are reported when nvlog client segments cannot be enabled in a partner NVRAM section following a controller failover or MetroCluster(R) switchover, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvpm.extend.failed
 *Severity*::

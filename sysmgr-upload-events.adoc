@@ -15,7 +15,7 @@ summary: sysmgr.upload events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sysmgr.upload EMS events for method type exists activity.
+sysmgr.upload events are reported when an attempt to upload a file through the System Manager web service fails because the HTTP method is not POST, and corrective actions typically involve following the documented corrective action guidance.
 
 == sysmgr.upload.bad.method
 *Severity*::

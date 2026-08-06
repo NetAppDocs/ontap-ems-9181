@@ -15,7 +15,7 @@ summary: cam.counters events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cam.counters EMS events, which report when a device goes away when collecting I/O statistics.
+cam.counters events are reported when a device goes away when collecting I/O statistics, and corrective actions typically involve following the documented corrective action guidance.
 
 == cam.counters.device.gone
 *Severity*::

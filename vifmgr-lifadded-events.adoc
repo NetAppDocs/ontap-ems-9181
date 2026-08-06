@@ -15,7 +15,7 @@ summary: vifmgr.lifadded events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.lifadded EMS events, which report when an administrator action causes a logical interface (LIF) IP address to be added.
+vifmgr.lifadded events are reported when an administrator action causes a logical interface (LIF) IP address to be added, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.lifadded.byadmin
 *Severity*::

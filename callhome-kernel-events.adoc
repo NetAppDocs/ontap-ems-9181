@@ -15,7 +15,7 @@ summary: callhome.kernel events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.kernel EMS events for core coreinfo activity.
+callhome.kernel events are reported when you invoke an AutoSupport for kernel coredump files, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.kernel.core
 *Deprecated*::

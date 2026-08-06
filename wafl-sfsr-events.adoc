@@ -15,7 +15,7 @@ summary: wafl.sfsr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.sfsr EMS events for ino inodeleted lun activity.
+wafl.sfsr events are reported when this event is issued when the system is forced to abort a file restore, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.sfsr.abort.ino
 *Severity*::

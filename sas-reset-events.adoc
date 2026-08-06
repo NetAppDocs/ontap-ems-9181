@@ -15,7 +15,7 @@ summary: sas.reset events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sas.reset EMS events for exp discovery resp activity.
+sas.reset events are reported when sAS adapter driver resets the expander because of failure status of discovery response, and corrective actions typically involve following the documented corrective action guidance.
 
 == sas.reset.exp.discovery.resp
 *Severity*::

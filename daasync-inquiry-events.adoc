@@ -15,7 +15,7 @@ summary: daasync.inquiry events
 :imagesdir: ./media/
 
 [.lead]
-Learn about daasync.inquiry EMS events, which report when the inquiry data of a target device changes.
+daasync.inquiry events are reported when the inquiry data of a target device changes, and corrective actions typically involve following the documented corrective action guidance.
 
 == daasync.inquiry.changed
 *Severity*::

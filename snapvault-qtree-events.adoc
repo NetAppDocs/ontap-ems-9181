@@ -15,7 +15,7 @@ summary: snapvault.qtree events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapvault.qtree EMS events for initiate notcoalesced upgradestatus activity.
+snapvault.qtree events are reported when snapVault(R) cannot start a volume-wide snapshot target to complete a manually invoked baseline transfer or resynchronizing transfer, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapvault.qtree.initiate
 *Severity*::

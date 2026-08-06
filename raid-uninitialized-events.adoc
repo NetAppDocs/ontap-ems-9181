@@ -15,7 +15,7 @@ summary: raid.uninitialized events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.uninitialized EMS events, which report when This message occurs periodically to warn the user that the aggregate has no RAID protection and that data loss can occur if a disk fails.
+raid.uninitialized events are reported when this message occurs periodically to warn the user that the aggregate has no RAID protection and that data loss can occur if a disk fails, and corrective actions typically involve contacting NetApp technical support.
 
 == raid.uninitialized.parity.vol
 *Severity*::

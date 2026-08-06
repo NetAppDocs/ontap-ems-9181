@@ -15,7 +15,7 @@ summary: disk.checksum events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.checksum EMS events for offlineadapter verifyfailed activity.
+disk.checksum events are reported when multiple errors are detected during checksum verification, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.checksum.offlineAdapter
 *Severity*::

@@ -15,7 +15,7 @@ summary: netgroup.ldap events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netgroup.ldap EMS events for byhost missing activity.
+netgroup.ldap events are reported when netgroup, and corrective actions typically involve following the documented corrective action guidance.
 
 == netgroup.ldap.byhost.missing
 *Severity*::

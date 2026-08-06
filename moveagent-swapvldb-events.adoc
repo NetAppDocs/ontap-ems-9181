@@ -15,7 +15,7 @@ summary: moveagent.swapvldb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about moveagent.swapvldb EMS events for sync activity.
+moveagent.swapvldb events are reported when a 'volume move' operation finishes moving the volume to the destination but fails to update the volume location database (VLDB), and corrective actions typically involve following the documented corrective action guidance.
 
 == moveagent.swapvldb.fail
 *Severity*::

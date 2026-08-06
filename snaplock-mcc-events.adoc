@@ -15,7 +15,7 @@ summary: snaplock.mcc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snaplock.mcc EMS events, which report when SnapLock legal-hold or event based retention operations are aborted during a MetroCluster Switchback or a MetroCluster Switchover operation.
+snaplock.mcc events are reported when snapLock legal-hold or event based retention operations are aborted during a MetroCluster Switchback or a MetroCluster Switchover operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == snaplock.mcc.veto.worm
 *Severity*::

@@ -15,7 +15,7 @@ summary: vserver.rootvolume events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.rootvolume EMS events for noinodes activity.
+vserver.rootvolume events are reported when there is no space left on Vserver root Volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == vserver.rootVolume.full
 *Severity*::

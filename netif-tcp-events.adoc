@@ -15,7 +15,7 @@ summary: netif.tcp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.tcp EMS events, which report when a bad checksum is detected in the incoming TCP packets.
+netif.tcp events are reported when a bad checksum is detected in the incoming TCP packets, and corrective actions typically involve following the documented corrective action guidance.
 
 == netif.tcp.conn.bad.checksum
 *Severity*::

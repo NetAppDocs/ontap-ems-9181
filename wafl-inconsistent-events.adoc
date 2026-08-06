@@ -15,7 +15,7 @@ summary: wafl.inconsistent events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.inconsistent EMS events for acl ino vol activity.
+wafl.inconsistent events are reported when the ONTAP(R) kernel detects an inconsistent WAFL(R) Access Control List (ACL) on disk, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.inconsistent.acl
 *Severity*::

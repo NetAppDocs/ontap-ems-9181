@@ -15,7 +15,7 @@ summary: sp.reboot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.reboot EMS events for ro partition sensor activity.
+sp.reboot events are reported when the node's Service Processor (SP) or Baseboard Management Controller (BMC) log partition is mounted as read-only after an internal error has occurred, and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.reboot.ro.partition
 *Severity*::

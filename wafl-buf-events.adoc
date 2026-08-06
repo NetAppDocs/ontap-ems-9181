@@ -15,7 +15,7 @@ summary: wafl.buf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.buf EMS events for badheader freeingfreeblock activity.
+wafl.buf events are reported when the system encounters a bad header in the snapshot of the active map block of the filesystem, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.buf.badHeader
 *Severity*::

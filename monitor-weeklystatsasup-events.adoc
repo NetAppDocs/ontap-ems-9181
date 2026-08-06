@@ -15,7 +15,7 @@ summary: monitor.weeklystatsasup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.weeklystatsasup EMS events, which report when weekly performance AutoSupport(tm) is disabled.
+monitor.weeklystatsasup events are reported when weekly performance AutoSupport(tm) is disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.weeklyStatsASUP.off
 *Severity*::

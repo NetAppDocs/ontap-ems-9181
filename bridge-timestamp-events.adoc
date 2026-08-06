@@ -15,7 +15,7 @@ summary: bridge.timestamp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about bridge.timestamp EMS events, which report when the max number of retries is exceeded when attempting to apply SCSI SET TIMESTAMP command on one or more attached FC-to-SAS bridges.
+bridge.timestamp events are reported when the max number of retries is exceeded when attempting to apply SCSI SET TIMESTAMP command on one or more attached FC-to-SAS bridges, and corrective actions typically involve following the documented corrective action guidance.
 
 == bridge.timestamp.noSync
 *Severity*::

@@ -15,7 +15,7 @@ summary: nvmens.destroy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmens.destroy EMS events, which report when an NVMe namespace has been destroyed.
+nvmens.destroy events are reported when an NVMe namespace has been destroyed, and corrective actions typically involve following the documented corrective action guidance.
 
 == NVMeNS.destroy
 *Severity*::

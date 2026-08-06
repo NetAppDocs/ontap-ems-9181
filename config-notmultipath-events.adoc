@@ -15,7 +15,7 @@ summary: config.notmultipath events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.notmultipath EMS events, which report when a disk is not multipathed.
+config.notmultipath events are reported when a disk is not multipathed, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.NotMultiPath
 *Severity*::

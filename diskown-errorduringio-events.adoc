@@ -15,7 +15,7 @@ summary: diskown.errorduringio events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.errorduringio EMS events, which report when This event is issued when an I/O error occurs during a sanown disk operation.
+diskown.errorduringio events are reported when this event is issued when an I/O error occurs during a sanown disk operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.errorDuringIO
 *Severity*::

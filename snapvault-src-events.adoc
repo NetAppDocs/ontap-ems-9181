@@ -15,7 +15,7 @@ summary: snapvault.src events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapvault.src EMS events for notenabled volume migrating activity.
+snapvault.src events are reported when a SnapVault(R) source appliance receives a transfer request when the service is not enabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapvault.src.notEnabled
 *Severity*::

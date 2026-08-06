@@ -15,7 +15,7 @@ summary: vserver.stop events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.stop EMS events for succeeded activity.
+vserver.stop events are reported when a 'vserver stop' operation fails due to failure to stop either a logical interface (LIF) or a protocol for the Vserver specified, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == vserver.stop.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: tape.config events
 :imagesdir: ./media/
 
 [.lead]
-Learn about tape.config EMS events for badkey badopt fmtchkfail activity.
+tape.config events are reported when the tape configuration file has a format error in a required parameter or is missing a required parameter, and corrective actions typically involve following the documented corrective action guidance.
 
 == tape.config.badKey
 *Severity*::

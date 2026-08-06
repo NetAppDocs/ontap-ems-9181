@@ -15,7 +15,7 @@ summary: mgmt.cifsserver events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.cifsserver EMS events for failure activity.
+mgmt.cifsserver events are reported when a CIFS server fails to be configured and, therefore, CIFS access might not be available, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == mgmt.cifsserver.failure
 *Severity*::

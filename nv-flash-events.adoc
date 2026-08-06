@@ -15,7 +15,7 @@ summary: nv.flash events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nv.flash EMS events for predict unable to activity.
+nv.flash events are reported when oNTAP(R) determines that failure is forthcoming or has occurred for the associated flash device on the nonvolatile memory (NVRAM) module, and corrective actions typically involve following the documented corrective action guidance.
 
 == nv.flash.predict.fail
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.lifsuccessfullymoved events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.lifsuccessfullymoved EMS events, which report when a logical interface (LIF) IP address was successfully moved to another node/port.
+vifmgr.lifsuccessfullymoved events are reported when a logical interface (LIF) IP address was successfully moved to another node/port, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.lifsuccessfullymoved
 *Severity*::

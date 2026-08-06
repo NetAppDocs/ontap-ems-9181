@@ -15,7 +15,7 @@ summary: monitor.chassispowersupply events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.chassispowersupply EMS events for degraded notpresent off activity.
+monitor.chassispowersupply events are reported when a power supply is degraded, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.chassisPowerSupply.degraded
 *Severity*::

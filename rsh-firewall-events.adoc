@@ -15,7 +15,7 @@ summary: rsh.firewall events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rsh.firewall EMS events, which report when rsh is automatically removed from firewall policies during a revert operation from Data ONTAP(R) 9.0 to 8.3.
+rsh.firewall events are reported when rsh is automatically removed from firewall policies during a revert operation from Data ONTAP(R) 9, and corrective actions typically involve following the documented corrective action guidance.
 
 == rsh.firewall.policy.remove
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.ifgrp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.ifgrp EMS events, which report when an interface group (ifgrp) is configured with an unsupported name.
+vifmgr.ifgrp events are reported when an interface group (ifgrp) is configured with an unsupported name, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.ifgrp.invalidname
 *Severity*::

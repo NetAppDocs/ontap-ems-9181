@@ -15,7 +15,7 @@ summary: hya.dup_vbn_lookup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about hya.dup_vbn_lookup EMS events for detail activity.
+hya.dup_vbn_lookup events are reported when this event is generated if we detect redundant lookups of a PVBN without an intervening suspend, and corrective actions typically involve following the documented corrective action guidance.
 
 == hya.dup_vbn_lookup
 *Severity*::

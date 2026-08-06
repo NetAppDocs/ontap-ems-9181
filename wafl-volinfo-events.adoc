@@ -15,7 +15,7 @@ summary: wafl.volinfo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.volinfo EMS events, which report when there is an error while reading the volinfo or fsinfo block of a volume.
+wafl.volinfo events are reported when there is an error while reading the volinfo or fsinfo block of a volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.volinfo.fsinfo.error
 *Severity*::

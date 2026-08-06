@@ -15,7 +15,7 @@ summary: qos.viodet events
 :imagesdir: ./media/
 
 [.lead]
-Learn about qos.viodet EMS events for maxthrottle mintput throttle activity.
+qos.viodet events are reported when the Quality of Service (QoS) subsystem has already throttled requests severely to help workloads meet their min-throughput and their service-level objectives (SLOs) and will not throttle any further, and corrective actions typically involve following the documented corrective action guidance.
 
 == qos.VioDet.maxThrottle
 *Severity*::

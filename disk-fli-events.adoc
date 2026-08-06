@@ -15,7 +15,7 @@ summary: disk.fli events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.fli EMS events for iosent iounsent tmf activity.
+disk.fli events are reported when an I/O operation below the SCSI layer is aborted because a Foreign LUN Import (FLI) abort message was issued, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.fli.abort.ioSent
 *Severity*::

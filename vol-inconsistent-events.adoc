@@ -15,7 +15,7 @@ summary: vol.inconsistent events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vol.inconsistent EMS events, which report when the "vol inconsistent" command is used to modify a volume's state.
+vol.inconsistent events are reported when the "vol inconsistent" command is used to modify a volume's state, and corrective actions typically involve following the documented corrective action guidance.
 
 == vol.inconsistent.modify
 *Severity*::

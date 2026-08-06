@@ -15,7 +15,7 @@ summary: fg.svmdr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.svmdr EMS events, which report when This message occurs during FlexGroup volume replication in an SVM DR setup when the available QoS workloads are insufficient on the secondary cluster.
+fg.svmdr events are reported when this message occurs during FlexGroup volume replication in an SVM DR setup when the available QoS workloads are insufficient on the secondary cluster, and corrective actions typically involve contacting NetApp technical support.
 
 == fg.svmdr.qos.wklds.insuff
 *Severity*::

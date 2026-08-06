@@ -15,7 +15,7 @@ summary: snapmirror.log events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapmirror.log EMS events for openerr unknownevent writeerr activity.
+snapmirror.log events are reported when this event is issued when an error is encountered when opening the SnapMirror log file for writing, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapmirror.log.openErr
 *Severity*::

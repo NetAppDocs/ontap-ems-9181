@@ -15,7 +15,7 @@ summary: arl.postmigrnotok events
 :imagesdir: ./media/
 
 [.lead]
-Learn about arl.postmigrnotok EMS events, which report when the specified subsystem encounters an error during the post-migration phase of the aggregate relocation (ARL) operation.
+arl.postmigrnotok events are reported when the specified subsystem encounters an error during the post-migration phase of the aggregate relocation (ARL) operation, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == arl.postMigrNotOk
 *Severity*::

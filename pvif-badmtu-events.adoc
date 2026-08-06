@@ -15,7 +15,7 @@ summary: pvif.badmtu events
 :imagesdir: ./media/
 
 [.lead]
-Learn about pvif.badmtu EMS events, which report when the interface group (ifgrp) driver fails to update the MTU size on a member port because it does not support the requested configuration.
+pvif.badmtu events are reported when the interface group (ifgrp) driver fails to update the MTU size on a member port because it does not support the requested configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == pvif.badMtu
 *Severity*::

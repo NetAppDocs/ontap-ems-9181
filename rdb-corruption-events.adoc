@@ -15,7 +15,7 @@ summary: rdb.corruption events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rdb.corruption EMS events, which report when the cluster management Data Replication Module determines that the node's local replica set is corrupted.
+rdb.corruption events are reported when the cluster management Data Replication Module determines that the node's local replica set is corrupted, and corrective actions typically involve following the documented corrective action guidance.
 
 == rdb.corruption.reported
 *Severity*::

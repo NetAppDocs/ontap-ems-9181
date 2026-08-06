@@ -15,7 +15,7 @@ summary: license.fpool events
 :imagesdir: ./media/
 
 [.lead]
-Learn about license.fpool EMS events for denied cloud unsupported activity.
+license.fpool events are reported when the maximum storage capacity limit for FabricPool is changed, and corrective actions typically involve following the documented corrective action guidance.
 
 == license.fpool.changed
 *Severity*::

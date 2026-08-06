@@ -15,7 +15,7 @@ summary: adt.cmdq events
 :imagesdir: ./media/
 
 [.lead]
-Learn about adt.cmdq EMS events, which report when an internal audit command queue fails to initialize.
+adt.cmdq events are reported when an internal audit command queue fails to initialize, and corrective actions typically involve restoring available system resources.
 
 == adt.cmdq.init.fail
 *Severity*::

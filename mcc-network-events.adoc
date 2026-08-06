@@ -15,7 +15,7 @@ summary: mcc.network events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.network EMS events, which report when a MetroCluster over IP configuration detects network congestion over the inter-cluster links (ISL) that connect sites and an action is taken to reduce further network congestion.
+mcc.network events are reported when a MetroCluster over IP configuration detects network congestion over the inter-cluster links (ISL) that connect sites and an action is taken to reduce further network congestion, and corrective actions typically involve verifying the reported configuration and health state.
 
 == mcc.network.congestion
 *Severity*::

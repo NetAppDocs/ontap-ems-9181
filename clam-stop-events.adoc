@@ -15,7 +15,7 @@ summary: clam.stop events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clam.stop EMS events, which report when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) has stopped polling the CLAM mailboxes.
+clam.stop events are reported when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) has stopped polling the CLAM mailboxes, and corrective actions typically involve following the documented corrective action guidance.
 
 == clam.stop.mailbox.polling
 *Severity*::

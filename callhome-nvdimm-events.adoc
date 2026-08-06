@@ -15,7 +15,7 @@ summary: callhome.nvdimm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.nvdimm EMS events for cecc failure activity.
+callhome.nvdimm events are reported when excessive correctable error-correcting code (ECC) memory errors are reported by the NVDIMM, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.nvdimm.cecc
 *Severity*::

@@ -15,7 +15,7 @@ summary: ucore.limits events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ucore.limits EMS events, which report when a userspace core is not dumped because system limits for this process are reached.
+ucore.limits events are reported when a userspace core is not dumped because system limits for this process are reached, and corrective actions typically involve contacting NetApp technical support.
 
 == ucore.limits.reached
 *Severity*::

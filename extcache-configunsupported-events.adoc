@@ -15,7 +15,7 @@ summary: extcache.configunsupported events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.configunsupported EMS events, which report when the controller contains an external cache hardware configuration that cannot be supported on the controller.
+extcache.configunsupported events are reported when the controller contains an external cache hardware configuration that cannot be supported on the controller, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.configUnsupported
 *Severity*::

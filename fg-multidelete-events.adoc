@@ -15,7 +15,7 @@ summary: fg.multidelete events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.multidelete EMS events, which report when a Snapshot copy in an invalid state is deleted from a FlexGroup volume.
+fg.multidelete events are reported when a Snapshot copy in an invalid state is deleted from a FlexGroup volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == fg.multidelete.inval.snapid
 *Severity*::

@@ -15,7 +15,7 @@ summary: raid.readerr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.readerr EMS events for lw ckinfo id activity.
+raid.readerr events are reported when the system detects an inconsistent RAID write signature, during a RAID error handling operation to log the on-disk RAID checksum information of the data block on the corresponding RAID stripe, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.readerr.lw.data.ckinfo
 *Severity*::

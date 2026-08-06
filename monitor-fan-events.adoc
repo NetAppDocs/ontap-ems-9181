@@ -15,7 +15,7 @@ summary: monitor.fan events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.fan EMS events for critical ok activity.
+monitor.fan events are reported when one or more main unit fans have failed, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.fan.critical
 *Severity*::

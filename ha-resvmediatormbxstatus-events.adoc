@@ -15,7 +15,7 @@ summary: ha.resvmediatormbxstatus events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.resvmediatormbxstatus EMS events, which report when the local node attempts to reserve a mailbox disk while trying to acquire the takeover lock as part of the takeover operation.
+ha.resvmediatormbxstatus events are reported when the local node attempts to reserve a mailbox disk while trying to acquire the takeover lock as part of the takeover operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.ResvMediatorMbxStatus
 *Severity*::

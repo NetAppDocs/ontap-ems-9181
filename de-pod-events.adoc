@@ -15,7 +15,7 @@ summary: de.pod events
 :imagesdir: ./media/
 
 [.lead]
-Learn about de.pod EMS events, which report when a Kubernetes pod in AI Data Engine (AIDE) enters CrashLoopBackOff state.
+de.pod events are reported when a Kubernetes pod in AI Data Engine (AIDE) enters CrashLoopBackOff state, and corrective actions typically involve contacting NetApp technical support.
 
 == de.pod.crashloopbackoff
 *Severity*::

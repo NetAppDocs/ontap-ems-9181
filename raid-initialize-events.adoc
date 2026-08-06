@@ -15,7 +15,7 @@ summary: raid.initialize events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.initialize EMS events, which report when a foreign or partner homed spare disk is detected during system initialization.
+raid.initialize events are reported when a foreign or partner homed spare disk is detected during system initialization, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.initialize.nonhomed.disk
 *Severity*::

@@ -15,7 +15,7 @@ summary: am.dest events
 :imagesdir: ./media/
 
 [.lead]
-Learn about am.dest EMS events, which report when Relocation of aggregates fails at the destination as we no longer accept aggregates from versions 8.2.0 or lower.
+am.dest events are reported when relocation of aggregates fails at the destination as we no longer accept aggregates from versions 8, and corrective actions typically involve following the documented corrective action guidance.
 
 == am.dest.check.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: km.cluster events
 :imagesdir: ./media/
 
 [.lead]
-Learn about km.cluster EMS events, which report when This message occurs in a MetroCluster(tm) configuration, when one or both clusters have been configured with the Onboard Key Manager, but one or both of the Onboard Key Manager key hierarchies are corrupted.
+km.cluster events are reported when this message occurs in a MetroCluster(tm) configuration, when one or both clusters have been configured with the Onboard Key Manager, but one or both of the Onboard Key Manager key hierarchies are corrupted, and corrective actions typically involve rebooting the node or cluster component.
 
 == km.cluster.okm.hierarchy.bad
 *Severity*::

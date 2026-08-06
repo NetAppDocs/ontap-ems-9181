@@ -15,7 +15,7 @@ summary: sfo.retrying events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfo.retrying EMS events, which report when automatic giveback of SFO aggregates is retried.
+sfo.retrying events are reported when automatic giveback of SFO aggregates is retried, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfo.retrying.autoGiveback
 *Severity*::

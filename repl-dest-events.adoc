@@ -15,7 +15,7 @@ summary: repl.dest events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.dest EMS events for css notsup space activity.
+repl.dest events are reported when replication Engine encounters CSS Upload Table in a snapshot, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.dest.css.upload.notsup
 *Severity*::

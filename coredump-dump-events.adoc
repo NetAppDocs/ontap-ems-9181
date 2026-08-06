@@ -15,7 +15,7 @@ summary: coredump.dump events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.dump EMS events for disk count find activity.
+coredump.dump events are reported when there is an unsaved core on the dump device, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.dump.abort
 *Severity*::

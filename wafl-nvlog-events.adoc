@@ -15,7 +15,7 @@ summary: wafl.nvlog events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.nvlog EMS events for stats createerror writeerror activity.
+wafl.nvlog events are reported when this event is issued to indicate that the system is unable to create nvlog stats file, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.nvlog.stats.createError
 *Severity*::

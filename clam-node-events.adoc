@@ -15,7 +15,7 @@ summary: clam.node events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clam.node EMS events for inq ooq voting activity.
+clam.node events are reported when the local Connectivity, Liveliness and Availability Monitor (CLAM) concludes that the local node is now disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == clam.node.disabled
 *Severity*::

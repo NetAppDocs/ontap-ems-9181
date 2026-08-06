@@ -15,7 +15,7 @@ summary: fabriclink.retry events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fabriclink.retry EMS events, which report when object replication encounters an error when attempting to contact a remote object store.
+fabriclink.retry events are reported when object replication encounters an error when attempting to contact a remote object store, and corrective actions typically involve following the documented corrective action guidance.
 
 == fabriclink.retry.delay
 *Severity*::

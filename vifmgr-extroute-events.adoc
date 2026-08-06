@@ -15,7 +15,7 @@ summary: vifmgr.extroute events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.extroute EMS events for addtable ipcreate ipdelete activity.
+vifmgr.extroute events are reported when a new external route table is added successfully, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.extRoute.addTable
 *Severity*::

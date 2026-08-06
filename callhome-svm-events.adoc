@@ -15,7 +15,7 @@ summary: callhome.svm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.svm EMS events for mig clean pause activity.
+callhome.svm events are reported when a Vserver migration failed to be aborted, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.svm.mig.abort.fail
 *Severity*::

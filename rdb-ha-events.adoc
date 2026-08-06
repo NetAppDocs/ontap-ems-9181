@@ -15,7 +15,7 @@ summary: rdb.ha events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rdb.ha EMS events for mbox noaccess mboxerror activity.
+rdb.ha events are reported when the management process goes online as the master under two-node 'cluster HA' failover, and corrective actions typically involve following the documented corrective action guidance.
 
 == rdb.ha.active
 *Severity*::

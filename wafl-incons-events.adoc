@@ -15,7 +15,7 @@ summary: wafl.incons events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.incons EMS events for compr metadata buf activity.
+wafl.incons events are reported when the WAFL(R) kernel detects inconsistent compression metadata for a compression group, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.incons.compr.metadata
 *Severity*::

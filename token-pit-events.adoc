@@ -15,7 +15,7 @@ summary: token.pit events
 :imagesdir: ./media/
 
 [.lead]
-Learn about token.pit EMS events for file info activity.
+token.pit events are reported when the token manager cannot create a PIT file in a volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == token.pit.file.create.info
 *Severity*::

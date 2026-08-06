@@ -15,7 +15,7 @@ summary: monitor.cpu events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.cpu EMS events for ok toobusy activity.
+monitor.cpu events are reported when the CPU busy situation is corrected, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.cpu.ok
 *Severity*::

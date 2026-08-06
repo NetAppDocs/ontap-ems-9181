@@ -15,7 +15,7 @@ summary: clam.takeover events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clam.takeover EMS events for disallowed activity.
+clam.takeover events are reported when the Kernel Cluster Services Connectivity, Liveliness, Availability Monitor (CLAM) triggers takeover of a partner node after determining that the local node is in "CLAM quorum" and the partner node is out of "CLAM quorum", and corrective actions typically involve following the documented corrective action guidance.
 
 == clam.takeover
 *Severity*::

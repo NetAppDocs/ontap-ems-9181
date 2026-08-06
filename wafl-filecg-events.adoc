@@ -15,7 +15,7 @@ summary: wafl.filecg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.filecg EMS events, which report when a volume with file-based compression(either secondary compression or 8k/16K/32K adaptive compression) have nominal size larger than 300TB.
+wafl.filecg events are reported when a volume with file-based compression(either secondary compression or 8k/16K/32K adaptive compression) have nominal size greater than 300TB, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.fileCG.vvol.size.exceeded
 *Severity*::

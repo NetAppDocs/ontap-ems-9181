@@ -15,7 +15,7 @@ summary: scsiblade.mgmt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.mgmt EMS events for evt lost mem activity.
+scsiblade.mgmt events are reported when a SAN management event is lost because the system could not allocate enough free memory, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.mgmt.evt.lost.mem
 *Severity*::

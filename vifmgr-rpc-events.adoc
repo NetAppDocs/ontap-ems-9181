@@ -15,7 +15,7 @@ summary: vifmgr.rpc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.rpc EMS events, which report when the virtual interface manager (vifmgr) is having trouble communicating with the packet and connection processing module of the network component.
+vifmgr.rpc events are reported when the virtual interface manager (vifmgr) is having trouble communicating with the packet and connection processing module of the network component, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.rpc.nblade.timeouts
 *Severity*::

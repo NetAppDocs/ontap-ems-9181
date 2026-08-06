@@ -15,7 +15,7 @@ summary: config.bridge events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.bridge EMS events for adapter extra fw activity.
+config.bridge events are reported when an FC-to-SAS bridge is attached to an unsupported FC adapter port, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.bridge.adapter.invalid
 *Severity*::

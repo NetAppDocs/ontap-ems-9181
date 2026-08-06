@@ -15,7 +15,7 @@ summary: nv.partner events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nv.partner EMS events for nvcheck failure size activity.
+nv.partner events are reported when checking the partner nonvolatile RAM (NVRAM) and the partner NVRAM is disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == nv.partner.disabled
 *Severity*::

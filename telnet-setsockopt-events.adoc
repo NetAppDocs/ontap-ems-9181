@@ -15,7 +15,7 @@ summary: telnet.setsockopt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about telnet.setsockopt EMS events, which report when setsockopt on telnet socket fails.
+telnet.setsockopt events are reported when setsockopt on telnet socket fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == telnet.setsockopt.failure
 *Severity*::

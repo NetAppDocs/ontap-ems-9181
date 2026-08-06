@@ -15,7 +15,7 @@ summary: vscan.newversion events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vscan.newversion EMS events, which report when the Vscan version mechanism allocates a new version-ID corresponding to the Vscan server version.
+vscan.newversion events are reported when the Vscan version mechanism allocates a new version-ID corresponding to the Vscan server version, and corrective actions typically involve following the documented corrective action guidance.
 
 == vscan.newVersion.allocated
 *Severity*::

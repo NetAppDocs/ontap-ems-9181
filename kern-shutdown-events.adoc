@@ -15,7 +15,7 @@ summary: kern.shutdown events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kern.shutdown EMS events for cantdeleteentry activity.
+kern.shutdown events are reported when this event is issued to indicate a pending shutdown is underway, and corrective actions typically involve following the documented corrective action guidance.
 
 == kern.shutdown
 *Severity*::

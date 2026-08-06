@@ -15,7 +15,7 @@ summary: callhome.nvme events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.nvme EMS events for exhausted activity.
+callhome.nvme events are reported when a directly attached NVMe module has worn out and is at the end of its write life, and corrective actions typically involve contacting NetApp technical support.
 
 == callhome.nvme.exhausted
 *Severity*::

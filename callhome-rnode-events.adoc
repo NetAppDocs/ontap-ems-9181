@@ -15,7 +15,7 @@ summary: callhome.rnode events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.rnode EMS events, which report when This messages occurs when a new set of log files has been collected from a Service Processor (SP) of one or more non-operational nodes in the cluster.
+callhome.rnode events are reported when this messages occurs when a new set of log files has been collected from a Service Processor (SP) of one or more non-operational nodes in the cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.rnode.splog
 *Severity*::

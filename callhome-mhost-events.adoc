@@ -15,7 +15,7 @@ summary: callhome.mhost events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.mhost EMS events for core coreinfo activity.
+callhome.mhost events are reported when you invoke an AutoSupport for userspace coredump files, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.mhost.core
 *Deprecated*::

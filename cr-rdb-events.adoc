@@ -15,7 +15,7 @@ summary: cr.rdb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cr.rdb EMS events for counters state activity.
+cr.rdb events are reported when the RDB (replicated database) cannot be updated with the inode counters for a particular scan, and corrective actions typically involve following the documented corrective action guidance.
 
 == CR.RDB.Counters.Not.Updated
 *Deprecated*::

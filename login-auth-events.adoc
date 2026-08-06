@@ -15,7 +15,7 @@ summary: login.auth events
 :imagesdir: ./media/
 
 [.lead]
-Learn about login.auth EMS events, which report when This event is issued when a login attempt is refused due to authentication failure.
+login.auth events are reported when this event is issued when a login attempt is refused due to authentication failure, and corrective actions typically involve following the documented corrective action guidance.
 
 == login.auth.loginDenied
 *Severity*::

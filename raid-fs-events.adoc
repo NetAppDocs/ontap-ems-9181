@@ -15,7 +15,7 @@ summary: raid.fs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.fs EMS events, which report when a filesystem disk is prepared for ownership change by administrator forcibly.
+raid.fs events are reported when a filesystem disk is prepared for ownership change by administrator forcibly, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.fs.disk.ownership.change
 *Severity*::

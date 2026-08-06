@@ -15,7 +15,7 @@ summary: nis.server events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nis.server EMS events for inactive domain available activity.
+nis.server events are reported when the Storage Virtual Machine (SVM, formerly Vserver) binds to any of the configured NIS servers, and corrective actions typically involve following the documented corrective action guidance.
 
 == nis.server.active
 *Severity*::

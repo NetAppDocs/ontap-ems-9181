@@ -15,7 +15,7 @@ summary: lun.inconsistent events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.inconsistent EMS events for blocks filesystem activity.
+lun.inconsistent events are reported when the block containing a LUN or NVMe namespace's attributes is found to be inconsistent, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.inconsistent.blocks
 *Severity*::

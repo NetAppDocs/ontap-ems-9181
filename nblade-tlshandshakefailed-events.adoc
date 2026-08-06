@@ -15,7 +15,7 @@ summary: nblade.tlshandshakefailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.tlshandshakefailed EMS events, which report when the NFS over TLS (Transport Layer Security) handshake fails between NFS client and NFS server.
+nblade.tlshandshakefailed events are reported when the NFS over TLS (Transport Layer Security) handshake fails between NFS client and NFS server, and corrective actions typically involve verifying the reported configuration and health state.
 
 == Nblade.TLSHandshakeFailed
 *Severity*::

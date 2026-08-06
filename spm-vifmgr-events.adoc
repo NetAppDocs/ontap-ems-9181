@@ -15,7 +15,7 @@ summary: spm.vifmgr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.vifmgr EMS events, which report when the Logical Interface Manager (VIFMgr) subsystem aborts.
+spm.vifmgr events are reported when the Logical Interface Manager (VIFMgr) subsystem aborts, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == spm.vifmgr.process.exit
 *Severity*::

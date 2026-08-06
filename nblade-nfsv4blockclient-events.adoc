@@ -15,7 +15,7 @@ summary: nblade.nfsv4blockclient events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.nfsv4blockclient EMS events, which report when an NFSv4 client consumes the maximum allowed store pool resources and the store pool system threshold has also been reached.
+nblade.nfsv4blockclient events are reported when an NFSv4 client consumes the maximum allowed store pool resources and the store pool system threshold has also been reached, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.nfsV4BlockClient
 *Severity*::

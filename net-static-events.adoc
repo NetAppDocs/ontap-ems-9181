@@ -15,7 +15,7 @@ summary: net.static events
 :imagesdir: ./media/
 
 [.lead]
-Learn about net.static EMS events, which report when This event is generated when user configured static host route entry being replaced with a dynamic entry by route redirect message.
+net.static events are reported when user configured static host route entry being replaced with a dynamic entry by route redirect message, and corrective actions typically involve following the documented corrective action guidance.
 
 == net.static.hostroute.replaced
 *Severity*::

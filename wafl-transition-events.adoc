@@ -15,7 +15,7 @@ summary: wafl.transition events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.transition EMS events, which report when This message occurs at the completion of a WAFL(R) consistency point (CP) that occurs during a failover transition, such as takeover or giveback.
+wafl.transition events are reported when this message occurs at the completion of a WAFL(R) consistency point (CP) that occurs during a failover transition, such as takeover or giveback, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.transition.cp.completed
 *Severity*::

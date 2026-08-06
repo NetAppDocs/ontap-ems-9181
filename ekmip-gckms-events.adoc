@@ -15,7 +15,7 @@ summary: ekmip.gckms events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ekmip.gckms EMS events for available keyversionchg notavailable activity.
+ekmip.gckms events are reported when a configured Google Cloud Key Management Service (GCKMS) that was previously reported as unavailable for key operations is now available, and corrective actions typically involve following the documented corrective action guidance.
 
 == ekmip.gckms.available
 *Severity*::

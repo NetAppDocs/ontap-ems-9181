@@ -15,7 +15,7 @@ summary: nvmeof.rdma events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmeof.rdma EMS events for disconnect event status activity.
+nvmeof.rdma events are reported when the NVMe-oF driver detects an RDMA disconnect, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmeof.rdma.disconnect.event
 *Deprecated*::

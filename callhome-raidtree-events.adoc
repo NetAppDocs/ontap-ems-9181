@@ -15,7 +15,7 @@ summary: callhome.raidtree events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.raidtree EMS events, which report when an aggregate experiences a configuration corruption error during assimilation of aggregate structures.
+callhome.raidtree events are reported when an aggregate experiences a configuration corruption error during assimilation of aggregate structures, and corrective actions typically involve contacting NetApp technical support.
 
 == callhome.raidtree.assim
 *Severity*::

@@ -15,7 +15,7 @@ summary: csm.unmarshallerror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about csm.unmarshallerror EMS events, which report when The message occurs when the Cluster Session Manager (CSM) fails to unmarshal a packet.
+csm.unmarshallerror events are reported when the message occurs when the Cluster Session Manager (CSM) fails to unmarshal a packet, and corrective actions typically involve following the documented corrective action guidance.
 
 == csm.unmarshallError
 *Severity*::

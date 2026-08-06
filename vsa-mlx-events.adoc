@@ -15,7 +15,7 @@ summary: vsa.mlx events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsa.mlx EMS events, which report when ONTAP(R) software is running as an instance in Azure and a NIC SR-IOV Mellanox (MLX) driver detach event is detected.
+vsa.mlx events are reported when oNTAP(R) software is running as an instance in Azure and a NIC SR-IOV Mellanox (MLX) driver detach event is detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsa.mlx.nic.detach
 *Deprecated*::

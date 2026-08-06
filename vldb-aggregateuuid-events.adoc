@@ -15,7 +15,7 @@ summary: vldb.aggregateuuid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vldb.aggregateuuid EMS events for mismatch missing activity.
+vldb.aggregateuuid events are reported when an aggregate's Universally Unique Identifier (UUID) in the Volume Location Database does not match the aggregate's current UUID, and corrective actions typically involve following the documented corrective action guidance.
 
 == vldb.aggregateUUID.mismatch
 *Severity*::

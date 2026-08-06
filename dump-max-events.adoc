@@ -15,7 +15,7 @@ summary: dump.max events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dump.max EMS events, which report when new dump or restore sessions cannot be started because the limit for this platform has been reached.
+dump.max events are reported when new dump or restore sessions cannot be started because the limit for this platform has been reached, and corrective actions typically involve following the documented corrective action guidance.
 
 == dump.max.limit
 *Severity*::

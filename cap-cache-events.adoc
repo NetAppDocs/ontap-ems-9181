@@ -15,7 +15,7 @@ summary: cap.cache events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cap.cache EMS events for corrupt ready activity.
+cap.cache events are reported when a corrupt Central Access Policy (CAP) is encountered during access checks, and corrective actions typically involve following the documented corrective action guidance.
 
 == cap.cache.corrupt
 *Severity*::

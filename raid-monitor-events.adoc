@@ -15,7 +15,7 @@ summary: raid.monitor events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.monitor EMS events, which report when the hourly monitor indicates that the current aggregate or volume number exceeded the maximum number of supported volumes on the host.
+raid.monitor events are reported when the hourly monitor indicates that the current aggregate or volume number exceeded the maximum number of supported volumes on the host, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == raid.monitor.maxVols
 *Severity*::

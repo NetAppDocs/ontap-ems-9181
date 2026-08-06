@@ -15,7 +15,7 @@ summary: cf.rsrc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.rsrc EMS events for givebackfail givebackforcefail givebackforceveto activity.
+cf.rsrc events are reported when a failure is detected during giveback, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == cf.rsrc.givebackFail
 *Severity*::

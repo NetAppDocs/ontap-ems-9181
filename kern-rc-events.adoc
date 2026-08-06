@@ -15,7 +15,7 @@ summary: kern.rc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kern.rc EMS events for errormsg msg activity.
+kern.rc events are reported when this event is issued when an error printf is issued by the kernel in the context of executing the /etc/rc file, and corrective actions typically involve following the documented corrective action guidance.
 
 == kern.rc.errorMsg
 *Severity*::

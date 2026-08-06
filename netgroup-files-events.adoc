@@ -15,7 +15,7 @@ summary: netgroup.files events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netgroup.files EMS events, which report when a netgroup lookup request finds that files is specified as a ns-switch source, but a netgroup file cannot be found.
+netgroup.files events are reported when a netgroup lookup request finds that files is specified as a ns-switch source, but a netgroup file cannot be found, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == netgroup.files.missing
 *Severity*::

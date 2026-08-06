@@ -15,7 +15,7 @@ summary: coredump.shutdown events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.shutdown EMS events, which report when a core is about to be generated.
+coredump.shutdown events are reported when a core is about to be generated, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.shutdown.trace
 *Severity*::

@@ -15,7 +15,7 @@ summary: raid.tree events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.tree EMS events, which report when RAID I/Os are active while removing a disk from the RAID tree.
+raid.tree events are reported when rAID I/Os are active while removing a disk from the RAID tree, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.tree.remove.activeIOs
 *Severity*::

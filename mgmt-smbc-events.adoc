@@ -15,7 +15,7 @@ summary: mgmt.smbc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.smbc EMS events for repl proxy activity.
+mgmt.smbc events are reported when the system fails to replicate the configuration of Report Target Group Port(RTPG) and Inter-Cluster(IC) LIF information, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.smbc.config.not.repl
 *Severity*::

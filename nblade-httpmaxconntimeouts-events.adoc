@@ -15,7 +15,7 @@ summary: nblade.httpmaxconntimeouts events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.httpmaxconntimeouts EMS events, which report when the HTTP subsystem, which monitors connection timeouts due to an unresponsive client or data not received from the client within a specified time, especially a PUT request or an HTTP Request containing Request Body.
+nblade.httpmaxconntimeouts events are reported when the HTTP subsystem, which monitors connection timeouts due to an unresponsive client or data not received from the client within a specified time, especially a PUT request or an HTTP Request containing Request Body, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.httpMaxConnTimeOuts
 *Severity*::

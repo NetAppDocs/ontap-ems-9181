@@ -15,7 +15,7 @@ summary: scsi.path events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsi.path EMS events, which report when excessive errors are encountered on this device within a short-enough time period to raise concern that there might be a faulty component between the storage initiator and device.
+scsi.path events are reported when excessive errors are encountered on this device within a short-enough time period to raise concern that there might be a faulty component between the storage initiator and device, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsi.path.excessiveErrors
 *Severity*::

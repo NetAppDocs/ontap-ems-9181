@@ -15,7 +15,7 @@ summary: acp.sock events
 :imagesdir: ./media/
 
 [.lead]
-Learn about acp.sock EMS events, which report when the system encounters a socket error while setting up the Alternate Control Path (ACP) Management Ethernet port.
+acp.sock events are reported when the system encounters a socket error while setting up the Alternate Control Path (ACP) Management Ethernet port, and corrective actions typically involve verifying the reported configuration and health state.
 
 == acp.sock.error
 *Severity*::

@@ -15,7 +15,7 @@ summary: lun.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.vol EMS events for space proc activity.
+lun.vol events are reported when an operation on a LUN or NVMe namespace fails due to insufficient space in the volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.vol.no.space
 *Severity*::

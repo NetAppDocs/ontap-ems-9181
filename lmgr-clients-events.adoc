@@ -15,7 +15,7 @@ summary: lmgr.clients events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.clients EMS events, which report when the number of NFSv4 clients reaches the max limit of available per client object allocations, thereby prohibiting allocations for any new NFSv4 clients.
+lmgr.clients events are reported when the number of NFSv4 clients reaches the max limit of available per client object allocations, thereby prohibiting allocations for any new NFSv4 clients, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.clients.st.limit.hit
 *Severity*::

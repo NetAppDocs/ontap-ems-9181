@@ -15,7 +15,7 @@ summary: lmgr.sendhome events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.sendhome EMS events, which report when This message occurs during an SFO aggregate giveback or relocation.
+lmgr.sendhome events are reported when this message occurs during an SFO aggregate giveback or relocation, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.sendhome.veto.bootarg.override
 *Severity*::

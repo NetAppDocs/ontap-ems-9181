@@ -15,7 +15,7 @@ summary: scsiblade.reloading events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.reloading EMS events, which report when the local node is recovering from a connectivity loss by purging and reloading the SAN configuration cache.
+scsiblade.reloading events are reported when the local node is recovering from a connectivity loss by purging and reloading the SAN configuration cache, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.reloading
 *Severity*::

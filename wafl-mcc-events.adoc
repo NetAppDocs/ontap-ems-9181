@@ -15,7 +15,7 @@ summary: wafl.mcc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.mcc EMS events for nso veto sb activity.
+wafl.mcc events are reported when wAFL(R) does not find the MetroCluster configuration information on this node, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.mcc.config.notFound
 *Deprecated*::

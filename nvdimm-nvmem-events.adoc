@@ -15,7 +15,7 @@ summary: nvdimm.nvmem events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvdimm.nvmem EMS events for destage failure succeed activity.
+nvdimm.nvmem events are reported when nVDIMM-based NVMEM checks fail, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvdimm.nvmem.checkfail
 *Severity*::

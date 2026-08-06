@@ -15,7 +15,7 @@ summary: callhome.sblade events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.sblade EMS events for import susp lu activity.
+callhome.sblade events are reported when lUN import cannot resume after takeover/giveback, and corrective actions typically involve contacting NetApp technical support.
 
 == callhome.sblade.import.susp
 *Severity*::

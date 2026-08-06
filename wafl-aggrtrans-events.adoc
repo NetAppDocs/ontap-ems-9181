@@ -15,7 +15,7 @@ summary: wafl.aggrtrans events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.aggrtrans EMS events for corrupted dirtyfs outofspace activity.
+wafl.aggrtrans events are reported when an aggregate transition operation encounters a corrupted aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.aggrtrans.corrupted
 *Severity*::

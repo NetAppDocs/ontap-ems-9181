@@ -15,7 +15,7 @@ summary: reg.file events
 :imagesdir: ./media/
 
 [.lead]
-Learn about reg.file EMS events for createfail linkfail openfail activity.
+reg.file events are reported when the system registry file could not be created, and corrective actions typically involve following the documented corrective action guidance.
 
 == reg.file.createFail
 *Severity*::

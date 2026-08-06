@@ -15,7 +15,7 @@ summary: volmigrate.result events
 :imagesdir: ./media/
 
 [.lead]
-Learn about volmigrate.result EMS events, which report when Description of the result of a volume migration.
+volmigrate.result events are reported when description of the result of a volume migration, and corrective actions typically involve following the documented corrective action guidance.
 
 == volmigrate.result
 *Severity*::

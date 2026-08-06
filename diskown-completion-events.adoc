@@ -15,7 +15,7 @@ summary: diskown.completion events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.completion EMS events, which report when the COMPLETION events from sanown layer remain after an aggregate is migrated from a source to a destination.
+diskown.completion events are reported when the COMPLETION events from sanown layer remain after an aggregate is migrated from a source to a destination, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.completion.timer.reEnabled
 *Severity*::

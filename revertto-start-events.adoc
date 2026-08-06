@@ -15,7 +15,7 @@ summary: revertto.start events
 :imagesdir: ./media/
 
 [.lead]
-Learn about revertto.start EMS events, which report when a revert to process is started.
+revertto.start events are reported when a revert to process is started, and corrective actions typically involve following the documented corrective action guidance.
 
 == revertTo.start
 *Severity*::

@@ -15,7 +15,7 @@ summary: kern.syslog events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kern.syslog EMS events for drops msg activity.
+kern.syslog events are reported when we detect that syslog messages were dropped before being logged, and corrective actions typically involve following the documented corrective action guidance.
 
 == kern.syslog.drops
 *Severity*::

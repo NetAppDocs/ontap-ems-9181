@@ -15,7 +15,7 @@ summary: scsiblade.lun events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.lun EMS events for ids change system activity.
+scsiblade.lun events are reported when the system detects a change in identifiers (serial number, UUID, device ID) of a LUN, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.lun.ids.change
 *Severity*::

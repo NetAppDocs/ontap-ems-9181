@@ -15,7 +15,7 @@ summary: ses.drive events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.drive EMS events for badplacement missingfromloopmap missingfromsesmap activity.
+ses.drive events are reported when disk drives are placed in locations that do not provide for proper signal integrity, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.drive.badPlacement
 *Severity*::

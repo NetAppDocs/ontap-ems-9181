@@ -15,7 +15,7 @@ summary: flexcache.featuredisabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about flexcache.featuredisabled EMS events, which report when an attempt is made to mount a FlexCache volume.
+flexcache.featuredisabled events are reported when an attempt is made to mount a FlexCache volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == flexcache.featureDisabled
 *Severity*::

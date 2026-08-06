@@ -15,7 +15,7 @@ summary: nodewatchdog.resrc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nodewatchdog.resrc EMS events for failure lng running activity.
+nodewatchdog.resrc events are reported when a critical system resource required for Data ONTAP(R) to continue serving data cannot be allocated for an extended period of time, and corrective actions typically involve following the documented corrective action guidance.
 
 == nodewatchdog.resrc.alloc.failure
 *Severity*::

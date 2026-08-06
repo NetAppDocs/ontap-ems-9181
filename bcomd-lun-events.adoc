@@ -15,7 +15,7 @@ summary: bcomd.lun events
 :imagesdir: ./media/
 
 [.lead]
-Learn about bcomd.lun EMS events, which report when the SAN Kernel Agent is unable to process a LUN metadata update resulting from a Snapshot(R) copy restore operation or other LUN event.
+bcomd.lun events are reported when the SAN Kernel Agent is unable to process a LUN metadata update resulting from a Snapshot(R) copy restore operation or other LUN event, and corrective actions typically involve following the documented corrective action guidance.
 
 == bcomd.lun.update.lost
 *Severity*::

@@ -15,7 +15,7 @@ summary: ds.sas events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ds.sas EMS events for disableerr element xfer activity.
+ds.sas events are reported when the system detects a configuration problem on the shelf I/O module, and corrective actions typically involve following the documented corrective action guidance.
 
 == ds.sas.config.warning
 *Severity*::

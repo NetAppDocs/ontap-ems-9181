@@ -15,7 +15,7 @@ summary: wafl.playlist events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.playlist EMS events for fh failure playlist activity.
+wafl.playlist events are reported when this event indicates bad playlist file handle, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.playlist.bad_fh
 *Severity*::

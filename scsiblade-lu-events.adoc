@@ -15,7 +15,7 @@ summary: scsiblade.lu events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.lu EMS events for gir hung resync activity.
+scsiblade.lu events are reported when this node completes a group internal rebuild for an LU, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.lu.gir.end
 *Severity*::

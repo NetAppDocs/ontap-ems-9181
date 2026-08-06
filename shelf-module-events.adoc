@@ -15,7 +15,7 @@ summary: shelf.module events
 :imagesdir: ./media/
 
 [.lead]
-Learn about shelf.module EMS events for failure element missing activity.
+shelf.module events are reported when the system cannot complete the configuration of a disk shelf module with the desired parameters, and corrective actions typically involve contacting NetApp technical support.
 
 == shelf.module.configuration.failure
 *Severity*::

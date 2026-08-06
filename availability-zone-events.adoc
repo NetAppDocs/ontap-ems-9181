@@ -15,7 +15,7 @@ summary: availability.zone events
 :imagesdir: ./media/
 
 [.lead]
-Learn about availability.zone EMS events for nearlyfull ok overalloc activity.
+availability.zone events are reported when the storage availability zone space usage has exceeded the full threshold value, and corrective actions typically involve following the documented corrective action guidance.
 
 == availability.zone.full
 *Severity*::

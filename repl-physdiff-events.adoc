@@ -15,7 +15,7 @@ summary: repl.physdiff events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.physdiff EMS events, which report when a block to replicate was found to be inconsistent in the source volume.
+repl.physdiff events are reported when a block to replicate was found to be inconsistent in the source volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.physdiff.invalid.hole
 *Severity*::

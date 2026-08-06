@@ -15,7 +15,7 @@ summary: max.fsa events
 :imagesdir: ./media/
 
 [.lead]
-Learn about max.fsa EMS events, which report when the File System Analytics initialization scan cannot be started because the maximum number of concurrent initialization scans are already running on the cluster.
+max.fsa events are reported when the File System Analytics initialization scan cannot be started because the maximum number of concurrent initialization scans are already running on the cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == max.fsa.init.scan.limit
 *Severity*::

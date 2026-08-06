@@ -15,7 +15,7 @@ summary: wafl.trans events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.trans EMS events, which report when the system transitions a hybrid aggregate from 7-Mode to clustered Data ONTAP.
+wafl.trans events are reported when the system transitions a hybrid aggregate from 7-Mode to clustered Data ONTAP, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.trans.ssd.cache.disable
 *Severity*::

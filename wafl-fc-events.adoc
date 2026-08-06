@@ -15,7 +15,7 @@ summary: wafl.fc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.fc EMS events, which report when a FlexCache(R) origin node detects that its FlexCache volume has disconnected while a lock reclaim operation is in progress.
+wafl.fc events are reported when a FlexCache(R) origin node detects that its FlexCache volume has disconnected while a lock reclaim operation is in progress, and corrective actions typically involve verifying the reported configuration and health state.
 
 == wafl.fc.recl.csm.disconnect
 *Severity*::

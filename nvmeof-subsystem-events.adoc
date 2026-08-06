@@ -15,7 +15,7 @@ summary: nvmeof.subsystem events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmeof.subsystem EMS events.
+nvmeof.subsystem events are reported when an NVMe over Fabrics subsystem is added, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmeof.subsystem.add
 *Severity*::

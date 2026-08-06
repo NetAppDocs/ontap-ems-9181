@@ -15,7 +15,7 @@ summary: vsa.vsphere events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsa.vsphere EMS events for noauth unreachable activity.
+vsa.vsphere events are reported when data ONTAP(R) on VMware(R) manages to reconnect and authenticate itself with the vSphere(tm) server, and no corrective action is typically required.
 
 == vsa.vsphere.connected
 *Severity*::

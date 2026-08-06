@@ -15,7 +15,7 @@ summary: snmp.authentication events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snmp.authentication EMS events, which report when there is an authentication failure during an SNMP query.
+snmp.authentication events are reported when there is an authentication failure during an SNMP query, and corrective actions typically involve following the documented corrective action guidance.
 
 == snmp.authentication.failure
 *Severity*::

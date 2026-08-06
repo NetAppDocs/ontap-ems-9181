@@ -15,7 +15,7 @@ summary: monitor.cluster events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.cluster EMS events for nearlyfull ok overalloc activity.
+monitor.cluster events are reported when the cluster is full after consuming space beyond the threshold value, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.cluster.full
 *Severity*::

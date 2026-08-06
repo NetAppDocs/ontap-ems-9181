@@ -15,7 +15,7 @@ summary: lun.copy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.copy EMS events for dstpresent activity.
+lun.copy events are reported when a LUN appears in the public namespace of the destination volume during a LUN copy operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.copy.dstPresent
 *Severity*::

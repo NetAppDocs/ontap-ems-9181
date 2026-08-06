@@ -15,7 +15,7 @@ summary: scsi.security events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsi.security EMS events, which report when a self-encrypting drive (SED) reports excessive sequential failed authentication attempts with an incorrect Authentication Key (AK).
+scsi.security events are reported when a self-encrypting drive (SED) reports excessive sequential failed authentication attempts with an incorrect Authentication Key (AK), and corrective actions typically involve following the documented corrective action guidance.
 
 == scsi.security.authLockOut
 *Deprecated*::

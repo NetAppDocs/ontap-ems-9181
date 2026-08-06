@@ -15,7 +15,7 @@ summary: km.cmek events
 :imagesdir: ./media/
 
 [.lead]
-Learn about km.cmek EMS events for akvkms available gckms activity.
+km.cmek events are reported when the configured Azure Key Vault Key Management Service (AKV-KMS) transitions to the active state after previously being in the blocked state, and corrective actions typically involve following the documented corrective action guidance.
 
 == km.cmek.akvkms.active
 *Severity*::

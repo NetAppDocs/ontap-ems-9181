@@ -15,7 +15,7 @@ summary: fm.overridembxuncertain events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fm.overridembxuncertain EMS events, which report when the user has chosen to override a mailbox uncertain state using the CTRL_O option.
+fm.overridembxuncertain events are reported when the user has chosen to override a mailbox uncertain state using the CTRL_O option, and corrective actions typically involve following the documented corrective action guidance.
 
 == fm.overrideMbxUncertain
 *Severity*::

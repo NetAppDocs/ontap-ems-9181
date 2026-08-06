@@ -15,7 +15,7 @@ summary: wafl.scan events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.scan EMS events for done br split activity.
+wafl.scan events are reported when the system is aborting the WORM clear scan because there is no space available in the volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.scan.abort.nospace
 *Severity*::

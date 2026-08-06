@@ -15,7 +15,7 @@ summary: nblade.execsoverlimit events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.execsoverlimit EMS events, which report when the number of active requests to a connection exceeds the allowed in-flight request threshold, which results in request throttling.
+nblade.execsoverlimit events are reported when the number of active requests to a connection exceeds the allowed in-flight request threshold, which results in request throttling, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == nblade.execsOverLimit
 *Severity*::

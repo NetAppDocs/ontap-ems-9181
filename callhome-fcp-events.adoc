@@ -15,7 +15,7 @@ summary: callhome.fcp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.fcp EMS events for adapter sram dump activity.
+callhome.fcp events are reported when a Fibre Channel Protocol (FCP) HBA Host Bus Adapter (HBA) in this node has failed to read a critical setting from the adapter's internal configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.fcp.adapter.failed
 *Severity*::

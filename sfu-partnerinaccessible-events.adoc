@@ -15,7 +15,7 @@ summary: sfu.partnerinaccessible events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.partnerinaccessible EMS events, which report when This message occurs in a high-availability (HA) configuration in which communication between partner nodes cannot be established.
+sfu.partnerinaccessible events are reported when this message occurs in a high-availability (HA) configuration in which communication between partner nodes cannot be established, and corrective actions typically involve verifying the reported configuration and health state.
 
 == sfu.partnerInaccessible
 *Severity*::

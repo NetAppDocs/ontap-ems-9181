@@ -15,7 +15,7 @@ summary: mlm.scsi events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mlm.scsi EMS events for supportlvl good activity.
+mlm.scsi events are reported when an array target port contains SCSI INQUIRY data with an incorrect support level, and corrective actions typically involve verifying the reported configuration and health state.
 
 == mlm.SCSI.supportLvl.bad
 *Severity*::

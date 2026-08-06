@@ -15,7 +15,7 @@ summary: nblade.vscanconnbackpressure events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.vscanconnbackpressure EMS events, which report when an AV server is too busy to accept new scan requests.
+nblade.vscanconnbackpressure events are reported when an AV server is too busy to accept new scan requests, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.vscanConnBackPressure
 *Severity*::

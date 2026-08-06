@@ -15,7 +15,7 @@ summary: rsh.socket events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rsh.socket EMS events, which report when The rshd daemon could not create a socket.
+rsh.socket events are reported when the rshd daemon could not create a socket, and corrective actions typically involve following the documented corrective action guidance.
 
 == rsh.socket.failure
 *Severity*::

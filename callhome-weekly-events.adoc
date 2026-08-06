@@ -15,7 +15,7 @@ summary: callhome.weekly events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.weekly EMS events, which report when the weekly AutoSupport or 'call home' event is sent.
+callhome.weekly events are reported when the weekly AutoSupport or 'call home' event is sent, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.weekly
 *Severity*::

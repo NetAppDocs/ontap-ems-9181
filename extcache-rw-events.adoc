@@ -15,7 +15,7 @@ summary: extcache.rw events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.rw EMS events for configchange emptycache io activity.
+extcache.rw events are reported when an external cache cannot obtain sufficient system resources, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.rw.alloc
 *Severity*::

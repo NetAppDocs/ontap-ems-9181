@@ -15,7 +15,7 @@ summary: arw.auto events
 :imagesdir: ./media/
 
 [.lead]
-Learn about arw.auto EMS events, which report when anti-ransomware has been automatically switched from learning mode to enabled after various conditions have been satisfied, such as learning period, file creation, file write, and file extension discovery activities.
+arw.auto events are reported when anti-ransomware has been automatically switched from learning mode to enabled after various conditions have been satisfied, such as learning period, file creation, file write, and file extension discovery activities, and corrective actions typically involve following the documented corrective action guidance.
 
 == arw.auto.switch.enabled
 *Severity*::

@@ -15,7 +15,7 @@ summary: ses.shelf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.shelf EMS events for ctrlfailerr request fw activity.
+ses.shelf events are reported when one of the drive in bay 1 or 2 is missing, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.shelf.bay.populate
 *Severity*::

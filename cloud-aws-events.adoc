@@ -15,7 +15,7 @@ summary: cloud.aws events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cloud.aws EMS events for iamcredsexpired iamcredsinvalid iamcredsnotfound activity.
+cloud.aws events are reported when the IAM Role thread acquires Amazon Web Services (AWS) Identity and Access Management (IAM) role-based credentials that have already expired, and corrective actions typically involve following the documented corrective action guidance.
 
 == cloud.aws.iamCredsExpired
 *Severity*::

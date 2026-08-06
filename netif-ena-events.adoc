@@ -15,7 +15,7 @@ summary: netif.ena events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.ena EMS events for allowance express detected activity.
+netif.ena events are reported when the network throughput exceeds the bandwidth allowance for the node, and corrective actions typically involve following the documented corrective action guidance.
 
 == netif.ena.allowance.exceeded
 *Severity*::

@@ -15,7 +15,7 @@ summary: mgmt.mcc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.mcc EMS events, which report when MetroCluster(tm) switchback or switchover happens while applying a file security (fsecurity) policy on the MetroCluster partner.
+mgmt.mcc events are reported when metroCluster(tm) switchback or switchover happens while applying a file security (fsecurity) policy on the MetroCluster partner, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.mcc.fsecurity.cfig.err
 *Severity*::

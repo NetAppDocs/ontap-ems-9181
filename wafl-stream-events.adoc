@@ -15,7 +15,7 @@ summary: wafl.stream events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.stream EMS events for file activity.
+wafl.stream events are reported when the "wafl scan stream_check" command is completed successfully, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.stream.check.complete
 *Severity*::

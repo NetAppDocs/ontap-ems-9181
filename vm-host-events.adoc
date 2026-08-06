@@ -15,7 +15,7 @@ summary: vm.host events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vm.host EMS events, which report when a VM is paused by the hypervisor.
+vm.host events are reported when a VM is paused by the hypervisor, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == vm.host.error
 *Severity*::

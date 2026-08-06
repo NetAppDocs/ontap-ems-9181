@@ -15,7 +15,7 @@ summary: cpeer.authentication events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cpeer.authentication EMS events for revoke viol activity.
+cpeer.authentication events are reported when authentication is successfully established with a peer cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == cpeer.authentication.create
 *Severity*::

@@ -15,7 +15,7 @@ summary: fabric.sdm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fabric.sdm EMS events, which report when the system fails to allocate a message for storage device monitor (SDM) notification.
+fabric.sdm events are reported when the system fails to allocate a message for storage device monitor (SDM) notification, and corrective actions typically involve following the documented corrective action guidance.
 
 == fabric.sdm.mem.alloc
 *Severity*::

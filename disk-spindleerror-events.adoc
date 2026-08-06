@@ -15,7 +15,7 @@ summary: disk.spindleerror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.spindleerror EMS events for detect activity.
+disk.spindleerror events are reported when a disk returns a spindle detect error, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.spindleError.detect
 *Severity*::

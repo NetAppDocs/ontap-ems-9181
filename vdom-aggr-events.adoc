@@ -15,7 +15,7 @@ summary: vdom.aggr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vdom.aggr EMS events for bulkmount internal activity.
+vdom.aggr events are reported when an internal timeout has been reached while processing volumes for an aggregate coming online during a takeover, giveback, or aggregate relocation event, and corrective actions typically involve following the documented corrective action guidance.
 
 == vdom.aggr.bulkmount.timeout
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.nvram events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.nvram EMS events for cecc failure iofs activity.
+callhome.nvram events are reported when excessive correctable error-correcting code (ECC) memory errors are reported by the NVRAM complex, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.nvram.cecc
 *Severity*::

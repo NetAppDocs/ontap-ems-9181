@@ -15,7 +15,7 @@ summary: shelf.io events
 :imagesdir: ./media/
 
 [.lead]
-Learn about shelf.io EMS events, which report when a request cannot be performed because I/O is still in progress.
+shelf.io events are reported when a request cannot be performed because I/O is still in progress, and corrective actions typically involve following the documented corrective action guidance.
 
 == shelf.IO.in.progress
 *Severity*::

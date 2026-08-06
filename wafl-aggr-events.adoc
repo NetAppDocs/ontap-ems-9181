@@ -15,7 +15,7 @@ summary: wafl.aggr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.aggr EMS events for callbacks hya uncompact activity.
+wafl.aggr events are reported when an aggregate is taken offline due to the aggregate has savings because of aggregate deduplication and this version of ONTAP does not support aggregate level deduplication, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.aggr.addup.offline
 *Severity*::

@@ -15,7 +15,7 @@ summary: raid.config events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.config EMS events for disk filesystem req activity.
+raid.config events are reported when this message occurs during a mirror check, when the system discovers that all plexes have failed in an aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.config.check.failed
 *Severity*::

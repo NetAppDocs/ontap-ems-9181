@@ -15,7 +15,7 @@ summary: netif.phynotread events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.phynotread EMS events, which report when the system cannot read identification information from the physical layer (PHY) of a network interface.
+netif.phynotread events are reported when the system cannot read identification information from the physical layer (PHY) of a network interface, and corrective actions typically involve following the documented corrective action guidance.
 
 == netif.phyNotRead
 *Severity*::

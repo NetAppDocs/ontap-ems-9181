@@ -15,7 +15,7 @@ summary: license.capac events
 :imagesdir: ./media/
 
 [.lead]
-Learn about license.capac EMS events for enforce eval promo activity.
+license.capac events are reported when the total storage capacity of all disks currently assigned to your system exceeds the limits of your capacity license, and corrective actions typically involve following the documented corrective action guidance.
 
 == license.capac.enforce
 *Severity*::

@@ -15,7 +15,7 @@ summary: monitor.chassistemperature events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.chassistemperature EMS events for cool ok state activity.
+monitor.chassistemperature events are reported when the chassis temperature is too cool, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.chassisTemperature.cool
 *Severity*::

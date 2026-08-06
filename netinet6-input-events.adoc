@@ -15,7 +15,7 @@ summary: netinet6.input events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netinet6.input EMS events for addr notready opt activity.
+netinet6.input events are reported when the destination address is not ready, so the packet is discarded, and corrective actions typically involve following the documented corrective action guidance.
 
 == netinet6.input.addr.notReady
 *Severity*::

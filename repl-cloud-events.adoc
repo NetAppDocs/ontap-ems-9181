@@ -15,7 +15,7 @@ summary: repl.cloud events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.cloud EMS events for incons buf gc activity.
+repl.cloud events are reported when the replication engine encounters an inconsistent block in the cloud, and corrective actions typically involve contacting NetApp technical support.
 
 == repl.cloud.incons.buf
 *Severity*::

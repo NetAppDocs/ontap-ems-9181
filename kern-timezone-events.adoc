@@ -15,7 +15,7 @@ summary: kern.timezone events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kern.timezone EMS events, which report when the configured time zone changes.
+kern.timezone events are reported when the configured time zone changes, and corrective actions typically involve following the documented corrective action guidance.
 
 == kern.timezone.change
 *Severity*::

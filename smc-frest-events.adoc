@@ -15,7 +15,7 @@ summary: smc.frest events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smc.frest EMS events, which report when a SnapMirror file restore operation fails to delete a local file restore snapshot on the destination volume.
+smc.frest events are reported when a SnapMirror file restore operation fails to delete a local file restore snapshot on the destination volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == smc.frest.snap.delete.fail
 *Severity*::

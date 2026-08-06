@@ -15,7 +15,7 @@ summary: nvdimm.flash events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvdimm.flash EMS events, which report when the NVDIMM device exceeds its warning threshold.
+nvdimm.flash events are reported when the NVDIMM device exceeds its warning threshold, and corrective actions typically involve contacting NetApp technical support.
 
 == nvdimm.flash.lifetime.low
 *Severity*::

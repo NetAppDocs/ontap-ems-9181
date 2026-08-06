@@ -15,7 +15,7 @@ summary: cf.giveback events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.giveback EMS events for delayed cleanup disk activity.
+cf.giveback events are reported when giveback of a partner node is delayed due to the cleanup of a previous giveback event, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.giveback.delayed.cleanup
 *Severity*::

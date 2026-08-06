@@ -15,7 +15,7 @@ summary: cmd.sasadmin events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cmd.sasadmin EMS events, which report when an adapter firmware update failure occurs.
+cmd.sasadmin events are reported when an adapter firmware update failure occurs, and corrective actions typically involve verifying the reported configuration and health state.
 
 == cmd.sasadmin.fw_update.fail
 *Severity*::

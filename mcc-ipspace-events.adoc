@@ -15,7 +15,7 @@ summary: mcc.ipspace events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.ipspace EMS events, which report when the IPspace is not found in a MetroCluster(tm) configuration while replicating the object store configuration.
+mcc.ipspace events are reported when the IPspace is not found in a MetroCluster(tm) configuration while replicating the object store configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.ipspace.not.found
 *Severity*::

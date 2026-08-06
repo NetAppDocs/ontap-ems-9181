@@ -15,7 +15,7 @@ summary: boot.shutdown events
 :imagesdir: ./media/
 
 [.lead]
-Learn about boot.shutdown EMS events, which report when an error is detected while shutting down the system.
+boot.shutdown events are reported when an error is detected while shutting down the system, and corrective actions typically involve contacting NetApp technical support.
 
 == boot.shutdown.issue
 *Severity*::

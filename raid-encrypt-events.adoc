@@ -15,7 +15,7 @@ summary: raid.encrypt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.encrypt EMS events for key activity.
+raid.encrypt events are reported when a node is enabled for encryption by RAID, but the system is not FIPS compliant, and corrective actions typically involve rebooting the node or cluster component.
 
 == raid.encrypt.disabled
 *Severity*::

@@ -15,7 +15,7 @@ summary: audit.log events
 :imagesdir: ./media/
 
 [.lead]
-Learn about audit.log EMS events for event recovered queue activity.
+audit.log events are reported when there is an issue during message auditing, and corrective actions typically involve following the documented corrective action guidance.
 
 == audit.log.event
 *Severity*::

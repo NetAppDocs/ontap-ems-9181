@@ -15,7 +15,7 @@ summary: replication.status events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.status EMS events, which report when the time skew between the source and destination system is larger than 1 minute.
+replication.status events are reported when the time skew between the source and destination system is greater than 1 minute, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.status.timeSkewed
 *Severity*::

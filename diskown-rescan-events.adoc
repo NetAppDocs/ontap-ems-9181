@@ -15,7 +15,7 @@ summary: diskown.rescan events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.rescan EMS events for notconnected notsent activity.
+diskown.rescan events are reported when the high-availability (HA) messaging layer fails to connect to the specified node for disk ownership updates, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.rescan.notConnected
 *Severity*::

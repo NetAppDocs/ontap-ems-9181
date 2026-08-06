@@ -15,7 +15,7 @@ summary: dfu.clustericerror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.clustericerror EMS events, which report when communication with the controller failover partner cannot be established.
+dfu.clustericerror events are reported when communication with the controller failover partner cannot be established, and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.clusterIcError
 *Severity*::

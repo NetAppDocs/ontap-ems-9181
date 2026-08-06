@@ -15,7 +15,7 @@ summary: nblade.s3bucketpathnotfound events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.s3bucketpathnotfound EMS events, which report when the path of the NAS directory corresponding to an S3 NAS Bucket was not found.
+nblade.s3bucketpathnotfound events are reported when the path of the NAS directory corresponding to an S3 NAS Bucket was not found, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == Nblade.s3BucketPathNotFound
 *Severity*::

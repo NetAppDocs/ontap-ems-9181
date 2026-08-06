@@ -15,7 +15,7 @@ summary: nblade.nfstlsdisabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.nfstlsdisabled EMS events, which report when the client is trying to use NFS over TLS (Transport Layer Security), but the NFS feature is marked as disabled on the server side.
+nblade.nfstlsdisabled events are reported when the client is trying to use NFS over TLS (Transport Layer Security), but the NFS feature is marked as disabled on the server side, and corrective actions typically involve contacting NetApp technical support.
 
 == Nblade.NfsTlsDisabled
 *Severity*::

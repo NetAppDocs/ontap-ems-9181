@@ -15,7 +15,7 @@ summary: san.mccpurgeverifyfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.mccpurgeverifyfailed EMS events, which report when This message occurs in MetroCluster(TM) configurations on clustered Data ONTAP(R) systems when a SAN cache purge verify operation fails.
+san.mccpurgeverifyfailed events are reported when this message occurs in MetroCluster(TM) configurations on clustered Data ONTAP(R) systems when a SAN cache purge verify operation fails, and corrective actions typically involve contacting NetApp technical support.
 
 == san.MCCPurgeVerifyFailed
 *Severity*::

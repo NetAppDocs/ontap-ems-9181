@@ -15,7 +15,7 @@ summary: wafl.c2c events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.c2c EMS events for increase od ckpt activity.
+wafl.c2c events are reported when attempt to increase volume max size limit during c2c restore fails due to an error, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.c2c.increase.vol.max.size.failed
 *Severity*::

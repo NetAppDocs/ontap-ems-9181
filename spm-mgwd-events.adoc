@@ -15,7 +15,7 @@ summary: spm.mgwd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.mgwd EMS events, which report when the Management Gateway (mgwd) subsystem involuntarily exits.
+spm.mgwd events are reported when the Management Gateway (mgwd) subsystem involuntarily exits, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.mgwd.process.exit
 *Severity*::

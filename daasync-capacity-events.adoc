@@ -15,7 +15,7 @@ summary: daasync.capacity events
 :imagesdir: ./media/
 
 [.lead]
-Learn about daasync.capacity EMS events, which report when the capacity data of a target device changes.
+daasync.capacity events are reported when the capacity data of a target device changes, and corrective actions typically involve following the documented corrective action guidance.
 
 == daasync.capacity.changed
 *Severity*::

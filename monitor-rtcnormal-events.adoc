@@ -15,7 +15,7 @@ summary: monitor.rtcnormal events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.rtcnormal EMS events, which report when the real-time clock (RTC) battery voltage is normal.
+monitor.rtcnormal events are reported when the real-time clock (RTC) battery voltage is normal, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.rtcNormal
 *Severity*::

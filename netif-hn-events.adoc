@@ -15,7 +15,7 @@ summary: netif.hn events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.hn EMS events, which report when Hyper-V virtual NIC fails to switch the data path from a Physical Function (PF) vPort to a Virtual Function (VF) vPort or vice-versa when accelerated networking is enabled on the virtual NIC.
+netif.hn events are reported when hyper-V virtual NIC fails to switch the data path from a Physical Function (PF) vPort to a Virtual Function (VF) vPort or vice-versa when accelerated networking is enabled on the virtual NIC, and corrective actions typically involve following the documented corrective action guidance.
 
 == netif.hn.setDataPathFailure
 *Severity*::

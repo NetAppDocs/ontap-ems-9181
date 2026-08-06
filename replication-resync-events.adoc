@@ -15,7 +15,7 @@ summary: replication.resync events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.resync EMS events, which report when This message occurs during a SnapMirror(R) or SnapVault(R) resync operation to inform the user of the number of common snapshots detected between the source and destination.
+replication.resync events are reported when this message occurs during a SnapMirror(R) or SnapVault(R) resync operation to inform the user of the number of common snapshots detected between the source and destination, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.resync.cmnSnpCnt
 *Severity*::

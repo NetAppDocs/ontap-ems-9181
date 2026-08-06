@@ -15,7 +15,7 @@ summary: vsdr.nonfpvolonfpaggr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.nonfpvolonfpaggr EMS events, which report when the source volume of an SVM disaster recovery (SVMDR) relationship residing on a non-FabricPool aggregate at the primary cluster is placed on a FabricPool aggregate at the secondary cluster.
+vsdr.nonfpvolonfpaggr events are reported when the source volume of an SVM disaster recovery (SVMDR) relationship residing on a non-FabricPool aggregate at the primary cluster is placed on a FabricPool aggregate at the secondary cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.nonFPVolOnFPAggr
 *Severity*::

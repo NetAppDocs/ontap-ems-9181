@@ -15,7 +15,7 @@ summary: scsiblade.vs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.vs EMS events, which report when the local node fails to purge the SAN configuration cache for a Vserver.
+scsiblade.vs events are reported when the local node fails to purge the SAN configuration cache for a Vserver, and corrective actions typically involve rebooting the node or cluster component.
 
 == scsiblade.vs.purge.fail
 *Severity*::

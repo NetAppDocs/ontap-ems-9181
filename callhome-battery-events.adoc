@@ -15,7 +15,7 @@ summary: callhome.battery events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.battery EMS events for failure low overchg activity.
+callhome.battery events are reported when the battery is either incapable of maintaining data during a power-outage, or is experiencing a failure that poses a physical threat, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.battery.failure
 *Severity*::

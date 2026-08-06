@@ -15,7 +15,7 @@ summary: vscan.odjob events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vscan.odjob EMS events for running schedule activity.
+vscan.odjob events are reported when the system fails to delete queued Vscan On-Demand job, and corrective actions typically involve following the documented corrective action guidance.
 
 == vscan.odJob.delete.failed
 *Severity*::

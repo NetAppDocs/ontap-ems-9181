@@ -15,7 +15,7 @@ summary: pha.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about pha.disk EMS events for type lookup activity.
+pha.disk events are reported when the backing disk type for an existing disk was changed from the cloud API, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == pha.disk.type.changed
 *Severity*::

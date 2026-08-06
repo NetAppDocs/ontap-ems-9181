@@ -15,7 +15,7 @@ summary: repl.seq events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.seq EMS events, which report when the SnapMirror sequential split is enabled on a SAN operating workload.
+repl.seq events are reported when the SnapMirror sequential split is enabled on a SAN operating workload, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.seq.split.enabled.SAN
 *Severity*::

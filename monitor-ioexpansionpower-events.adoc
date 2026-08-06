@@ -15,7 +15,7 @@ summary: monitor.ioexpansionpower events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.ioexpansionpower EMS events for degraded ok activity.
+monitor.ioexpansionpower events are reported when power on the I/O expansion module is degraded, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.ioexpansionPower.degraded
 *Severity*::

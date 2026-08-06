@@ -15,7 +15,7 @@ summary: scsiblade.volume events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.volume EMS events, which report when LUNs in the specified Vserver and volume are not accessible on one or more SAN LIFs.
+scsiblade.volume events are reported when lUNs in the specified Vserver and volume are not accessible on one or more SAN LIFs, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.volume.event.lost
 *Severity*::

@@ -15,7 +15,7 @@ summary: vserver.vsdr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.vsdr EMS events for adt romode supported activity.
+vserver.vsdr events are reported when this message occurs in Async Vserver-DR setup, when an auditing-configured Vserver is starting up in Read-Only (RO) mode, and no corrective action is typically required.
 
 == vserver.vsdr.adt.romode
 *Severity*::

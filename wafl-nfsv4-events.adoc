@@ -15,7 +15,7 @@ summary: wafl.nfsv4 events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.nfsv4 EMS events, which report when the system cannot map an ID stored in the Access Control Entry (ACE) to a valid UNIX(R) User ID/Group ID (UID/GID) pair.
+wafl.nfsv4 events are reported when the system cannot map an ID stored in the Access Control Entry (ACE) to a valid UNIX(R) User ID/Group ID (UID/GID) pair, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.nfsv4.acl.not.mapped
 *Severity*::

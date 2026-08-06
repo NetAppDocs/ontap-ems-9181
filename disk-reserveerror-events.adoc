@@ -15,7 +15,7 @@ summary: disk.reserveerror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.reserveerror EMS events, which report when a SCSI reservation is requested for a disk or LUN that is no longer seen.
+disk.reserveerror events are reported when a SCSI reservation is requested for a disk or LUN that is no longer seen, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.reserveError
 *Severity*::

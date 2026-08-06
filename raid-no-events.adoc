@@ -15,7 +15,7 @@ summary: raid.no events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.no EMS events, which report when This message occurs periodically to warn the user that the aggregate has no RAID protection and is not safe for storing data.
+raid.no events are reported when this message occurs periodically to warn the user that the aggregate has no RAID protection and is not safe for storing data, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.no.parity.aggr
 *Severity*::

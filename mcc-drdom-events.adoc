@@ -15,7 +15,7 @@ summary: mcc.drdom events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.drdom EMS events for diskownerchange diskreservefail disksassignfail activity.
+mcc.drdom events are reported when disk ownership changes are made by the disaster recovery disk ownership manager (DRDOM), and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.drdom.diskOwnerChange
 *Severity*::

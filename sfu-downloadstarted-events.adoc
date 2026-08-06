@@ -15,7 +15,7 @@ summary: sfu.downloadstarted events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.downloadstarted EMS events, which report when a disk shelf firmware update starts to download disk shelf firmware.
+sfu.downloadstarted events are reported when a disk shelf firmware update starts to download disk shelf firmware, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.downloadStarted
 *Severity*::

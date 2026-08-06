@@ -15,7 +15,7 @@ summary: upgrademgr.two events
 :imagesdir: ./media/
 
 [.lead]
-Learn about upgrademgr.two EMS events, which report when a two-stage version update starts on the cluster where the target release is two versions later than the current version.
+upgrademgr.two events are reported when a two-stage version update starts on the cluster where the target release is two versions later than the current version, and corrective actions typically involve following the documented corrective action guidance.
 
 == upgrademgr.two.stage.started
 *Severity*::

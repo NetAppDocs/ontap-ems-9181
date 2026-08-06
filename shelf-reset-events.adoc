@@ -15,7 +15,7 @@ summary: shelf.reset events
 :imagesdir: ./media/
 
 [.lead]
-Learn about shelf.reset EMS events, which report when ONTAP(R) software resets the error counters on a disk shelf module.
+shelf.reset events are reported when oNTAP(R) software resets the error counters on a disk shelf module, and corrective actions typically involve following the documented corrective action guidance.
 
 == shelf.reset.counters
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.bgp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.bgp EMS events for defaults disconnected peergroupdown activity.
+vifmgr.bgp events are reported when logical Interface Manager (VifMgr) connects to BGP daemon, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.bgp.connected
 *Severity*::

@@ -15,7 +15,7 @@ summary: cmds.software events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cmds.software EMS events for direrr installdone installnotdone activity.
+cmds.software events are reported when this message occurs because the system cannot create the directory at the designated path, and corrective actions typically involve following the documented corrective action guidance.
 
 == cmds.software.dirErr
 *Severity*::

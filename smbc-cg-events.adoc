@@ -15,7 +15,7 @@ summary: smbc.cg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smbc.cg EMS events for info activity.
+smbc.cg events are reported when read of Consistency Group aggregate information entry fails for the SnapMirror(R) active sync volume which results into IO disruption, and corrective actions typically involve following the documented corrective action guidance.
 
 == smbc.cg.info.read.failed
 *Severity*::

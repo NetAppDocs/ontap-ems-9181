@@ -15,7 +15,7 @@ summary: lun.metafile events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.metafile EMS events for dircreatefailed oovc corrupt activity.
+lun.metafile events are reported when lun metafile directory creation failed, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == lun.metafile.dirCreateFailed
 *Severity*::

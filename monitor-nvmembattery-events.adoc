@@ -15,7 +15,7 @@ summary: monitor.nvmembattery events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.nvmembattery EMS events, which report when the nonvolatile memory (NVMEM) battery charge is low.
+monitor.nvmembattery events are reported when the nonvolatile memory (NVMEM) battery charge is low, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.nvmembattery.warninglow
 *Severity*::

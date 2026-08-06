@@ -15,7 +15,7 @@ summary: callhome.svo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.svo EMS events, which report when a write to a SnapValidator enabled volume failed to be validated and was rejected by the server.
+callhome.svo events are reported when a write to a SnapValidator enabled volume failed to be validated and was rejected by the server, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == callhome.svo.prevented
 *Severity*::

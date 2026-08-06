@@ -15,7 +15,7 @@ summary: vnvram.dma events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vnvram.dma EMS events, which report when a vNVRAM flush operation on an ONTAP-v system is taking too much time.
+vnvram.dma events are reported when a vNVRAM flush operation on an ONTAP-v system is taking too much time, and corrective actions typically involve following the documented corrective action guidance.
 
 == vnvram.dma.long.wait
 *Severity*::

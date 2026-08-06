@@ -15,7 +15,7 @@ summary: mgmt.fsecurity events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.fsecurity EMS events for failure policy eacces activity.
+mgmt.fsecurity events are reported when applying configuration of fsecurity fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.fsecurity.failure
 *Severity*::

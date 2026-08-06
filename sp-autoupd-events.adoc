@@ -15,7 +15,7 @@ summary: sp.autoupd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.autoupd EMS events, which report when a Service Processor (SP) or baseboard management controller (BMC) firmware automatic update is cancelled because the high-availability (HA) partner node is offline.
+sp.autoupd events are reported when a Service Processor (SP) or baseboard management controller (BMC) firmware automatic update is cancelled because the high-availability (HA) partner node is offline, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == sp.autoupd.partner.offline
 *Severity*::

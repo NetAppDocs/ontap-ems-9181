@@ -15,7 +15,7 @@ summary: storage.cmd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about storage.cmd EMS events for balancerequest logportio activity.
+storage.cmd events are reported when indicates a user request to balance I/O across initiator ports has been issued, and corrective actions typically involve following the documented corrective action guidance.
 
 == storage.cmd.balanceRequest
 *Severity*::

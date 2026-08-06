@@ -15,7 +15,7 @@ summary: rlm.userlist events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rlm.userlist EMS events, which report when There was an error while updating user information for the Remote Lan Module (RLM).
+rlm.userlist events are reported when there was an error while updating user information for the Remote Lan Module (RLM), and corrective actions typically involve following the documented corrective action guidance.
 
 == rlm.userlist.update.failed
 *Severity*::

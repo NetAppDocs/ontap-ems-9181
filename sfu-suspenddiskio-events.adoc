@@ -15,7 +15,7 @@ summary: sfu.suspenddiskio events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.suspenddiskio EMS events, which report when a disk shelf firmware update is started and disk I/O is suspended.
+sfu.suspenddiskio events are reported when a disk shelf firmware update is started and disk I/O is suspended, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.suspendDiskIO
 *Severity*::

@@ -15,7 +15,7 @@ summary: raid.mcc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.mcc EMS events for heal nso leftbehind activity.
+raid.mcc events are reported when this message reports the summary information for the MetroCluster(tm) switchover operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.mcc.disasterSummary
 *Severity*::

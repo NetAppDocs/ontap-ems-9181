@@ -15,7 +15,7 @@ summary: mcc.encryption events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.encryption EMS events, which report when the encryption for NVLog and storage data in a MetroCluster (tm) configuration is disabled.
+mcc.encryption events are reported when the encryption for NVLog and storage data in a MetroCluster (tm) configuration is disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.encryption.disabled
 *Severity*::

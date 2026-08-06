@@ -15,7 +15,7 @@ summary: esh.term events
 :imagesdir: ./media/
 
 [.lead]
-Learn about esh.term EMS events, which report when there is an error related to loop termination.
+esh.term events are reported when there is an error related to loop termination, and corrective actions typically involve following the documented corrective action guidance.
 
 == esh.term.error
 *Severity*::

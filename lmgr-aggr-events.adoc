@@ -15,7 +15,7 @@ summary: lmgr.aggr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.aggr EMS events, which report when locks established through CIFS Continuously Available (CA) shares on an aggregate are dropped after takeover, giveback, or aggregate relocation.
+lmgr.aggr events are reported when locks established through CIFS Continuously Available (CA) shares on an aggregate are dropped after takeover, giveback, or aggregate relocation, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.aggr.CA.locks.dropped
 *Severity*::

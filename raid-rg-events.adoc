@@ -15,7 +15,7 @@ summary: raid.rg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.rg EMS events for recons media cksum activity.
+raid.rg events are reported when a RAID group background long running I/O encounters an error that is fatal to the RAID group and the aggregate (cannot be fixed even by a mirror read from the other plex, if it exists), and corrective actions typically involve contacting NetApp technical support.
 
 == raid.rg.bigio.fatal
 *Severity*::

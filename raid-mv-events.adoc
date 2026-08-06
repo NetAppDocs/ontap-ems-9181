@@ -15,7 +15,7 @@ summary: raid.mv events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.mv EMS events for defvol skip transfer activity.
+raid.mv events are reported when aggregates are brought online in a deferred way after mirror votes are retrieved automatically, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.mv.defVol.online
 *Severity*::

@@ -15,7 +15,7 @@ summary: mgmtgwd.revertto events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.revertto EMS events, which report when a revert to process is being initiated with the "force" flag, and configuration errors have been detected.
+mgmtgwd.revertto events are reported when a revert to process is being initiated with the "force" flag, and configuration errors have been detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.revertTo.forceErrors
 *Deprecated*::

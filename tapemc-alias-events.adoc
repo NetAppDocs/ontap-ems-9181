@@ -15,7 +15,7 @@ summary: tapemc.alias events
 :imagesdir: ./media/
 
 [.lead]
-Learn about tapemc.alias EMS events for addfail addok threshold activity.
+tapemc.alias events are reported when the automatic addition of a tape or medium changer alias fails, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == tapemc.alias.addFail
 *Severity*::

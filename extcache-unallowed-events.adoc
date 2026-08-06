@@ -15,7 +15,7 @@ summary: extcache.unallowed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.unallowed EMS events, which report when an external cache bootarg or setflag is set without the required privilege.
+extcache.unallowed events are reported when an external cache bootarg or setflag is set without the required privilege, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.unallowed.option
 *Severity*::

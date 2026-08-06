@@ -15,7 +15,7 @@ summary: de.storage events
 :imagesdir: ./media/
 
 [.lead]
-Learn about de.storage EMS events, which report when ONTAP volume used by AI Data Engine (AIDE) is close to full capacity.
+de.storage events are reported when oNTAP volume used by AI Data Engine (AIDE) is close to full capacity, and corrective actions typically involve following the documented corrective action guidance.
 
 == de.storage.vol.full
 *Severity*::

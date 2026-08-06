@@ -15,7 +15,7 @@ summary: volcreate.name events
 :imagesdir: ./media/
 
 [.lead]
-Learn about volcreate.name EMS events, which report when Flexible volumes were created with names which conflict with existing volume names.
+volcreate.name events are reported when flexible volumes were created with names which conflict with existing volume names, and corrective actions typically involve following the documented corrective action guidance.
 
 == volcreate.name.dup
 *Severity*::

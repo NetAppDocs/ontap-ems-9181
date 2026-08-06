@@ -15,7 +15,7 @@ summary: wafl.cbin events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.cbin EMS events for iron mirror objslothdr activity.
+wafl.cbin events are reported when cloud mirror configuration changes during the WAFLiron operation on a FabricPool aggregate with unified format enabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.cbin.iron.mirror.config.changed
 *Severity*::

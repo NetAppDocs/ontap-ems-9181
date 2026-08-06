@@ -15,7 +15,7 @@ summary: snapmirror.conf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapmirror.conf EMS events for depre cpsync invalidstr activity.
+snapmirror.conf events are reported when there an entry in the snapmirror, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapmirror.conf.depre.cpsync
 *Severity*::

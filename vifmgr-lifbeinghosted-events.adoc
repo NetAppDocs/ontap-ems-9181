@@ -15,7 +15,7 @@ summary: vifmgr.lifbeinghosted events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.lifbeinghosted EMS events, which report when a logical interface (LIF) IP address that was previously marked as down because no eligible ports could host this LIF is now being hosted.
+vifmgr.lifbeinghosted events are reported when a logical interface (LIF) IP address that was previously marked as down because no eligible ports could host this LIF is now being hosted, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.lifbeinghosted
 *Severity*::

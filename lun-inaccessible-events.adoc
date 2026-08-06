@@ -15,7 +15,7 @@ summary: lun.inaccessible events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.inaccessible EMS events, which report when a LUN or NVMe namespace that is inaccessible due to restore is found in a volume.
+lun.inaccessible events are reported when a LUN or NVMe namespace that is inaccessible due to restore is found in a volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.inaccessible.restore
 *Severity*::

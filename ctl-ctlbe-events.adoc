@@ -15,7 +15,7 @@ summary: ctl.ctlbe events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ctl.ctlbe EMS events for iointernalerror luncreationfailed lunerror activity.
+ctl.ctlbe events are reported when iO failure due to internal error, and corrective actions typically involve following the documented corrective action guidance.
 
 == ctl.ctlbe.IOInternalError
 *Severity*::

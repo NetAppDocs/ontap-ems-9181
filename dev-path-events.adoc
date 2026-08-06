@@ -15,7 +15,7 @@ summary: dev.path events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dev.path EMS events, which report when the system fails to discover the drive.
+dev.path events are reported when the system fails to discover the drive, and corrective actions typically involve following the documented corrective action guidance.
 
 == dev.path.inquiry.failed
 *Severity*::

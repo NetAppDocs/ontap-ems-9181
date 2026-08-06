@@ -15,7 +15,7 @@ summary: vserver.oper events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.oper EMS events, which report when the system detects a cluster reboot on a Disaster Recovery Source (MetroCluster(tm) configuration or Vserver DR).
+vserver.oper events are reported when the system detects a cluster reboot on a Disaster Recovery Source (MetroCluster(tm) configuration or Vserver DR), and corrective actions typically involve following the documented corrective action guidance.
 
 == vserver.oper.state.down
 *Severity*::

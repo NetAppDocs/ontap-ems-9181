@@ -15,7 +15,7 @@ summary: callhome.syncsm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.syncsm EMS events for exception oos fatal activity.
+callhome.syncsm events are reported when critical thresholds are breached for a SnapMirror(R) Synchronous relationship, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.syncsm.exception
 *Severity*::

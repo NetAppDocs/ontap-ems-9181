@@ -15,7 +15,7 @@ summary: raid.syncmirr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.syncmirr EMS events, which report when This message occurs in a SyncMirror(R) configuration (with SyncMirror aggressive timeout capability), when RAID cannot service earlier timed-out I/O from the other plex.
+raid.syncmirr events are reported when this message occurs in a SyncMirror(R) configuration (with SyncMirror aggressive timeout capability), when RAID cannot service earlier timed-out I/O from the other plex, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.syncmirr.at.IOrecovery
 *Severity*::

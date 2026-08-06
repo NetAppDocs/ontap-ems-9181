@@ -15,7 +15,7 @@ summary: moveagent.commitsrc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about moveagent.commitsrc EMS events, which report when an active volume move operation cannot commit the source volume.
+moveagent.commitsrc events are reported when an active volume move operation cannot commit the source volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == moveagent.commitsrc.fail
 *Severity*::

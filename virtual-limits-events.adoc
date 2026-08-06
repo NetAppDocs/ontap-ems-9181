@@ -15,7 +15,7 @@ summary: virtual.limits events
 :imagesdir: ./media/
 
 [.lead]
-Learn about virtual.limits EMS events for proc activity.
+virtual.limits events are reported when the process virtual memory limit calculations are disabled on a given node, and corrective actions typically involve following the documented corrective action guidance.
 
 == virtual.limits.disabled
 *Severity*::

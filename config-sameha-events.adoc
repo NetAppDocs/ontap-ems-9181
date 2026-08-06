@@ -15,7 +15,7 @@ summary: config.sameha events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.sameha EMS events, which report when a disk is multipathed to the same host adapter.
+config.sameha events are reported when a disk is multipathed to the same host adapter, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.sameHA
 *Severity*::

@@ -15,7 +15,7 @@ summary: fcadmin.bridge events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fcadmin.bridge EMS events for prog disk fault activity.
+fcadmin.bridge events are reported when this event reports the WWN written to a device, and corrective actions typically involve following the documented corrective action guidance.
 
 == fcadmin.bridge.prog.disk
 *Severity*::

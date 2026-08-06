@@ -15,7 +15,7 @@ summary: sysconfig.sysconfigtab events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sysconfig.sysconfigtab EMS events, which report when This event is issued when the sysconfigtab file cannot be opened.
+sysconfig.sysconfigtab events are reported when this event is issued when the sysconfigtab file cannot be opened, and corrective actions typically involve following the documented corrective action guidance.
 
 == sysconfig.sysconfigtab.openFailed
 *Severity*::

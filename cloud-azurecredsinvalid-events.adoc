@@ -15,7 +15,7 @@ summary: cloud.azurecredsinvalid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cloud.azurecredsinvalid EMS events, which report when the system acquires Azure Managed Service Identity (MSI) credentials that are not valid.
+cloud.azurecredsinvalid events are reported when the system acquires Azure Managed Service Identity (MSI) credentials that are not valid, and corrective actions typically involve following the documented corrective action guidance.
 
 == cloud.azureCredsInvalid
 *Severity*::

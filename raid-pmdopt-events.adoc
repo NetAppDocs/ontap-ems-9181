@@ -15,7 +15,7 @@ summary: raid.pmdopt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.pmdopt EMS events for misconfigured nonpersistent singledisk activity.
+raid.pmdopt events are reported when the option raid, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.pmdOpt.misconfigured
 *Severity*::

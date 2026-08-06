@@ -15,7 +15,7 @@ summary: iscsi.loginipnotauthorized events
 :imagesdir: ./media/
 
 [.lead]
-Learn about iscsi.loginipnotauthorized EMS events, which report when the system rejects an iSCSI login attempt because it originates from an unauthorized IP address.
+iscsi.loginipnotauthorized events are reported when the system rejects an iSCSI login attempt because it originates from an unauthorized IP address, and corrective actions typically involve following the documented corrective action guidance.
 
 == iscsi.loginIpNotAuthorized
 *Severity*::

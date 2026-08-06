@@ -15,7 +15,7 @@ summary: mgmtgwd.upgrade events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.upgrade EMS events.
+mgmtgwd.upgrade events are reported when an upgrade task is aborted, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.upgrade.aborted
 *Severity*::

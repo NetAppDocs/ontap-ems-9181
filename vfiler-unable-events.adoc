@@ -15,7 +15,7 @@ summary: vfiler.unable events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vfiler.unable EMS events, which report when This message occurs during vFiler(tm) unit discovery, if one of the vFiler(tm) unit module initialization functions fails.
+vfiler.unable events are reported when this message occurs during vFiler(tm) unit discovery, if one of the vFiler(tm) unit module initialization functions fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == vFiler.unable.initModules
 *Severity*::

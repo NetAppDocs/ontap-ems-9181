@@ -15,7 +15,7 @@ summary: repl.dst events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.dst EMS events, which report when a SnapMirror(R) logical transfer is not possible due to an incompatible reference snapshot on the destination.
+repl.dst events are reported when a SnapMirror(R) logical transfer is not possible due to an incompatible reference snapshot on the destination, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.dst.snaps.check.failed
 *Severity*::

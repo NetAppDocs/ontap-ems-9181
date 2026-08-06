@@ -15,7 +15,7 @@ summary: sis.upgrademetafile events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.upgrademetafile EMS events, which report when Single Instance Storage (SIS) metafiles cannot be created during a Data ONTAP(R) upgrade.
+sis.upgrademetafile events are reported when single Instance Storage (SIS) metafiles cannot be created during a Data ONTAP(R) upgrade, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.upgrademetafile.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: flexcache.config events
 :imagesdir: ./media/
 
 [.lead]
-Learn about flexcache.config EMS events, which report when the FlexCache volume expand operation fails to synchronize the FlexCache configuration information between the newly created constituent volume and the origin cluster.
+flexcache.config events are reported when the FlexCache volume expand operation fails to synchronize the FlexCache configuration information between the newly created constituent volume and the origin cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == flexcache.config.sync.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: cmds.sysconf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cmds.sysconf EMS events for halterr1 halterr2 inconstrule activity.
+cmds.sysconf events are reported when this message occurs to log the reason for system halt, before actually system is halted, and corrective actions typically involve following the documented corrective action guidance.
 
 == cmds.sysconf.haltERR1
 *Severity*::

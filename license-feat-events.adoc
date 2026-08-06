@@ -15,7 +15,7 @@ summary: license.feat events
 :imagesdir: ./media/
 
 [.lead]
-Learn about license.feat EMS events for install installed activity.
+license.feat events are reported when the system cannot successfully delete a license for a feature, and corrective actions typically involve following the documented corrective action guidance.
 
 == license.feat.delete.failed
 *Severity*::

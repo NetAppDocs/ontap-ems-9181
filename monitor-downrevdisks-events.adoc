@@ -15,7 +15,7 @@ summary: monitor.downrevdisks events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.downrevdisks EMS events, which report when ONTAP(R) detects that downrev disks are still present in the system.
+monitor.downrevdisks events are reported when oNTAP(R) detects that downrev disks are still present in the system, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.downRevDisks
 *Severity*::

@@ -15,7 +15,7 @@ summary: certificate.node events
 :imagesdir: ./media/
 
 [.lead]
-Learn about certificate.node EMS events, which report when an installed certificate record exists in a node Vserver.
+certificate.node events are reported when an installed certificate record exists in a node Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == certificate.node.vserver
 *Severity*::

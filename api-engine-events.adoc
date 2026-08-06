@@ -15,7 +15,7 @@ summary: api.engine events
 :imagesdir: ./media/
 
 [.lead]
-Learn about api.engine EMS events, which report when This event is posted when the ONTAPI(R) engine is unexpectedly terminated.
+api.engine events are reported when this event is posted when the ONTAPI(R) engine is unexpectedly terminated, and corrective actions typically involve rebooting the node or cluster component.
 
 == api.engine.killed
 *Severity*::

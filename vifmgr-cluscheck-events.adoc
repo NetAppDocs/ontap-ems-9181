@@ -15,7 +15,7 @@ summary: vifmgr.cluscheck events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.cluscheck EMS events for assigned badping hwerrors activity.
+vifmgr.cluscheck events are reported when the named cluster logical interface (LIF) was not assigned to any network port and is now assigned to a port, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.cluscheck.assigned
 *Severity*::

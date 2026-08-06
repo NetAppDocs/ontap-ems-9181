@@ -15,7 +15,7 @@ summary: xfcvi.unsupported events
 :imagesdir: ./media/
 
 [.lead]
-Learn about xfcvi.unsupported EMS events, which report when a network adapter port behavior type is set to use FC-VI on a platform that has not been validated for its use and is therefore unsupported.
+xfcvi.unsupported events are reported when a network adapter port behavior type is set to use FC-VI on a platform that has not been validated for its use and is therefore unsupported, and corrective actions typically involve following the documented corrective action guidance.
 
 == xfcvi.unsupported.config
 *Severity*::

@@ -15,7 +15,7 @@ summary: cf.hwassist events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.hwassist EMS events for default nodemgmtaddr empty activity.
+cf.hwassist events are reported when the hardware-assist module automatically picked a local IP address for the hardware-assisted takeover feature, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.hwassist.Default.NodemgmtAddr
 *Severity*::

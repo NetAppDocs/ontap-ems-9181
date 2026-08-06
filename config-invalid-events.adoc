@@ -15,7 +15,7 @@ summary: config.invalid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.invalid EMS events, which report when a SAS (Serial Attached SCSI) port is attached to another SAS port.
+config.invalid events are reported when a SAS (Serial Attached SCSI) port is attached to another SAS port, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == config.invalid.PortToPort
 *Severity*::

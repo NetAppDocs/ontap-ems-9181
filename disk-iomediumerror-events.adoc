@@ -15,7 +15,7 @@ summary: disk.iomediumerror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.iomediumerror EMS events, which report when the drive reports a medium error.
+disk.iomediumerror events are reported when the drive reports a medium error, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.ioMediumError
 *Severity*::

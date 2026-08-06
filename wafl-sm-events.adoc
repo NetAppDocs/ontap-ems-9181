@@ -15,7 +15,7 @@ summary: wafl.sm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.sm EMS events, which report when SnapMirror(R) fails to read a block from the container file of a FlexVol(R) SnapMirror source volume.
+wafl.sm events are reported when snapMirror(R) fails to read a block from the container file of a FlexVol(R) SnapMirror source volume, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.sm.vvol.read.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: revertto.system events
 :imagesdir: ./media/
 
 [.lead]
-Learn about revertto.system EMS events, which report when the system is rebooting to complete the revert process.
+revertto.system events are reported when the system is rebooting to complete the revert process, and corrective actions typically involve following the documented corrective action guidance.
 
 == revertTo.system.reboot
 *Severity*::

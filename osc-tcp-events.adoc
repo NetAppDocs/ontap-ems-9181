@@ -15,7 +15,7 @@ summary: osc.tcp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about osc.tcp EMS events, which report when ONTAP is unable to connect to the IP address that the object store server hostname resolves to.
+osc.tcp events are reported when oNTAP is unable to connect to the IP address that the object store server hostname resolves to, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == osc.tcp.connectFailed
 *Severity*::

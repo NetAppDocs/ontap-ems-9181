@@ -15,7 +15,7 @@ summary: secd.lsa events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.lsa EMS events, which report when none of the configured LSA servers are accepting connections.
+secd.lsa events are reported when none of the configured LSA servers are accepting connections, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == secd.lsa.noServers
 *Severity*::

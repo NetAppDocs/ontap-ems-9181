@@ -15,7 +15,7 @@ summary: volcopy.src events
 :imagesdir: ./media/
 
 [.lead]
-Learn about volcopy.src EMS events for nomemory revertpending snapshoterr activity.
+volcopy.src events are reported when this event is issued when there is insufficient memory on the vol copy source for the transfer to continue, and corrective actions typically involve following the documented corrective action guidance.
 
 == volcopy.src.noMemory
 *Severity*::

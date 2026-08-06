@@ -15,7 +15,7 @@ summary: lun.metadb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.metadb EMS events, which report when a version mismatch is detected for the metafile containing LUN metadata.
+lun.metadb events are reported when a version mismatch is detected for the metafile containing LUN metadata, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.metadb.version.mismatch
 *Severity*::

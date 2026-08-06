@@ -15,7 +15,7 @@ summary: net.vserverupdatesuccess events
 :imagesdir: ./media/
 
 [.lead]
-Learn about net.vserverupdatesuccess EMS events, which report when the Vserver configuration on a node is successfully updated after a previous failure.
+net.vserverupdatesuccess events are reported when the Vserver configuration on a node is successfully updated after a previous failure, and corrective actions typically involve following the documented corrective action guidance.
 
 == net.vServerUpdateSuccess
 *Severity*::

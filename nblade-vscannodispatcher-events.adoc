@@ -15,7 +15,7 @@ summary: nblade.vscannodispatcher events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.vscannodispatcher EMS events, which report when the vscan-dispatcher component cannot be created.
+nblade.vscannodispatcher events are reported when the vscan-dispatcher component cannot be created, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.vscanNoDispatcher
 *Severity*::

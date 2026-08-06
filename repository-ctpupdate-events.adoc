@@ -15,7 +15,7 @@ summary: repository.ctpupdate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repository.ctpupdate EMS events, which report when an update to the Create Time Placement (CTP) ruleset fails.
+repository.ctpupdate events are reported when an update to the Create Time Placement (CTP) ruleset fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == Repository.CTPUpdate.Failed
 *Deprecated*::

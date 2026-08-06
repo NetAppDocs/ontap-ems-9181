@@ -15,7 +15,7 @@ summary: mgr.stack events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgr.stack EMS events for at checkpoint proc activity.
+mgr.stack events are reported when this message contains the panic string, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgr.stack.at
 *Severity*::

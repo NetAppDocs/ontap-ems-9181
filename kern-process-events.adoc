@@ -15,7 +15,7 @@ summary: kern.process events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kern.process EMS events, which report when a process creation has the system close to the maximum limit for the number of processes.
+kern.process events are reported when a process creation has the system close to the maximum limit for the number of processes, and corrective actions typically involve following the documented corrective action guidance.
 
 == kern.process.alloc.limit
 *Severity*::

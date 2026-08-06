@@ -15,7 +15,7 @@ summary: lmgr.hostfile events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.hostfile EMS events.
+lmgr.hostfile events are reported when the volume lock manager hosts file is unusable, and no corrective action is typically required.
 
 == lmgr.hostfile.cleared
 *Severity*::

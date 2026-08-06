@@ -15,7 +15,7 @@ summary: nblade.cifs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.cifs EMS events for budgetallocfailure logon audit activity.
+nblade.cifs events are reported when there is a budget allocation failure for a CIFS subsystem because other CIFS subsystems are consuming too much memory, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.cifs.budgetAllocFailure
 *Severity*::

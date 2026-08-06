@@ -15,7 +15,7 @@ summary: wafl.root events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.root EMS events for content mark overwritesunsafe activity.
+wafl.root events are reported when the contents of the root volume are changed to those of a previous point in time, and corrective actions typically involve verifying the reported configuration and health state.
 
 == wafl.root.content.changed
 *Severity*::

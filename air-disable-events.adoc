@@ -15,7 +15,7 @@ summary: air.disable events
 :imagesdir: ./media/
 
 [.lead]
-Learn about air.disable EMS events for async cli preserve activity.
+air.disable events are reported when any inconsistency is found with the async delete trashbin directory of a volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == air.disable.async.delete.cli
 *Severity*::

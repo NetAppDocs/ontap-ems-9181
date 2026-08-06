@@ -15,7 +15,7 @@ summary: cfvm.failed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cfvm.failed EMS events, which report when a copy free volume move operation is attempted but the commit cutover phase fails due to an internal error.
+cfvm.failed events are reported when a copy free volume move operation is attempted but the commit cutover phase fails due to an internal error, and corrective actions typically involve following the documented corrective action guidance.
 
 == cfvm.failed.cutover.commit
 *Severity*::

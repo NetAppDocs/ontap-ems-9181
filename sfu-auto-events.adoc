@@ -15,7 +15,7 @@ summary: sfu.auto events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.auto EMS events, which report when ONTAP(R) software cannot automatically upgrade the firmware on a disk shelf because the hidden 'shelf.fw.auto.update' option is set to off.
+sfu.auto events are reported when oNTAP(R) software cannot automatically upgrade the firmware on a disk shelf because the hidden 'shelf, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.auto.update.off.impact
 *Severity*::

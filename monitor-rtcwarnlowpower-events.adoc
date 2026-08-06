@@ -15,7 +15,7 @@ summary: monitor.rtcwarnlowpower events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.rtcwarnlowpower EMS events, which report when the real-time clock (RTC) battery is at a "warning low" voltage level.
+monitor.rtcwarnlowpower events are reported when the real-time clock (RTC) battery is at a "warning low" voltage level, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.rtcWarnLowPower
 *Severity*::

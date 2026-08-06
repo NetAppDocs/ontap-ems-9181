@@ -15,7 +15,7 @@ summary: ic.hainterconnectlinkdown events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ic.hainterconnectlinkdown EMS events, which report when This message occurs every hour when one of the high-availability (HA) interconnect links is down.
+ic.hainterconnectlinkdown events are reported when this message occurs every hour when one of the high-availability (HA) interconnect links is down, and corrective actions typically involve verifying the reported configuration and health state.
 
 == ic.HAInterconnectLinkDown
 *Severity*::

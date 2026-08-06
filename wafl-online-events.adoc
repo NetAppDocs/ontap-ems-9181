@@ -15,7 +15,7 @@ summary: wafl.online events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.online EMS events for admin vol vmalign activity.
+wafl.online events are reported when a cluster admin volume comes online during MetroCluster(TM) switchover, and no corrective action is typically required.
 
 == wafl.online.admin.vol
 *Severity*::

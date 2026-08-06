@@ -15,7 +15,7 @@ summary: tls.insecure events
 :imagesdir: ./media/
 
 [.lead]
-Learn about tls.insecure EMS events for cipher protocol activity.
+tls.insecure events are reported when during the TLS handshake a peer negotiates a cipher suite that is no longer considered sufficiently secure to be enabled in the default configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == tls.insecure.cipher
 *Severity*::

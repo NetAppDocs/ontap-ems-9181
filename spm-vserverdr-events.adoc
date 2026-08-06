@@ -15,7 +15,7 @@ summary: spm.vserverdr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.vserverdr EMS events, which report when the Vserver DR process involuntarily terminates.
+spm.vserverdr events are reported when the Vserver DR process involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.vserverdr.process.exit
 *Severity*::

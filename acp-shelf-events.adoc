@@ -15,7 +15,7 @@ summary: acp.shelf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about acp.shelf EMS events for off on activity.
+acp.shelf events are reported when the Alternate Control Path (ACP) Processor fails to complete a power cycle of the disk shelf, and corrective actions typically involve following the documented corrective action guidance.
 
 == acp.shelf.power.cycle.failed
 *Severity*::

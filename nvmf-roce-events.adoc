@@ -15,7 +15,7 @@ summary: nvmf.roce events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmf.roce EMS events, which report when there was an internal error while creating a NVMe over RoCE logical network interface (LIF).
+nvmf.roce events are reported when there was an internal error while creating a NVMe over RoCE logical network interface (LIF), and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmf.roce.lif.create.failed
 *Severity*::

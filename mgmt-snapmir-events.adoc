@@ -15,7 +15,7 @@ summary: mgmt.snapmir events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.snapmir EMS events for fl rstr cln activity.
+mgmt.snapmir events are reported when the destination volume of a SnapMirror(R) relationship is not a Data Protection (DP) or Load Sharing (LS) type, and a SnapMirror initialize operation is attempted, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.snapmir.dst.invalidType
 *Severity*::

@@ -15,7 +15,7 @@ summary: dns.server events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dns.server EMS events, which report when the DNS server fails to respond to a query and timeout occurs.
+dns.server events are reported when the DNS server fails to respond to a query and timeout occurs, and corrective actions typically involve following the documented corrective action guidance.
 
 == dns.server.timed.out
 *Severity*::

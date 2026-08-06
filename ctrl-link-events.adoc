@@ -15,7 +15,7 @@ summary: ctrl.link events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ctrl.link EMS events for degraded switchover activity.
+ctrl.link events are reported when the software detects either symbol errors or out-of-sequence errors on HA interconnect links, and corrective actions typically involve following the documented corrective action guidance.
 
 == ctrl.link.degraded
 *Severity*::

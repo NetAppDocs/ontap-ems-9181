@@ -15,7 +15,7 @@ summary: perf.ccma events
 :imagesdir: ./media/
 
 [.lead]
-Learn about perf.ccma EMS events for off startupfailed activity.
+perf.ccma events are reported when the performance archiver is not enabled, which makes it difficult for technical support to troubleshoot performance issues on the system, and corrective actions typically involve following the documented corrective action guidance.
 
 == perf.ccma.off
 *Severity*::

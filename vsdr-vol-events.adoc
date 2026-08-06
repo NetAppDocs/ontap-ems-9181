@@ -15,7 +15,7 @@ summary: vsdr.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.vol EMS events for inline dedup name activity.
+vsdr.vol events are reported when a Vserver DR subsystem does not enable inline deduplication on the destination volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.vol.aff.inline.dedup
 *Severity*::

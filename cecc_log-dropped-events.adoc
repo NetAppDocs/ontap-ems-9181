@@ -15,7 +15,7 @@ summary: cecc_log.dropped events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cecc_log.dropped EMS events, which report when the ECC error logger dropped some correctable ECC errors without logging them.
+cecc_log.dropped events are reported when the ECC error logger dropped some correctable ECC errors without logging them, and corrective actions typically involve following the documented corrective action guidance.
 
 == cecc_log.dropped
 *Severity*::

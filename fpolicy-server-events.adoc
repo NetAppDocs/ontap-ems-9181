@@ -15,7 +15,7 @@ summary: fpolicy.server events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fpolicy.server EMS events for bkpressapply bkpressremove connecterror activity.
+fpolicy.server events are reported when the FPolicy server has applied backpressure which means that the server is busy and does not want to receive requests until it removes backpressure, and corrective actions typically involve following the documented corrective action guidance.
 
 == fpolicy.server.bkPressApply
 *Severity*::

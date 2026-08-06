@@ -15,7 +15,7 @@ summary: wafl.no events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.no EMS events, which report when This message occur when a volume don't have 'large_size_enabled' flag set even when the nominal size crosses the 100TB limit.
+wafl.no events are reported when this message occur when a volume don't have 'large_size_enabled' flag set even when the nominal size crosses the 100TB limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.no.large.vvol.size.set
 *Severity*::

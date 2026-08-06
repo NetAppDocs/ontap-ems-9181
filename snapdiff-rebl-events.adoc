@@ -15,7 +15,7 @@ summary: snapdiff.rebl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapdiff.rebl EMS events for absent allocated block activity.
+snapdiff.rebl events are reported when snapDiff(R), the snapshot copy differencing engine, encounters an absent allocated block, and no corrective action is typically required.
 
 == snapdiff.rebl.absent.allocated.block
 *Severity*::

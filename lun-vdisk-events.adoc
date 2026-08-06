@@ -15,7 +15,7 @@ summary: lun.vdisk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.vdisk EMS events for cnt prov activity.
+lun.vdisk events are reported when a volume contains more than the supported limit of LUNs in the volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.vdisk.cnt.exceeded
 *Severity*::

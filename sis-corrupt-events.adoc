@@ -15,7 +15,7 @@ summary: sis.corrupt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.corrupt EMS events, which report when a Single Instance Storage (SIS) metafile is deleted because there are Disk/Media errors affecting the file.
+sis.corrupt events are reported when a Single Instance Storage (SIS) metafile is deleted because there are Disk/Media errors affecting the file, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.corrupt.metafile.deleted
 *Severity*::

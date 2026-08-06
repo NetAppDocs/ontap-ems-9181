@@ -15,7 +15,7 @@ summary: callhome.spm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.spm EMS events, which report when a subsystem is not fully operational after one or more restarts and a restart threshold has been reached by the Service Process Manager (SPM).
+callhome.spm events are reported when a subsystem is not fully operational after one or more restarts and a restart threshold has been reached by the Service Process Manager (SPM), and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.spm.process.maxexit
 *Severity*::

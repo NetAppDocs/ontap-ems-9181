@@ -15,7 +15,7 @@ summary: raid.label events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.label EMS events for io readerror raidarea activity.
+raid.label events are reported when a RAID label read I/O failure is detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.label.io.readError
 *Severity*::

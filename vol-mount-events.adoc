@@ -15,7 +15,7 @@ summary: vol.mount events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vol.mount EMS events, which report when a volume or aggregate is mounted as read-only.
+vol.mount events are reported when a volume or aggregate is mounted as read-only, and corrective actions typically involve following the documented corrective action guidance.
 
 == vol.mount.readOnly
 *Severity*::

@@ -15,7 +15,7 @@ summary: diskown.shlf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.shlf EMS events for assignstatus multiowners activity.
+diskown.shlf events are reported when shelf granular-based drive assignment is enabled or disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.Shlf.assignStatus
 *Severity*::

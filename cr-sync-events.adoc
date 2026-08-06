@@ -15,7 +15,7 @@ summary: cr.sync events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cr.sync EMS events, which report when an attempt to synchronize the ACL from data to redirector fails.
+cr.sync events are reported when an attempt to synchronize the ACL from data to redirector fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == CR.Sync.ACL.Fail
 *Deprecated*::

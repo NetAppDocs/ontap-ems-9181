@@ -15,7 +15,7 @@ summary: arl.precmt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about arl.precmt EMS events for lmgr resync sync activity.
+arl.precmt events are reported when this message occurs during aggregate relocation, when automatic lock resynchronization with the node's high-availability (HA) partner for files on this aggregate was aborted, and corrective actions typically involve following the documented corrective action guidance.
 
 == arl.precmt.lmgr.resync.abrt
 *Severity*::

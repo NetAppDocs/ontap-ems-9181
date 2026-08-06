@@ -15,7 +15,7 @@ summary: callhome.cpu events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.cpu EMS events for fan fault activity.
+callhome.cpu events are reported when a CPU fan failed or the fan is spinning too slowly or too fast, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.cpu.fan
 *Severity*::

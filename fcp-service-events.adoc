@@ -15,7 +15,7 @@ summary: fcp.service events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fcp.service EMS events for startup activity.
+fcp.service events are reported when the Fibre Channel Protocol (FCP) service has been shutdown, and corrective actions typically involve following the documented corrective action guidance.
 
 == fcp.service.shutdown
 *Severity*::

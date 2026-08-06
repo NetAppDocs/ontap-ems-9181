@@ -15,7 +15,7 @@ summary: vserver.storage events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.storage EMS events for nearlyfull size breached activity.
+vserver.storage events are reported when the Storage of Vserver is full, and corrective actions typically involve following the documented corrective action guidance.
 
 == vserver.storage.full
 *Severity*::

@@ -15,7 +15,7 @@ summary: spm.ucoreman events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.ucoreman EMS events, which report when the Usercore Manager (ucoreman) daemon involuntarily terminates.
+spm.ucoreman events are reported when the Usercore Manager (ucoreman) daemon involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.ucoreman.process.exit
 *Severity*::

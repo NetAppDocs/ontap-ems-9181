@@ -15,7 +15,7 @@ summary: callhome.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.vol EMS events for space crit activity.
+callhome.vol events are reported when the system detects an inconsistent volume and takes it offline, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.vol.offline
 *Severity*::

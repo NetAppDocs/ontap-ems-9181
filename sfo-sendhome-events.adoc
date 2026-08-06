@@ -15,7 +15,7 @@ summary: sfo.sendhome events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfo.sendhome EMS events for nopartnerdisks partnernoboot subsystemabort activity.
+sfo.sendhome events are reported when the giveback request fails because there are no disks that belong to the partner, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfo.sendhome.NoPartnerDisks
 *Severity*::

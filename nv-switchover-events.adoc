@@ -15,7 +15,7 @@ summary: nv.switchover events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nv.switchover EMS events, which report when switchover proceeds even when nonvolatile RAM (NVRAM) inconsistencies are detected in the DR partner sections.
+nv.switchover events are reported when switchover proceeds even when nonvolatile RAM (NVRAM) inconsistencies are detected in the DR partner sections, and corrective actions typically involve following the documented corrective action guidance.
 
 == nv.switchover.continued
 *Severity*::

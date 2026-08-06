@@ -15,7 +15,7 @@ summary: disk.max events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.max EMS events, which report when ONTAP(R) software cannot partition a disk because the system already has the maximum number of partitioned disks.
+disk.max events are reported when oNTAP(R) software cannot partition a disk because the system already has the maximum number of partitioned disks, and corrective actions typically involve contacting NetApp technical support.
 
 == disk.max.partitions
 *Severity*::

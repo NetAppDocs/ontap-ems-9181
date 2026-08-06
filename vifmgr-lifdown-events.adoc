@@ -15,7 +15,7 @@ summary: vifmgr.lifdown events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.lifdown EMS events, which report when a logical interface (LIF) IP address cannot serve data because there are no eligible ports on which to host the LIF.
+vifmgr.lifdown events are reported when a logical interface (LIF) IP address cannot serve data because there are no eligible ports on which to host the LIF, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.lifdown.noports
 *Severity*::

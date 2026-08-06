@@ -15,7 +15,7 @@ summary: lun.move events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.move EMS events for dstpresent activity.
+lun.move events are reported when a LUN appears in the public namespace of the destination volume during a LUN move operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.move.dstPresent
 *Severity*::

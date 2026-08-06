@@ -15,7 +15,7 @@ summary: telnet.threadcreate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about telnet.threadcreate EMS events, which report when creation of telnet daemon threads or telnet session threads fails because required virtual memory is unavailable.
+telnet.threadcreate events are reported when creation of telnet daemon threads or telnet session threads fails because required virtual memory is unavailable, and corrective actions typically involve following the documented corrective action guidance.
 
 == telnet.threadCreate.failure
 *Severity*::

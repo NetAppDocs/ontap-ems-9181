@@ -15,7 +15,7 @@ summary: maxcid.threshold events
 :imagesdir: ./media/
 
 [.lead]
-Learn about maxcid.threshold EMS events, which report when the system is approaching the maximum number of open data connections supported on the node.
+maxcid.threshold events are reported when the system is approaching the maximum number of open data connections supported on the node, and corrective actions typically involve following the documented corrective action guidance.
 
 == maxCID.threshold.exceeded
 *Severity*::

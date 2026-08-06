@@ -15,7 +15,7 @@ summary: ses.badsharestorageconfigerr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.badsharestorageconfigerr EMS events, which report when a disk shelf module that is not supported in a Shared Storage system, such as an LRC module, is detected in a Shared Storage system.
+ses.badsharestorageconfigerr events are reported when a disk shelf module that is not supported in a Shared Storage system, such as an LRC module, is detected in a Shared Storage system, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.badShareStorageConfigErr
 *Severity*::

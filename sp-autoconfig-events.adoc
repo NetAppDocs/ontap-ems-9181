@@ -15,7 +15,7 @@ summary: sp.autoconfig events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.autoconfig EMS events, which report when the system cannot automatically obtain IP configuration because the subnet associated with the Service Processor does not have any available IP addresses.
+sp.autoconfig events are reported when the system cannot automatically obtain IP configuration because the subnet associated with the Service Processor does not have any available IP addresses, and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.autoconfig.out.of.address
 *Severity*::

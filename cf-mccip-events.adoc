@@ -15,7 +15,7 @@ summary: cf.mccip events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.mccip EMS events for med auso stdisabled activity.
+cf.mccip events are reported when automatic switchover in a MetroCluster(tm) IP configuration is disabled because the mediator mailbox disk is not healthy, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.mccip.med.auso.stDisabled
 *Severity*::

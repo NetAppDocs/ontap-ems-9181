@@ -15,7 +15,7 @@ summary: spm.enclmgmtd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.enclmgmtd EMS events, which report when the Enclosure Management Daemon (enclmgmtd) involuntarily terminates.
+spm.enclmgmtd events are reported when the Enclosure Management Daemon (enclmgmtd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.enclmgmtd.process.exit
 *Severity*::

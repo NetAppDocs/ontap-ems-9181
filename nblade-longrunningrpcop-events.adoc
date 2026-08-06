@@ -15,7 +15,7 @@ summary: nblade.longrunningrpcop events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.longrunningrpcop EMS events, which report when a running remote procedure call (RPC) operation takes longer than a defined length of time.
+nblade.longrunningrpcop events are reported when a running remote procedure call (RPC) operation takes longer than a defined length of time, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == Nblade.longRunningRpcOp
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.tlsconfigerror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.tlsconfigerror EMS events, which report when the client is trying to use NFS over TLS (Transport Layer Security), but it is disabled on the NFS server side.
+nblade.tlsconfigerror events are reported when the client is trying to use NFS over TLS (Transport Layer Security), but it is disabled on the NFS server side, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.TLSConfigError
 *Severity*::

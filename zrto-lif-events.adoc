@@ -15,7 +15,7 @@ summary: zrto.lif events
 :imagesdir: ./media/
 
 [.lead]
-Learn about zrto.lif EMS events, which report when ONTAP(R) fails to re-create a previously deleted LIF during an upgrade.
+zrto.lif events are reported when oNTAP(R) fails to re-create a previously deleted LIF during an upgrade, and corrective actions typically involve following the documented corrective action guidance.
 
 == zrto.lif.upgrade.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: spm.mntsvc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.mntsvc EMS events, which report when the Node Root Mount Service (mntsvc) involuntarily terminates.
+spm.mntsvc events are reported when the Node Root Mount Service (mntsvc) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.mntsvc.process.exit
 *Severity*::

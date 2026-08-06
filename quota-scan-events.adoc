@@ -15,7 +15,7 @@ summary: quota.scan events
 :imagesdir: ./media/
 
 [.lead]
-Learn about quota.scan EMS events for cancel activity.
+quota.scan events are reported when this message occurs after the administrator uses the "volume quota on" command, when the quota scanner aborts without finishing due to an error condition, and corrective actions typically involve following the documented corrective action guidance.
 
 == quota.scan.abort
 *Severity*::

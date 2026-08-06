@@ -15,7 +15,7 @@ summary: smtape.rst events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smtape.rst EMS events for chksum tape change activity.
+smtape.rst events are reported when an SMTape restore operation from tape is aborted due to checksum error, and corrective actions typically involve following the documented corrective action guidance.
 
 == smtape.rst.abort.chksum.err
 *Severity*::

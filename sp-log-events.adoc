@@ -15,7 +15,7 @@ summary: sp.log events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.log EMS events for partition readonly readwrite activity.
+sp.log events are reported when the available memory of the log partition in the Service Processor (SP) or the Baseboard Management Controller (BMC) is low, and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.log.partition.full
 *Severity*::

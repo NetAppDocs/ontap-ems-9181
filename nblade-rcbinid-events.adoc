@@ -15,7 +15,7 @@ summary: nblade.rcbinid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.rcbinid EMS events, which report when an NFS replay cache bin ID entry expires.
+nblade.rcbinid events are reported when an NFS replay cache bin ID entry expires, and corrective actions typically involve following the documented corrective action guidance.
 
 == nblade.RCBinId.timeout
 *Severity*::

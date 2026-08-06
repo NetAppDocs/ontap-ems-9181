@@ -15,7 +15,7 @@ summary: extcache.fal events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.fal EMS events, which report when the external cache is informed that the Flash Adaptation Layer (FAL) has been taken offline.
+extcache.fal events are reported when the external cache is informed that the Flash Adaptation Layer (FAL) has been taken offline, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.fal.offline
 *Severity*::

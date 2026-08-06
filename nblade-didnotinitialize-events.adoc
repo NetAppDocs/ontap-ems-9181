@@ -15,7 +15,7 @@ summary: nblade.didnotinitialize events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.didnotinitialize EMS events, which report when The appliance's network process failed during initialization due to an internal error (likely there is not enough system memory available to start the necessary kernel threads).
+nblade.didnotinitialize events are reported when the appliance's network process failed during initialization due to an internal error (likely there is not enough system memory available to start the necessary kernel threads), and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.DidNotInitialize
 *Severity*::

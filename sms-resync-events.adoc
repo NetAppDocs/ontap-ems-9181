@@ -15,7 +15,7 @@ summary: sms.resync events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sms.resync EMS events, which report when a resynchronize operation between the source volume and destination volume fails.
+sms.resync events are reported when a resynchronize operation between the source volume and destination volume fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == sms.resync.attempt.failed
 *Severity*::

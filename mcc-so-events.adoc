@@ -15,7 +15,7 @@ summary: mcc.so events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.so EMS events, which report when a MetroCluster(tm) switchover operation cannot be performed on this node because it is in the takeover state and one of the nodes in its disaster recovery(DR) group has the "node-object-limit" MetroCluster configuration option set to off.
+mcc.so events are reported when a MetroCluster(tm) switchover operation cannot be performed on this node because it is in the takeover state and one of the nodes in its disaster recovery(DR) group has the "node-object-limit" MetroCluster configuration option set to off, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.so.nodeObjectLmt.chkFail
 *Severity*::

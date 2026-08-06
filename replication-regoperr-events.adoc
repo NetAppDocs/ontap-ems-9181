@@ -15,7 +15,7 @@ summary: replication.regoperr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.regoperr EMS events, which report when the system encounters an error during a registry operation related to SnapMirror(R) or SnapVault(R).
+replication.regoperr events are reported when the system encounters an error during a registry operation related to SnapMirror(R) or SnapVault(R), and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.regOpErr
 *Severity*::

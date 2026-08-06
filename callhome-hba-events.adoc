@@ -15,7 +15,7 @@ summary: callhome.hba events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.hba EMS events, which report when a HBA port is taken offline due to read-after-write verification errors.
+callhome.hba events are reported when a HBA port is taken offline due to read-after-write verification errors, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.hba.failed
 *Severity*::

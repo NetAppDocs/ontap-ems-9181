@@ -15,7 +15,7 @@ summary: mgmt.exovol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.exovol EMS events for transfer xfer dest activity.
+mgmt.exovol events are reported when the replication engine fails to transfer exo-volume data, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.exovol.transfer.failed
 *Severity*::

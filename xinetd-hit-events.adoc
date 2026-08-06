@@ -15,7 +15,7 @@ summary: xinetd.hit events
 :imagesdir: ./media/
 
 [.lead]
-Learn about xinetd.hit EMS events for cps limit instances activity.
+xinetd.hit events are reported when the rate of incoming network connections for a service exceeds the maximum allowed rate, and corrective actions typically involve following the documented corrective action guidance.
 
 == xinetd.hit.cps.limit
 *Severity*::

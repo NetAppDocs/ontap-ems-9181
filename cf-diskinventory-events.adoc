@@ -15,7 +15,7 @@ summary: cf.diskinventory events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.diskinventory EMS events for cksum many disks activity.
+cf.diskinventory events are reported when the computed checksum of the disk inventory message is different from the checksum sent as part of the disk inventory message, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.diskinventory.cksum.fail
 *Severity*::

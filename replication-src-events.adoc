@@ -15,7 +15,7 @@ summary: replication.src events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.src EMS events for inconsistent snapmap throttlechange activity.
+replication.src events are reported when the system detects an error on a SnapMirror(R) or SnapVault(R) source volume or qtree, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.src.err
 *Severity*::

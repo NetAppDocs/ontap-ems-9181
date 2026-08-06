@@ -15,7 +15,7 @@ summary: config.badswitchlocal events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.badswitchlocal EMS events, which report when a disk is found to be attached locally, but there are also disks attached via switches.
+config.badswitchlocal events are reported when a disk is found to be attached locally, but there are also disks attached via switches, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.BadSwitchLocal
 *Severity*::

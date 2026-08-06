@@ -15,7 +15,7 @@ summary: mgmt.cr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.cr EMS events for constituent failure job activity.
+mgmt.cr events are reported when a constituent volume is added to the Infinite Volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.cr.constituent.added
 *Deprecated*::

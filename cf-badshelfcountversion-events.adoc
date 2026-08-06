@@ -15,7 +15,7 @@ summary: cf.badshelfcountversion events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.badshelfcountversion EMS events, which report when This event occurs if we are sent a negotiated failover shelf count message with a version which we don't support.
+cf.badshelfcountversion events are reported when this event occurs if we are sent a negotiated failover shelf count message with a version which we don't support, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.badShelfCountVersion
 *Severity*::

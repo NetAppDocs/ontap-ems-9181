@@ -15,7 +15,7 @@ summary: boot.verify events
 :imagesdir: ./media/
 
 [.lead]
-Learn about boot.verify EMS events for kmods activity.
+boot.verify events are reported when the verification of digitally signed kernel modules has been disabled, and corrective actions typically involve contacting NetApp technical support.
 
 == boot.verify.kmods.disabled
 *Severity*::

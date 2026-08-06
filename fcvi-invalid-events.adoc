@@ -15,7 +15,7 @@ summary: fcvi.invalid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fcvi.invalid EMS events for advertisement sfp activity.
+fcvi.invalid events are reported when fCVI driver receives invalid advertisement, and corrective actions typically involve following the documented corrective action guidance.
 
 == fcvi.invalid.advertisement
 *Severity*::

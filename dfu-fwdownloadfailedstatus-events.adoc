@@ -15,7 +15,7 @@ summary: dfu.fwdownloadfailedstatus events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.fwdownloadfailedstatus EMS events, which report when a firmware download failure occurs.
+dfu.fwdownloadfailedstatus events are reported when a firmware download failure occurs, and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.fwDownloadFailedStatus
 *Severity*::

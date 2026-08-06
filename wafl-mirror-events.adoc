@@ -15,7 +15,7 @@ summary: wafl.mirror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.mirror EMS events for access denied activity.
+wafl.mirror events are reported when the system rejects client access to a primordial volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.mirror.access.denied
 *Severity*::

@@ -15,7 +15,7 @@ summary: fabricpool.cloud events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fabricpool.cloud EMS events for subscription activity.
+fabricpool.cloud events are reported when a cloud subscription license for FabricPools has been added, and corrective actions typically involve following the documented corrective action guidance.
 
 == fabricpool.cloud.subscription.added
 *Severity*::

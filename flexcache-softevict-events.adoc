@@ -15,7 +15,7 @@ summary: flexcache.softevict events
 :imagesdir: ./media/
 
 [.lead]
-Learn about flexcache.softevict EMS events.
+flexcache.softevict events are reported when soft evicting a cache volume fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == flexcache.softEvict.failed
 *Severity*::

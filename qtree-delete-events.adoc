@@ -15,7 +15,7 @@ summary: qtree.delete events
 :imagesdir: ./media/
 
 [.lead]
-Learn about qtree.delete EMS events.
+qtree.delete events are reported when the delete operation on a qtree fails, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == qtree.delete.failed
 *Severity*::

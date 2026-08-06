@@ -15,7 +15,7 @@ summary: sis.idedup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.idedup EMS events, which report when inline deduplication is disabled if aggregate is not hybrid or not part of All-Flash Optimized node since inline deduplication is not supported on them.
+sis.idedup events are reported when inline deduplication is disabled if aggregate is not hybrid or not part of All-Flash Optimized node since inline deduplication is not supported on them, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.idedup.disable
 *Severity*::

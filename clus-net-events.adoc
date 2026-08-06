@@ -15,7 +15,7 @@ summary: clus.net events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clus.net EMS events for noneighbors switchlessinv switchlessmismatch activity.
+clus.net events are reported when the cluster network ports with "link" reported as "up" are neither receiving CDP nor LLDP neighbor announcements, and corrective actions typically involve following the documented corrective action guidance.
 
 == clus.net.noNeighbors
 *Severity*::

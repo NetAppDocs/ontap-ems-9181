@@ -15,7 +15,7 @@ summary: spm.ndmpd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.ndmpd EMS events, which report when the Network Data Management Protocol (NDMP) server (ndmpd) involuntarily terminates.
+spm.ndmpd events are reported when the Network Data Management Protocol (NDMP) server (ndmpd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.ndmpd.process.exit
 *Severity*::

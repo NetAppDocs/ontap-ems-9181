@@ -15,7 +15,7 @@ summary: ccma.disabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ccma.disabled EMS events, which report when the Performance Archive has been disabled for more than an hour.
+ccma.disabled events are reported when the Performance Archive has been disabled for more than an hour, and corrective actions typically involve following the documented corrective action guidance.
 
 == ccma.disabled
 *Severity*::

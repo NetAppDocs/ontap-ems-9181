@@ -15,7 +15,7 @@ summary: asa.personality events
 :imagesdir: ./media/
 
 [.lead]
-Learn about asa.personality EMS events.
+asa.personality events are reported when the cluster personality has been changed to an All SAN Array, and corrective actions typically involve following the documented corrective action guidance.
 
 == asa.personality.enable.end
 *Severity*::

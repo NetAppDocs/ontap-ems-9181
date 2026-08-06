@@ -15,7 +15,7 @@ summary: spm.cphmd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.cphmd EMS events, which report when the Chassis Health Monitor process (cphmd) involuntarily terminates.
+spm.cphmd events are reported when the Chassis Health Monitor process (cphmd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.cphmd.process.exit
 *Severity*::

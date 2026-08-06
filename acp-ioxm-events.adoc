@@ -15,7 +15,7 @@ summary: acp.ioxm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about acp.ioxm EMS events for up activity.
+acp.ioxm events are reported when the link status of one or more ports from the IOXM switch changes from "up" to "down", and corrective actions typically involve verifying the reported configuration and health state.
 
 == acp.ioxm.port.down
 *Severity*::

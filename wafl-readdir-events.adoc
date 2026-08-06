@@ -15,7 +15,7 @@ summary: wafl.readdir events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.readdir EMS events for expired sparse activity.
+wafl.readdir events are reported when a READDIR file operation has exceeded the timeout that it is allowed to run in WAFL, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.readdir.expired
 *Severity*::

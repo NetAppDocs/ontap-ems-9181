@@ -15,7 +15,7 @@ summary: wafl.asserts events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.asserts EMS events, which report when This message occurs on development kernels when some of the asserts are disabled.
+wafl.asserts events are reported when this message occurs on development kernels when some of the asserts are disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.asserts.disabled
 *Severity*::

@@ -15,7 +15,7 @@ summary: fabricpool.lost events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fabricpool.lost EMS events, which report when ONTAP has lost contact with the Service Control Unit used with cloud subscription licenses.
+fabricpool.lost events are reported when oNTAP has lost contact with the Service Control Unit used with cloud subscription licenses, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == fabricpool.lost.contact.scu
 *Severity*::

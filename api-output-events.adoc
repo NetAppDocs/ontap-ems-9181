@@ -15,7 +15,7 @@ summary: api.output events
 :imagesdir: ./media/
 
 [.lead]
-Learn about api.output EMS events for invalidschema activity.
+api.output events are reported when an invalid character was detected while checking the output for a Data ONTAP(R) API, and corrective actions typically involve following the documented corrective action guidance.
 
 == api.output.invalid
 *Severity*::

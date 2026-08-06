@@ -15,7 +15,7 @@ summary: clam.failover events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clam.failover EMS events, which report when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) receives a failover event from high-availability(HA) subsystem.
+clam.failover events are reported when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) receives a failover event from high-availability(HA) subsystem, and corrective actions typically involve following the documented corrective action guidance.
 
 == clam.failover.event
 *Severity*::

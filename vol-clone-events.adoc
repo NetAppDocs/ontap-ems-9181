@@ -15,7 +15,7 @@ summary: vol.clone events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vol.clone EMS events, which report when the clone split of a volume clone takes the optimized path which uses an Azure copy blob operation to copy objects from the parent volume to the clone.
+vol.clone events are reported when the clone split of a volume clone takes the optimized path which uses an Azure copy blob operation to copy objects from the parent volume to the clone, and corrective actions typically involve following the documented corrective action guidance.
 
 == vol.clone.split.optimized
 *Severity*::

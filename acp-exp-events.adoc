@@ -15,7 +15,7 @@ summary: acp.exp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about acp.exp EMS events for vpd activity.
+acp.exp events are reported when the Alternate Control Path (ACP) Processor receives a command to power-cycle the SAS expander, and corrective actions typically involve following the documented corrective action guidance.
 
 == acp.exp.power.cycle
 *Severity*::

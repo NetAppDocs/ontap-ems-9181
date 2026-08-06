@@ -15,7 +15,7 @@ summary: arl.aggronlinefailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about arl.aggronlinefailed EMS events, which report when the RAID or WAFL(R) subsystem fails to bring online the aggregate or its containing volumes after relocation.
+arl.aggronlinefailed events are reported when the RAID or WAFL(R) subsystem fails to bring online the aggregate or its containing volumes after relocation, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == arl.aggrOnlineFailed
 *Severity*::

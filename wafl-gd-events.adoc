@@ -15,7 +15,7 @@ summary: wafl.gd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.gd EMS events for size rsrv convert activity.
+wafl.gd events are reported when reserving allocation size fails for a file using granular data because there is no space available in the volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.gd.alloc.size.rsrv.fail
 *Severity*::

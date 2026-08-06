@@ -15,7 +15,7 @@ summary: shm.reformat events
 :imagesdir: ./media/
 
 [.lead]
-Learn about shm.reformat EMS events for diskerror partnerdisk startmsg activity.
+shm.reformat events are reported when the system tries to reformat a disk, but an error is returned, and corrective actions typically involve following the documented corrective action guidance.
 
 == shm.reformat.diskError
 *Severity*::

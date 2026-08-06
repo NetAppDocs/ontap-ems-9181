@@ -15,7 +15,7 @@ summary: diskown.generated events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.generated EMS events, which report when the software disk ownership module notifies other layers that it has completed the process of updating its view of the disks attached to the system.
+diskown.generated events are reported when the software disk ownership module notifies other layers that it has completed the process of updating its view of the disks attached to the system, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.generated.completionEvent
 *Severity*::

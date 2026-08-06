@@ -15,7 +15,7 @@ summary: asyncdelete.cancel events
 :imagesdir: ./media/
 
 [.lead]
-Learn about asyncdelete.cancel EMS events, which report when cancellation of async delete jobs is started on a node due to Vserver migrate operation.
+asyncdelete.cancel events are reported when cancellation of async delete jobs is started on a node due to Vserver migrate operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == asyncDelete.cancel.start
 *Severity*::

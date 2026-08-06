@@ -15,7 +15,7 @@ summary: cmds.config events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cmds.config EMS events, which report when there is an error in deleting the specified file.
+cmds.config events are reported when there is an error in deleting the specified file, and corrective actions typically involve following the documented corrective action guidance.
 
 == cmds.config.file.delete
 *Severity*::

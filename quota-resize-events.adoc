@@ -15,7 +15,7 @@ summary: quota.resize events
 :imagesdir: ./media/
 
 [.lead]
-Learn about quota.resize EMS events.
+quota.resize events are reported when quota resize starts, and no corrective action is typically required.
 
 == quota.resize.start
 *Severity*::

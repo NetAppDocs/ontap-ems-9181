@@ -15,7 +15,7 @@ summary: mlm.vmdisk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mlm.vmdisk EMS events for discovery pathadded activity.
+mlm.vmdisk events are reported when the system discovers a new virtual disk in a virtual machine (VM), and corrective actions typically involve following the documented corrective action guidance.
 
 == mlm.vmdisk.discovery
 *Severity*::

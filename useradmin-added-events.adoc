@@ -15,7 +15,7 @@ summary: useradmin.added events
 :imagesdir: ./media/
 
 [.lead]
-Learn about useradmin.added EMS events, which report when A user, group, or role has been added, deleted, or modified.
+useradmin.added events are reported when a user, group, or role has been added, deleted, or modified, and corrective actions typically involve following the documented corrective action guidance.
 
 == useradmin.added.deleted
 *Severity*::

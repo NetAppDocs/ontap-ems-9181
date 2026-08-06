@@ -15,7 +15,7 @@ summary: upgrademgr.fw events
 :imagesdir: ./media/
 
 [.lead]
-Learn about upgrademgr.fw EMS events for monitor unsupported activity.
+upgrademgr.fw events are reported when an automated nondisruptive upgrade (ANDU) completes the firmware update monitoring job, and corrective actions typically involve following the documented corrective action guidance.
 
 == upgrademgr.fw.monitor.end
 *Severity*::

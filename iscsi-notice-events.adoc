@@ -15,7 +15,7 @@ summary: iscsi.notice events
 :imagesdir: ./media/
 
 [.lead]
-Learn about iscsi.notice EMS events, which report when This event is issued when a loggable, non-error event occurs within the iSCSI subsystem.
+iscsi.notice events are reported when this event is issued when a loggable, non-error event occurs within the iSCSI subsystem, and corrective actions typically involve following the documented corrective action guidance.
 
 == iscsi.notice
 *Severity*::

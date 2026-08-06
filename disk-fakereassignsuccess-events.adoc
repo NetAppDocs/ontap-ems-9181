@@ -15,7 +15,7 @@ summary: disk.fakereassignsuccess events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.fakereassignsuccess EMS events, which report when a fake reassign is detected on a disk and the sector verify succeeds.
+disk.fakereassignsuccess events are reported when a fake reassign is detected on a disk and the sector verify succeeds, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.fakereassignSuccess
 *Severity*::

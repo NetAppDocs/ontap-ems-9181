@@ -15,7 +15,7 @@ summary: wafl.qtree events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.qtree EMS events for id mismatch qsmbreak activity.
+wafl.qtree events are reported when a qtree ID derived from a WAFL(R) buffer does not match the given tree ID in a snapshot, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.qtree.id.mismatch
 *Severity*::

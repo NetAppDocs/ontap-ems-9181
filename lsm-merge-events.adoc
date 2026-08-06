@@ -15,7 +15,7 @@ summary: lsm.merge events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lsm.merge EMS events for alog problem slog activity.
+lsm.merge events are reported when a block store encounters an error while merging an append log, and corrective actions typically involve following the documented corrective action guidance.
 
 == lsm.merge.alog.problem
 *Severity*::

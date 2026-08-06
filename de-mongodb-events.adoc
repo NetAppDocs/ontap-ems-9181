@@ -15,7 +15,7 @@ summary: de.mongodb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about de.mongodb EMS events, which report when MongoDB health degrades within the AI Data Engine (AIDE) cluster, impacting shard integrity, replica set consistency, and config server availability, resulting in metadata access failures and disruption of Metadata Engine services.
+de.mongodb events are reported when mongoDB health degrades within the AI Data Engine (AIDE) cluster, impacting shard integrity, replica set consistency, and config server availability, resulting in metadata access failures and disruption of Metadata Engine services, and corrective actions typically involve contacting NetApp technical support.
 
 == de.mongodb.health.failed
 *Severity*::

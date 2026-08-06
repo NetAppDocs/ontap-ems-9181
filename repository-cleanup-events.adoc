@@ -15,7 +15,7 @@ summary: repository.cleanup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repository.cleanup EMS events, which report when there is a failure in the Infinite Volume while creating a stream on a nonexistent file, and the base file was left behind in the Vserver.
+repository.cleanup events are reported when there is a failure in the Infinite Volume while creating a stream on a nonexistent file, and the base file was left behind in the Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == Repository.Cleanup.BaseFile
 *Deprecated*::

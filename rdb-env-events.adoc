@@ -15,7 +15,7 @@ summary: rdb.env events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rdb.env EMS events for iofailure processduplicate replicacorrupt activity.
+rdb.env events are reported when the cluster management Data Replication Module determines that I/O operations on the node's mroot filesystem are failing, and corrective actions typically involve contacting NetApp technical support.
 
 == rdb.env.IOFailure
 *Severity*::

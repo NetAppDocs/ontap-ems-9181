@@ -15,7 +15,7 @@ summary: sfo.giveback events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfo.giveback EMS events for bdfu aggregatesabort attemptexceeded activity.
+sfo.giveback events are reported when giveback of storage failover (SFO) aggregates is aborted because the background disk firmware update either on the source node or destination node took more than 120 seconds to finish, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfo.giveback.aborted.bdfu
 *Severity*::

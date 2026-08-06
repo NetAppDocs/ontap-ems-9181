@@ -15,7 +15,7 @@ summary: wafl.lmgr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.lmgr EMS events for meta mv rm activity.
+wafl.lmgr events are reported when the appliance file lock state for a volume could not be moved during a file system check operation (wafliron), and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.lmgr.meta.mv
 *Severity*::

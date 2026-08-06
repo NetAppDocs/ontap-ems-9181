@@ -15,7 +15,7 @@ summary: extcache.aggregate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.aggregate EMS events, which report when This message provides diagnostic information about background work taking place in the WAFL(R) external cache subsystem.
+extcache.aggregate events are reported when this message provides diagnostic information about background work taking place in the WAFL(R) external cache subsystem, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.aggregate.invalidate
 *Severity*::

@@ -15,7 +15,7 @@ summary: scsiblade.init events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.init EMS events for failure activity.
+scsiblade.init events are reported when the specified Vserver initialization was skipped due to a user-initiated abort, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.init.abort
 *Severity*::

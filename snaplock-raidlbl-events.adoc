@@ -15,7 +15,7 @@ summary: snaplock.raidlbl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snaplock.raidlbl EMS events, which report when the periodic SnapLock disk protection check fails to validate the RAID label on disks.
+snaplock.raidlbl events are reported when the periodic SnapLock disk protection check fails to validate the RAID label on disks, and corrective actions typically involve following the documented corrective action guidance.
 
 == snaplock.raidlbl.update.fail
 *Severity*::

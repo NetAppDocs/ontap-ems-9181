@@ -15,7 +15,7 @@ summary: vsdr.missing events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.missing EMS events, which report when the clone parent volume does not exist during the Vserver SnapMirror(R)/MetroCluster(tm) baseline replication on the secondary site.
+vsdr.missing events are reported when the clone parent volume does not exist during the Vserver SnapMirror(R)/MetroCluster(tm) baseline replication on the secondary site, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.missing.clone.parent.volume
 *Severity*::

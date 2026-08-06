@@ -15,7 +15,7 @@ summary: nblade.fpolpsvolofflined events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.fpolpsvolofflined EMS events, which report when persistent store volume is offline.
+nblade.fpolpsvolofflined events are reported when persistent store volume is offline, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == Nblade.fpolPsVolOfflined
 *Severity*::

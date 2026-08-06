@@ -15,7 +15,7 @@ summary: cs.endpoint events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cs.endpoint EMS events, which report when volume delete operations attempts to clean-up snapmirror resources and finds that there are no cloud snapshots associated with the volume.
+cs.endpoint events are reported when volume delete operations attempts to clean-up snapmirror resources and finds that there are no cloud snapshots associated with the volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == cs.endpoint.has.no.snapshots
 *Severity*::

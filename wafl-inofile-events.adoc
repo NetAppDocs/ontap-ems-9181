@@ -15,7 +15,7 @@ summary: wafl.inofile events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.inofile EMS events, which report when This event can occur when a snapshot's inofile buffer header has the wrong magic or file block number.
+wafl.inofile events are reported when this event can occur when a snapshot's inofile buffer header has the wrong magic or file block number, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.inofile.buf.badHeader
 *Severity*::

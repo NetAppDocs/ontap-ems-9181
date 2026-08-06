@@ -15,7 +15,7 @@ summary: sis.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.vol EMS events for promote overwrite depri activity.
+sis.vol events are reported when deprioritized volume gets auto promoted, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.vol.auto.promote
 *Severity*::

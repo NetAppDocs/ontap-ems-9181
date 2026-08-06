@@ -15,7 +15,7 @@ summary: raid.hybrid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.hybrid EMS events for ssdhaexceed ssdtotexceed activity.
+raid.hybrid events are reported when the sum of all sizes of solid state disks (SSDs) disks of hybrid aggregates on this node and its partner node is larger than the maximum system limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.hybrid.SSDHAExceed
 *Severity*::

@@ -15,7 +15,7 @@ summary: scsi.scan events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsi.scan EMS events for bus halted lun activity.
+scsi.scan events are reported when the creation of the SCSI transport (xpt) path fails, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == scsi.scan.bus.halted
 *Severity*::

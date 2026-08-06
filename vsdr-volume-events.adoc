@@ -15,7 +15,7 @@ summary: vsdr.volume events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.volume EMS events for idconflict name conflict activity.
+vsdr.volume events are reported when the volume to be created on the destination cluster fails because of an internal identity conflict with another volume in the system, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.volume.idconflict
 *Severity*::

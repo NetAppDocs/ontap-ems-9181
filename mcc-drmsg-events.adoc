@@ -15,7 +15,7 @@ summary: mcc.drmsg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.drmsg EMS events for received sent activity.
+mcc.drmsg events are reported when a DR message is successfully received from a DR partner node, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.drmsg.received
 *Severity*::

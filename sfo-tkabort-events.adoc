@@ -15,7 +15,7 @@ summary: sfo.tkabort events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfo.tkabort EMS events, which report when the destination node cannot contact the object stores during the planned takeover of a FabricPool aggregate.
+sfo.tkabort events are reported when the destination node cannot contact the object stores during the planned takeover of a FabricPool aggregate, and corrective actions typically involve verifying the reported configuration and health state.
 
 == sfo.tkAbort.ca.check.failed
 *Severity*::

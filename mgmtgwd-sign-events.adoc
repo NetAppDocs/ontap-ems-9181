@@ -15,7 +15,7 @@ summary: mgmtgwd.sign events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.sign EMS events for cert expired expiring activity.
+mgmtgwd.sign events are reported when a digital certificate for a Vserver expires, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.sign.cert.expired
 *Severity*::

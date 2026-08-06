@@ -15,7 +15,7 @@ summary: acp.post events
 :imagesdir: ./media/
 
 [.lead]
-Learn about acp.post EMS events, which report when a 'post data' request that was sent to the Alternate Controller Path Processor fails.
+acp.post events are reported when a 'post data' request that was sent to the Alternate Controller Path Processor fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == acp.post.data.failed
 *Severity*::

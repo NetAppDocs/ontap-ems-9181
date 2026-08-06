@@ -15,7 +15,7 @@ summary: vifmgr.clusterlfoconf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.clusterlfoconf EMS events, which report when the failover policy and failover group for a cluster LIF are restored to their default values.
+vifmgr.clusterlfoconf events are reported when the failover policy and failover group for a cluster LIF are restored to their default values, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.clusterLFOConf
 *Severity*::

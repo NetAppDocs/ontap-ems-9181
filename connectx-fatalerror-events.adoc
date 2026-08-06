@@ -15,7 +15,7 @@ summary: connectx.fatalerror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about connectx.fatalerror EMS events, which report when a fatal error is polled from the ConnectX(tm) InfiniBand(R) adapter.
+connectx.fatalerror events are reported when a fatal error is polled from the ConnectX(tm) InfiniBand(R) adapter, and corrective actions typically involve contacting NetApp technical support.
 
 == connectx.fatalError
 *Severity*::

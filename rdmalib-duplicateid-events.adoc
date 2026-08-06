@@ -15,7 +15,7 @@ summary: rdmalib.duplicateid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rdmalib.duplicateid EMS events, which report when the local node system identifier matches the partner node's system identifier.
+rdmalib.duplicateid events are reported when the local node system identifier matches the partner node's system identifier, and corrective actions typically involve contacting NetApp technical support.
 
 == rdmalib.duplicateId
 *Severity*::

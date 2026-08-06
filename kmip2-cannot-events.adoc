@@ -15,7 +15,7 @@ summary: kmip2.cannot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kmip2.cannot EMS events for import mrootak key activity.
+kmip2.cannot events are reported when the KMIP2 client cannot import the MROOT-AK key from a Key Management Interoperability Protocol (KMIP) key server, and corrective actions typically involve rebooting the node or cluster component.
 
 == kmip2.cannot.import.MROOTAK
 *Severity*::

@@ -15,7 +15,7 @@ summary: ic.viif events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ic.viif EMS events, which report when the driver fails to create a virtual interface.
+ic.viif events are reported when the driver fails to create a virtual interface, and corrective actions typically involve rebooting the node or cluster component.
 
 == ic.viif.initFailed
 *Severity*::

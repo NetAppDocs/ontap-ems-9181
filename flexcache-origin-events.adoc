@@ -15,7 +15,7 @@ summary: flexcache.origin events
 :imagesdir: ./media/
 
 [.lead]
-Learn about flexcache.origin EMS events for sync size for activity.
+flexcache.origin events are reported when the origin of the FlexCache volume expand operation fails to synchronize the configuration information between the newly created constituent volume and the FlexCache cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == flexcache.origin.config.sync.failed
 *Severity*::

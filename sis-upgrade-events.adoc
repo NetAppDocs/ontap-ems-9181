@@ -15,7 +15,7 @@ summary: sis.upgrade events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.upgrade EMS events for aggr metafile feature activity.
+sis.upgrade events are reported when single Instance Storage (SIS) metafiles cannot be created in the aggregate containing the volume, during a Data ONTAP(R) upgrade, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == sis.upgrade.aggr.metafile.failed
 *Severity*::

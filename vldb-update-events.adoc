@@ -15,7 +15,7 @@ summary: vldb.update events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vldb.update EMS events, which report when the aggregate ownership update fails during switchover.
+vldb.update events are reported when the aggregate ownership update fails during switchover, and corrective actions typically involve contacting NetApp technical support.
 
 == vldb.update.duringsofail
 *Severity*::

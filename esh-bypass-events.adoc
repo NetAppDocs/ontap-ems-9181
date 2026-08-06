@@ -15,7 +15,7 @@ summary: esh.bypass events
 :imagesdir: ./media/
 
 [.lead]
-Learn about esh.bypass EMS events for disk host activity.
+esh.bypass events are reported when there is a disk bypass event, and corrective actions typically involve following the documented corrective action guidance.
 
 == esh.bypass.err.disk
 *Severity*::

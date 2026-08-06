@@ -15,7 +15,7 @@ summary: vm.dev events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vm.dev EMS events for diskslowio writeprotected activity.
+vm.dev events are reported when data ONTAP(R) is running on a virtual platform, and slow I/O is detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == vm.dev.diskSlowIO
 *Severity*::

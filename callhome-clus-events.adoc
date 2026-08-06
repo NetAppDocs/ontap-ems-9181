@@ -15,7 +15,7 @@ summary: callhome.clus events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.clus EMS events for net degraded vol activity.
+callhome.clus events are reported when the cluster network has experienced an issue that could potentially affect connectivity, reliability, redundancy, or performance, as observed from the local node, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.clus.net.degraded
 *Severity*::

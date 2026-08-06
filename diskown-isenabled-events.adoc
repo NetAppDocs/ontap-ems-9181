@@ -15,7 +15,7 @@ summary: diskown.isenabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.isenabled EMS events, which report when This event is issued when enable sanown.
+diskown.isenabled events are reported when this event is issued when enable sanown, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.isEnabled
 *Severity*::

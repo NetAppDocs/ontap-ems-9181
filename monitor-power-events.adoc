@@ -15,7 +15,7 @@ summary: monitor.power events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.power EMS events for degraded normal sufficient activity.
+monitor.power events are reported when the main unit power supply is in a degraded mode, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.power.degraded
 *Deprecated*::

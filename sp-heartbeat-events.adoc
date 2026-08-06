@@ -15,7 +15,7 @@ summary: sp.heartbeat events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.heartbeat EMS events for resumed activity.
+sp.heartbeat events are reported when the appliance detects resumption of Service Processor (SP) heartbeat notifications indicating that the Service Processor is now available, and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.heartbeat.resumed
 *Severity*::

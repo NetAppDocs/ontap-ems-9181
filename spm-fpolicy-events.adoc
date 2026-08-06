@@ -15,7 +15,7 @@ summary: spm.fpolicy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.fpolicy EMS events, which report when the fpolicy involuntarily terminates.
+spm.fpolicy events are reported when the fpolicy involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.fpolicy.process.exit
 *Severity*::

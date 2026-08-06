@@ -15,7 +15,7 @@ summary: mgmt.cifssymlink events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.cifssymlink EMS events for failure activity.
+mgmt.cifssymlink events are reported when configuration of a CIFS symbolic link fails; the symbolic link might not be available through CIFS, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == mgmt.cifssymlink.failure
 *Severity*::

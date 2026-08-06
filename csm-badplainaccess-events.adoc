@@ -15,7 +15,7 @@ summary: csm.badplainaccess events
 :imagesdir: ./media/
 
 [.lead]
-Learn about csm.badplainaccess EMS events, which report when a blade attempts to access the local cluster without encrypting its communication channel, and Cluster Session Manager (CSM), which establishes and manages SpinNP sessions between blades in the cluster, denies access of the unencrypted communication channel.
+csm.badplainaccess events are reported when a blade attempts to access the local cluster without encrypting its communication channel, and Cluster Session Manager (CSM), which establishes and manages SpinNP sessions between blades in the cluster, denies access of the unencrypted communication channel, and corrective actions typically involve following the documented corrective action guidance.
 
 == csm.badPlainAccess
 *Severity*::

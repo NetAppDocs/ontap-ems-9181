@@ -15,7 +15,7 @@ summary: vifmgr.portdeg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.portdeg EMS events for ifgrpadded lifhosted lifmoved activity.
+vifmgr.portdeg events are reported when an administrative action adds a port with a degraded health status to an interface group, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.portDeg.ifgrpAdded
 *Severity*::

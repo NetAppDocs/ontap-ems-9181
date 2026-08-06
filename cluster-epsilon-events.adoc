@@ -15,7 +15,7 @@ summary: cluster.epsilon events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cluster.epsilon EMS events for assign assigned activity.
+cluster.epsilon events are reported when automatic assignment of epsilon to a node fails, alerting the customer that there is no epsilon on their system, and corrective actions typically involve following the documented corrective action guidance.
 
 == cluster.epsilon.assign.fail
 *Severity*::

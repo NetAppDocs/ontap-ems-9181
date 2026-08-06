@@ -15,7 +15,7 @@ summary: cr.fix events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cr.fix EMS events for crpt data file activity.
+cr.fix events are reported when corrective action for corrupt redirector file failed, and corrective actions typically involve following the documented corrective action guidance.
 
 == CR.Fix.Corrupt.Redir.Failed
 *Deprecated*::

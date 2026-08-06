@@ -15,7 +15,7 @@ summary: ha.takeoverimpic events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.takeoverimpic EMS events, which report when the partner node is down and the local node cannot perform a takeover due to interconnect errors.
+ha.takeoverimpic events are reported when the partner node is down and the local node cannot perform a takeover because of interconnect errors, and corrective actions typically involve verifying the reported configuration and health state.
 
 == ha.takeoverImpIC
 *Severity*::

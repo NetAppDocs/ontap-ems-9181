@@ -15,7 +15,7 @@ summary: nvmem.voltage events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmem.voltage EMS events for high warn low activity.
+nvmem.voltage events are reported when the NVMEM supply voltage is high and the system is at a high risk of data loss if power fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmem.voltage.high
 *Severity*::

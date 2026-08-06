@@ -15,7 +15,7 @@ summary: snaplock.trans events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snaplock.trans EMS events, which report when autocommit period is adjusted on a Snaplock volume upon transition.
+snaplock.trans events are reported when autocommit period is adjusted on a Snaplock volume upon transition, and corrective actions typically involve following the documented corrective action guidance.
 
 == snaplock.trans.autocommit
 *Severity*::

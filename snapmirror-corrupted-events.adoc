@@ -15,7 +15,7 @@ summary: snapmirror.corrupted events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapmirror.corrupted EMS events, which report when metadata replay fails in the process of making a Synchronous SnapMirror(R) destination flexible volume writable.
+snapmirror.corrupted events are reported when metadata replay fails in the process of making a Synchronous SnapMirror(R) destination flexible volume writable, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapmirror.corrupted.replay
 *Severity*::

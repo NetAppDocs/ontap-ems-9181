@@ -15,7 +15,7 @@ summary: qos.monitor events
 :imagesdir: ./media/
 
 [.lead]
-Learn about qos.monitor EMS events for memory abated maxed activity.
+qos.monitor events are reported when the Quality of Service (QoS) subsystem's dynamic memory is no longer at its limit for the current platform hardware, and corrective actions typically involve following the documented corrective action guidance.
 
 == qos.monitor.memory.abated
 *Severity*::

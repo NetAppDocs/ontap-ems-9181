@@ -15,7 +15,7 @@ summary: netinet6.nbr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netinet6.nbr EMS events for dad dadtmr invld activity.
+netinet6.nbr events are reported when oNTAP receives unexpected Neighbor Discovery (ND) packets, and corrective actions typically involve following the documented corrective action guidance.
 
 == netinet6.nbr.bad.addr
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.nfs4trunkmaxlimit events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.nfs4trunkmaxlimit EMS events, which report when a session trunking group created by the NFSv41 client exceeds the maximum number of supported trunk connections.
+nblade.nfs4trunkmaxlimit events are reported when a session trunking group created by the NFSv41 client exceeds the maximum number of supported trunk connections, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.nfs4TrunkMaxLimit
 *Severity*::

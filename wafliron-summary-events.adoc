@@ -15,7 +15,7 @@ summary: wafliron.summary events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafliron.summary EMS events, which report when This message occurs periodically when wafliron is running and its state is "starting" or "scanning".
+wafliron.summary events are reported when this message occurs periodically when wafliron is running and its state is "starting" or "scanning", and corrective actions typically involve following the documented corrective action guidance.
 
 == waflIron.summary.scanStatus
 *Severity*::

@@ -15,7 +15,7 @@ summary: replication.xfr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.xfr EMS events for checksum nonexistsnap activity.
+replication.xfr events are reported when a SnapMirror(R)/SnapVault(tm) operation is not completed because a block received from the source system failed checksum verification, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.xfr.checksum.fail
 *Severity*::

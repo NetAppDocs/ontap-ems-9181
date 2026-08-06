@@ -15,7 +15,7 @@ summary: lmgr.sh events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.sh EMS events, which report when the system vetoes aggregate giveback or relocation because CIFS oplock recall fails.
+lmgr.sh events are reported when the system vetoes aggregate giveback or relocation because CIFS oplock recall fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.sh.oplock.recall.fail
 *Deprecated*::

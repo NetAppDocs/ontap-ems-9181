@@ -15,7 +15,7 @@ summary: mgr.avail events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgr.avail EMS events, which report when This message is emitted when statistics is reset.
+mgr.avail events are reported when this message is emitted when statistics is reset, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgr.avail.stat.reset
 *Severity*::

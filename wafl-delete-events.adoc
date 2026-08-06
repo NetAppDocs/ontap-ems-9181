@@ -15,7 +15,7 @@ summary: wafl.delete events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.delete EMS events for indirect fenced file activity.
+wafl.delete events are reported when the system encounters a lost indirect block while deleting a file, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.delete.bad.indirect
 *Severity*::

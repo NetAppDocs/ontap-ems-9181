@@ -15,7 +15,7 @@ summary: callhome.coredump events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.coredump EMS events, which report when all the core segments belonging to a coredump have been saved.
+callhome.coredump events are reported when all the core segments belonging to a coredump have been saved, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.coredump.save.done
 *Severity*::

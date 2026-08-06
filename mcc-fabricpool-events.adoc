@@ -15,7 +15,7 @@ summary: mcc.fabricpool events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.fabricpool EMS events for license absent diff activity.
+mcc.fabricpool events are reported when a FabricPool license exists on only one of the two sites of a MetroCluster(tm) configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.fabricpool.license.absent
 *Severity*::

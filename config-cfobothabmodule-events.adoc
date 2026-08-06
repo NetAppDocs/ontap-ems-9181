@@ -15,7 +15,7 @@ summary: config.cfobothabmodule events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.cfobothabmodule EMS events, which report when a disk shelf in a node is cabled for multipathing and the configuration does not support it.
+config.cfobothabmodule events are reported when a disk shelf in a node is cabled for multipathing and the configuration does not support it, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.CFObothABmodule
 *Severity*::

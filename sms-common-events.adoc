@@ -15,7 +15,7 @@ summary: sms.common events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sms.common EMS events, which report when there is a failure in creating a common snapshot.
+sms.common events are reported when there is a failure in creating a common snapshot, and corrective actions typically involve following the documented corrective action guidance.
 
 == sms.common.snapshot.failed
 *Severity*::

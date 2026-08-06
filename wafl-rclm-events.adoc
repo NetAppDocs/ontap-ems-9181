@@ -15,7 +15,7 @@ summary: wafl.rclm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.rclm EMS events, which report when an attempt to estimate the space that can be reclaimed for the aggregate was completed successfully.
+wafl.rclm events are reported when an attempt to estimate the space that can be reclaimed for the aggregate was completed successfully, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.rclm.est.scan.done
 *Severity*::

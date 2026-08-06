@@ -15,7 +15,7 @@ summary: nblade.junctionrootlookup2 events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.junctionrootlookup2 EMS events, which report when the system cannot obtain the root file handle of the volume mounted on a junction path.
+nblade.junctionrootlookup2 events are reported when the system cannot obtain the root file handle of the volume mounted on a junction path, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == Nblade.JunctionRootLookup2
 *Severity*::

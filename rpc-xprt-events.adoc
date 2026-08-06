@@ -15,7 +15,7 @@ summary: rpc.xprt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rpc.xprt EMS events for limit vfiler activity.
+rpc.xprt events are reported when the number of active connections to a side band Remote Procedure Call (RPC) reaches the limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == rpc.xprt.limit
 *Deprecated*::

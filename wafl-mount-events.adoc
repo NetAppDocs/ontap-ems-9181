@@ -15,7 +15,7 @@ summary: wafl.mount events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.mount EMS events for fa incons inconsistent activity.
+wafl.mount events are reported when the flexaggregate cannot be mounted; the flexaggregate is marked as inconsistent, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.mount.fa.incons
 *Severity*::

@@ -15,7 +15,7 @@ summary: encryption.op events
 :imagesdir: ./media/
 
 [.lead]
-Learn about encryption.op EMS events for paused by user activity.
+encryption.op events are reported when a rekey or conversion to encryption operation is completed on a volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == encryption.op.completed
 *Severity*::

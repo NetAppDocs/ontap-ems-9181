@@ -15,7 +15,7 @@ summary: dump.volume events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dump.volume EMS events, which report when This event is generated when we are trying to dump a volume which is full and we cannot write the offsetmap on to the disk and we are using memory instead of disk to do this.
+dump.volume events are reported when we are trying to dump a volume which is full and we cannot write the offsetmap on to the disk and we are using memory instead of disk to do this, and corrective actions typically involve following the documented corrective action guidance.
 
 == dump.volume.memory
 *Severity*::

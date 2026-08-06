@@ -15,7 +15,7 @@ summary: sp.wdog events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.wdog EMS events, which report when ONTAP(R) software fails to disable or enable the service-processor' (SP or BMC) watchdog timer.
+sp.wdog events are reported when oNTAP(R) software fails to disable or enable the service-processor' (SP or BMC) watchdog timer, and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.wdog.set.fail
 *Severity*::

@@ -15,7 +15,7 @@ summary: diskown.reassignfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.reassignfailed EMS events, which report when a disk reassign request fails.
+diskown.reassignfailed events are reported when a disk reassign request fails, and corrective actions typically involve verifying the reported configuration and health state.
 
 == diskown.ReassignFailed
 *Severity*::

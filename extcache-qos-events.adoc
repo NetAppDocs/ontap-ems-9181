@@ -15,7 +15,7 @@ summary: extcache.qos events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.qos EMS events, which report when External Cache Quality of Service (QoS) monitoring is enabled/disabled.
+extcache.qos events are reported when external Cache Quality of Service (QoS) monitoring is enabled/disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.QoS
 *Severity*::

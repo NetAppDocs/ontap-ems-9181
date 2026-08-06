@@ -15,7 +15,7 @@ summary: asup.aods events
 :imagesdir: ./media/
 
 [.lead]
-Learn about asup.aods EMS events for response overlimit activity.
+asup.aods events are reported when the size of the response from the AutoSupport OnDemand Server (AODS) goes over the AOD response buffer size limit in ONTAP, and corrective actions typically involve contacting NetApp technical support.
 
 == asup.aods.response.overLimit
 *Severity*::

@@ -15,7 +15,7 @@ summary: upgrademgr.lifmigrate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about upgrademgr.lifmigrate EMS events for sfo activity.
+upgrademgr.lifmigrate events are reported when an ONTAP automated nondisruptive upgrade (ANDU) of ONTAP finishes the data LIF migration or failover stage, and corrective actions typically involve following the documented corrective action guidance.
 
 == upgrademgr.LIFmigrate.end
 *Severity*::

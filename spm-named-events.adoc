@@ -15,7 +15,7 @@ summary: spm.named events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.named EMS events, which report when the Domain Name Service (DNS) name resolution daemon 'named' involuntarily exits.
+spm.named events are reported when the Domain Name Service (DNS) name resolution daemon 'named' involuntarily exits, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.named.process.exit
 *Severity*::

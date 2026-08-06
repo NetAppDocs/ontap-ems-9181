@@ -15,7 +15,7 @@ summary: netif.nicnotsupported events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.nicnotsupported EMS events, which report when the installed network interface card (NIC) version is not supported.
+netif.nicnotsupported events are reported when the installed network interface card (NIC) version is not supported, and corrective actions typically involve following the documented corrective action guidance.
 
 == netif.nicNotSupported
 *Severity*::

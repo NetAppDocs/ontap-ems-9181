@@ -15,7 +15,7 @@ summary: raid.recons events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.recons EMS events for lw id inconsist activity.
+raid.recons events are reported when this message occurs during a RAID reconstruction operation, when the system detects an inconsistent RAID write signature on a RAID stripe, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.recons.lw.id.inconsist
 *Severity*::

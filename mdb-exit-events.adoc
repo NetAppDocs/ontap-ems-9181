@@ -15,7 +15,7 @@ summary: mdb.exit events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mdb.exit EMS events, which report when the management process exits to recover from a database error.
+mdb.exit events are reported when the management process exits to recover from a database error, and corrective actions typically involve following the documented corrective action guidance.
 
 == mdb.exit
 *Severity*::

@@ -15,7 +15,7 @@ summary: ctran.gbuf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ctran.gbuf EMS events, which report when one or more attempts to allocate a message buffer to convey messages between nodes for the Kernel Cluster Services (KCS) Cluster Transaction Manager (CTRAN) has been unsuccessful.
+ctran.gbuf events are reported when one or more attempts to allocate a message buffer to convey messages between nodes for the Kernel Cluster Services (KCS) Cluster Transaction Manager (CTRAN) has been unsuccessful, and corrective actions typically involve following the documented corrective action guidance.
 
 == ctran.gbuf.alloc.unsuccessful
 *Severity*::

@@ -15,7 +15,7 @@ summary: ses.unsupported events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.unsupported EMS events for psu psus shelves activity.
+ses.unsupported events are reported when a disk shelf has one unsupported power supply unit installed in it, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.unsupported.shelf.psu
 *Severity*::

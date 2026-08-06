@@ -15,7 +15,7 @@ summary: tsse.scan events
 :imagesdir: ./media/
 
 [.lead]
-Learn about tsse.scan EMS events for catalog activity.
+tsse.scan events are reported when inactive data compression scan related information failed to be updated on the catalog file, and corrective actions typically involve following the documented corrective action guidance.
 
 == tsse.scan.catalog.failed
 *Deprecated*::

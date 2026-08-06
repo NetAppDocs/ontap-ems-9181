@@ -15,7 +15,7 @@ summary: pac.sock events
 :imagesdir: ./media/
 
 [.lead]
-Learn about pac.sock EMS events, which report when the protocol access control fails to get the socket name.
+pac.sock events are reported when the protocol access control fails to get the socket name, and corrective actions typically involve following the documented corrective action guidance.
 
 == pac.sock.getName
 *Severity*::

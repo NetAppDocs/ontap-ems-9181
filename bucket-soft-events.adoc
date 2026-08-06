@@ -15,7 +15,7 @@ summary: bucket.soft events
 :imagesdir: ./media/
 
 [.lead]
-Learn about bucket.soft EMS events for limit normal activity.
+bucket.soft events are reported when a bucket exceeds the soft quota limit (block), and corrective actions typically involve following the documented corrective action guidance.
 
 == bucket.soft.limit.exceeded
 *Severity*::

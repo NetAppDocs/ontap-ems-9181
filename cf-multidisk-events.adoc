@@ -15,7 +15,7 @@ summary: cf.multidisk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.multidisk EMS events, which report when the node is waiting for the partner to take over, after the node encounters a multidisk error or some other fatal error.
+cf.multidisk events are reported when the node is waiting for the partner to take over, after the node encounters a multidisk error or some other fatal error, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.multidisk.fatalProblem
 *Severity*::

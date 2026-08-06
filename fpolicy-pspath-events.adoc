@@ -15,7 +15,7 @@ summary: fpolicy.pspath events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fpolicy.pspath EMS events, which report when the creation of the FPolicy persistent store active or backlog directories fails.
+fpolicy.pspath events are reported when the creation of the FPolicy persistent store active or backlog directories fails, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == fpolicy.pspath.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: splog.failed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about splog.failed EMS events, which report when the system fails to transfer the SP log file from the remote Service Processor (SP).
+splog.failed events are reported when the system fails to transfer the SP log file from the remote Service Processor (SP), and corrective actions typically involve following the documented corrective action guidance.
 
 == splog.failed.to.transfer.log
 *Severity*::

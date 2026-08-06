@@ -15,7 +15,7 @@ summary: scsiblade.cache events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.cache EMS events, which report when the SAN cache encounters an error that might cause configuration inconsistencies within the cluster.
+scsiblade.cache events are reported when the SAN cache encounters an error that might cause configuration inconsistencies within the cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.cache.commit.fail
 *Severity*::

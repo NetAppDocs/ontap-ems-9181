@@ -15,7 +15,7 @@ summary: wafl.spinhi events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.spinhi EMS events, which report when a new spinnp error is being propagated to a blade that does not understand that error yet.
+wafl.spinhi events are reported when a new spinnp error is being propagated to a blade that does not understand that error yet, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.spinhi.new.err.code
 *Severity*::

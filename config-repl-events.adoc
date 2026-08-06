@@ -15,7 +15,7 @@ summary: config.repl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.repl EMS events for bypass activity.
+config.repl events are reported when the configuration replication bypass has been disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.repl.bypass.disabled
 *Severity*::

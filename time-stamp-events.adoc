@@ -15,7 +15,7 @@ summary: time.stamp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about time.stamp EMS events for micro base nano activity.
+time.stamp events are reported when base timestamp event occurred, and corrective actions typically involve following the documented corrective action guidance.
 
 == time.stamp.micro.base
 *Severity*::

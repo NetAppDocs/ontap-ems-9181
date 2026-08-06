@@ -15,7 +15,7 @@ summary: snaptags.file events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snaptags.file EMS events, which report when the system detects an inconsistency in the header of a snapshot tag's metafile of a volume.
+snaptags.file events are reported when the system detects an inconsistency in the header of a snapshot tag's metafile of a volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == snaptags.file.inconsist
 *Severity*::

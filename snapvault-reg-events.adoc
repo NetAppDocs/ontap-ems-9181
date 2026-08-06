@@ -15,7 +15,7 @@ summary: snapvault.reg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapvault.reg EMS events, which report when you downgrade from a kernel with newer version to one with an older version and the system attempts to read a registry entry that is supported only in the newer version of the kernel.
+snapvault.reg events are reported when you downgrade from a kernel with newer version to one with an older version and the system attempts to read a registry entry that is supported only in the newer version of the kernel, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapvault.reg.unknownOpt
 *Severity*::

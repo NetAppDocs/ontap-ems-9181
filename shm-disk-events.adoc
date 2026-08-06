@@ -15,7 +15,7 @@ summary: shm.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about shm.disk EMS events, which report when the system detects a lost write error.
+shm.disk events are reported when the system detects a lost write error, and corrective actions typically involve following the documented corrective action guidance.
 
 == shm.disk.lostWriteError
 *Severity*::

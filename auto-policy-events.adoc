@@ -15,7 +15,7 @@ summary: auto.policy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about auto.policy EMS events for feature done activity.
+auto.policy events are reported when this message occurs during upgrade to Data ONTAP(R) 9, and corrective actions typically involve following the documented corrective action guidance.
 
 == auto.policy.feature.enable
 *Severity*::

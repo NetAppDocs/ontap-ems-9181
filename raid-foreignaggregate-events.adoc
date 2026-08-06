@@ -15,7 +15,7 @@ summary: raid.foreignaggregate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.foreignaggregate EMS events, which report when the system changes the RAID tree ID of a foreign aggregate that is being brought online.
+raid.foreignaggregate events are reported when the system changes the RAID tree ID of a foreign aggregate that is being brought online, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.foreignAggregate.online.rtIDChanged
 *Severity*::

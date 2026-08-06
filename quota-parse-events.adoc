@@ -15,7 +15,7 @@ summary: quota.parse events
 :imagesdir: ./media/
 
 [.lead]
-Learn about quota.parse EMS events, which report when the system detects an error while scanning the quota rules.
+quota.parse events are reported when the system detects an error while scanning the quota rules, and corrective actions typically involve following the documented corrective action guidance.
 
 == quota.parse.error
 *Severity*::

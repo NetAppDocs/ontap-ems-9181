@@ -15,7 +15,7 @@ summary: fci.flash events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fci.flash EMS events for preload reboot activity.
+fci.flash events are reported when there is a failure updating the Fibre Channel adapter flash preload table, and corrective actions typically involve following the documented corrective action guidance.
 
 == fci.flash.preload.failed
 *Severity*::

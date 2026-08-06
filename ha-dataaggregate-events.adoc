@@ -15,7 +15,7 @@ summary: ha.dataaggregate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.dataaggregate EMS events, which report when an aggregate ownership change has failed after offlining the aggregate.
+ha.dataaggregate events are reported when an aggregate ownership change has failed after offlining the aggregate, and corrective actions typically involve verifying the reported configuration and health state.
 
 == ha.dataAggregate.offline.warning
 *Severity*::

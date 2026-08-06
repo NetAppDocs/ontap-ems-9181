@@ -15,7 +15,7 @@ summary: vifmgr.lifdeleted events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.lifdeleted EMS events, which report when an administrator action causes a logical interface (LIF) IP address to be deleted.
+vifmgr.lifdeleted events are reported when an administrator action causes a logical interface (LIF) IP address to be deleted, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.lifdeleted.byadmin
 *Severity*::

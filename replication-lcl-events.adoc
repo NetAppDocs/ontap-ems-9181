@@ -15,7 +15,7 @@ summary: replication.lcl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.lcl EMS events, which report when a SnapMirror(R) or SnapVault(R) transfer is started on a system without a host name.
+replication.lcl events are reported when a SnapMirror(R) or SnapVault(R) transfer is started on a system without a host name, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.lcl.noHostname
 *Severity*::

@@ -15,7 +15,7 @@ summary: coredump.compress events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.compress EMS events, which report when An error was encountered while compressing data for the coredump.
+coredump.compress events are reported when an error was encountered while compressing data for the coredump, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.compress.failed
 *Severity*::

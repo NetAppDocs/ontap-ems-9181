@@ -15,7 +15,7 @@ summary: san.volrehostlunmapcreated events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.volrehostlunmapcreated EMS events, which report when This message occurs on clustered Data ONTAP(R) systems for Volume Rehost operation on successful creation of the LUN map the destination Vserver.
+san.volrehostlunmapcreated events are reported when this message occurs on clustered Data ONTAP(R) systems for Volume Rehost operation on successful creation of the LUN map the destination Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == san.volRehostLunMapCreated
 *Severity*::

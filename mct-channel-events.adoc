@@ -15,7 +15,7 @@ summary: mct.channel events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mct.channel EMS events, which report when the Mirror Cache Transport layer destroys a communication channel between two nodes.
+mct.channel events are reported when the Mirror Cache Transport layer destroys a communication channel between two nodes, and corrective actions typically involve following the documented corrective action guidance.
 
 == mct.channel.destroy
 *Severity*::

@@ -15,7 +15,7 @@ summary: sm.vfiler events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sm.vfiler EMS events, which report when movement of the SnapMirror(R) status configuration from 'from' vFiler to 'to' vFiler fails.
+sm.vfiler events are reported when movement of the SnapMirror(R) status configuration from 'from' vFiler to 'to' vFiler fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == SM.vfiler.config.move.warn
 *Severity*::

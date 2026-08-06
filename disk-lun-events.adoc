@@ -15,7 +15,7 @@ summary: disk.lun events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.lun EMS events for allmemoryavailable outofmemory sizetoolarge activity.
+disk.lun events are reported when this message occurs to confirm that enough memory is present to successfully allocate command blocks for all of the disks in the system and for additional LUNS, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.lun.allMemoryAvailable
 *Severity*::

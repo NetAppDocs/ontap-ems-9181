@@ -15,7 +15,7 @@ summary: dfu.firmwareuptodate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.firmwareuptodate EMS events, which report when all eligible disks are determined to be updated to the latest version of firmware available on the system.
+dfu.firmwareuptodate events are reported when all eligible disks are determined to be updated to the latest version of firmware available on the system, and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.firmwareUpToDate
 *Severity*::

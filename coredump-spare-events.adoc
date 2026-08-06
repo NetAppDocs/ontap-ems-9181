@@ -15,7 +15,7 @@ summary: coredump.spare events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.spare EMS events for release dump size activity.
+coredump.spare events are reported when coredump attempts to terminate any sparecore dump that might be in progress on the partner, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.spare.abort
 *Severity*::

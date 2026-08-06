@@ -15,7 +15,7 @@ summary: vsdr.cluster events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.cluster EMS events, which report when a source cluster of SVMDR relationship is at higher version than destination cluster.
+vsdr.cluster events are reported when a source cluster of SVMDR relationship is at higher version than destination cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.cluster.sourceVersionIsHigherThanDestination
 *Severity*::

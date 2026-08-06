@@ -15,7 +15,7 @@ summary: dfu.disksizechanged events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.disksizechanged EMS events, which report when a size change is detected after a firmware update.
+dfu.disksizechanged events are reported when a size change is detected after a firmware update, and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.diskSizeChanged
 *Severity*::

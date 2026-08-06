@@ -15,7 +15,7 @@ summary: rpl.src events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rpl.src EMS events, which report when the replication source finds a LUN clone in a snapshot that was created on a ONTAP version earlier than 7.3 and was attempting to transfer as a LUN clone instead of a LUN.
+rpl.src events are reported when the replication source finds a LUN clone in a snapshot that was created on a ONTAP version earlier than 7, and corrective actions typically involve following the documented corrective action guidance.
 
 == rpl.src.lun.old_clone
 *Severity*::

@@ -15,7 +15,7 @@ summary: cpeer.passphrase events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cpeer.passphrase EMS events, which report when the cluster peer offer for anonymous cluster with system-generated passphrase expired and deleted.
+cpeer.passphrase events are reported when the cluster peer offer for anonymous cluster with system-generated passphrase expired and deleted, and corrective actions typically involve following the documented corrective action guidance.
 
 == cpeer.passphrase.expired
 *Severity*::

@@ -15,7 +15,7 @@ summary: mgmt.aba events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.aba EMS events for abortcloneparent abortmirrormove unbalanced activity.
+mgmt.aba events are reported when auto Balance Aggregate initiates a move of a volume that was then changed to a FlexClone(R) parent, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.aba.abortCloneParent
 *Severity*::

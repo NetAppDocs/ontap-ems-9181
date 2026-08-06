@@ -15,7 +15,7 @@ summary: exports.hostname events
 :imagesdir: ./media/
 
 [.lead]
-Learn about exports.hostname EMS events for notfound transient activity.
+exports.hostname events are reported when the forward lookup record mapping a host name to its IP address is not found in the configured name servers in a Vserver, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == exports.hostname.notFound
 *Severity*::

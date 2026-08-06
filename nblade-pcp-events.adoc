@@ -15,7 +15,7 @@ summary: nblade.pcp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.pcp EMS events for linkthrashing rdma conndrop activity.
+nblade.pcp events are reported when a network port undergoes multiple link state transitions within a short period of time, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.pcp.linkThrashing
 *Severity*::

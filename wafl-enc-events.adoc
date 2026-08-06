@@ -15,7 +15,7 @@ summary: wafl.enc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.enc EMS events for aggrmfrecreated aggrmfrecreatefail activity.
+wafl.enc events are reported when the system detects a corrupted WAFL aggregate encryption keys metafile and creates a corrected replacement, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.enc.aggrMFRecreated
 *Severity*::

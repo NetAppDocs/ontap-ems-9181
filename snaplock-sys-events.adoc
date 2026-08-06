@@ -15,7 +15,7 @@ summary: snaplock.sys events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snaplock.sys EMS events for compclock skew fixed activity.
+snaplock.sys events are reported when the system's compliance clock time and date is set, and corrective actions typically involve following the documented corrective action guidance.
 
 == snaplock.sys.compclock.set
 *Severity*::

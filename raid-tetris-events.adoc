@@ -15,7 +15,7 @@ summary: raid.tetris events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.tetris EMS events for cksum lw id activity.
+raid.tetris events are reported when the system detects a block number mismatch during a write operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.tetris.cksum.bno
 *Severity*::

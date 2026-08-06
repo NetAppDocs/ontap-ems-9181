@@ -15,7 +15,7 @@ summary: mlm.arraylun events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mlm.arraylun EMS events, which report when Data ONTAP(R) cannot install one or more discovered array LUNs since the disk device count is at full capacity.
+mlm.arraylun events are reported when data ONTAP(R) cannot install one or more discovered array LUNs since the disk device count is at full capacity, and corrective actions typically involve following the documented corrective action guidance.
 
 == mlm.arrayLUN.limit.exceeded
 *Severity*::

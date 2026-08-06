@@ -15,7 +15,7 @@ summary: nodewatchdog.config events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nodewatchdog.config EMS events, which report when bootarg.nodewatchdog.level is set to an invalid value.
+nodewatchdog.config events are reported when bootarg, and corrective actions typically involve following the documented corrective action guidance.
 
 == nodewatchdog.config.invalid
 *Severity*::

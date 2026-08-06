@@ -15,7 +15,7 @@ summary: lmgr.partner events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.partner EMS events for locks outofsync resynched activity.
+lmgr.partner events are reported when a partner node's mirrored lock state goes out of sync with the actual lock state, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.partner.locks.outOfSync
 *Severity*::

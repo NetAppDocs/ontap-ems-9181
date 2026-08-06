@@ -15,7 +15,7 @@ summary: coredump.sparecore events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.sparecore EMS events, which report when Sparecore was aborted by partner.
+coredump.sparecore events are reported when sparecore was aborted by partner, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.sparecore.killed
 *Severity*::

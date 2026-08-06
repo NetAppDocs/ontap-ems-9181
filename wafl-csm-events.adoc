@@ -15,7 +15,7 @@ summary: wafl.csm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.csm EMS events, which report when the Cluster Session Manager (CSM) session is stopped as part of the shutdown process.
+wafl.csm events are reported when the Cluster Session Manager (CSM) session is stopped as part of the shutdown process, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.csm.sessionStopped
 *Severity*::

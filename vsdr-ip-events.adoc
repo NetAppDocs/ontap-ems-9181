@@ -15,7 +15,7 @@ summary: vsdr.ip events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.ip EMS events for lif home activity.
+vsdr.ip events are reported when a logical interface (LIF) is automatically created through configuration replication in a MetroCluster(TM) configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.ip.lif.auto.created
 *Severity*::

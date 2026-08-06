@@ -15,7 +15,7 @@ summary: wafl.disable events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.disable EMS events, which report when the volume guarantee of a flexible volume is disabled due to aggregate space being physically overallocated.
+wafl.disable events are reported when the volume guarantee of a flexible volume is disabled due to aggregate space being physically overallocated, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.disable.vol.guarantee
 *Severity*::

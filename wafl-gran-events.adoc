@@ -15,7 +15,7 @@ summary: wafl.gran events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.gran EMS events for data adv on activity.
+wafl.gran events are reported when a SnapMirror transfer fails because a snapshot that contains multipart inodes is transferred to a destination volume that does not support advanced granular data, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.gran.data.adv.not.on
 *Severity*::

@@ -15,7 +15,7 @@ summary: no.halt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about no.halt EMS events for brokendisk nvramlowbatt info activity.
+no.halt events are reported when the option raid, and corrective actions typically involve following the documented corrective action guidance.
 
 == no.halt.brokenDisk
 *Severity*::

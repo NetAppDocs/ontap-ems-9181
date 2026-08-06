@@ -15,7 +15,7 @@ summary: vsdr.clone events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.clone EMS events for cleanup splitonsource activity.
+vsdr.clone events are reported when a clone create job fails prematurely, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.clone.cleanup.fail
 *Severity*::

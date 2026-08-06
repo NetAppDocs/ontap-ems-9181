@@ -15,7 +15,7 @@ summary: smc.snapmirror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smc.snapmirror EMS events, which report when a SnapMirror(R) transfer completes successfully.
+smc.snapmirror events are reported when a SnapMirror(R) transfer completes successfully, and corrective actions typically involve following the documented corrective action guidance.
 
 == smc.snapmirror.xfer.complete
 *Severity*::

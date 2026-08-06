@@ -15,7 +15,7 @@ summary: repl.send events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.send EMS events, which report when a SnapMirror(R) transfer uses logical mode without even attempting raw directory negotiation.
+repl.send events are reported when a SnapMirror(R) transfer uses logical mode without even attempting raw directory negotiation, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.send.mgr.forcedLogical
 *Severity*::

@@ -15,7 +15,7 @@ summary: vserver.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.vol EMS events for size reduced on activity.
+vserver.vol events are reported when the size or the maximum autosize of a destination DP volume in a storage-limit enabled SVM is reduced, which is part of a SnapMirror relationship, and corrective actions typically involve following the documented corrective action guidance.
 
 == vserver.vol.max.size.reduced
 *Severity*::

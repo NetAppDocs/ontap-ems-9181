@@ -15,7 +15,7 @@ summary: air.repaired events
 :imagesdir: ./media/
 
 [.lead]
-Learn about air.repaired EMS events for lsm multipart remote activity.
+air.repaired events are reported when oNTAP(R) discovers an inconsistency in a metadata bucket header record, and corrective actions typically involve following the documented corrective action guidance.
 
 == air.repaired.bucket.header
 *Severity*::

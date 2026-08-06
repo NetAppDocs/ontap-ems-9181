@@ -15,7 +15,7 @@ summary: netif.eepromreadfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.eepromreadfailed EMS events, which report when there is a failure in reading the electronically erasable programmable read-only memory (EEPROM) for a network interface.
+netif.eepromreadfailed events are reported when there is a failure in reading the electronically erasable programmable read-only memory (EEPROM) for a network interface, and corrective actions typically involve following the documented corrective action guidance.
 
 == netif.eepromReadFailed
 *Severity*::

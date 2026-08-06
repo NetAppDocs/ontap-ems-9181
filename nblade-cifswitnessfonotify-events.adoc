@@ -15,7 +15,7 @@ summary: nblade.cifswitnessfonotify events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.cifswitnessfonotify EMS events, which report when the Witness system has requested its CIFS clients to move their Continuously Available connections to the local node, due to a failure of the partner node.
+nblade.cifswitnessfonotify events are reported when the Witness system has requested its CIFS clients to move their Continuously Available connections to the local node, due to a failure of the partner node, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.cifsWitnessFONotify
 *Severity*::

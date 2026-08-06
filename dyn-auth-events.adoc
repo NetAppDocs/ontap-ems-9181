@@ -15,7 +15,7 @@ summary: dyn.auth events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dyn.auth EMS events for custom comp history activity.
+dyn.auth events are reported when the custom trust score component of the Dynamic Authorization feature encounters an error, and corrective actions typically involve verifying the reported configuration and health state.
 
 == dyn.auth.custom.comp.error
 *Severity*::

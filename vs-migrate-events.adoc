@@ -15,7 +15,7 @@ summary: vs.migrate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vs.migrate EMS events for cleanup cutover src activity.
+vs.migrate events are reported when the source Vserver cleanup operation has completed, and corrective actions typically involve following the documented corrective action guidance.
 
 == vs.migrate.cleanup.completed
 *Severity*::

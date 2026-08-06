@@ -15,7 +15,7 @@ summary: ekmip.ikpkms events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ekmip.ikpkms EMS events for missingfield available keyversionchg activity.
+ekmip.ikpkms events are reported when trying to access the key owned by the IBM Key Protect (IKP) Key Management Service (KMS) and an "OK" response (code 200) is received but one field of the response is not populated, and corrective actions typically involve following the documented corrective action guidance.
 
 == ekmip.ikpkms.200.missingField
 *Severity*::

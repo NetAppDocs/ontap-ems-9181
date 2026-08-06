@@ -15,7 +15,7 @@ summary: pha.vsa events
 :imagesdir: ./media/
 
 [.lead]
-Learn about pha.vsa EMS events, which report when ONTAP(R) software detects a device with a device descriptor length larger than 40 characters.
+pha.vsa events are reported when oNTAP(R) software detects a device with a device descriptor length greater than 40 characters, and corrective actions typically involve following the documented corrective action guidance.
 
 == pha.vsa.uuid.too.long
 *Severity*::

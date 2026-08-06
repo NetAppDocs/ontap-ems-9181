@@ -15,7 +15,7 @@ summary: nblade.nfs4sequenceinvalid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.nfs4sequenceinvalid EMS events, which report when an NFS server detects an unexpected value for an incoming sequence number from a client.
+nblade.nfs4sequenceinvalid events are reported when an NFS server detects an unexpected value for an incoming sequence number from a client, and corrective actions typically involve following the documented corrective action guidance.
 
 == nblade.nfs4SequenceInvalid
 *Severity*::

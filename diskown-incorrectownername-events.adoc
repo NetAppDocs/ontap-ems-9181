@@ -15,7 +15,7 @@ summary: diskown.incorrectownername events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.incorrectownername EMS events, which report when This event is issued when we find a system finds a disk that it owns, but which has a different owner name than the system name.
+diskown.incorrectownername events are reported when this event is issued when we find a system finds a disk that it owns, but which has a different owner name than the system name, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.IncorrectOwnerName
 *Severity*::

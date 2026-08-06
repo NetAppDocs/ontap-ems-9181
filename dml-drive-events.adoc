@@ -15,7 +15,7 @@ summary: dml.drive events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dml.drive EMS events for status activity.
+dml.drive events are reported when drive offline completes, and corrective actions typically involve following the documented corrective action guidance.
 
 == dml.drive.offline.status
 *Severity*::

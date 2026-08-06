@@ -15,7 +15,7 @@ summary: lun.provisioning events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.provisioning EMS events, which report when This message occurs during the creation of a LUN or NVME namespace when the provisioning for its metadata fails due to insufficient space in the aggregate.
+lun.provisioning events are reported when this message occurs during the creation of a LUN or NVME namespace when the provisioning for its metadata fails due to insufficient space in the aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.provisioning.failed
 *Severity*::

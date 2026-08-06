@@ -15,7 +15,7 @@ summary: fg.space events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.space EMS events for member allok nearlyfull activity.
+fg.space events are reported when conditions that led to previous "fg, and corrective actions typically involve following the documented corrective action guidance.
 
 == fg.space.member.allOK
 *Severity*::

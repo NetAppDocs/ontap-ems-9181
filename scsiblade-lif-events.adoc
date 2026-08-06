@@ -15,7 +15,7 @@ summary: scsiblade.lif events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.lif EMS events.
+scsiblade.lif events are reported when the SAN LIF fails to be configured during Vserver initialization, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.lif.init.fail
 *Severity*::

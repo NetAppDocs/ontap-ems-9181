@@ -15,7 +15,7 @@ summary: mgmt.vdr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.vdr EMS events, which report when a "snapmirror break" operation is executed while a file security job is running and the previous "snapmirror update" operation only partially transfers the changes made to the file system by the file security job.
+mgmt.vdr events are reported when a "snapmirror break" operation is executed while a file security job is running and the previous "snapmirror update" operation only partially transfers the changes made to the file system by the file security job, and corrective actions typically involve verifying the reported configuration and health state.
 
 == mgmt.vdr.fsecurity.cfig.err
 *Severity*::

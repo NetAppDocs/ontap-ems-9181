@@ -15,7 +15,7 @@ summary: rdma.rlib events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rdma.rlib EMS events for adv if get activity.
+rdma.rlib events are reported when the system fails to start the advertisement service for the high-availability (HA) interconnect, and corrective actions typically involve contacting NetApp technical support.
 
 == rdma.rlib.adv.failed
 *Deprecated*::

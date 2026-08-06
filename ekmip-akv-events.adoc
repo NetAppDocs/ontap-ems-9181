@@ -15,7 +15,7 @@ summary: ekmip.akv events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ekmip.akv EMS events for available keyexpired keyversionchanged activity.
+ekmip.akv events are reported when a configured Azure Key Vault (AKV) that was previously reported unavailable for key operations is now available, and corrective actions typically involve following the documented corrective action guidance.
 
 == ekmip.akv.available
 *Severity*::

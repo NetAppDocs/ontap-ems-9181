@@ -15,7 +15,7 @@ summary: raid.mirror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.mirror EMS events for resync deferred vote activity.
+raid.mirror events are reported when a SyncMirror(R) aggregate uses aggregate snapshots other than SyncMirror aggregate snapshots, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.mirror.aggrSnapUse
 *Severity*::

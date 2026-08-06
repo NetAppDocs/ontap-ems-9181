@@ -15,7 +15,7 @@ summary: diskown.hlfshlf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.hlfshlf EMS events for assignstatus invalidshlf multiowners activity.
+diskown.hlfshlf events are reported when half-shelf based drive assignment is enabled or disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.hlfShlf.assignStatus
 *Severity*::

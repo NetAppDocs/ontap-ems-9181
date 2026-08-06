@@ -15,7 +15,7 @@ summary: bootfs.env events
 :imagesdir: ./media/
 
 [.lead]
-Learn about bootfs.env EMS events, which report when an error is detected while trying to access the environment file stored on the boot device.
+bootfs.env events are reported when an error is detected while trying to access the environment file stored on the boot device, and corrective actions typically involve following the documented corrective action guidance.
 
 == bootfs.env.issue
 *Severity*::

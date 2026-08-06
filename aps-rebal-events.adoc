@@ -15,7 +15,7 @@ summary: aps.rebal events
 :imagesdir: ./media/
 
 [.lead]
-Learn about aps.rebal EMS events for perf advise evac activity.
+aps.rebal events are reported when the performance rebalancing service detects that a node is at risk in an advisory mode, and corrective actions typically involve following the documented corrective action guidance.
 
 == aps.rebal.perf.advise
 *Severity*::

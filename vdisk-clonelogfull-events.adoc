@@ -15,7 +15,7 @@ summary: vdisk.clonelogfull events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vdisk.clonelogfull EMS events, which report when LUN clone creation has failed because the limit on the maximum supported entries(32705) has been exceeded.
+vdisk.clonelogfull events are reported when lUN clone creation has failed because the limit on the maximum supported entries(32705) has been exceeded, and corrective actions typically involve following the documented corrective action guidance.
 
 == vdisk.clonelogFull
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.catalog events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.catalog EMS events, which report when This event indicates that WAFL catalog block in nvram is invalid during nvram replay.
+wafl.catalog events are reported when wAFL catalog block in nvram is invalid during nvram replay, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.catalog.invalid
 *Severity*::

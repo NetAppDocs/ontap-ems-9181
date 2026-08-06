@@ -15,7 +15,7 @@ summary: scsiblade.illegal events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.illegal EMS events, which report when an error is returned for a SCSI command that exceeds the LUN's maximum supported transfer length of 1MB.
+scsiblade.illegal events are reported when an error is returned for a SCSI command that exceeds the LUN's maximum supported transfer length of 1MB, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.illegal.xfer.len
 *Severity*::

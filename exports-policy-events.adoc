@@ -15,7 +15,7 @@ summary: exports.policy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about exports.policy EMS events for empty last rule activity.
+exports.policy events are reported when an export policy with no rules is assigned to a volume or a qtree, and corrective actions typically involve following the documented corrective action guidance.
 
 == exports.policy.empty
 *Severity*::

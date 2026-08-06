@@ -15,7 +15,7 @@ summary: storvsc.srb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about storvsc.srb EMS events, which report when ONTAP(R) software receives an unexpected hypervisor I/O adapter driver response code to an I/O request.
+storvsc.srb events are reported when oNTAP(R) software receives an unexpected hypervisor I/O adapter driver response code to an I/O request, and corrective actions typically involve following the documented corrective action guidance.
 
 == storvsc.srb.status
 *Severity*::

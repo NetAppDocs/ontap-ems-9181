@@ -15,7 +15,7 @@ summary: object.store events
 :imagesdir: ./media/
 
 [.lead]
-Learn about object.store EMS events for c2s clock mirror activity.
+object.store events are reported when the node can connect to the object store again after an "object, and corrective actions typically involve following the documented corrective action guidance.
 
 == object.store.available
 *Severity*::

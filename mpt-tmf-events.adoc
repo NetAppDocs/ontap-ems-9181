@@ -15,7 +15,7 @@ summary: mpt.tmf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mpt.tmf EMS events, which report when the system cannot allocate a SCSI Task Management Function (TMF) request in the message processing technology (MPT)adapter driver.
+mpt.tmf events are reported when the system cannot allocate a SCSI Task Management Function (TMF) request in the message processing technology (MPT)adapter driver, and corrective actions typically involve following the documented corrective action guidance.
 
 == mpt.tmf.req
 *Severity*::

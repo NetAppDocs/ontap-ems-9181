@@ -15,7 +15,7 @@ summary: wafl.aadir events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.aadir EMS events for spaceltthreshold spacenodonor unhealthy activity.
+wafl.aadir events are reported when the actual space available in a storage availability zone is below a specified threshold of total space, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.aadir.spaceLtThreshold
 *Severity*::

@@ -15,7 +15,7 @@ summary: secd.dns events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.dns EMS events for server timed out activity.
+secd.dns events are reported when the DNS server fails to respond to a query and timeout occurs, and corrective actions typically involve following the documented corrective action guidance.
 
 == secd.dns.server.timed.out
 *Severity*::

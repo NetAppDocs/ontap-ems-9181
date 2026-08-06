@@ -15,7 +15,7 @@ summary: telnet.socket events
 :imagesdir: ./media/
 
 [.lead]
-Learn about telnet.socket EMS events for failure activity.
+telnet.socket events are reported when telnet could not create a socket, and corrective actions typically involve following the documented corrective action guidance.
 
 == telnet.socket.failure
 *Severity*::

@@ -15,7 +15,7 @@ summary: zsm.send events
 :imagesdir: ./media/
 
 [.lead]
-Learn about zsm.send EMS events, which report when a socket timeout occurs on an intracluster Manage ONTAP(R) API request to an internal ONTAPI(R) server.
+zsm.send events are reported when a socket timeout occurs on an intracluster Manage ONTAP(R) API request to an internal ONTAPI(R) server, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == zsm.send.request.timeout
 *Severity*::

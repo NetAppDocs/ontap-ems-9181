@@ -15,7 +15,7 @@ summary: callhome.dafs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.dafs EMS events, which report when the DAFS (Direct Acess File System) NIC (Network Interface Controller) has stopped while DAFS was running.
+callhome.dafs events are reported when the DAFS (Direct Acess File System) NIC (Network Interface Controller) has stopped while DAFS was running, and corrective actions typically involve rebooting the node or cluster component.
 
 == callhome.dafs.nic.stop
 *Severity*::

@@ -15,7 +15,7 @@ summary: ha.unabletoretrieveaggrs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.unabletoretrieveaggrs EMS events, which report when the node is unable to retrieve a list of aggregates from the replicated database (RDB).
+ha.unabletoretrieveaggrs events are reported when the node is unable to retrieve a list of aggregates from the replicated database (RDB), and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.unableToRetrieveAggrs
 *Severity*::

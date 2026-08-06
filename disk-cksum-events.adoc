@@ -15,7 +15,7 @@ summary: disk.cksum events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.cksum EMS events, which report when the system detects a block number mismatch during disk checksum verification.
+disk.cksum events are reported when the system detects a block number mismatch during disk checksum verification, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.cksum.bno.verifyFailed
 *Severity*::

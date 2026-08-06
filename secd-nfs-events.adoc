@@ -15,7 +15,7 @@ summary: secd.nfs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.nfs EMS events, which report when Data ONTAP(R) truncates the number of groups to which a user belongs.
+secd.nfs events are reported when data ONTAP(R) truncates the number of groups to which a user belongs, and corrective actions typically involve following the documented corrective action guidance.
 
 == secd.nfs.groupLimit
 *Severity*::

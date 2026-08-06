@@ -15,7 +15,7 @@ summary: moveagent.dst events
 :imagesdir: ./media/
 
 [.lead]
-Learn about moveagent.dst EMS events, which report when the move agent detects that the attributes of the destination volume are partially updated during the commit destination phase.
+moveagent.dst events are reported when the move agent detects that the attributes of the destination volume are partially updated during the commit destination phase, and corrective actions typically involve following the documented corrective action guidance.
 
 == moveagent.dst.partial.commit
 *Severity*::

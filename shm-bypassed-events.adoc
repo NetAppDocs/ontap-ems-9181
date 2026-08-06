@@ -15,7 +15,7 @@ summary: shm.bypassed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about shm.bypassed EMS events for disk activity.
+shm.bypassed events are reported when the system recommends that a disk be failed because it has been bypassed, and corrective actions typically involve following the documented corrective action guidance.
 
 == shm.bypassed.disk.fail
 *Deprecated*::

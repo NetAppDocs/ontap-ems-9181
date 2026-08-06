@@ -15,7 +15,7 @@ summary: callhome.sfo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.sfo EMS events for downrev takeover m activity.
+callhome.sfo events are reported when the appliance software boots and detects out-of-date motherboard firmware, which can cause serious issues, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.sfo.downrev
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.portup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.portup EMS events, which report when a link up event was received on a network port.
+vifmgr.portup events are reported when a link up event was received on a network port, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.portup
 *Severity*::

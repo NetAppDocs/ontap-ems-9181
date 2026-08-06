@@ -15,7 +15,7 @@ summary: wafl.descend events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.descend EMS events, which report when there is an error during descendency checking.
+wafl.descend events are reported when there is an error during descendency checking, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.descend.fail
 *Severity*::

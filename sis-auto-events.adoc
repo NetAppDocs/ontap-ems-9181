@@ -15,7 +15,7 @@ summary: sis.auto events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.auto EMS events, which report when This message occurs whenever the number of background deduplication sessions change on a node due to throttling based on system load for the volumes with efficiency policy type as auto.
+sis.auto events are reported when this message occurs whenever the number of background deduplication sessions change on a node because of throttling based on system load for the volumes with efficiency policy type as auto, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.auto.session.change
 *Severity*::

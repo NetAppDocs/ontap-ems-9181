@@ -15,7 +15,7 @@ summary: nvmens.out events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmens.out EMS events, which report when an NVMe namespace has been brought offline due to a write failure due to lack of space.
+nvmens.out events are reported when an NVMe namespace has been brought offline because of a write failure due to lack of space, and corrective actions typically involve following the documented corrective action guidance.
 
 == NVMeNS.out.of.space
 *Severity*::

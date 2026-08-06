@@ -15,7 +15,7 @@ summary: callhome.vfiler events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.vfiler EMS events for to dst src activity.
+callhome.vfiler events are reported when this message occurs on the destination controller during the final phase of migrating a vfiler when the 120 second time limit has been reached, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == callhome.vfiler.move.to.dst
 *Severity*::

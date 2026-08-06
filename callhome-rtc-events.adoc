@@ -15,7 +15,7 @@ summary: callhome.rtc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.rtc EMS events, which report when the voltage for the Real-Time Clock (RTC) battery is low.
+callhome.rtc events are reported when the voltage for the Real-Time Clock (RTC) battery is low, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.rtc.battery.low
 *Severity*::

@@ -15,7 +15,7 @@ summary: de.volume events
 :imagesdir: ./media/
 
 [.lead]
-Learn about de.volume EMS events, which report when a volume is inaccessible within the AI Data Engine (AIDE) cluster, hindering access to entities (files) and preventing retrieval-augmented generation (RAG) queries on the data contained within these entities.
+de.volume events are reported when a volume is inaccessible within the AI Data Engine (AIDE) cluster, hindering access to entities (files) and preventing retrieval-augmented generation (RAG) queries on the data contained within these entities, and corrective actions typically involve verifying the reported configuration and health state.
 
 == de.volume.inaccessible
 *Severity*::

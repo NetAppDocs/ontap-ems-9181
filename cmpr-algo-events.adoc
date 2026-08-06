@@ -15,7 +15,7 @@ summary: cmpr.algo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cmpr.algo EMS events, which report when compression algorithm specified has not been enabled on the node.
+cmpr.algo events are reported when compression algorithm specified has not been enabled on the node, and corrective actions typically involve contacting NetApp technical support.
 
 == cmpr.algo.not.enabled
 *Severity*::

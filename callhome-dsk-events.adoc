@@ -15,7 +15,7 @@ summary: callhome.dsk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.dsk EMS events for bypass fault label activity.
+callhome.dsk events are reported when a disk drive failure occurred and the Embedded Switched Hub (ESH) removed the disk drive from the loop electronically--bypassing the disk drive on one or possibly both ports, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.dsk.bypass
 *Severity*::

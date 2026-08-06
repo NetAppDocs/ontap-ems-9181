@@ -15,7 +15,7 @@ summary: vserver.peering events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.peering EMS events for relcreated reldeleted relrenamed activity.
+vserver.peering events are reported when the Vserver peer relationship is established, and corrective actions typically involve following the documented corrective action guidance.
 
 == vserver.peering.relCreated
 *Severity*::

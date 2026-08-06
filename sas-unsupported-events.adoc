@@ -15,7 +15,7 @@ summary: sas.unsupported events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sas.unsupported EMS events, which report when ONTAP detects that a cable is attached to an I/O module port that is permanently disabled and does not support attachment.
+sas.unsupported events are reported when oNTAP detects that a cable is attached to an I/O module port that is permanently disabled and does not support attachment, and corrective actions typically involve following the documented corrective action guidance.
 
 == sas.unsupported.port
 *Severity*::

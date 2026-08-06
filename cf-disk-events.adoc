@@ -15,7 +15,7 @@ summary: cf.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.disk EMS events for invent mismatchalt inventory activity.
+cf.disk events are reported when one of the nodes in a high-availability (HA) pair reports that multiple disks in the disk inventory do not match what the partner node reported, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.disk.invent.mismatchalt
 *Severity*::

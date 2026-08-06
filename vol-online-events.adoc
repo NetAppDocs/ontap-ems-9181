@@ -15,7 +15,7 @@ summary: vol.online events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vol.online EMS events, which report when ONTAP cannot correctly trigger volume upgrade tasks when a volume is brought online outside of an ONTAP upgrade cycle.
+vol.online events are reported when oNTAP cannot correctly trigger volume upgrade tasks when a volume is brought online outside of an ONTAP upgrade cycle, and corrective actions typically involve following the documented corrective action guidance.
 
 == vol.online.upgrade.tasks.failure
 *Severity*::

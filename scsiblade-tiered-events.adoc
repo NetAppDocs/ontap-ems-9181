@@ -15,7 +15,7 @@ summary: scsiblade.tiered events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.tiered EMS events, which report when a LUN is brought offline by Data ONTAP (R) due to too many consecutive failures to access object storage or no response from object storage.
+scsiblade.tiered events are reported when a LUN is brought offline by Data ONTAP (R) because of too many consecutive failures to access object storage or no response from object storage, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.tiered.lun.offline
 *Severity*::

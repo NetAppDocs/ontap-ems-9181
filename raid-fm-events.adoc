@@ -15,7 +15,7 @@ summary: raid.fm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.fm EMS events for disastersummary fixedmixedownership leftbehindaggr activity.
+raid.fm events are reported when this event contains summary information for the disaster takeover, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.fm.disasterSummary
 *Severity*::

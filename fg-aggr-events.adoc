@@ -15,7 +15,7 @@ summary: fg.aggr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.aggr EMS events for mixed types activity.
+fg.aggr events are reported when the constituents of a FlexGroup volume are located on different types of aggregates (FabricPool-enabled aggregates and non-FabricPool-enabled aggregates) for more than one week, and corrective actions typically involve following the documented corrective action guidance.
 
 == fg.aggr.mixed.types.error
 *Severity*::

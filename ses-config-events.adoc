@@ -15,7 +15,7 @@ summary: ses.config events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.config EMS events for diskstackmaxerror drivepoperror illegalesh270 activity.
+ses.config events are reported when a stack of shelves contains more disk bays than the maximum number that are allowed, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.config.diskStackMaxError
 *Severity*::

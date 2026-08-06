@@ -15,7 +15,7 @@ summary: clam.disable events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clam.disable EMS events for takeover activity.
+clam.disable events are reported when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) is disabled by either turning off the KCS capability or by setting the 'clam sysctl/bootarg' variable, and corrective actions typically involve following the documented corrective action guidance.
 
 == clam.disable
 *Severity*::

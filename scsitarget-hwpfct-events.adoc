@@ -15,7 +15,7 @@ summary: scsitarget.hwpfct events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsitarget.hwpfct EMS events for dump saved els activity.
+scsitarget.hwpfct events are reported when an unexpected event or illegal condition is detected by the FC target driver and the contents of the FC target's memory is saved, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsitarget.hwpfct.dump.saved
 *Severity*::

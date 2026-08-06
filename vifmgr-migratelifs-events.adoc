@@ -15,7 +15,7 @@ summary: vifmgr.migratelifs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.migratelifs EMS events for nlbddown nlbdup activity.
+vifmgr.migratelifs events are reported when the network load balancing listener is not responding to probes over a node management LIF, and cluster-scoped LIFs with the same current port have been migrated elsewhere, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.migrateLifs.nlbdDown
 *Severity*::

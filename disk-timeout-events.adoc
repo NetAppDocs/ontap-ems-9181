@@ -15,7 +15,7 @@ summary: disk.timeout events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.timeout EMS events for flush activity.
+disk.timeout events are reported when the disk driver stops flushing aggressive timeout I/Os, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.timeout.flush.end
 *Severity*::

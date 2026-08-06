@@ -15,7 +15,7 @@ summary: tar.csum events
 :imagesdir: ./media/
 
 [.lead]
-Learn about tar.csum EMS events for csumunsuccessful extractfailed match activity.
+tar.csum events are reported when the system accesses a TAR archive and compares the calculated checksum of this archive to a stored checksum, but the checksum calculation does not succeed, and corrective actions typically involve following the documented corrective action guidance.
 
 == tar.csum.csumUnsuccessful
 *Severity*::

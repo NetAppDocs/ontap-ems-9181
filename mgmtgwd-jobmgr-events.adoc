@@ -15,7 +15,7 @@ summary: mgmtgwd.jobmgr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.jobmgr EMS events for high jobcomplete sched activity.
+mgmtgwd.jobmgr events are reported when the system cannot locate the configuration for a specific Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.jobmgr.fetcherr
 *Severity*::

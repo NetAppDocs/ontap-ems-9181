@@ -15,7 +15,7 @@ summary: gb.netra events
 :imagesdir: ./media/
 
 [.lead]
-Learn about gb.netra EMS events for ca oam activity.
+gb.netra events are reported when this message occurs during the migration of an aggregate as a part of storage failover (SFO) giveback, when the destination node cannot reach the object stores, and corrective actions typically involve verifying the reported configuration and health state.
 
 == gb.netra.ca.check.failed
 *Severity*::

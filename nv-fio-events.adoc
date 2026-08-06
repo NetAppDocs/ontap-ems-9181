@@ -15,7 +15,7 @@ summary: nv.fio events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nv.fio EMS events.
+nv.fio events are reported when the write to VNVRAM fails and the retry count has been exhausted, and corrective actions typically involve following the documented corrective action guidance.
 
 == nv.fio.write.err
 *Severity*::

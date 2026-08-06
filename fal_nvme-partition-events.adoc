@@ -15,7 +15,7 @@ summary: fal_nvme.partition events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fal_nvme.partition EMS events, which report when a partition status in the Flash Adaptation Layer (FAL) changes.
+fal_nvme.partition events are reported when a partition status in the Flash Adaptation Layer (FAL) changes, and corrective actions typically involve following the documented corrective action guidance.
 
 == fal_nvme.partition.status
 *Severity*::

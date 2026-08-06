@@ -15,7 +15,7 @@ summary: savecore.completed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about savecore.completed EMS events, which report when A synchronous savecore operation has completed.
+savecore.completed events are reported when a synchronous savecore operation has completed, and corrective actions typically involve following the documented corrective action guidance.
 
 == savecore.completed
 *Severity*::

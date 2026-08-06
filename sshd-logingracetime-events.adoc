@@ -15,7 +15,7 @@ summary: sshd.logingracetime events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sshd.logingracetime EMS events, which report when a user attempts to establish a Secure Shell (SSH) connection to a storage system and does not provide the password within the allotted timeout period.
+sshd.logingracetime events are reported when a user tries to establish a Secure Shell (SSH) connection to a storage system and does not provide the password within the allotted timeout period, and corrective actions typically involve following the documented corrective action guidance.
 
 == sshd.loginGraceTime.expired
 *Severity*::

@@ -15,7 +15,7 @@ summary: san.nofcportwithadaptertype events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.nofcportwithadaptertype EMS events, which report when This message occurs in MetroCluster(tm) configurations on clustered Data ONTAP(R) systems, when Data ONTAP cannot replicate an FC/FC-NVMe logical interface (LIF) to a candidate port in the destination cluster.
+san.nofcportwithadaptertype events are reported when this message occurs in MetroCluster(tm) configurations on clustered Data ONTAP(R) systems, when Data ONTAP cannot replicate an FC/FC-NVMe logical interface (LIF) to a candidate port in the destination cluster, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == san.NoFCportwithAdapterType
 *Severity*::

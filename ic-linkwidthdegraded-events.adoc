@@ -15,7 +15,7 @@ summary: ic.linkwidthdegraded events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ic.linkwidthdegraded EMS events, which report when the high-availability (HA) interconnect detects a degraded link width.
+ic.linkwidthdegraded events are reported when the high-availability (HA) interconnect detects a degraded link width, and corrective actions typically involve following the documented corrective action guidance.
 
 == ic.linkWidthDegraded
 *Severity*::

@@ -15,7 +15,7 @@ summary: cfvm.cutover events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cfvm.cutover EMS events, which report when a copy free volume move operation languishes beyond the volume move cutover outage window.
+cfvm.cutover events are reported when a copy free volume move operation languishes beyond the volume move cutover outage window, and corrective actions typically involve following the documented corrective action guidance.
 
 == cfvm.cutover.languish
 *Severity*::

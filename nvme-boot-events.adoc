@@ -15,7 +15,7 @@ summary: nvme.boot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvme.boot EMS events for fw failure activity.
+nvme.boot events are reported when the NVMe boot device firmware has been updated, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvme.boot.fw.update.complete
 *Severity*::

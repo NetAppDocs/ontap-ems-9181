@@ -15,7 +15,7 @@ summary: wafl.clone events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.clone EMS events for inherited counters basesnap activity.
+wafl.clone events are reported when this message alerts about invalid inherited counters for the clone flexible volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.clone.invalid.inherited.counters
 *Severity*::

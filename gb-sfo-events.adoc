@@ -15,7 +15,7 @@ summary: gb.sfo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about gb.sfo EMS events for veto precmt lmgr activity.
+gb.sfo events are reported when a high-availability (HA) storage failover (SFO) giveback is canceled due to RAID activity on a partner aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == gb.sfo.abort.raid.fm
 *Severity*::

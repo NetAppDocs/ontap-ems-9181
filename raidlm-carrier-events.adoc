@@ -15,7 +15,7 @@ summary: raidlm.carrier events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raidlm.carrier EMS events for evac splitowner activity.
+raidlm.carrier events are reported when data ONTAP(R) determines that an ongoing disk copy operation is no longer required and has stopped the disk copy previously started for this disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == raidlm.carrier.copy.abort
 *Severity*::

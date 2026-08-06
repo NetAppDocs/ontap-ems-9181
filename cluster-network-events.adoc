@@ -15,7 +15,7 @@ summary: cluster.network events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cluster.network EMS events, which report when a two node cluster transitions between a switched and switchless configuration.
+cluster.network events are reported when a two node cluster transitions between a switched and switchless configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == cluster.network.config
 *Severity*::

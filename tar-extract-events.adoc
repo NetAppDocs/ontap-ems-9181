@@ -15,7 +15,7 @@ summary: tar.extract events
 :imagesdir: ./media/
 
 [.lead]
-Learn about tar.extract EMS events for failure unhandledtype activity.
+tar.extract events are reported when this message occurs during the process of extracting a TAR archive, when an error while processing a particular entry causes the extraction of the archive to fail, and corrective actions typically involve following the documented corrective action guidance.
 
 == tar.extract.failure
 *Severity*::

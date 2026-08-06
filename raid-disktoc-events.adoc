@@ -15,7 +15,7 @@ summary: raid.disktoc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.disktoc EMS events for rawsizechange toorecent activity.
+raid.disktoc events are reported when it is detected from the disk Table Of Contents that a disk's stored rawsize does not match the physical size of the disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.disktoc.rawsizeChange
 *Severity*::

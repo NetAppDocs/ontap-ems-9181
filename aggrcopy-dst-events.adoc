@@ -15,7 +15,7 @@ summary: aggrcopy.dst events
 :imagesdir: ./media/
 
 [.lead]
-Learn about aggrcopy.dst EMS events for autorestrictmsg nomemory revert activity.
+aggrcopy.dst events are reported when this event is issued when an aggregate copy start is issued on an aggregate which is offline, and corrective actions typically involve following the documented corrective action guidance.
 
 == aggrcopy.dst.autoRestrictMsg
 *Severity*::

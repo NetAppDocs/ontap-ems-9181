@@ -15,7 +15,7 @@ summary: disk.capacity events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.capacity EMS events, which report when a media size change is reported for the underlying storage device.
+disk.capacity events are reported when a media size change is reported for the underlying storage device, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.capacity.changed
 *Severity*::

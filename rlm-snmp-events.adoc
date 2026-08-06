@@ -15,7 +15,7 @@ summary: rlm.snmp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rlm.snmp EMS events, which report when This message occurs each time a system boots, if the advanced privilege level in Data ONTAP(R) was used to disable the SNMP Trap feature of the Remote LAN Module (RLM).
+rlm.snmp events are reported when this message occurs each time a system boots, if the advanced privilege level in Data ONTAP(R) was used to disable the SNMP Trap feature of the Remote LAN Module (RLM), and corrective actions typically involve following the documented corrective action guidance.
 
 == rlm.snmp.traps.off
 *Severity*::

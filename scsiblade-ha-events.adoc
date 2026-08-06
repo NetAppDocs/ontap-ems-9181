@@ -15,7 +15,7 @@ summary: scsiblade.ha events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.ha EMS events, which report when Unable to retrive HA Partner DBlade ID.
+scsiblade.ha events are reported when unable to retrive HA Partner DBlade ID, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.ha.partner.dblade.id.retrive.error
 *Severity*::

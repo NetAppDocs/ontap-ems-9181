@@ -15,7 +15,7 @@ summary: ha.panicinfonotsentic events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.panicinfonotsentic EMS events, which report when a node cannot send panic information to its high-availability (HA) partner over the HA interconnect due to an HA interconnect error.
+ha.panicinfonotsentic events are reported when a node cannot send panic information to its high-availability (HA) partner over the HA interconnect due to an HA interconnect error, and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.panicInfoNotSentIC
 *Severity*::

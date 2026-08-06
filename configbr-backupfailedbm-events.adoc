@@ -15,7 +15,7 @@ summary: configbr.backupfailedbm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about configbr.backupfailedbm EMS events, which report when the configuration backup cannot be created.
+configbr.backupfailedbm events are reported when the configuration backup cannot be created, and corrective actions typically involve verifying the reported configuration and health state.
 
 == configbr.backupFailedBM
 *Severity*::

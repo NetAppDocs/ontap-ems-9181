@@ -15,7 +15,7 @@ summary: secd.nis events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.nis EMS events for connectfailure noservers slowserver activity.
+secd.nis events are reported when the server could not establish a TCP connection to a Network Information Service (NIS) server, and corrective actions typically involve following the documented corrective action guidance.
 
 == secd.nis.connectFailure
 *Deprecated*::

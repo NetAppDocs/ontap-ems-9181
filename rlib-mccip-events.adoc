@@ -15,7 +15,7 @@ summary: rlib.mccip events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rlib.mccip EMS events for failure missing activity.
+rlib.mccip events are reported when this event is generated if any error occurs while configuring MCC/IP, and corrective actions typically involve following the documented corrective action guidance.
 
 == rlib.mccip.config.failure
 *Severity*::

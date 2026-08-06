@@ -15,7 +15,7 @@ summary: multi.dsk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about multi.dsk EMS events, which report when multiple errors are detected during checksum verification, and the adapter is not taken offline or the "disk.offline_adapter.enable" option is disabled.
+multi.dsk events are reported when multiple errors are detected during checksum verification, and the adapter is not taken offline or the "disk, and corrective actions typically involve contacting NetApp technical support.
 
 == multi.dsk.cksum.err
 *Severity*::

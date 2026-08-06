@@ -15,7 +15,7 @@ summary: splog.sp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about splog.sp EMS events for accessible configured activity.
+splog.sp events are reported when the local or remote node Service Processor (SP) cannot be accessed, and corrective actions typically involve following the documented corrective action guidance.
 
 == splog.sp.not.accessible
 *Severity*::

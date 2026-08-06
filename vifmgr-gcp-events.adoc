@@ -15,7 +15,7 @@ summary: vifmgr.gcp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.gcp EMS events for nlbddown nlbdup activity.
+vifmgr.gcp events are reported when the network load balancing listener becomes unresponsive, and corrective actions typically involve rebooting the node or cluster component.
 
 == vifmgr.gcp.NlbdDown
 *Severity*::

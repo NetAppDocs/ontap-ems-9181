@@ -15,7 +15,7 @@ summary: vserver.config events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.config EMS events for createdirectoryfailed nameservice activity.
+vserver.config events are reported when the Vserver create operation cannot create the Vserver-specific configuration directory, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == vserver.config.createDirectoryFailed
 *Severity*::

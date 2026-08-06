@@ -15,7 +15,7 @@ summary: spm.schmd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.schmd EMS events, which report when the System Connectivity Health Monitor process (schmd) involuntarily terminates.
+spm.schmd events are reported when the System Connectivity Health Monitor process (schmd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.schmd.process.exit
 *Severity*::

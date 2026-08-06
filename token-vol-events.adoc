@@ -15,7 +15,7 @@ summary: token.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about token.vol EMS events for is compressed sparse activity.
+token.vol events are reported when a 'volume offline' operation results in clearing the token cache for that volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == token.vol.cache.cleared
 *Severity*::

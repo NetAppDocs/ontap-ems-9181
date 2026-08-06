@@ -15,7 +15,7 @@ summary: connectx.ibretimerprogrmpass events
 :imagesdir: ./media/
 
 [.lead]
-Learn about connectx.ibretimerprogrmpass EMS events, which report when InfiniBand retimer programming is succesfully completed after the system detects that a cable is plugged in.
+connectx.ibretimerprogrmpass events are reported when infiniBand retimer programming is succesfully completed after the system detects that a cable is plugged in, and corrective actions typically involve following the documented corrective action guidance.
 
 == connectx.IbRetimerProgrmPass
 *Severity*::

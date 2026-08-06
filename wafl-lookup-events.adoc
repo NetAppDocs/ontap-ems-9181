@@ -15,7 +15,7 @@ summary: wafl.lookup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.lookup EMS events, which report when the system encounters an unexpected deleted directory entry in a snapmirrored qtree.
+wafl.lookup events are reported when the system encounters an unexpected deleted directory entry in a snapmirrored qtree, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.lookup.smDirErr
 *Severity*::

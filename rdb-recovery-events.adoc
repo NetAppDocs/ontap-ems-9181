@@ -15,7 +15,7 @@ summary: rdb.recovery events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rdb.recovery EMS events for succeeded activity.
+rdb.recovery events are reported when the cluster management Data Replication Module could not automatically repair its local replicas, and corrective actions typically involve following the documented corrective action guidance.
 
 == rdb.recovery.failed
 *Severity*::

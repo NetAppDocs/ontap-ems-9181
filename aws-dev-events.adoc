@@ -15,7 +15,7 @@ summary: aws.dev events
 :imagesdir: ./media/
 
 [.lead]
-Learn about aws.dev EMS events for diskfailure disknotunique limitexceeded activity.
+aws.dev events are reported when oNTAP(R) is running as an instance in Amazon Web Services (AWS), and a data disk failure occurs because of an I/O hang, and corrective actions typically involve following the documented corrective action guidance.
 
 == aws.dev.diskFailure
 *Severity*::

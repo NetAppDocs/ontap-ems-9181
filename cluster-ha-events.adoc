@@ -15,7 +15,7 @@ summary: cluster.ha events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cluster.ha EMS events, which report when cluster HA has not been configured on a 2-node cluster with HA mode enabled.
+cluster.ha events are reported when cluster HA has not been configured on a 2-node cluster with HA mode enabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == cluster.ha.not.configured
 *Severity*::

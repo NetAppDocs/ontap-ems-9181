@@ -15,7 +15,7 @@ summary: raid.ns events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.ns EMS events for removeownership skipunpartition unpartition activity.
+raid.ns events are reported when the system removes ownership of its disks during initialization of a non-shared HA system, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.ns.init.removeOwnership
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.access events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.access EMS events, which report when the user attempts to access a fenced file.
+wafl.access events are reported when the user attempts to access a fenced file, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.access.fenced.file
 *Severity*::

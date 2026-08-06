@@ -15,7 +15,7 @@ summary: ctran.enabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ctran.enabled EMS events, which report when Kernel Cluster Services (KCS) Cluster Transaction Manager (CTRAN) subsystem is enabled.
+ctran.enabled events are reported when kernel Cluster Services (KCS) Cluster Transaction Manager (CTRAN) subsystem is enabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == ctran.enabled
 *Severity*::

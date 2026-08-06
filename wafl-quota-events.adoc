@@ -15,7 +15,7 @@ summary: wafl.quota events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.quota EMS events for db correct userqtree activity.
+wafl.quota events are reported when the system cannot create the quota database file, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.quota.db.createFail
 *Severity*::

@@ -15,7 +15,7 @@ summary: config.mirrorscsidisk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.mirrorscsidisk EMS events, which report when a SCSI disk is found in a SyncMirror(R) configuration.
+config.mirrorscsidisk events are reported when a SCSI disk is found in a SyncMirror(R) configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.MirrorSCSIdisk
 *Severity*::

@@ -15,7 +15,7 @@ summary: netinet6.icmp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netinet6.icmp EMS events for chksum redirect reject activity.
+netinet6.icmp events are reported when the system receives an Internet Control Message Protocol(ICMP) message, and while processing the ICMP message it finds a checksum error, and corrective actions typically involve following the documented corrective action guidance.
 
 == netinet6.icmp.chksum
 *Severity*::

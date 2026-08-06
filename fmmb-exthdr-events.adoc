@@ -15,7 +15,7 @@ summary: fmmb.exthdr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fmmb.exthdr EMS events, which report when This event is issued when the HA Mailbox extension header is invalid.
+fmmb.exthdr events are reported when this event is issued when the HA Mailbox extension header is invalid, and corrective actions typically involve following the documented corrective action guidance.
 
 == fmmb.exthdr.null
 *Severity*::

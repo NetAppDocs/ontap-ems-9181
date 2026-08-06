@@ -15,7 +15,7 @@ summary: phdb.removedmailboxdisk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about phdb.removedmailboxdisk EMS events, which report when Cloud Volume ONTAP (CVO) removes a cloud mailbox disk.
+phdb.removedmailboxdisk events are reported when cloud Volume ONTAP (CVO) removes a cloud mailbox disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == phdb.removedMailboxDisk
 *Severity*::

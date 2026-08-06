@@ -15,7 +15,7 @@ summary: exports.ngbh events
 :imagesdir: ./media/
 
 [.lead]
-Learn about exports.ngbh EMS events, which report when a netgroup by host request fails because all ns-switch sources for the netgroup database have returned connection errors and files are unusable as a source.
+exports.ngbh events are reported when a netgroup by host request fails because all ns-switch sources for the netgroup database have returned connection errors and files are unusable as a source, and corrective actions typically involve following the documented corrective action guidance.
 
 == exports.ngbh.allFailed
 *Severity*::

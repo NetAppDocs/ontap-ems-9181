@@ -15,7 +15,7 @@ summary: wafl.i2p events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.i2p EMS events for entries mismatch fix activity.
+wafl.i2p events are reported when the ONTAP(R) kernel detects that an i2p metafile on one of the snapshot has more entries than necessary for an inode, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.i2p.entries.mismatch
 *Severity*::

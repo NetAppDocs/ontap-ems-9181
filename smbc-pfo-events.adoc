@@ -15,7 +15,7 @@ summary: smbc.pfo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smbc.pfo EMS events for io outage compl activity.
+smbc.pfo events are reported when the SnapMirror(R) active sync planned failover operation completes, and corrective actions typically involve following the documented corrective action guidance.
 
 == smbc.pfo.completed
 *Severity*::

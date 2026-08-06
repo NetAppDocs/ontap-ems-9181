@@ -15,7 +15,7 @@ summary: sm.dst events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sm.dst EMS events, which report when the SnapMirror(R) labels are lost for all Snapshot copies on the vault destination.
+sm.dst events are reported when the SnapMirror(R) labels are lost for all Snapshot copies on the vault destination, and corrective actions typically involve following the documented corrective action guidance.
 
 == sm.dst.vol.no.tag.metadata
 *Severity*::

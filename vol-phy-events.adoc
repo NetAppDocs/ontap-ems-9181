@@ -15,7 +15,7 @@ summary: vol.phy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vol.phy EMS events, which report when the volume is running dangerously low on free blocks to write to.
+vol.phy events are reported when the volume is running dangerously low on free blocks to write to, and corrective actions typically involve following the documented corrective action guidance.
 
 == vol.phy.overalloc.inc.sav
 *Severity*::

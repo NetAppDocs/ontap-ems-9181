@@ -15,7 +15,7 @@ summary: callhome.fc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.fc EMS events for al link poor activity.
+callhome.fc events are reported when a Fibre Channel arbitrated loop (FC-AL) has link failures, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == callhome.fc.al.link
 *Severity*::

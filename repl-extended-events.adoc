@@ -15,7 +15,7 @@ summary: repl.extended events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.extended EMS events, which report when the replication engine encounters a destination that does not support extended time format.
+repl.extended events are reported when the replication engine encounters a destination that does not support extended time format, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.extended.time.format.unsupported
 *Severity*::

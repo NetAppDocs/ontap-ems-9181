@@ -15,7 +15,7 @@ summary: shm.fab events
 :imagesdir: ./media/
 
 [.lead]
-Learn about shm.fab EMS events for writeerror writesenseerror activity.
+shm.fab events are reported when an error is received while writing the failure bytes, and corrective actions typically involve following the documented corrective action guidance.
 
 == shm.fab.writeError
 *Severity*::

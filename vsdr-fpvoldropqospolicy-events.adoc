@@ -15,7 +15,7 @@ summary: vsdr.fpvoldropqospolicy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.fpvoldropqospolicy EMS events, which report when the system clears or drops an incompatible quality of service (QoS) policy group setting with minimum throughput value set on a destination volume having tiering policy other than "none" on a FabricPool aggregate at the destination cluster.
+vsdr.fpvoldropqospolicy events are reported when the system clears or drops an incompatible quality of service (QoS) policy group setting with minimum throughput value set on a destination volume having tiering policy other than "none" on a FabricPool aggregate at the destination cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.FPVolDropQosPolicy
 *Severity*::

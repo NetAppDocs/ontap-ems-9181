@@ -15,7 +15,7 @@ summary: bsdsocket.queuelimit events
 :imagesdir: ./media/
 
 [.lead]
-Learn about bsdsocket.queuelimit EMS events, which report when the number of connection requests for a socket reaches the maximum number.
+bsdsocket.queuelimit events are reported when the number of connection requests for a socket reaches the maximum number, and corrective actions typically involve following the documented corrective action guidance.
 
 == bsdsocket.queueLimit.reached
 *Severity*::

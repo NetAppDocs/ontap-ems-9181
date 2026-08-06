@@ -15,7 +15,7 @@ summary: ses.psu events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.psu EMS events for comboerror coolingreqerror powerreqerror activity.
+ses.psu events are reported when the power supplies that are installed in a disk shelf are not compatible with each other, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.psu.comboError
 *Severity*::

@@ -15,7 +15,7 @@ summary: gpo.security events
 :imagesdir: ./media/
 
 [.lead]
-Learn about gpo.security EMS events for unrecogfileform unrecogtemplate activity.
+gpo.security events are reported when the GptTmpl, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == gpo.security.unrecogFileForm
 *Severity*::

@@ -15,7 +15,7 @@ summary: dml.initialized events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dml.initialized EMS events, which report when the Device Management Layer (DML) is started.
+dml.initialized events are reported when the Device Management Layer (DML) is started, and corrective actions typically involve following the documented corrective action guidance.
 
 == dml.initialized
 *Severity*::

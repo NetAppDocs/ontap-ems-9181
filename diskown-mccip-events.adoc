@@ -15,7 +15,7 @@ summary: diskown.mccip events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.mccip EMS events for assignstatus invalidshlf multiowners activity.
+diskown.mccip events are reported when metroCluster(tm) quarter-shelf based drive assignment is enabled or disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.mccip.assignStatus
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.giveback events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.giveback EMS events for fence iron sp activity.
+wafl.giveback events are reported when the system cannot perform a giveback due to vol create, and must abort giveback, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.giveback.create.fail
 *Severity*::

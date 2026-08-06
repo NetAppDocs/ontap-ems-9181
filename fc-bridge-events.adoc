@@ -15,7 +15,7 @@ summary: fc.bridge events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fc.bridge EMS events for alert sas temp activity.
+fc.bridge events are reported when an FC port goes offline, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == fc.bridge.fc.port.alert
 *Severity*::

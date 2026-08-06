@@ -15,7 +15,7 @@ summary: raid.stripe events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.stripe EMS events for mismatch rg volume activity.
+raid.stripe events are reported when this event is issued when we encounter a bad block buffer entry in NVRAM during stripe replay (indicating corrupted NVRAM), and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.stripe.replay.bad.block
 *Severity*::

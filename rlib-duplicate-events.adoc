@@ -15,7 +15,7 @@ summary: rlib.duplicate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rlib.duplicate EMS events, which report when an interconnect link IP address on this node has a conflict with an IP address on another node in the cluster.
+rlib.duplicate events are reported when an interconnect link IP address on this node has a conflict with an IP address on another node in the cluster, and corrective actions typically involve rebooting the node or cluster component.
 
 == rlib.duplicate.ip.detected
 *Severity*::

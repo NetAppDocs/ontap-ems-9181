@@ -15,7 +15,7 @@ summary: cifs.server events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cifs.server EMS events, which report when the Vserver DR subsystem detects that the authentication style (domain or workgroup) of the source Vserver's CIFS server does not match the authentication style of the destination Vserver's CIFS server.
+cifs.server events are reported when the Vserver DR subsystem detects that the authentication style (domain or workgroup) of the source Vserver's CIFS server does not match the authentication style of the destination Vserver's CIFS server, and corrective actions typically involve following the documented corrective action guidance.
 
 == cifs.server.auth.StyleMismatch
 *Severity*::

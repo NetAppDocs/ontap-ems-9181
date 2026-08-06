@@ -15,7 +15,7 @@ summary: configbr.unpubfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about configbr.unpubfailed EMS events, which report when the configuration backup and restore feature fails to unpublish a package by using the file replication service.
+configbr.unpubfailed events are reported when the configuration backup and restore feature fails to unpublish a package by using the file replication service, and corrective actions typically involve following the documented corrective action guidance.
 
 == configbr.unpubFailed
 *Severity*::

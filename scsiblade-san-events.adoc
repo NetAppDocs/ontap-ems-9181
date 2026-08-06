@@ -15,7 +15,7 @@ summary: scsiblade.san events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.san EMS events for rtpgid ssm lu activity.
+scsiblade.san events are reported when the SAN active-active state has changed, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.san.config.active
 *Severity*::

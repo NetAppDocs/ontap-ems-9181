@@ -15,7 +15,7 @@ summary: wafl.replay events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.replay EMS events for aggr early nvlog activity.
+wafl.replay events are reported when a partner aggregate is mounted early before replay, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.replay.aggr.early.mt
 *Severity*::

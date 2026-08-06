@@ -15,7 +15,7 @@ summary: cf.headswap events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.headswap EMS events for partner detected local activity.
+cf.headswap events are reported when the headswap on the partner node is aborted, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.headswap.abort
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.cifsnbnameconflict events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.cifsnbnameconflict EMS events, which report when the NetBIOS Name Service receives a negative response from a remote machine for a name registration request.
+nblade.cifsnbnameconflict events are reported when the NetBIOS Name Service receives a negative response from a remote machine for a name registration request, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.cifsNbNameConflict
 *Severity*::

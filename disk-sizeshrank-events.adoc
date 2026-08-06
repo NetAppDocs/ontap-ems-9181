@@ -15,7 +15,7 @@ summary: disk.sizeshrank events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.sizeshrank EMS events, which report when the controller detects a decrease in the capacity of a virtual disk.
+disk.sizeshrank events are reported when the controller detects a decrease in the capacity of a virtual disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.sizeShrank
 *Severity*::

@@ -15,7 +15,7 @@ summary: ha.net events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.net EMS events, which report when HA network security is disabled.
+ha.net events are reported when hA network security is disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.net.sec.disabled
 *Severity*::

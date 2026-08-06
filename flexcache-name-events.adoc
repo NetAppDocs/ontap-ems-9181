@@ -15,7 +15,7 @@ summary: flexcache.name events
 :imagesdir: ./media/
 
 [.lead]
-Learn about flexcache.name EMS events, which report when the FlexCache(R) volume rename operation fails to synchronize the FlexCache name information to the origin cluster.
+flexcache.name events are reported when the FlexCache(R) volume rename operation fails to synchronize the FlexCache name information to the origin cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == flexcache.name.sync.failed
 *Severity*::

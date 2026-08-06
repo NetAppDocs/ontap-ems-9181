@@ -15,7 +15,7 @@ summary: nblade.gracebegin events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.gracebegin EMS events, which report when the NFS server enters the grace state.
+nblade.gracebegin events are reported when the NFS server enters the grace state, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.graceBegin
 *Severity*::

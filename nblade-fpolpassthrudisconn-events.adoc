@@ -15,7 +15,7 @@ summary: nblade.fpolpassthrudisconn events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.fpolpassthrudisconn EMS events, which report when the pass-through read channel between the node and the FPolicy server is disconnected.
+nblade.fpolpassthrudisconn events are reported when the pass-through read channel between the node and the FPolicy server is disconnected, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.fpolPassthruDisconn
 *Severity*::

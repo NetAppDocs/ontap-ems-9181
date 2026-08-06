@@ -15,7 +15,7 @@ summary: callhome.fdsk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.fdsk EMS events for admin fault label activity.
+callhome.fdsk events are reported when you fail a file system disk drive, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.fdsk.admin
 *Severity*::

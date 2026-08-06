@@ -15,7 +15,7 @@ summary: netif.linkinfo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.linkinfo EMS events, which report when a network interface is reset by the software or is configured down by the administrator.
+netif.linkinfo events are reported when a network interface is reset by the software or is configured down by the administrator, and corrective actions typically involve following the documented corrective action guidance.
 
 == netif.linkInfo
 *Severity*::

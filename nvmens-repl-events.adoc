@@ -15,7 +15,7 @@ summary: nvmens.repl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmens.repl EMS events, which report when replication of a volume containing NVMe namespaces has failed because the destination does not support NVMe namespaces.
+nvmens.repl events are reported when replication of a volume containing NVMe namespaces has failed because the destination does not support NVMe namespaces, and corrective actions typically involve following the documented corrective action guidance.
 
 == NVMeNS.repl.unsupp.ver
 *Severity*::

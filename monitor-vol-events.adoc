@@ -15,7 +15,7 @@ summary: monitor.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.vol EMS events for inc sav nearfull activity.
+monitor.vol events are reported when one or more file systems are full, typically indicating at least 98% full, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.vol.full.inc.sav
 *Severity*::

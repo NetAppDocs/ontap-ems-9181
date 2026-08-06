@@ -15,7 +15,7 @@ summary: mgmtgwd.certificate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.certificate EMS events for expired expiring switch activity.
+mgmtgwd.certificate events are reported when a digital certificate for a Vserver expires, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.certificate.expired
 *Severity*::

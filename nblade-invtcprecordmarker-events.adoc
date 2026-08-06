@@ -15,7 +15,7 @@ summary: nblade.invtcprecordmarker events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.invtcprecordmarker EMS events, which report when a TCP connection is reset due to an invalid TCP record marker in an Open Network Computing/Remote Procedure Call request.
+nblade.invtcprecordmarker events are reported when a TCP connection is reset due to an invalid TCP record marker in an Open Network Computing/Remote Procedure Call request, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.invTcpRecordMarker
 *Severity*::

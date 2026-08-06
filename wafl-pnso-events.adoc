@@ -15,7 +15,7 @@ summary: wafl.pnso events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.pnso EMS events, which report when hardware offload engine requests failed with EIO error.
+wafl.pnso events are reported when hardware offload engine requests failed with EIO error, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.pnso.offload.engine.error
 *Severity*::

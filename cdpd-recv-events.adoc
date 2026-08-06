@@ -15,7 +15,7 @@ summary: cdpd.recv events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cdpd.recv EMS events, which report when the CDP (Cisco Discovery Protocol) daemon running on the storage controller receives more unique neighbor advertisements than it can cache.
+cdpd.recv events are reported when the CDP (Cisco Discovery Protocol) daemon running on the storage controller receives more unique neighbor advertisements than it can cache, and corrective actions typically involve following the documented corrective action guidance.
 
 == cdpd.recv.cacheOverflow
 *Severity*::

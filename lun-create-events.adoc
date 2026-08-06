@@ -15,7 +15,7 @@ summary: lun.create events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.create EMS events for nvfailed volume resized activity.
+lun.create events are reported when a LUN is created in a volume that is in the nvfailed state, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.create.nvfailed.volume
 *Severity*::

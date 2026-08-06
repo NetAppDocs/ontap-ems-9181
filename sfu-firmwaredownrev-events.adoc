@@ -15,7 +15,7 @@ summary: sfu.firmwaredownrev events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.firmwaredownrev EMS events.
+sfu.firmwaredownrev events are reported when disk shelf firmware is downrev and therefore cannot be updated automatically, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.firmwareDownrev
 *Severity*::

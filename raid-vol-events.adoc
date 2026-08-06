@@ -15,7 +15,7 @@ summary: raid.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.vol EMS events for req toobig reminder activity.
+raid.vol events are reported when this event is issued when a disk is added to a aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.vol.disk.add.done
 *Severity*::

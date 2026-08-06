@@ -15,7 +15,7 @@ summary: nv.rename events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nv.rename EMS events for files longname activity.
+nv.rename events are reported when there is an error while renaming the files specified in /etc/nvfail_rename, and corrective actions typically involve following the documented corrective action guidance.
 
 == nv.rename.err
 *Severity*::

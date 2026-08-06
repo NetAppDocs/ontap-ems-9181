@@ -15,7 +15,7 @@ summary: nblade.vifmove events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.vifmove EMS events, which report when there is a failure adding a Remote Direct Memory Access (RDMA) listener during a Logical Interface (LIF) move.
+nblade.vifmove events are reported when there is a failure adding a Remote Direct Memory Access (RDMA) listener during a Logical Interface (LIF) move, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.vifmove.RdmaAddFail
 *Severity*::

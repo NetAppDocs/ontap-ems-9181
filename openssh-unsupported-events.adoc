@@ -15,7 +15,7 @@ summary: openssh.unsupported events
 :imagesdir: ./media/
 
 [.lead]
-Learn about openssh.unsupported EMS events for cipher hostalgo kexalgo activity.
+openssh.unsupported events are reported when an unsupported cipher is used while attempting an SSH connection, and corrective actions typically involve following the documented corrective action guidance.
 
 == openssh.unsupported.cipher
 *Severity*::

@@ -15,7 +15,7 @@ summary: block.giveback events
 :imagesdir: ./media/
 
 [.lead]
-Learn about block.giveback EMS events, which report when This message occurs during a storage failover (SFO) aggregate giveback, when a SnapMirror(R) active sync automatic unplanned failover operation is in progress.
+block.giveback events are reported when this message occurs during a storage failover (SFO) aggregate giveback, when a SnapMirror(R) active sync automatic unplanned failover operation is in progress, and corrective actions typically involve following the documented corrective action guidance.
 
 == block.giveback.during.aufo
 *Severity*::

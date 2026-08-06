@@ -15,7 +15,7 @@ summary: ha.giveback events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.giveback EMS events for aggronlinefailed aggronlinetimeout aggrpartnertimeout activity.
+ha.giveback events are reported when the RAID or WAFL(R) subsystem fails to bring online the aggregate or its containing volumes after giveback, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == ha.giveback.aggrOnlineFailed
 *Severity*::

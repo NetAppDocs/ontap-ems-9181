@@ -15,7 +15,7 @@ summary: diskown.stealingdisk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.stealingdisk EMS events, which report when This event is issued when a user reassigns a disk that is owned and has a reservation from another system.
+diskown.stealingdisk events are reported when this event is issued when a user reassigns a disk that is owned and has a reservation from another system, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.StealingDisk
 *Severity*::

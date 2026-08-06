@@ -15,7 +15,7 @@ summary: cna.initfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cna.initfailed EMS events, which report when the converged network adapter (CNA) fails to initialize.
+cna.initfailed events are reported when the converged network adapter (CNA) fails to initialize, and corrective actions typically involve following the documented corrective action guidance.
 
 == cna.initFailed
 *Severity*::

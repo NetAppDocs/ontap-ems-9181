@@ -15,7 +15,7 @@ summary: fg.member events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.member EMS events for below threshold elastic activity.
+fg.member events are reported when a members available space is below the threshold, and corrective actions typically involve following the documented corrective action guidance.
 
 == fg.member.below.threshold
 *Severity*::

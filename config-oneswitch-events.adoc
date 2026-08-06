@@ -15,7 +15,7 @@ summary: config.oneswitch events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.oneswitch EMS events, which report when the disk is only connected to one switch.
+config.oneswitch events are reported when the disk is only connected to one switch, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.OneSwitch
 *Severity*::

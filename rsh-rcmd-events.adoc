@@ -15,7 +15,7 @@ summary: rsh.rcmd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rsh.rcmd EMS events for bind used activity.
+rsh.rcmd events are reported when there is an error in binding a reserved port, and corrective actions typically involve following the documented corrective action guidance.
 
 == rsh.rcmd.port.bind
 *Severity*::

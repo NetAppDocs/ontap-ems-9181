@@ -15,7 +15,7 @@ summary: smbc.avail events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smbc.avail EMS events for aufodisabled aufoenabled primarybias activity.
+smbc.avail events are reported when the primary-bias state is set for the secondary endpoints of the SnapMirror(R) active sync relationships because both of the SnapMirror(R) active sync clusters lose connectivity to the ONTAP Mediator, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == smbc.avail.aufoDisabled
 *Severity*::

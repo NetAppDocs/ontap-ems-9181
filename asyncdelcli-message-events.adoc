@@ -15,7 +15,7 @@ summary: asyncdelcli.message events
 :imagesdir: ./media/
 
 [.lead]
-Learn about asyncdelcli.message EMS events for finish activity.
+asyncdelcli.message events are reported when an async-delete job has finished on the specified path, and corrective actions typically involve following the documented corrective action guidance.
 
 == asyncDelCli.message.finish
 *Severity*::

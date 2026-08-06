@@ -15,7 +15,7 @@ summary: xfcvi.initfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about xfcvi.initfailed EMS events, which report when the driver fails to initialize a FC-VI port.
+xfcvi.initfailed events are reported when the driver fails to initialize a FC-VI port, and corrective actions typically involve rebooting the node or cluster component.
 
 == xfcvi.initFailed
 *Severity*::

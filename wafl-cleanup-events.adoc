@@ -15,7 +15,7 @@ summary: wafl.cleanup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.cleanup EMS events for after relocate sendhome activity.
+wafl.cleanup events are reported when this message occurs after WAFL(R) completes the post-giveback cleanup, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.cleanup.after.giveback
 *Severity*::

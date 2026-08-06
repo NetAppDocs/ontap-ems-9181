@@ -15,7 +15,7 @@ summary: snapvault.tgt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapvault.tgt EMS events for dupcoalesced failure nbufailure activity.
+snapvault.tgt events are reported when snapVault(R) detects more than one coalesced snapshot of a specific type in a SnapVault secondary volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapvault.tgt.dupCoalesced
 *Severity*::

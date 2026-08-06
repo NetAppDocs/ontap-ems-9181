@@ -15,7 +15,7 @@ summary: nvme.card events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvme.card EMS events for degraded activity.
+nvme.card events are reported when the NVMe caching module has gone into a degraded state due to a warning reported by the drive, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvme.card.degraded
 *Severity*::

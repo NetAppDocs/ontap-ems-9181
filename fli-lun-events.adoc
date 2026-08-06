@@ -15,7 +15,7 @@ summary: fli.lun events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fli.lun EMS events for import checkpoint r2 activity.
+fli.lun events are reported when a checkpoint record delete fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == fli.lun.import.checkpoint
 *Severity*::

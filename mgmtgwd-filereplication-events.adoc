@@ -15,7 +15,7 @@ summary: mgmtgwd.filereplication events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.filereplication EMS events for failverify forbidden nopubroot activity.
+mgmtgwd.filereplication events are reported when the startup scan of the file replication publishing root directory fails to verify packages, and corrective actions typically involve contacting NetApp technical support.
 
 == mgmtgwd.filereplication.failverify
 *Severity*::

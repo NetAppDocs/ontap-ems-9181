@@ -15,7 +15,7 @@ summary: wafl.shutdown events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.shutdown EMS events, which report when This message occurs during shutdown, to indicate that a volume has not been marked clean.
+wafl.shutdown events are reported when this message occurs during shutdown, to indicate that a volume has not been marked clean, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.shutdown.notClean
 *Severity*::

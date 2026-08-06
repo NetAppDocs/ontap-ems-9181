@@ -15,7 +15,7 @@ summary: aggrcopy.src events
 :imagesdir: ./media/
 
 [.lead]
-Learn about aggrcopy.src EMS events, which report when This event is issued when we are not able to obtain all the snapshot information, from the vol copy source volume, required for a vol copy transfer.
+aggrcopy.src events are reported when this event is issued when we are not able to obtain all the snapshot information, from the vol copy source volume, required for a vol copy transfer, and corrective actions typically involve following the documented corrective action guidance.
 
 == aggrcopy.src.snapshotErr
 *Severity*::

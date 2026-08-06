@@ -15,7 +15,7 @@ summary: sfu.sasdownloadfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.sasdownloadfailed EMS events, which report when a disk shelf firmware update fails to download disk shelf firmware to a disk shelf successfully.
+sfu.sasdownloadfailed events are reported when a disk shelf firmware update fails to download disk shelf firmware to a disk shelf successfully, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.SASDownloadFailed
 *Severity*::

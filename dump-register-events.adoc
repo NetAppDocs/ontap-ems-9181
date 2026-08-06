@@ -15,7 +15,7 @@ summary: dump.register events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dump.register EMS events for commit activity.
+dump.register events are reported when a registry transaction failed to commit, and corrective actions typically involve following the documented corrective action guidance.
 
 == dump.register.commit
 *Severity*::

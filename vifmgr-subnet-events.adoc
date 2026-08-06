@@ -15,7 +15,7 @@ summary: vifmgr.subnet events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.subnet EMS events for addr acquired released activity.
+vifmgr.subnet events are reported when an address is successfully acquired from a subnet's available-ranges list, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.subnet.addr.acquired
 *Severity*::

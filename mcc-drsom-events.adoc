@@ -15,7 +15,7 @@ summary: mcc.drsom events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.drsom EMS events for disk fsm sstbl activity.
+mcc.drsom events are reported when it cannot be determined whether a disk belongs to a root aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.drsom.disk.filter.fail
 *Severity*::

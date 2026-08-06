@@ -15,7 +15,7 @@ summary: vifmgr.lifondegport events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.lifondegport EMS events, which report when an attempt to move a logical interface (LIF) currently hosted on a port with degraded health status to a healthy port fails because there are no healthy ports in the LIF's failover group.
+vifmgr.lifondegport events are reported when an attempt to move a logical interface (LIF) currently hosted on a port with degraded health status to a healthy port fails because there are no healthy ports in the LIF's failover group, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.lifOnDegPort.noPorts
 *Severity*::

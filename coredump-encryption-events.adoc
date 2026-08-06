@@ -15,7 +15,7 @@ summary: coredump.encryption events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.encryption EMS events.
+coredump.encryption events are reported when encryption is configured on the controller, but the coredump subsystem cannot encrypt data, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.encryption.disabled
 *Severity*::

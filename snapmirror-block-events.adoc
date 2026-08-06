@@ -15,7 +15,7 @@ summary: snapmirror.block events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapmirror.block EMS events for on reconstruct reconstructerr activity.
+snapmirror.block events are reported when a SnapMirror(R) operation needs to reconstruct the block type bits, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapmirror.block.on.reconstruct
 *Severity*::

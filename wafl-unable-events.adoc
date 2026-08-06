@@ -15,7 +15,7 @@ summary: wafl.unable events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.unable EMS events, which report when the FlexVol(R) volume cannot be marked as inconsistent.
+wafl.unable events are reported when the FlexVol(R) volume cannot be marked as inconsistent, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.unable.markinconsistent
 *Severity*::

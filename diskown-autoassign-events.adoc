@@ -15,7 +15,7 @@ summary: diskown.autoassign events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.autoassign EMS events for multipleowners multiplepools noowner activity.
+diskown.autoassign events are reported when automatic assigning of a disk fails because the disks on the stack are owned by multiple systems, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.AutoAssign.MultipleOwners
 *Severity*::

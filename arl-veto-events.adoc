@@ -15,7 +15,7 @@ summary: arl.veto events
 :imagesdir: ./media/
 
 [.lead]
-Learn about arl.veto EMS events for coredump lmgr volmove activity.
+arl.veto events are reported when the coredump subsystem vetoes the use of storage failover (SFO) during takeover because a coredump save is in progress; cluster failover (CFO) will be used instead, and corrective actions typically involve following the documented corrective action guidance.
 
 == arl.veto.coredump.saveinprog
 *Severity*::

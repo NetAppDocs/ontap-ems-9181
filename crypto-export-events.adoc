@@ -15,7 +15,7 @@ summary: crypto.export events
 :imagesdir: ./media/
 
 [.lead]
-Learn about crypto.export EMS events, which report when the export of a cryptographic key fails.
+crypto.export events are reported when the export of a cryptographic key fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == crypto.export.failed
 *Severity*::

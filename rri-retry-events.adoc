@@ -15,7 +15,7 @@ summary: rri.retry events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rri.retry EMS events, which report when This event is issued to indicate that flexaggr RRI inode has been requeued back to the queue in event of any failure.
+rri.retry events are reported when this event is issued to indicate that flexaggr RRI inode has been requeued back to the queue in event of any failure, and corrective actions typically involve following the documented corrective action guidance.
 
 == rri.retry.inode
 *Severity*::

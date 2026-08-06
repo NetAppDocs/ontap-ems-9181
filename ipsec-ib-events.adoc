@@ -15,7 +15,7 @@ summary: ipsec.ib events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ipsec.ib EMS events for encrypt lookup policy activity.
+ipsec.ib events are reported when an inbound IPsec packet cannot be successfully decrypted, and corrective actions typically involve following the documented corrective action guidance.
 
 == ipsec.ib.bad.encrypt
 *Severity*::

@@ -15,7 +15,7 @@ summary: zapi.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about zapi.snapshot EMS events, which report when This event occurs when an asynchronous Snapshot(tm) copy is created successfully through the Zephyr API (ZAPI) interface.
+zapi.snapshot events are reported when an asynchronous Snapshot(tm) copy is created successfully through the Zephyr API (ZAPI) interface, and corrective actions typically involve following the documented corrective action guidance.
 
 == zapi.snapshot.success
 *Severity*::

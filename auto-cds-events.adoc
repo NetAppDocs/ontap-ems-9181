@@ -15,7 +15,7 @@ summary: auto.cds events
 :imagesdir: ./media/
 
 [.lead]
-Learn about auto.cds EMS events for feature activity.
+auto.cds events are reported when this message occurs during upgrade to Data ONTAP(R) 9, and corrective actions typically involve following the documented corrective action guidance.
 
 == auto.cds.feature.disable.failed
 *Severity*::

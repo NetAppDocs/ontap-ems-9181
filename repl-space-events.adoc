@@ -15,7 +15,7 @@ summary: repl.space events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.space EMS events, which report when the attempt to change space guarantee type fails on the destination volume.
+repl.space events are reported when the attempt to change space guarantee type fails on the destination volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.space.guarantee.transfer.failed
 *Severity*::

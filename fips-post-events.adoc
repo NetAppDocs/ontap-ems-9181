@@ -15,7 +15,7 @@ summary: fips.post events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fips.post EMS events, which report when an unrecoverable error prevents initialization of the cryptographic subsystem into FIPS mode.
+fips.post events are reported when an unrecoverable error prevents initialization of the cryptographic subsystem into FIPS mode, and corrective actions typically involve following the documented corrective action guidance.
 
 == fips.post.failure
 *Severity*::

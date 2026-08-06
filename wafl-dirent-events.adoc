@@ -15,7 +15,7 @@ summary: wafl.dirent events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.dirent EMS events, which report when a user attempts to use a directory entry name that is not supported by the virtual server's language setting.
+wafl.dirent events are reported when a user attempts to use a directory entry name that is not supported by the virtual server's language setting, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.dirent.illegal.encoding
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.snapshot EMS events for badfilesize badlevel ecv activity.
+wafl.snapshot events are reported when this event is issued when the system discover that a filesize is out of range in a snapshot, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.snapshot.badFilesize
 *Severity*::

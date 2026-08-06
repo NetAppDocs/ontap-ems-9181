@@ -15,7 +15,7 @@ summary: callhome.mcc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.mcc EMS events for auso 2min switchover activity.
+callhome.mcc events are reported when a MetroCluster(tm) automatic unplanned switchover operation has completed and the outage window was longer than 120 sec, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == callhome.mcc.auso.2min
 *Severity*::

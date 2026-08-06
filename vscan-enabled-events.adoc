@@ -15,7 +15,7 @@ summary: vscan.enabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vscan.enabled EMS events, which report when a Vserver or cluster administrator enables Vscan on a Vserver.
+vscan.enabled events are reported when a Vserver or cluster administrator enables Vscan on a Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == vscan.enabled
 *Severity*::

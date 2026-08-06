@@ -15,7 +15,7 @@ summary: ha.panicinforcvbadvrsn events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.panicinforcvbadvrsn EMS events, which report when the version of the panic information received from the high-availability (HA) partner is not equal to the expected version.
+ha.panicinforcvbadvrsn events are reported when the version of the panic information received from the high-availability (HA) partner is not equal to the expected version, and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.panicInfoRcvBadVrsn
 *Severity*::

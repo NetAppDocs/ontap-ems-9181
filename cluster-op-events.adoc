@@ -15,7 +15,7 @@ summary: cluster.op events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cluster.op EMS events for rerun activity.
+cluster.op events are reported when a "cluster create" or a "cluster join" or a "cluster unjoin" operation is attempted but does not succeed, and corrective actions typically involve following the documented corrective action guidance.
 
 == cluster.op.fail
 *Severity*::

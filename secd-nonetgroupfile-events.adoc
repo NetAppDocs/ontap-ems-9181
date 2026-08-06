@@ -15,7 +15,7 @@ summary: secd.nonetgroupfile events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.nonetgroupfile EMS events, which report when trying to process a netgroup in an export policy while the Vserver "ns-switch" option is set exclusively to "file" but no netgroup file is loaded.
+secd.nonetgroupfile events are reported when trying to process a netgroup in an export policy while the Vserver "ns-switch" option is set exclusively to "file" but no netgroup file is loaded, and corrective actions typically involve following the documented corrective action guidance.
 
 == secd.noNetgroupFile
 *Severity*::

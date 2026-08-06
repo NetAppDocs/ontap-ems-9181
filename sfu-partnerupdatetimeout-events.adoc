@@ -15,7 +15,7 @@ summary: sfu.partnerupdatetimeout events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.partnerupdatetimeout EMS events, which report when This message occurs in a high-availability (HA) configuration in which an HA partner was downloading disk shelf firmware and the download has timed out.
+sfu.partnerupdatetimeout events are reported when this message occurs in a high-availability (HA) configuration in which an HA partner was downloading disk shelf firmware and the download has timed out, and corrective actions typically involve verifying the reported configuration and health state.
 
 == sfu.partnerUpdateTimeout
 *Severity*::

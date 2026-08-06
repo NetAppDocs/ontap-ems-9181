@@ -15,7 +15,7 @@ summary: callhome.hwaccel events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.hwaccel EMS events for qat dump activity.
+callhome.hwaccel events are reported when the hardware accelerator gets certain threshold number of errors and collects related diagnostic data concerning the device, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.hwaccel.qat.dump
 *Severity*::

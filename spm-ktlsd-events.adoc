@@ -15,7 +15,7 @@ summary: spm.ktlsd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.ktlsd EMS events, which report when the Kernel Transport Layer Security Daemon support process (ktlsd) involuntarily terminates.
+spm.ktlsd events are reported when the Kernel Transport Layer Security Daemon support process (ktlsd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.ktlsd.process.exit
 *Severity*::

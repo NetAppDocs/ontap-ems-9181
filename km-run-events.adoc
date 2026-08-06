@@ -15,7 +15,7 @@ summary: km.run events
 :imagesdir: ./media/
 
 [.lead]
-Learn about km.run EMS events for setup needed onboard activity.
+km.run events are reported when a node successfully performs a join operation to join a cluster, but the other nodes in the cluster have the External Key Manager configured and the new node does not, and corrective actions typically involve following the documented corrective action guidance.
 
 == km.run.external.setup
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.arl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.arl EMS events, which report when This message occurs during the relocation of an aggregate, when the destination node fails the volume count limit and volume size limit checks.
+wafl.arl events are reported when this message occurs during the relocation of an aggregate, when the destination node fails the volume count limit and volume size limit checks, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == wafl.arl.vol.limitChkFailed
 *Severity*::

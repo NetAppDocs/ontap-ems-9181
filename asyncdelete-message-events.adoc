@@ -15,7 +15,7 @@ summary: asyncdelete.message events
 :imagesdir: ./media/
 
 [.lead]
-Learn about asyncdelete.message EMS events.
+asyncdelete.message events are reported when an async delete job fails, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == asyncDelete.message.fail
 *Severity*::

@@ -15,7 +15,7 @@ summary: sp.ssh events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.ssh EMS events, which report when the SSH access list of the service processor needs to be reconfigured.
+sp.ssh events are reported when the SSH access list of the service processor needs to be reconfigured, and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.ssh.access.resetup
 *Severity*::

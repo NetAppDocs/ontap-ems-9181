@@ -15,7 +15,7 @@ summary: ses.channel events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.channel EMS events, which report when a rescan for enclosure services devices is initiated.
+ses.channel events are reported when a rescan for enclosure services devices is initiated, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.channel.rescanInitiated
 *Severity*::

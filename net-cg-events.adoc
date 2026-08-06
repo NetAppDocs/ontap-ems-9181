@@ -15,7 +15,7 @@ summary: net.cg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about net.cg EMS events for backpressureentered ratelimited utilthresholdexceed activity.
+net.cg events are reported when the current connection group experiences backpressure, and corrective actions typically involve following the documented corrective action guidance.
 
 == net.cg.backpressureEntered
 *Severity*::

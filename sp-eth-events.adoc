@@ -15,7 +15,7 @@ summary: sp.eth events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.eth EMS events for switch upd activity.
+sp.eth events are reported when service Processor (SP) or Baseboard Management Controller (BMC) fails to auto-update the internal Ethernet switch, and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.eth.switch.upd.failed
 *Severity*::

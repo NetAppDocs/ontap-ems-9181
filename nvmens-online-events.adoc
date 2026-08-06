@@ -15,7 +15,7 @@ summary: nvmens.online events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmens.online EMS events, which report when an NVMe namespace is brought online manually.
+nvmens.online events are reported when an NVMe namespace is brought online manually, and corrective actions typically involve following the documented corrective action guidance.
 
 == NVMeNS.online
 *Severity*::

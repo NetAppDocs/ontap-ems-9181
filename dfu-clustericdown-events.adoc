@@ -15,7 +15,7 @@ summary: dfu.clustericdown events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.clustericdown EMS events, which report when the high-availability (HA) interconnect is not available.
+dfu.clustericdown events are reported when the high-availability (HA) interconnect is not available, and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.clusterIcDown
 *Severity*::

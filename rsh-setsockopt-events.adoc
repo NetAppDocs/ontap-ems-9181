@@ -15,7 +15,7 @@ summary: rsh.setsockopt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rsh.setsockopt EMS events, which report when the setsockopt option on the RemoteShell(RSH) socket fails; RSH is not available.
+rsh.setsockopt events are reported when the setsockopt option on the RemoteShell(RSH) socket fails; RSH is not available, and corrective actions typically involve following the documented corrective action guidance.
 
 == rsh.setsockopt.failure
 *Severity*::

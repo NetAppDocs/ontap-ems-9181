@@ -15,7 +15,7 @@ summary: nblade.cifssametreepersessnotice events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.cifssametreepersessnotice EMS events, which report when the number of connections to the same share allowed per session nears the configured limit.
+nblade.cifssametreepersessnotice events are reported when the number of connections to the same share allowed per session nears the configured limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.cifsSameTreePerSessNotice
 *Severity*::

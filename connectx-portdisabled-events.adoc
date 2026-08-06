@@ -15,7 +15,7 @@ summary: connectx.portdisabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about connectx.portdisabled EMS events, which report when the HA interconnect port experiences persistent node advertisement send timeouts.
+connectx.portdisabled events are reported when the HA interconnect port experiences persistent node advertisement send timeouts, and corrective actions typically involve rebooting the node or cluster component.
 
 == connectx.portDisabled
 *Severity*::

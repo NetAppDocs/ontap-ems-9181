@@ -15,7 +15,7 @@ summary: diskown.diskhaswronginfo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.diskhaswronginfo EMS events, which report when the disk ownership information on a disk does not belong to the disk that it was read from.
+diskown.diskhaswronginfo events are reported when the disk ownership information on a disk does not belong to the disk that it was read from, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.diskHasWrongInfo
 *Severity*::

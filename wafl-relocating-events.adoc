@@ -15,7 +15,7 @@ summary: wafl.relocating events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.relocating EMS events for fence iron sp activity.
+wafl.relocating events are reported when the system cannot perform an aggregate relocation because a fence is set on one of the volumes in the aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.relocating.fence.fail
 *Severity*::

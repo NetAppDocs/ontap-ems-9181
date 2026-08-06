@@ -15,7 +15,7 @@ summary: disk.maint events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.maint EMS events for test activity.
+disk.maint events are reported when maintenance testing has completed, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.maint.test.end
 *Severity*::

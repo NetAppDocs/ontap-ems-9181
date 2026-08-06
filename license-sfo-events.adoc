@@ -15,7 +15,7 @@ summary: license.sfo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about license.sfo EMS events for gb veto eval activity.
+license.sfo events are reported when a storage failover giveback is vetoed because a select capacity license has not been installed and the license installation grace period has ended, and corrective actions typically involve following the documented corrective action guidance.
 
 == license.sfo.gb.veto
 *Severity*::

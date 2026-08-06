@@ -15,7 +15,7 @@ summary: callhome.corefile events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.corefile EMS events, which report when you invoke an AutoSupport for corefile upload.
+callhome.corefile events are reported when you invoke an AutoSupport for corefile upload, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.corefile.upload
 *Severity*::

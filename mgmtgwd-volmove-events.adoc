@@ -15,7 +15,7 @@ summary: mgmtgwd.volmove events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.volmove EMS events for notoptimized optimized activity.
+mgmtgwd.volmove events are reported when a volume move operation does not take the optimized path to avoid read requests from a cloud-based tier, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.volmove.notoptimized
 *Severity*::

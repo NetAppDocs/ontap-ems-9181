@@ -15,7 +15,7 @@ summary: dms.restserver events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dms.restserver EMS events, which report when the system hits an error in enabling SSL authentication in the rest server.
+dms.restserver events are reported when the system hits an error in enabling SSL authentication in the rest server, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == dms.restserver.ssl.disabled
 *Severity*::

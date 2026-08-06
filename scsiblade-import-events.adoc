@@ -15,7 +15,7 @@ summary: scsiblade.import events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.import EMS events for attr mod dblade activity.
+scsiblade.import events are reported when attributes of a SAN LUN under LUN import are modified, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.import.attr.mod
 *Severity*::

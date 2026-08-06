@@ -15,7 +15,7 @@ summary: fci.device events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fci.device EMS events for general reject login activity.
+fci.device events are reported when the Fibre Channel port transmits a frame that is rejected, and corrective actions typically involve following the documented corrective action guidance.
 
 == fci.device.general.reject
 *Severity*::

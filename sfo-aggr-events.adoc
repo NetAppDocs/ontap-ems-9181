@@ -15,7 +15,7 @@ summary: sfo.aggr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfo.aggr EMS events for relocated cu perm activity.
+sfo.aggr events are reported when a storage failover aggregate is relocated from one node to another during a nondisruptive controller upgrade, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfo.aggr.relocated.cu
 *Severity*::

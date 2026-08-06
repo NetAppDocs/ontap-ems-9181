@@ -15,7 +15,7 @@ summary: sp.device events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.device EMS events, which report when the service processor (SP) detects a firmware version mismatch among the devices managed by the SP.
+sp.device events are reported when the service processor (SP) detects a firmware version mismatch among the devices managed by the SP, and corrective actions typically involve contacting NetApp technical support.
 
 == sp.device.fw.mismatch
 *Severity*::

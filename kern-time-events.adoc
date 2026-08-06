@@ -15,7 +15,7 @@ summary: kern.time events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kern.time EMS events, which report when A timestamp reset event occurred.
+kern.time events are reported when a timestamp reset event occurred, and corrective actions typically involve following the documented corrective action guidance.
 
 == kern.time.stamp.reset
 *Severity*::

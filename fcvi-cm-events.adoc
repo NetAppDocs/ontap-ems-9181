@@ -15,7 +15,7 @@ summary: fcvi.cm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fcvi.cm EMS events, which report when connection requests times out.
+fcvi.cm events are reported when connection requests times out, and corrective actions typically involve following the documented corrective action guidance.
 
 == fcvi.cm.timedout
 *Severity*::

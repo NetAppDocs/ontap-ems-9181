@@ -15,7 +15,7 @@ summary: netgroup.nis events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netgroup.nis EMS events for byhost decode missing activity.
+netgroup.nis events are reported when the netgroup, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == netgroup.nis.byhost.decode
 *Severity*::

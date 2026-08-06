@@ -15,7 +15,7 @@ summary: hotplug.insert events
 :imagesdir: ./media/
 
 [.lead]
-Learn about hotplug.insert EMS events for badcard type up activity.
+hotplug.insert events are reported when the module type does not match the system's record for this slot, and corrective actions typically involve following the documented corrective action guidance.
 
 == hotplug.insert.badCard.type
 *Severity*::

@@ -15,7 +15,7 @@ summary: fpolicy.unsupportedpathlen events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fpolicy.unsupportedpathlen EMS events, which report when an FPolicy screen request has a path name longer than 4k bytes.
+fpolicy.unsupportedpathlen events are reported when an FPolicy screen request has a path name longer than 4k bytes, and corrective actions typically involve following the documented corrective action guidance.
 
 == fpolicy.unsupportedPathLen
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.voltrans events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.voltrans EMS events for qtree 32bit was activity.
+wafl.voltrans events are reported when a volume transition clears the noi2p option on a volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.voltrans.clear.noi2p
 *Severity*::

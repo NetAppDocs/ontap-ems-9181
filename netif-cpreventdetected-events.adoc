@@ -15,7 +15,7 @@ summary: netif.cpreventdetected events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.cpreventdetected EMS events, which report when a CPR Event (core PCI resiliency) is detected.
+netif.cpreventdetected events are reported when a CPR Event (core PCI resiliency) is detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == netif.cprEventDetected
 *Severity*::

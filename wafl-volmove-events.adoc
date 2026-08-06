@@ -15,7 +15,7 @@ summary: wafl.volmove events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.volmove EMS events, which report when the active map delta file for a volume move destination is corrupt.
+wafl.volmove events are reported when the active map delta file for a volume move destination is corrupt, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.volmove.dst.amd.corrupt
 *Severity*::

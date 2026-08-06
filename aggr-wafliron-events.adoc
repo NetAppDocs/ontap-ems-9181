@@ -15,7 +15,7 @@ summary: aggr.wafliron events
 :imagesdir: ./media/
 
 [.lead]
-Learn about aggr.wafliron EMS events, which report when wafliron is started.
+aggr.wafliron events are reported when wafliron is started, and corrective actions typically involve following the documented corrective action guidance.
 
 == aggr.wafliron.attemptStart
 *Severity*::

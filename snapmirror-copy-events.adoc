@@ -15,7 +15,7 @@ summary: snapmirror.copy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapmirror.copy EMS events for baseline done failederr activity.
+snapmirror.copy events are reported when the baseline transfer of a SnapMirror(R) copy for a volume is completed and the volume comes online, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapmirror.copy.baseLine.done
 *Severity*::

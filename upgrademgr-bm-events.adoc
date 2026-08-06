@@ -15,7 +15,7 @@ summary: upgrademgr.bm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about upgrademgr.bm EMS events, which report when the upgrade manager starts to update boot media of the node with the target ONTAP image.
+upgrademgr.bm events are reported when the upgrade manager starts to update boot media of the node with the target ONTAP image, and corrective actions typically involve following the documented corrective action guidance.
 
 == upgrademgr.bm.update.started
 *Severity*::

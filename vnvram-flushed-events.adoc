@@ -15,7 +15,7 @@ summary: vnvram.flushed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vnvram.flushed EMS events, which report when the VNVRAM contents of any ONTAP-based virtual appliance that is not using full-mode VNVRAM, are written to the backing storage device.
+vnvram.flushed events are reported when the VNVRAM contents of any ONTAP-based virtual appliance that is not using full-mode VNVRAM, are written to the backing storage device, and corrective actions typically involve following the documented corrective action guidance.
 
 == vnvram.flushed
 *Severity*::

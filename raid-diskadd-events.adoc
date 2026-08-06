@@ -15,7 +15,7 @@ summary: raid.diskadd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.diskadd EMS events.
+raid.diskadd events are reported when the system aborts the addition of disks to an aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.diskadd.abort
 *Severity*::

@@ -15,7 +15,7 @@ summary: acp.locked events
 :imagesdir: ./media/
 
 [.lead]
-Learn about acp.locked EMS events for wrench link up activity.
+acp.locked events are reported when the link status of a locked wrench Ethernet port (on the back of the storage controller) changes from "up" to "down", and corrective actions typically involve verifying the reported configuration and health state.
 
 == acp.locked.wrench.link.down
 *Severity*::

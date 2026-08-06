@@ -15,7 +15,7 @@ summary: lun.destroy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.destroy EMS events, which report when a LUN is destroyed.
+lun.destroy events are reported when a LUN is destroyed, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.destroy
 *Severity*::

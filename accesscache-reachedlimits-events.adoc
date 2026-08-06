@@ -15,7 +15,7 @@ summary: accesscache.reachedlimits events
 :imagesdir: ./media/
 
 [.lead]
-Learn about accesscache.reachedlimits EMS events, which report when the access cache module reaches its limit for entries.
+accesscache.reachedlimits events are reported when the access cache module reaches its limit for entries, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == AccessCache.ReachedLimits
 *Severity*::

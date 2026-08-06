@@ -15,7 +15,7 @@ summary: pci.init events
 :imagesdir: ./media/
 
 [.lead]
-Learn about pci.init EMS events, which report when This message occurs to warn about the time taken by PCI initialization when PCI configuration is waiting for outstanding background threads that might still be running.
+pci.init events are reported when this message occurs to warn about the time taken by PCI initialization when PCI configuration is waiting for outstanding background threads that might still be running, and corrective actions typically involve following the documented corrective action guidance.
 
 == PCI.init.process.timeWarn
 *Severity*::

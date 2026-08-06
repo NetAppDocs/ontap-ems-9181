@@ -15,7 +15,7 @@ summary: coredump.job events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.job EMS events for notstarted notswitchedback activity.
+coredump.job events are reported when the system cannot automatically save a core, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.job.notstarted
 *Severity*::

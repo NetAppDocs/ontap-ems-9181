@@ -15,7 +15,7 @@ summary: smc.snapmir events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smc.snapmir EMS events for resync noconnect unsupp activity.
+smc.snapmir events are reported when the destination volume of a SnapMirror(R) relationship is not a Data Protection (DP) type and a snapmirror initialize operation is attempted, and corrective actions typically involve following the documented corrective action guidance.
 
 == smc.snapmir.dst.invalidType
 *Severity*::

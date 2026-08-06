@@ -15,7 +15,7 @@ summary: lmgr.lock events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.lock EMS events for reclaim type counts activity.
+lmgr.lock events are reported when the system aborts the volume lock reclaim process, and no corrective action is typically required.
 
 == lmgr.lock.reclaim.aborted
 *Severity*::

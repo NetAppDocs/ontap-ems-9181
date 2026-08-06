@@ -15,7 +15,7 @@ summary: connectx.ibcabledetected events
 :imagesdir: ./media/
 
 [.lead]
-Learn about connectx.ibcabledetected EMS events, which report when an InfiniBand cable is detected on the InfiniBand port.
+connectx.ibcabledetected events are reported when an InfiniBand cable is detected on the InfiniBand port, and corrective actions typically involve following the documented corrective action guidance.
 
 == connectx.IbCableDetected
 *Severity*::

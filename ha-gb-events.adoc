@@ -15,7 +15,7 @@ summary: ha.gb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.gb EMS events for mbxaccesserr mbxcountmismatch mbxnotfound activity.
+ha.gb events are reported when a mailbox disk cannot be accessed prior to a giveback, and corrective actions typically involve verifying the reported configuration and health state.
 
 == ha.gb.mbxAccessErr
 *Severity*::

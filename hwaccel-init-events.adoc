@@ -15,7 +15,7 @@ summary: hwaccel.init events
 :imagesdir: ./media/
 
 [.lead]
-Learn about hwaccel.init EMS events, which report when initialization of a hardware accelerator fails due to an unexpected software error.
+hwaccel.init events are reported when initialization of a hardware accelerator fails due to an unexpected software error, and corrective actions typically involve following the documented corrective action guidance.
 
 == hwaccel.init.failed
 *Severity*::

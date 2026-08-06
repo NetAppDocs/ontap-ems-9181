@@ -15,7 +15,7 @@ summary: raid.assim events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.assim EMS events for disk cls tree activity.
+raid.assim events are reported when adding an offline disk into a raidtree, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.assim.add.offline.disk
 *Severity*::

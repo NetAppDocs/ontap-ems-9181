@@ -15,7 +15,7 @@ summary: sfo.takeover events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfo.takeover EMS events for aggrprocesstime aggrsubsystime bypassed activity.
+sfo.takeover events are reported when the taking over node cannot complete an attempted optimized negotiated takeover, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfo.takeover.aborted
 *Severity*::

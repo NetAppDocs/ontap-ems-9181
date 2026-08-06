@@ -15,7 +15,7 @@ summary: arl.netra events
 :imagesdir: ./media/
 
 [.lead]
-Learn about arl.netra EMS events for ca ha lmgr activity.
+arl.netra events are reported when this message occurs during the relocation of an aggregate, when the destination node cannot reach the object stores, and corrective actions typically involve verifying the reported configuration and health state.
 
 == arl.netra.ca.check.failed
 *Severity*::

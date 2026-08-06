@@ -15,7 +15,7 @@ summary: mgmt.abv events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.abv EMS events for service filling volume activity.
+mgmt.abv events are reported when the percentage of data used on one or more data constituents in a storage service of a managed Infinite Volume exceeds the full watermark, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.abv.service.filling
 *Deprecated*::

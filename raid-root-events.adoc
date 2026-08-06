@@ -15,7 +15,7 @@ summary: raid.root events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.root EMS events for unmirrored vol nofaultisolation activity.
+raid.root events are reported when the root volume is not mirrored in a MetroCluster(tm) configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.root.unmirrored
 *Severity*::

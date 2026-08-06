@@ -15,7 +15,7 @@ summary: sis.max events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.max EMS events for saving activity.
+sis.max events are reported when single Instance Storage (SIS) savings on the volume is nearing its maximum limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.max.saving.near
 *Severity*::

@@ -15,7 +15,7 @@ summary: config.sameswitchwarn events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.sameswitchwarn EMS events, which report when both ports of a disk are found to be attached to the same switch.
+config.sameswitchwarn events are reported when both ports of a disk are found to be attached to the same switch, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.SameSwitchWarn
 *Severity*::

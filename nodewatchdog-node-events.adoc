@@ -15,7 +15,7 @@ summary: nodewatchdog.node events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nodewatchdog.node EMS events for failure longreboot ucore activity.
+nodewatchdog.node events are reported when data ONTAP(R) experiences a prolonged outage of internal services critical to continued data service, and corrective actions typically involve following the documented corrective action guidance.
 
 == nodewatchdog.node.failure
 *Severity*::

@@ -15,7 +15,7 @@ summary: esh.xfer events
 :imagesdir: ./media/
 
 [.lead]
-Learn about esh.xfer EMS events for element fault sent activity.
+esh.xfer events are reported when an element is unreachable during an I/O request, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == esh.xfer.element.fault
 *Severity*::

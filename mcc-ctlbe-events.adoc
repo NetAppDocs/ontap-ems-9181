@@ -15,7 +15,7 @@ summary: mcc.ctlbe events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.ctlbe EMS events for iodelayed ioresponsedelayed activity.
+mcc.ctlbe events are reported when sCSI IO for RSM is delayed significantly in the iSCSI stack, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.ctlbe.IODelayed
 *Severity*::

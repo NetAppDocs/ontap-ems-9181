@@ -15,7 +15,7 @@ summary: app.temp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about app.temp EMS events for s3bucket destroy mcc activity.
+app.temp events are reported when a S3 Bucket cannot be deleted as a part of an application destroy operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == app.temp.delete.s3bucket.fail
 *Severity*::

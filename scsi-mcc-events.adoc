@@ -15,7 +15,7 @@ summary: scsi.mcc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsi.mcc EMS events, which report when Generated when an I/O request encounters an error due to an iSCSI Protocol Error, a end device error, or some stack internal error.
+scsi.mcc events are reported when generated when an I/O request encounters an error because of an iSCSI Protocol Error, a end device error, or some stack internal error, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsi.mcc.adt.ioTransportError
 *Severity*::

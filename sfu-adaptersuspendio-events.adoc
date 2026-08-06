@@ -15,7 +15,7 @@ summary: sfu.adaptersuspendio events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.adaptersuspendio EMS events for ndu activity.
+sfu.adaptersuspendio events are reported when this message occurs during a disk shelf firmware update on a disk shelf that cannot perform I/O while updating firmware, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.adapterSuspendIO
 *Severity*::

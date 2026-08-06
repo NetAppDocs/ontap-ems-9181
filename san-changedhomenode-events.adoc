@@ -15,7 +15,7 @@ summary: san.changedhomenode events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.changedhomenode EMS events, which report when the home node of an existing SAN LIF is modified during LIF placement.
+san.changedhomenode events are reported when the home node of an existing SAN LIF is modified during LIF placement, and corrective actions typically involve following the documented corrective action guidance.
 
 == san.ChangedHomeNode
 *Severity*::

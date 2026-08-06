@@ -15,7 +15,7 @@ summary: lmgr.gb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.gb EMS events for ca locks lost activity.
+lmgr.gb events are reported when giveback veto is overridden, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.gb.CA.locks.lost
 *Severity*::

@@ -15,7 +15,7 @@ summary: raid.offline events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.offline EMS events, which report when an attempt to offline an aggregate fails due to active operations on the contained volumes.
+raid.offline events are reported when an attempt to offline an aggregate fails due to active operations on the contained volumes, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.offline.busy
 *Severity*::

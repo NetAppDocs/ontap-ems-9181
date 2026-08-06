@@ -15,7 +15,7 @@ summary: sfu.resumediskio events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.resumediskio EMS events, which report when a disk shelf firmware update is completed and disk I/O is resumed.
+sfu.resumediskio events are reported when a disk shelf firmware update is completed and disk I/O is resumed, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.resumeDiskIO
 *Severity*::

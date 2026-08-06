@@ -15,7 +15,7 @@ summary: wafl.remote events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.remote EMS events, which report when WAFL cannot get enough storage space for remote caching to function properly.
+wafl.remote events are reported when wAFL cannot get enough storage space for remote caching to function properly, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.remote.cannot.refill.fsps
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.sync events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.sync EMS events, which report when ONTAP(R) cannot create a new base snapshot in a SyncMirror aggregate after multiple attempts.
+callhome.sync events are reported when oNTAP(R) cannot create a new base snapshot in a SyncMirror aggregate after multiple attempts, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.sync.mirror.nospc
 *Severity*::

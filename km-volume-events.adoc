@@ -15,7 +15,7 @@ summary: km.volume events
 :imagesdir: ./media/
 
 [.lead]
-Learn about km.volume EMS events for mount mismatch activity.
+km.volume events are reported when this message occurs during the recovery of the key manager when a volume is placed online, but fails to mount, and corrective actions typically involve following the documented corrective action guidance.
 
 == km.volume.mount.fail
 *Severity*::

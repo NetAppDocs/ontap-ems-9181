@@ -15,7 +15,7 @@ summary: nvmeof.timeout events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmeof.timeout EMS events, which report when the NVMeoF driver detects a timeout on a request.
+nvmeof.timeout events are reported when the NVMeoF driver detects a timeout on a request, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmeof.timeout
 *Severity*::

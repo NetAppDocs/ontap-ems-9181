@@ -15,7 +15,7 @@ summary: disk.outofservice events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.outofservice EMS events, which report when a drive is removed from service because it has been marked failed, is being sanitized, or has entered Maintenance Center.
+disk.outofservice events are reported when a drive is removed from service because it has been marked failed, is being sanitized, or has entered Maintenance Center, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.outOfService
 *Severity*::

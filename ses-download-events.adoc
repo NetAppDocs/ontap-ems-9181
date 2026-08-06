@@ -15,7 +15,7 @@ summary: ses.download events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.download EMS events for powercyclingchannel shelftoreboot suspendioforpowercycle activity.
+ses.download events are reported when the power cycling channel event is issued after a disk shelf firmware download to disk shelves that require a power-cycle to activate the new code, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.download.powerCyclingChannel
 *Severity*::

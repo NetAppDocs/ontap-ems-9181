@@ -15,7 +15,7 @@ summary: monitor.temp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.temp EMS events, which report when the controller module temperature is not readable.
+monitor.temp events are reported when the controller module temperature is not readable, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.temp.unreadable
 *Severity*::

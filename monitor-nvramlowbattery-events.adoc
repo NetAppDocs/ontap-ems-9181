@@ -15,7 +15,7 @@ summary: monitor.nvramlowbattery events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.nvramlowbattery EMS events.
+monitor.nvramlowbattery events are reported when the NVRAM battery is at a dangerously low power level, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.nvramLowBattery
 *Severity*::

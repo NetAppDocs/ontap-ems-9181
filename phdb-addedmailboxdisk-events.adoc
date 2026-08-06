@@ -15,7 +15,7 @@ summary: phdb.addedmailboxdisk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about phdb.addedmailboxdisk EMS events, which report when Cloud Volume ONTAP (CVO) creates and adds a cloud mailbox disk.
+phdb.addedmailboxdisk events are reported when cloud Volume ONTAP (CVO) creates and adds a cloud mailbox disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == phdb.addedMailboxDisk
 *Severity*::

@@ -15,7 +15,7 @@ summary: rdmalib.rcm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rdmalib.rcm EMS events, which report when the configuration of the high-availability (HA) interface cannot be completed due to a missing IP address.
+rdmalib.rcm events are reported when the configuration of the high-availability (HA) interface cannot be completed due to a missing IP address, and corrective actions typically involve verifying the reported configuration and health state.
 
 == rdmalib.rcm.configMissing
 *Severity*::

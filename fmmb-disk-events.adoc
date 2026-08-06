@@ -15,7 +15,7 @@ summary: fmmb.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fmmb.disk EMS events for idchange notaccsble activity.
+fmmb.disk events are reported when this event is issued when the unique identifier of one of the disks used by the HA mailbox has changed, and corrective actions typically involve following the documented corrective action guidance.
 
 == fmmb.disk.IDchange
 *Severity*::

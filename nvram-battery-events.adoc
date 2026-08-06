@@ -15,7 +15,7 @@ summary: nvram.battery events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvram.battery EMS events for low warn normal activity.
+nvram.battery events are reported when the NVRAM battery capacity is critically low, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvram.battery.capacity.low.critical
 *Severity*::

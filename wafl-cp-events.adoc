@@ -15,7 +15,7 @@ summary: wafl.cp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.cp EMS events, which report when a WAFL(R) consistency point (CP) takes longer than 30 seconds.
+wafl.cp events are reported when a WAFL(R) consistency point (CP) takes longer than 30 seconds, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.cp.toolong
 *Severity*::

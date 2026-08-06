@@ -15,7 +15,7 @@ summary: nblade.vifdel events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.vifdel EMS events for ipremovefailed longrunning activity.
+nblade.vifdel events are reported when there is a failure removing the IP address of a LIF that is being deleted, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.vifdel.ipRemoveFailed
 *Severity*::

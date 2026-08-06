@@ -15,7 +15,7 @@ summary: nblade.nbnstoomanylifs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.nbnstoomanylifs EMS events, which report when the NetBIOS Name Service receives more than 25 IP addresses for a name registration request.
+nblade.nbnstoomanylifs events are reported when the NetBIOS Name Service receives more than 25 IP addresses for a name registration request, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.NbnsTooManyLifs
 *Severity*::

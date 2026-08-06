@@ -15,7 +15,7 @@ summary: crypto.debug events
 :imagesdir: ./media/
 
 [.lead]
-Learn about crypto.debug EMS events, which report when The Crypto module debug event.
+crypto.debug events are reported when the Crypto module debug event, and corrective actions typically involve following the documented corrective action guidance.
 
 == crypto.debug
 *Severity*::

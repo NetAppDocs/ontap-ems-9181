@@ -15,7 +15,7 @@ summary: pcie.link events
 :imagesdir: ./media/
 
 [.lead]
-Learn about pcie.link EMS events, which report when PCI Express link errors are detected.
+pcie.link events are reported when pCI Express link errors are detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == pcie.link.errors
 *Severity*::

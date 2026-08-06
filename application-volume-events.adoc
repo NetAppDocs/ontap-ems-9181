@@ -15,7 +15,7 @@ summary: application.volume events
 :imagesdir: ./media/
 
 [.lead]
-Learn about application.volume EMS events, which report when an application is destroyed, but a member volume was not deleted after an error was encountered.
+application.volume events are reported when an application is destroyed, but a member volume was not deleted after an error was encountered, and corrective actions typically involve following the documented corrective action guidance.
 
 == application.volume.removed
 *Severity*::

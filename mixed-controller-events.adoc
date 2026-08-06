@@ -15,7 +15,7 @@ summary: mixed.controller events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mixed.controller EMS events for halt partner activity.
+mixed.controller events are reported when the system detects a different type of partner controller and will shut down in 24 hours, and corrective actions typically involve following the documented corrective action guidance.
 
 == mixed.controller.halt
 *Severity*::

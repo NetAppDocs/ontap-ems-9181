@@ -15,7 +15,7 @@ summary: coredump.coreid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.coreid EMS events, which report when Could not find the specified core.
+coredump.coreid events are reported when could not find the specified core, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.coreid.not.found
 *Severity*::

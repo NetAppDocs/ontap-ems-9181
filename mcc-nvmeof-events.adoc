@@ -15,7 +15,7 @@ summary: mcc.nvmeof events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.nvmeof EMS events for rdma disconnect subsystem activity.
+mcc.nvmeof events are reported when the mode of an NVMe-oF port is changed, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.nvmeof.port.modify
 *Severity*::

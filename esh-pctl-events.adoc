@@ -15,7 +15,7 @@ summary: esh.pctl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about esh.pctl EMS events for bpcpldfailed connfailed modcpldfailed activity.
+esh.pctl events are reported when a 'power control' command cannot be performed on the specified disk device because the backplane CPLD (Complex Programmable Logic Device) is not operational, and corrective actions typically involve following the documented corrective action guidance.
 
 == esh.pctl.bpCPLDFailed
 *Severity*::

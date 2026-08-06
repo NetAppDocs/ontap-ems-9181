@@ -15,7 +15,7 @@ summary: callhome.ext events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.ext EMS events, which report when a check of the external memory cache used for increasing system performance has failed and this cache has been disabled.
+callhome.ext events are reported when a check of the external memory cache used for increasing system performance has failed and this cache has been disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.ext.cache.bad
 *Severity*::

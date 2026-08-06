@@ -15,7 +15,7 @@ summary: kmip2.ssl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kmip2.ssl EMS events, which report when a KMIP SSL/TLS connection error is detected in either a Cloud ONTAP system with encrypted aggregates or a NSE system.
+kmip2.ssl events are reported when a KMIP SSL/TLS connection error is detected in either a Cloud ONTAP system with encrypted aggregates or a NSE system, and corrective actions typically involve following the documented corrective action guidance.
 
 == kmip2.ssl.cannot.connect
 *Severity*::

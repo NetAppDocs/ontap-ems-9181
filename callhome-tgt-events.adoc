@@ -15,7 +15,7 @@ summary: callhome.tgt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.tgt EMS events, which report when the SCSI Target subsystem begins failing SCSI Write commands due to to an out of space (ENOSPC) condition on the appliance.
+callhome.tgt events are reported when the SCSI Target subsystem begins failing SCSI Write commands due to to an out of space (ENOSPC) condition on the appliance, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.tgt.lun.nospc
 *Severity*::

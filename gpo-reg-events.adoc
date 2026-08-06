@@ -15,7 +15,7 @@ summary: gpo.reg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about gpo.reg EMS events for applied bcache notapplied activity.
+gpo.reg events are reported when the group policy object (GPO) registry policy settings are applied, and corrective actions typically involve following the documented corrective action guidance.
 
 == gpo.reg.applied
 *Severity*::

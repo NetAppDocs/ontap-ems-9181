@@ -15,7 +15,7 @@ summary: vsa.savecore events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsa.savecore EMS events, which report when the savecore tool determines that the space available is not sufficient for storing the core image from a dump device to a readable core file in the /etc/crash directory.
+vsa.savecore events are reported when the savecore tool determines that the space available is not sufficient for storing the core image from a dump device to a readable core file in the /etc/crash directory, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsa.savecore.nospace
 *Severity*::

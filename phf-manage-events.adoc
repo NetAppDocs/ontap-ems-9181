@@ -15,7 +15,7 @@ summary: phf.manage events
 :imagesdir: ./media/
 
 [.lead]
-Learn about phf.manage EMS events, which report when peripheral host bus adapter freebsd (phf) detects a device to be added to the system.
+phf.manage events are reported when peripheral host bus adapter freebsd (phf) detects a device to be added to the system, and corrective actions typically involve following the documented corrective action guidance.
 
 == phf.manage.add.upcall
 *Severity*::

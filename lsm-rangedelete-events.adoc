@@ -15,7 +15,7 @@ summary: lsm.rangedelete events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lsm.rangedelete EMS events, which report when a block store encounters an error while performing a range delete operation.
+lsm.rangedelete events are reported when a block store encounters an error while performing a range delete operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == lsm.rangeDelete.problem
 *Severity*::

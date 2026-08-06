@@ -15,7 +15,7 @@ summary: fci.fabric events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fci.fabric EMS events for ports switches activity.
+fci.fabric events are reported when a switch in the fabric attached to the Fibre Channel adapter exceeds the maximum number of ports allowed on a switch, and corrective actions typically involve following the documented corrective action guidance.
 
 == fci.fabric.max.ports
 *Severity*::

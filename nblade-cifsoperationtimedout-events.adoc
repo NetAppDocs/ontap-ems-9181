@@ -15,7 +15,7 @@ summary: nblade.cifsoperationtimedout events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.cifsoperationtimedout EMS events, which report when a CIFS operation times out because it cannot be processed completely within 40 seconds.
+nblade.cifsoperationtimedout events are reported when a CIFS operation times out because it could not be processed completely within 40 seconds, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == Nblade.CifsOperationTimedOut
 *Severity*::

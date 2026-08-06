@@ -15,7 +15,7 @@ summary: aggr.resize events
 :imagesdir: ./media/
 
 [.lead]
-Learn about aggr.resize EMS events for request sent response activity.
+aggr.resize events are reported when a request to resize an aggregate is sent to the REST server as part of the storage thin provisioning feature in Quark, and corrective actions typically involve following the documented corrective action guidance.
 
 == aggr.resize.request.sent
 *Severity*::

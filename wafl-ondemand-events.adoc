@@ -15,7 +15,7 @@ summary: wafl.ondemand events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.ondemand EMS events for aggr rsv destroy activity.
+wafl.ondemand events are reported when data ONTAP(R) fails to reserve space for a file operation due to lack of space on the aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.ondemand.aggr.rsv.fail
 *Severity*::

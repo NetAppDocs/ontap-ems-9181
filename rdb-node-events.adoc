@@ -15,7 +15,7 @@ summary: rdb.node events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rdb.node EMS events, which report when the replicated database (RDB) detects CPU starvation on this node, potentially causing it to leave cluster quorum.
+rdb.node events are reported when the replicated database (RDB) detects CPU starvation on this node, potentially causing it to leave cluster quorum, and corrective actions typically involve following the documented corrective action guidance.
 
 == rdb.node.starvation
 *Severity*::

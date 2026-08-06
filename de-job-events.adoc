@@ -15,7 +15,7 @@ summary: de.job events
 :imagesdir: ./media/
 
 [.lead]
-Learn about de.job EMS events, which report when a job in AIDP fails to complete successfully.
+de.job events are reported when a job in AIDP fails to complete successfully, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == de.job.failure
 *Severity*::

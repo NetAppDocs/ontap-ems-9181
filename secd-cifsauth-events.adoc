@@ -15,7 +15,7 @@ summary: secd.cifsauth events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.cifsauth EMS events for denied nonamemap nounixcreds activity.
+secd.cifsauth events are reported when a CIFS authentication attempt fails for any reason other than an unknown user name or bad password, and corrective actions typically involve following the documented corrective action guidance.
 
 == secd.cifsAuth.denied
 *Severity*::

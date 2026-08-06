@@ -15,7 +15,7 @@ summary: config.habadbank2 events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.habadbank2 EMS events, which report when a local host adapter is connected to a different switch bank (on ports 0-7) than other adapters on this controller, which are connected to ports 8-15.
+config.habadbank2 events are reported when a local host adapter is connected to a different switch bank (on ports 0-7) than other adapters on this controller, which are connected to ports 8-15, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.HABadBank2
 *Severity*::

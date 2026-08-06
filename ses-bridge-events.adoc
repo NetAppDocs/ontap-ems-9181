@@ -15,7 +15,7 @@ summary: ses.bridge events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.bridge EMS events for fw getfailwarn mmerr activity.
+ses.bridge events are reported when the bridge firmware revision cannot be obtained, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == ses.bridge.fw.getFailWarn
 *Severity*::

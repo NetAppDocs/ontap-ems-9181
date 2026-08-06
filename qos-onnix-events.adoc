@@ -15,7 +15,7 @@ summary: qos.onnix events
 :imagesdir: ./media/
 
 [.lead]
-Learn about qos.onnix EMS events, which report when the classification subsystem for Quality of Service (QoS) fails.
+qos.onnix events are reported when the classification subsystem for Quality of Service (QoS) fails, and corrective actions typically involve contacting NetApp technical support.
 
 == qos.onnix.classf.failure
 *Severity*::

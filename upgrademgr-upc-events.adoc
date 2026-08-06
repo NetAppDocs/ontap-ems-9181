@@ -15,7 +15,7 @@ summary: upgrademgr.upc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about upgrademgr.upc EMS events, which report when This message appears when the update preparedness job skips all update preparedness checks because an automated nondisruptive upgrade (ANDU) is currently in progress.
+upgrademgr.upc events are reported when this message appears when the update preparedness job skips all update preparedness checks because an automated nondisruptive upgrade (ANDU) is currently in progress, and corrective actions typically involve following the documented corrective action guidance.
 
 == upgrademgr.upc.skip
 *Severity*::

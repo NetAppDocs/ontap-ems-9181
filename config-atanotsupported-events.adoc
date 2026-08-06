@@ -15,7 +15,7 @@ summary: config.atanotsupported events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.atanotsupported EMS events, which report when an ATA disk is found, but the appliance does not support it.
+config.atanotsupported events are reported when an ATA disk is found, but the appliance does not support it, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.ATAnotSupported
 *Severity*::

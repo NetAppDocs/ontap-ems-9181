@@ -15,7 +15,7 @@ summary: host.app events
 :imagesdir: ./media/
 
 [.lead]
-Learn about host.app EMS events for component activity.
+host.app events are reported when a host encounters an error specific to an application component, and corrective actions typically involve following the documented corrective action guidance.
 
 == host.app.component.error
 *Severity*::

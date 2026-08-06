@@ -15,7 +15,7 @@ summary: acp.fw events
 :imagesdir: ./media/
 
 [.lead]
-Learn about acp.fw EMS events for download activity.
+acp.fw events are reported when the Alternate Control Path (ACP) Processor receives a command to initiate a firmware download, and corrective actions typically involve following the documented corrective action guidance.
 
 == acp.fw.download
 *Severity*::

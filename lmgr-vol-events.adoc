@@ -15,7 +15,7 @@ summary: lmgr.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.vol EMS events, which report when a volume cannot reclaim certain file locks when the system attempts to bring it online.
+lmgr.vol events are reported when a volume cannot reclaim certain file locks when the system attempts to bring it online, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.vol.lock.reclaim.partial
 *Severity*::

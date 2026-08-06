@@ -15,7 +15,7 @@ summary: raid.nvram events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.nvram EMS events for entry vol miss activity.
+raid.nvram events are reported when rAID NVRAM contains some bad entries, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.nvram.bad.entry
 *Severity*::

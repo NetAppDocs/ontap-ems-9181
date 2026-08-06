@@ -15,7 +15,7 @@ summary: mcc.drgroup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.drgroup EMS events, which report when MCC DR group information cannot be retrieved from RDB tables.
+mcc.drgroup events are reported when mCC DR group information cannot be retrieved from RDB tables, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.drgroup.fetch.failed
 *Severity*::

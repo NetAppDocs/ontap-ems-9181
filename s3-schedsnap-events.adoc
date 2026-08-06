@@ -15,7 +15,7 @@ summary: s3.schedsnap events
 :imagesdir: ./media/
 
 [.lead]
-Learn about s3.schedsnap EMS events for limit del activity.
+s3.schedsnap events are reported when the system fails to create a scheduled S3 bucket snapshot for the given S3 bucket, and corrective actions typically involve following the documented corrective action guidance.
 
 == s3.schedSnap.create.fail
 *Severity*::

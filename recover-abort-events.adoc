@@ -15,7 +15,7 @@ summary: recover.abort events
 :imagesdir: ./media/
 
 [.lead]
-Learn about recover.abort EMS events for roolr stsp activity.
+recover.abort events are reported when restore has been aborted and currently ROOLR (Read Only On Line Replica) is running on the Filer, and corrective actions typically involve following the documented corrective action guidance.
 
 == recover.abort.ROOLR
 *Severity*::

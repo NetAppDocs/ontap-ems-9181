@@ -15,7 +15,7 @@ summary: scsiblade.prop events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.prop EMS events, which report when a CTRAN "proposal done" message is not received.
+scsiblade.prop events are reported when a CTRAN "proposal done" message is not received, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.prop.done.error
 *Severity*::

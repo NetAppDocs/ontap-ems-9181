@@ -15,7 +15,7 @@ summary: ses.status events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.status EMS events for battery info dimm activity.
+ses.status events are reported when a failure has been detected in ACP processor that provides alternate control path capability, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.status.ACPError
 *Severity*::

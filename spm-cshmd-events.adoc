@@ -15,7 +15,7 @@ summary: spm.cshmd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.cshmd EMS events, which report when the Cluster Switch Health Monitor process (cshmd) involuntarily terminates.
+spm.cshmd events are reported when the Cluster Switch Health Monitor process (cshmd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.cshmd.process.exit
 *Severity*::

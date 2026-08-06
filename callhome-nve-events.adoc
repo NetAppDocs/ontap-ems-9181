@@ -15,7 +15,7 @@ summary: callhome.nve events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.nve EMS events, which report when the digest of an NetApp Volume Encryption (NVE) or NetApp Aggregate Encryption (NAE) key being restored does not match the expected key digest.
+callhome.nve events are reported when the digest of an NetApp Volume Encryption (NVE) or NetApp Aggregate Encryption (NAE) key being restored does not match the expected key digest, and corrective actions typically involve contacting NetApp technical support.
 
 == callhome.nve.digest.mismatch
 *Severity*::

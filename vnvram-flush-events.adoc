@@ -15,7 +15,7 @@ summary: vnvram.flush events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vnvram.flush EMS events, which report when the write to the backing storage device for the EMS region of VNVRAM (virtual NVRAM) takes longer than 500 msec.
+vnvram.flush events are reported when the write to the backing storage device for the EMS region of VNVRAM (virtual NVRAM) takes longer than 500 msec, and corrective actions typically involve following the documented corrective action guidance.
 
 == vnvram.flush.ems
 *Severity*::

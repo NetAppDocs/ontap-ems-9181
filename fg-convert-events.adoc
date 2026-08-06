@@ -15,7 +15,7 @@ summary: fg.convert events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.convert EMS events for critical ksmf activity.
+fg.convert events are reported when the conversion of a FlexVol(R) volume into a FlexGroup fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == fg.convert.critical.fail
 *Severity*::

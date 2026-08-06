@@ -15,7 +15,7 @@ summary: sfu.downloadingcontroller events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.downloadingcontroller EMS events, which report when a disk shelf firmware download starts on a specific disk shelf.
+sfu.downloadingcontroller events are reported when a disk shelf firmware download starts on a specific disk shelf, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.downloadingController
 *Severity*::

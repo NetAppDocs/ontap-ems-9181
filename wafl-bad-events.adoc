@@ -15,7 +15,7 @@ summary: wafl.bad events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.bad EMS events for aggr buftree type activity.
+wafl.bad events are reported when you attempt to bring an aggregate online whose file system buftree type and RAID label format are inconsistent, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.bad.aggr.buftree.type
 *Severity*::

@@ -15,7 +15,7 @@ summary: clam.invalid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clam.invalid EMS events, which report when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) determines that the local node is in an invalid configuration for providing CLAM functionality.
+clam.invalid events are reported when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) determines that the local node is in an invalid configuration for providing CLAM functionality, and corrective actions typically involve following the documented corrective action guidance.
 
 == clam.invalid.config
 *Severity*::

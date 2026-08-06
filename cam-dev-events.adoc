@@ -15,7 +15,7 @@ summary: cam.dev events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cam.dev EMS events for fuanotsupported fuanotverified activity.
+cam.dev events are reported when the disk does not support the Forced Unit Access (FUA) feature bit, and corrective actions typically involve following the documented corrective action guidance.
 
 == cam.dev.fuaNotSupported
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.encrypted events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.encrypted EMS events for aggr modified activity.
+wafl.encrypted events are reported when a NetApp(R) Aggregate Encryption (NAE) aggregate is created, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.encrypted.aggr.created
 *Severity*::

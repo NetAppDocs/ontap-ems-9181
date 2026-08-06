@@ -15,7 +15,7 @@ summary: wafl.sis events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.sis EMS events for autodelete file backup activity.
+wafl.sis events are reported when a file clone is autodeleted, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.sis.clone.autodelete.file
 *Severity*::

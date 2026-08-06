@@ -15,7 +15,7 @@ summary: nvmf.qos events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmf.qos EMS events for mismatch policy r2 activity.
+nvmf.qos events are reported when an NVMe over Fabrics (NVMe-oF) target subsystem contains namespaces that have different quality of service (QoS) policies which might affect the I/O of the namespaces with higher QoS policies, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmf.qos.mismatch.policy.r2
 *Severity*::

@@ -15,7 +15,7 @@ summary: sfu.suspendses events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.suspendses EMS events, which report when a disk shelf firmware update is requested in a high-availability (HA) environment.
+sfu.suspendses events are reported when a disk shelf firmware update is requested in a high-availability (HA) environment, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.suspendSES
 *Severity*::

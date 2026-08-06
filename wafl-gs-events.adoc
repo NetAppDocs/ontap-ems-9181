@@ -15,7 +15,7 @@ summary: wafl.gs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.gs EMS events for metafile op resync activity.
+wafl.gs events are reported when wafl is unsuccessful to check and load Granular Set metafile for the volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.gs.metafile.load.failed
 *Severity*::

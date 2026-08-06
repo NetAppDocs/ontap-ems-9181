@@ -15,7 +15,7 @@ summary: mgmt.cifssuperuser events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.cifssuperuser EMS events for failure activity.
+mgmt.cifssuperuser events are reported when configuration of a CIFS super-user fails; CIFS access through this account may not grant full super-user privileges, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == mgmt.cifssuperuser.failure
 *Severity*::

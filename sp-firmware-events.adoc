@@ -15,7 +15,7 @@ summary: sp.firmware events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.firmware EMS events for corruption incompatible reqd activity.
+sp.firmware events are reported when neither of the firmware images of the node's Service Processor (SP) or Baseboard Management Controller (BMC) on the primary flash chip can be booted, and corrective actions typically involve contacting NetApp technical support.
 
 == sp.firmware.corruption
 *Severity*::

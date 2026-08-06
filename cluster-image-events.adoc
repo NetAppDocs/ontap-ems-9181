@@ -15,7 +15,7 @@ summary: cluster.image events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cluster.image EMS events, which report when a non-disruptive data ONTAP upgrade of the cluster was aborted by the user.
+cluster.image events are reported when a non-disruptive data ONTAP upgrade of the cluster was aborted by the user, and corrective actions typically involve following the documented corrective action guidance.
 
 == cluster.image.update.aborted
 *Severity*::

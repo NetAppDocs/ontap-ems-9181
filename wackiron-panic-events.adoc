@@ -15,7 +15,7 @@ summary: wackiron.panic events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wackiron.panic EMS events, which report when the bootarg 'wackiron_enforce_panic' will cause the system to panic after the next boot if you do not run wafliron on the affected volume before the completion of the next boot.
+wackiron.panic events are reported when the bootarg 'wackiron_enforce_panic' will cause the system to panic after the next boot if you do not run wafliron on the affected volume before the completion of the next boot, and corrective actions typically involve following the documented corrective action guidance.
 
 == wackiron.panic.warning
 *Severity*::

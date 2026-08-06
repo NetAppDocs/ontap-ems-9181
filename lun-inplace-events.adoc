@@ -15,7 +15,7 @@ summary: lun.inplace events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.inplace EMS events for dmprstrlunonns dmprstrnsonlun dumprestorefail activity.
+lun.inplace events are reported when an in-place restore from a dump fails and creates a metadata inconsistency because the source object type does not match the existing destination object, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.inplace.dmpRstrLUNonNS
 *Severity*::

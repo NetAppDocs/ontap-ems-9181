@@ -15,7 +15,7 @@ summary: fabricpool.scu events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fabricpool.scu EMS events, which report when contact has resumed between ONTAP and the Service Control Unit that is used with cloud subscription licenses.
+fabricpool.scu events are reported when contact has resumed between ONTAP and the Service Control Unit that is used with cloud subscription licenses, and corrective actions typically involve following the documented corrective action guidance.
 
 == fabricpool.scu.contacted
 *Severity*::

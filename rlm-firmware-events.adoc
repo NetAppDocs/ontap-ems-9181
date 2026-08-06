@@ -15,7 +15,7 @@ summary: rlm.firmware events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rlm.firmware EMS events for reqd version unsupported activity.
+rlm.firmware events are reported when the Remote LAN Module (RLM) firmware version and the Data ONTAP(R) software version are incompatible and cannot communicate correctly about a particular capability, and corrective actions typically involve following the documented corrective action guidance.
 
 == rlm.firmware.upgrade.reqd
 *Severity*::

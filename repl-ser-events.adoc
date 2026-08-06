@@ -15,7 +15,7 @@ summary: repl.ser events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.ser EMS events, which report when number of operations serialized on parent directory exceed an internal limit.
+repl.ser events are reported when number of operations serialized on parent directory exceed an internal limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.ser.ops.pardir.breach
 *Severity*::

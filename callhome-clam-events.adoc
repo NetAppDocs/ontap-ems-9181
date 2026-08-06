@@ -15,7 +15,7 @@ summary: callhome.clam events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.clam EMS events, which report when the Kernel Cluster Services (KCS) Connectivity, Liveness, Availability Monitor (CLAM) determines that one of the nodes is out of "cluster quorum".
+callhome.clam events are reported when the Kernel Cluster Services (KCS) Connectivity, Liveness, Availability Monitor (CLAM) determines that one of the nodes is out of "cluster quorum", and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.clam.node.ooq
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.cifsmaxsessperusrconnnotice events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.cifsmaxsessperusrconnnotice EMS events, which report when the number of sessions allowed per user over a TCP connection nears the configured limit.
+nblade.cifsmaxsessperusrconnnotice events are reported when the number of sessions allowed per user over a TCP connection nears the configured limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.cifsMaxSessPerUsrConnNotice
 *Severity*::

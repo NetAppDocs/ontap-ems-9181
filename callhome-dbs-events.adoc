@@ -15,7 +15,7 @@ summary: callhome.dbs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.dbs EMS events for block ekm emer activity.
+callhome.dbs events are reported when the Distributed Block Store (DBS) assignments reports a validation error, and corrective actions typically involve contacting NetApp technical support.
 
 == callhome.dbs.assign.error
 *Severity*::

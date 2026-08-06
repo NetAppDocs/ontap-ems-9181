@@ -15,7 +15,7 @@ summary: pha.dev events
 :imagesdir: ./media/
 
 [.lead]
-Learn about pha.dev EMS events for get capacity uuid activity.
+pha.dev events are reported when oNTAP(R)software fails to get a drives's capacity after an extended wait, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == pha.dev.get.capacity.failed
 *Severity*::

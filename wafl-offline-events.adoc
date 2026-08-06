@@ -15,7 +15,7 @@ summary: wafl.offline events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.offline EMS events for infoerror proc file activity.
+wafl.offline events are reported when the system attempts to place a volume online, but cannot read the volinfo or fsinfo data for the volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.offline.infoError
 *Severity*::

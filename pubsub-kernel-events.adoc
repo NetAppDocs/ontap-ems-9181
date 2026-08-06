@@ -15,7 +15,7 @@ summary: pubsub.kernel events
 :imagesdir: ./media/
 
 [.lead]
-Learn about pubsub.kernel EMS events for flow control msg activity.
+pubsub.kernel events are reported when this message will not be published as flow control is enabled on kernel pubsub, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == pubsub.kernel.flow.control.enabled
 *Deprecated*::

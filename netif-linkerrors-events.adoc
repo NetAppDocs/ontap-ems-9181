@@ -15,7 +15,7 @@ summary: netif.linkerrors events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.linkerrors EMS events, which report when the driver detects an excessive link error rate.
+netif.linkerrors events are reported when the driver detects an excessive link error rate, and corrective actions typically involve verifying the reported configuration and health state.
 
 == netif.linkErrors
 *Severity*::

@@ -15,7 +15,7 @@ summary: snaprestore.log events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snaprestore.log EMS events, which report when This message occurs during a SnapRestore(TM) operation, of a volume when the logical used space in the volume is larger than the total size of the volume and the Logical Space View enforcement feature was turned ON on the volume after creating the snapshot.
+snaprestore.log events are reported when this message occurs during a SnapRestore(TM) operation, of a volume when the logical used space in the volume is greater than the total size of the volume and the Logical Space View enforcement feature was turned ON on the volume after creating the snapshot, and corrective actions typically involve following the documented corrective action guidance.
 
 == snaprestore.log.overalloc
 *Severity*::

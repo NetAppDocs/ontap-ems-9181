@@ -15,7 +15,7 @@ summary: encryption.queue events
 :imagesdir: ./media/
 
 [.lead]
-Learn about encryption.queue EMS events, which report when an operation on the volume in the encryption queue failed.
+encryption.queue events are reported when an operation on the volume in the encryption queue failed, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == encryption.queue.op.failed
 *Severity*::

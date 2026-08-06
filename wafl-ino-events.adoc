@@ -15,7 +15,7 @@ summary: wafl.ino events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.ino EMS events for cantabort rem susp activity.
+wafl.ino events are reported when an inode upgrade for the specified WAFL volume or aggregate is aborted, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.ino.upgrade.aborted
 *Severity*::

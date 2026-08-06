@@ -15,7 +15,7 @@ summary: mav.disabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mav.disabled EMS events, which report when multi-admin verification (MAV) is enabled, the bootarg "bootarg.multi_admin.enable" is set to false, and an operation that normally requires MAV approval is executed via the console.
+mav.disabled events are reported when multi-admin verification (MAV) is enabled, the bootarg "bootarg, and corrective actions typically involve following the documented corrective action guidance.
 
 == mav.disabled.used.console
 *Severity*::

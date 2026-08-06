@@ -15,7 +15,7 @@ summary: quota.push events
 :imagesdir: ./media/
 
 [.lead]
-Learn about quota.push EMS events for rules activity.
+quota.push events are reported when the system has completed pushing rules into the quota database, and corrective actions typically involve following the documented corrective action guidance.
 
 == quota.push.rules.complete
 *Severity*::

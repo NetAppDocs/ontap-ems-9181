@@ -15,7 +15,7 @@ summary: nvmens.smbc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmens.smbc EMS events, which report when an NVMe namespace is partially restored to a SnapMirror(R) active sync volume because the SnapMirror(R) active sync volume does not support NVMe namespace.
+nvmens.smbc events are reported when an NVMe namespace is partially restored to a SnapMirror(R) active sync volume because the SnapMirror(R) active sync volume does not support NVMe namespace, and corrective actions typically involve following the documented corrective action guidance.
 
 == NVMeNS.SMBC.vol.unsupp
 *Severity*::

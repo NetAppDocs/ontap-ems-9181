@@ -15,7 +15,7 @@ summary: disk.toomanyspindles events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.toomanyspindles EMS events, which report when Data ONTAP(R) finds more disks present on a platform than the platform actually supports.
+disk.toomanyspindles events are reported when data ONTAP(R) finds more disks present on a platform than the platform actually supports, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.tooManySpindles
 *Severity*::

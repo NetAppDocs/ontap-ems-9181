@@ -15,7 +15,7 @@ summary: callhome.aggr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.aggr EMS events for meta restricted wafliron activity.
+callhome.aggr events are reported when this message occurs after WAFL(R) Iron (wafliron) detects and repairs corruption in an aggregate metafile, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.aggr.meta.repair
 *Severity*::

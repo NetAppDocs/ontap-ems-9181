@@ -15,7 +15,7 @@ summary: gpo.sec events
 :imagesdir: ./media/
 
 [.lead]
-Learn about gpo.sec EMS events for applied notapplied notappliedfor activity.
+gpo.sec events are reported when applying group policy object (GPO) event audit policy settings succeeds, and corrective actions typically involve following the documented corrective action guidance.
 
 == gpo.sec.EvtAdt.applied
 *Severity*::

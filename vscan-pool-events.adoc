@@ -15,7 +15,7 @@ summary: vscan.pool events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vscan.pool EMS events for autoactivated autodeactivated largereqtimeout activity.
+vscan.pool events are reported when the Vscan scanner pool is automatically activated, and corrective actions typically involve following the documented corrective action guidance.
 
 == vscan.pool.autoActivated
 *Severity*::

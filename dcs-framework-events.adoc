@@ -15,7 +15,7 @@ summary: dcs.framework events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dcs.framework EMS events.
+dcs.framework events are reported when the DCS framework has been disabled on this node, and corrective actions typically involve following the documented corrective action guidance.
 
 == dcs.framework.disabled
 *Severity*::

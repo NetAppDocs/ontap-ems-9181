@@ -15,7 +15,7 @@ summary: wafl.qat events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.qat EMS events, which report when hardware offload engine (QAT) has failed to process a request.
+wafl.qat events are reported when hardware offload engine (QAT) has failed to process a request, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.qat.offload.engine.error
 *Severity*::

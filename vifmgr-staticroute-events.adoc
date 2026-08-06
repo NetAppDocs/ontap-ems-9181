@@ -15,7 +15,7 @@ summary: vifmgr.staticroute events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.staticroute EMS events for del netadd netremove activity.
+vifmgr.staticroute events are reported when a static route is added to a Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.staticRoute.add
 *Severity*::

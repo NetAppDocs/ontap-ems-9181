@@ -15,7 +15,7 @@ summary: fmmb.blobwritten events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fmmb.blobwritten EMS events, which report when a mailbox 'blob' write to the on-disk mailbox data structure succeeds.
+fmmb.blobwritten events are reported when a mailbox 'blob' write to the on-disk mailbox data structure succeeds, and corrective actions typically involve following the documented corrective action guidance.
 
 == fmmb.BlobWritten
 *Severity*::

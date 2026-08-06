@@ -15,7 +15,7 @@ summary: azurearc.new events
 :imagesdir: ./media/
 
 [.lead]
-Learn about azurearc.new EMS events, which report when a new Microsoft Azure Connected Machine Agent has been onboarded to Azure Arc.
+azurearc.new events are reported when a new Microsoft Azure Connected Machine Agent has been onboarded to Azure Arc, and corrective actions typically involve following the documented corrective action guidance.
 
 == azurearc.new.agent.created
 *Severity*::

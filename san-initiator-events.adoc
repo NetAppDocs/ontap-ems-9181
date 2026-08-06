@@ -15,7 +15,7 @@ summary: san.initiator events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.initiator EMS events for login missing req activity.
+san.initiator events are reported when oNTAP detects that an initiator which was previously not logged on is now logged on, and corrective actions typically involve following the documented corrective action guidance.
 
 == san.initiator.login
 *Severity*::

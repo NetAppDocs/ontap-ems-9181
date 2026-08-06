@@ -15,7 +15,7 @@ summary: asup.config events
 :imagesdir: ./media/
 
 [.lead]
-Learn about asup.config EMS events for minimal parse unavailable activity.
+asup.config events are reported when this event is issued when we are unable to parse /etc/asup_content, and corrective actions typically involve following the documented corrective action guidance.
 
 == asup.config.minimal.parse
 *Severity*::

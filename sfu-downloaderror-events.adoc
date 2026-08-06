@@ -15,7 +15,7 @@ summary: sfu.downloaderror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.downloaderror EMS events, which report when a disk shelf firmware update fails to successfully download firmware to a disk shelf or shelves in the system.
+sfu.downloaderror events are reported when a disk shelf firmware update fails to successfully download firmware to a disk shelf or shelves in the system, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.downloadError
 *Severity*::

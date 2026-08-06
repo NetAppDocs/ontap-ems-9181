@@ -15,7 +15,7 @@ summary: config.nopartnerluns events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.nopartnerluns EMS events, which report when This message occurs in a High-Availablity (HA) configuration with array LUNS when there is no attachment to both local and partner LUNs.
+config.nopartnerluns events are reported when this message occurs in a High-Availablity (HA) configuration with array LUNS when there is no attachment to both local and partner LUNs, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == config.noPartnerLUNs
 *Severity*::

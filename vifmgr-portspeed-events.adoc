@@ -15,7 +15,7 @@ summary: vifmgr.portspeed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.portspeed EMS events, which report when a port is connected to a switch utilizing a link speed that is not qualified.
+vifmgr.portspeed events are reported when a port is connected to a switch utilizing a link speed that is not qualified, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == vifmgr.portspeed.err
 *Severity*::

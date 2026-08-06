@@ -15,7 +15,7 @@ summary: mgmtgwd.configbr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.configbr EMS events for backupcompleted backupfailed deletefailed activity.
+mgmtgwd.configbr events are reported when a scheduled configuration backup is successfully created, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.configbr.backupCompleted
 *Deprecated*::

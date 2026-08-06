@@ -15,7 +15,7 @@ summary: spm.timestate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.timestate EMS events, which report when the subsystem managing timekeeping parameters (time_state) stops running.
+spm.timestate events are reported when the subsystem managing timekeeping parameters (time_state) stops running, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.timeState.process.exit
 *Deprecated*::

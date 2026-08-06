@@ -15,7 +15,7 @@ summary: nvme.link events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvme.link EMS events.
+nvme.link events are reported when the NVMe driver disables the PCIe link due to excessive errors, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvme.link.disabled.error
 *Severity*::

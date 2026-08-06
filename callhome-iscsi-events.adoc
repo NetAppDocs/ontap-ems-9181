@@ -15,7 +15,7 @@ summary: callhome.iscsi events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.iscsi EMS events, which report when the iSCSI host bus adapter (HBA crashes.
+callhome.iscsi events are reported when the iSCSI host bus adapter (HBA crashes, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.iscsi.hba.crash
 *Severity*::

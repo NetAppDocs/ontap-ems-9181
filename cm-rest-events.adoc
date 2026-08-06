@@ -15,7 +15,7 @@ summary: cm.rest events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cm.rest EMS events, which report when the number of incoming REST requests involving a 'metrics' endpoint, a 'metric' field, or a 'statistics' field exceeds the current processing rate.
+cm.rest events are reported when the number of incoming REST requests involving a 'metrics' endpoint, a 'metric' field, or a 'statistics' field exceeds the current processing rate, and corrective actions typically involve following the documented corrective action guidance.
 
 == cm.rest.throttleQueueOverflow
 *Severity*::

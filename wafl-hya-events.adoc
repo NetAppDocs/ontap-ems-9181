@@ -15,7 +15,7 @@ summary: wafl.hya events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.hya EMS events for policy bc cbi activity.
+wafl.hya events are reported when the default caching policies are to be configured on all volumes contained in this aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.hya.aggr.policy.init
 *Severity*::

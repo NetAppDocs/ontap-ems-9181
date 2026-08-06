@@ -15,7 +15,7 @@ summary: cna.sfp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cna.sfp EMS events, which report when the converged network adapter (CNA) detects an unsupported small form-factor Pluggable (SFP) in the adapter.
+cna.sfp events are reported when the converged network adapter (CNA) detects an unsupported small form-factor Pluggable (SFP) in the adapter, and corrective actions typically involve following the documented corrective action guidance.
 
 == cna.sfp.notSupported
 *Severity*::

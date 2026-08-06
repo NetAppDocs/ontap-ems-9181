@@ -15,7 +15,7 @@ summary: net.fib events
 :imagesdir: ./media/
 
 [.lead]
-Learn about net.fib EMS events for createfailed nearinglimit activity.
+net.fib events are reported when a Vserver resource allocation fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == net.fib.createfailed
 *Severity*::

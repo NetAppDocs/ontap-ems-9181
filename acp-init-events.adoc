@@ -15,7 +15,7 @@ summary: acp.init events
 :imagesdir: ./media/
 
 [.lead]
-Learn about acp.init EMS events for configip netmask ssl activity.
+acp.init events are reported when oNTAP(R) software cannot configure the Ethernet port designated for the Alternate Control Path (ACP) with 30 seconds, and marks the ACP as inactive, and corrective actions typically involve verifying the reported configuration and health state.
 
 == acp.init.configIP
 *Severity*::

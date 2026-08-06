@@ -15,7 +15,7 @@ summary: netif.hv events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.hv EMS events, which report when the heartbeat between hypervisor and the guest virtual machine (VM) fails.
+netif.hv events are reported when the heartbeat between hypervisor and the guest virtual machine (VM) fails, and corrective actions typically involve rebooting the node or cluster component.
 
 == netif.hv.heartbeatFail
 *Severity*::

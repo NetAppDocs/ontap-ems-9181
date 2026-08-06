@@ -15,7 +15,7 @@ summary: cr.del events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cr.del EMS events for crptstreamdata crptstreamredir dangstreamdata activity.
+cr.del events are reported when an attempt to delete corrupt stream data fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == CR.Del.CrptStreamData.Fail
 *Deprecated*::

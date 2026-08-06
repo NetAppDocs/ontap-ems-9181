@@ -15,7 +15,7 @@ summary: zsm.socket events
 :imagesdir: ./media/
 
 [.lead]
-Learn about zsm.socket EMS events for listener setoption output activity.
+zsm.socket events are reported when the event posted when the listener socket for the ZAPI Socket Manager (ZSM) service cannot be created, and corrective actions typically involve following the documented corrective action guidance.
 
 == zsm.socket.listener.create
 *Severity*::

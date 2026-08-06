@@ -15,7 +15,7 @@ summary: sfu.rebootrequest events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.rebootrequest EMS events, which report when the disk shelf firmware update is complete and the disk shelf will be rebooted to run the new code.
+sfu.rebootrequest events are reported when the disk shelf firmware update is complete and the disk shelf will be rebooted to run the new code, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.rebootRequest
 *Severity*::

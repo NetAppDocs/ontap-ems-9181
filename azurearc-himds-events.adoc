@@ -15,7 +15,7 @@ summary: azurearc.himds events
 :imagesdir: ./media/
 
 [.lead]
-Learn about azurearc.himds EMS events for startup activity.
+azurearc.himds events are reported when the Hybrid Instance Metadata service (HIMDS) failed to start up at boot time, and corrective actions typically involve following the documented corrective action guidance.
 
 == azurearc.himds.startup.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: fp.est events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fp.est EMS events for catalog vvol gc activity.
+fp.est events are reported when the volume footprint estimator scan fails to update the catalog file, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == fp.est.scan.catalog.failed
 *Severity*::

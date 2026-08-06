@@ -15,7 +15,7 @@ summary: nvme.subsystem events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvme.subsystem EMS events, which report when the replication of an NVMe subsystem fails due to a name conflict.
+nvme.subsystem events are reported when the replication of an NVMe subsystem fails due to a name conflict, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvme.subsystem.repl.name.err
 *Severity*::

@@ -15,7 +15,7 @@ summary: gpo.frmwork events
 :imagesdir: ./media/
 
 [.lead]
-Learn about gpo.frmwork EMS events for rsopapplied secjobfailed updatefailed activity.
+gpo.frmwork events are reported when this event occurs after the resultant set of Group Policy (GPO) is calculated and applied to the Replicated Database (RDB) successfully, and corrective actions typically involve following the documented corrective action guidance.
 
 == gpo.frmwork.RSoPApplied
 *Severity*::

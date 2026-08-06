@@ -15,7 +15,7 @@ summary: volcmd.snapmirror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about volcmd.snapmirror EMS events, which report when This mesage occurs to advise you that the 'vol snapmirror' set of commands has been removed.
+volcmd.snapmirror events are reported when this mesage occurs to advise you that the 'vol snapmirror' set of commands has been removed, and corrective actions typically involve following the documented corrective action guidance.
 
 == volcmd.snapmirror.removed
 *Severity*::

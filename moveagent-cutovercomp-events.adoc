@@ -15,7 +15,7 @@ summary: moveagent.cutovercomp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about moveagent.cutovercomp EMS events, which report when a 'volume move' operation cannot complete cutover.
+moveagent.cutovercomp events are reported when a 'volume move' operation cannot complete cutover, and corrective actions typically involve following the documented corrective action guidance.
 
 == moveagent.cutovercomp.fail
 *Severity*::

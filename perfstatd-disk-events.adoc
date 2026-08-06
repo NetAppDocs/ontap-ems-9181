@@ -15,7 +15,7 @@ summary: perfstatd.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about perfstatd.disk EMS events, which report when the perfstat daemon (perfstatd) startup fails due to a full disk.This failure impacts the continuous archiving of performance data that technical support uses to troubleshoot performance issues.
+perfstatd.disk events are reported when the perfstat daemon (perfstatd) startup fails due to a full disk, and corrective actions typically involve verifying the reported configuration and health state.
 
 == perfstatd.disk.full
 *Severity*::

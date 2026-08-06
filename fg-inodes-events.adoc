@@ -15,7 +15,7 @@ summary: fg.inodes events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.inodes EMS events for member allok nearlyfull activity.
+fg.inodes events are reported when conditions that led to previous "fg, and corrective actions typically involve following the documented corrective action guidance.
 
 == fg.inodes.member.allOK
 *Severity*::

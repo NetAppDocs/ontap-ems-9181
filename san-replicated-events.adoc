@@ -15,7 +15,7 @@ summary: san.replicated events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.replicated EMS events for igroup unreplicated lun activity.
+san.replicated events are reported when an unreplicated LUN becomes mapped to a replicated initiator group, and corrective actions typically involve following the documented corrective action guidance.
 
 == san.replicated.igroup.map.unreplicated.lun
 *Severity*::

@@ -15,7 +15,7 @@ summary: disk.duplicate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.duplicate EMS events, which report when duplicate disk names are detected.
+disk.duplicate events are reported when duplicate disk names are detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.duplicate.name
 *Severity*::

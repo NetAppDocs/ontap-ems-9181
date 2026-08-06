@@ -15,7 +15,7 @@ summary: repl.jumpahead events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.jumpahead EMS events, which report when the system cannot bring a replica volume online after applying the latest update to the replica due to possible inconsistencies detected in the update.
+repl.jumpahead events are reported when the system cannot bring a replica volume online after applying the latest update to the replica because of possible inconsistencies detected in the update, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.jumpahead.failed
 *Severity*::

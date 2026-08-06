@@ -15,7 +15,7 @@ summary: moveagent.outofmemory events
 :imagesdir: ./media/
 
 [.lead]
-Learn about moveagent.outofmemory EMS events, which report when the move agent fails to allocate memory for the move object.
+moveagent.outofmemory events are reported when the move agent fails to allocate memory for the move object, and corrective actions typically involve following the documented corrective action guidance.
 
 == moveagent.outofmemory
 *Severity*::

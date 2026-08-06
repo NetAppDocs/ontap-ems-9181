@@ -15,7 +15,7 @@ summary: callhome.encl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.encl EMS events, which report when contact to one or more disk shelf enclosure services (environmental monitoring) is lost, possibly due to storage cabling, adapter, or configuration problems.
+callhome.encl events are reported when contact to one or more disk shelf enclosure services (environmental monitoring) is lost, possibly due to storage cabling, adapter, or configuration problems, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.encl.access
 *Severity*::

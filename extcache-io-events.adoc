@@ -15,7 +15,7 @@ summary: extcache.io events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.io EMS events for blockchecksumerror extinfo readerror activity.
+extcache.io events are reported when the external cache detects a block checksum verification error while performing a read operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.io.BlockChecksumError
 *Severity*::

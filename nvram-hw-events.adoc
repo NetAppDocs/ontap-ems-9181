@@ -15,7 +15,7 @@ summary: nvram.hw events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvram.hw EMS events for degraded initfail normal activity.
+nvram.hw events are reported when the NVRAM hardware is degraded, and corrective actions typically involve contacting NetApp technical support.
 
 == nvram.hw.degraded
 *Severity*::

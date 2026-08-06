@@ -15,7 +15,7 @@ summary: air.vplus events
 :imagesdir: ./media/
 
 [.lead]
-Learn about air.vplus EMS events, which report when an inconsistency is discovered inside an indexed storage tree.
+air.vplus events are reported when an inconsistency is discovered inside an indexed storage tree, and corrective actions typically involve following the documented corrective action guidance.
 
 == air.vplus.certify.issue
 *Severity*::

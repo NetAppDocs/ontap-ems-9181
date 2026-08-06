@@ -15,7 +15,7 @@ summary: cpeer.localid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cpeer.localid EMS events, which report when there is an issue reading the local cluster ID.
+cpeer.localid events are reported when there is an issue reading the local cluster ID, and corrective actions typically involve following the documented corrective action guidance.
 
 == cpeer.localid.bad
 *Severity*::

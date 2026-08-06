@@ -15,7 +15,7 @@ summary: smbc.aufo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smbc.aufo EMS events for during expand failover activity.
+smbc.aufo events are reported when the SnapMirror(R) active sync automatic unplanned failover operation completes, and corrective actions typically involve following the documented corrective action guidance.
 
 == smbc.aufo.completed
 *Severity*::

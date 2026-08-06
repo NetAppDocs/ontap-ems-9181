@@ -15,7 +15,7 @@ summary: hamsg.diskcheckresp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about hamsg.diskcheckresp EMS events, which report when a node receives a disk inventory check response from its high-availability (HA) partner.
+hamsg.diskcheckresp events are reported when a node receives a disk inventory check response from its high-availability (HA) partner, and corrective actions typically involve following the documented corrective action guidance.
 
 == hamsg.diskCheckResp
 *Severity*::

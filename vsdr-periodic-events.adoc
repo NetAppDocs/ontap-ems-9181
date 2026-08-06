@@ -15,7 +15,7 @@ summary: vsdr.periodic events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.periodic EMS events for errors msid preserve activity.
+vsdr.periodic events are reported when the Vserver DR subsystem periodic check detects issues with the Vserver DR components, and corrective actions typically involve contacting NetApp technical support.
 
 == vsdr.periodic.check.errors
 *Severity*::

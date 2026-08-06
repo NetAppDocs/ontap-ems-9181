@@ -15,7 +15,7 @@ summary: reg.options events
 :imagesdir: ./media/
 
 [.lead]
-Learn about reg.options EMS events for cf change mismatch activity.
+reg.options events are reported when an option is changed on one cluster node but applies to both the local and partner when the cluster is in takeover mode, and corrective actions typically involve following the documented corrective action guidance.
 
 == reg.options.cf.change
 *Severity*::

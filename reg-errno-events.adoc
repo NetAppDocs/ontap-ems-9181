@@ -15,7 +15,7 @@ summary: reg.errno events
 :imagesdir: ./media/
 
 [.lead]
-Learn about reg.errno EMS events for addafterreadable addinvalid activity.
+reg.errno events are reported when this event is issued when Data ONTAP(tm) cannot add an errno-style error to the list of errors, and corrective actions typically involve following the documented corrective action guidance.
 
 == reg.errno.addAfterReadable
 *Severity*::

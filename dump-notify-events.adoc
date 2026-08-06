@@ -15,7 +15,7 @@ summary: dump.notify events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dump.notify EMS events, which report when the dump incremental backup might be incomplete.
+dump.notify events are reported when the dump incremental backup might be incomplete, and corrective actions typically involve following the documented corrective action guidance.
 
 == dump.notify.backward.ctime
 *Severity*::

@@ -15,7 +15,7 @@ summary: ata.timeout events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ata.timeout EMS events.
+ata.timeout events are reported when an I/O request to the ATA driver times out, and corrective actions typically involve following the documented corrective action guidance.
 
 == ata.timeout.failed
 *Deprecated*::

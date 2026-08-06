@@ -15,7 +15,7 @@ summary: lun.nvfail events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.nvfail EMS events for option vol proc activity.
+lun.nvfail events are reported when the nvfail option for the named volume is turned on, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.nvfail.option.on
 *Severity*::

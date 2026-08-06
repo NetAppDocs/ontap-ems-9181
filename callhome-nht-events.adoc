@@ -15,7 +15,7 @@ summary: callhome.nht events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.nht EMS events, which report when the weekly AutoSupport or 'call home' event is sent for any drive NHT data.
+callhome.nht events are reported when the weekly AutoSupport or 'call home' event is sent for any drive NHT data, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.nht.data
 *Severity*::

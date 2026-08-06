@@ -15,7 +15,7 @@ summary: coredump.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.disk EMS events, which report when a kernel core is written to disk.
+coredump.disk events are reported when a kernel core is written to disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.disk.write.details
 *Severity*::

@@ -15,7 +15,7 @@ summary: device.install events
 :imagesdir: ./media/
 
 [.lead]
-Learn about device.install EMS events, which report when Data ONTAP(R) successfully installs one or more devices after a prior installation failure.
+device.install events are reported when data ONTAP(R) successfully installs one or more devices after a prior installation failure, and corrective actions typically involve following the documented corrective action guidance.
 
 == device.install.successful
 *Severity*::

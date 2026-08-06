@@ -15,7 +15,7 @@ summary: nvdimm.fw events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvdimm.fw EMS events for failure succeed activity.
+nvdimm.fw events are reported when nVDIMM controller firmware failed to upgrade, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvdimm.fw.upgrade.failure
 *Severity*::

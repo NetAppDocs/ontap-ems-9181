@@ -15,7 +15,7 @@ summary: mcc.switchover events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.switchover EMS events, which report when a MetroCluster switchover operation finds a system metadata volume, used by config replication applications, in the nvfailed state.
+mcc.switchover events are reported when a MetroCluster switchover operation finds a system metadata volume, used by config replication applications, in the nvfailed state, and corrective actions typically involve verifying the reported configuration and health state.
 
 == mcc.switchover.mdvInNvfailedState
 *Severity*::

@@ -15,7 +15,7 @@ summary: sk.long events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sk.long EMS events for queued msg running activity.
+sk.long events are reported when an SK process detects that a message has been queued longer than expected, as defined by an internal threshold, and corrective actions typically involve following the documented corrective action guidance.
 
 == sk.long.queued.msg
 *Severity*::

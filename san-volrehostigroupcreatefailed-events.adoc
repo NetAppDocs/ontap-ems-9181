@@ -15,7 +15,7 @@ summary: san.volrehostigroupcreatefailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.volrehostigroupcreatefailed EMS events, which report when This message occurs on clustered Data ONTAP(R) systems, during Volume Rehost operation when Data ONTAP fails to create igroup on the destination Vserver.
+san.volrehostigroupcreatefailed events are reported when this message occurs on clustered Data ONTAP(R) systems, during Volume Rehost operation when Data ONTAP fails to create igroup on the destination Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == san.volRehostIgroupCreateFailed
 *Severity*::

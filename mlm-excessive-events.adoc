@@ -15,7 +15,7 @@ summary: mlm.excessive events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mlm.excessive EMS events, which report when ONTAP(R) detects that the average SCSI I/O command latency on the target port of the array exceeds the set threshold.
+mlm.excessive events are reported when oNTAP(R) detects that the average SCSI I/O command latency on the target port of the array exceeds the set threshold, and corrective actions typically involve following the documented corrective action guidance.
 
 == mlm.excessive.TPlatency
 *Severity*::

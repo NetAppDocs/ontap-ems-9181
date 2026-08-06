@@ -15,7 +15,7 @@ summary: vsdr.rootvol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.rootvol EMS events, which report when the system detects that there is data in the Server Virtual Machine root volume during a disaster recovery (DR) transfer phase.
+vsdr.rootvol events are reported when the system detects that there is data in the Server Virtual Machine root volume during a disaster recovery (DR) transfer phase, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.rootvol.has.data
 *Severity*::

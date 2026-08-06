@@ -15,7 +15,7 @@ summary: repository.create events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repository.create EMS events, which report when This message occurs during a create request from a client, when the Infinite Volume namespace redirector encounters one or more of the following: 1.
+repository.create events are reported when this message occurs during a create request from a client, when the Infinite Volume namespace redirector encounters one or more of the following: 1, and corrective actions typically involve verifying the reported configuration and health state.
 
 == Repository.Create.Placement.Failed
 *Deprecated*::

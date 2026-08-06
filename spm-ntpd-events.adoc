@@ -15,7 +15,7 @@ summary: spm.ntpd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.ntpd EMS events, which report when the Network Time Protocol Daemon process (ntpd) involuntarily terminates.
+spm.ntpd events are reported when the Network Time Protocol Daemon process (ntpd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.ntpd.process.exit
 *Severity*::

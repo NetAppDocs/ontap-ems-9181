@@ -15,7 +15,7 @@ summary: lun.data events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.data EMS events, which report when data is unable to be read from a capacity tier.
+lun.data events are reported when data is unable to be read from a capacity tier, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.data.unavailable
 *Severity*::

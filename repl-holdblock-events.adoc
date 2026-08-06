@@ -15,7 +15,7 @@ summary: repl.holdblock events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.holdblock EMS events for arrived activity.
+repl.holdblock events are reported when this message occurs during an incremental transfer when the replica volume did a snapshot restore before the transfer, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.holdblock.arrived
 *Severity*::

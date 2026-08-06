@@ -15,7 +15,7 @@ summary: fg.writeback events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.writeback EMS events, which report when an inconsistency is discovered during a writeback.
+fg.writeback events are reported when an inconsistency is discovered during a writeback, and corrective actions typically involve following the documented corrective action guidance.
 
 == fg.writeback.delta.checker
 *Severity*::

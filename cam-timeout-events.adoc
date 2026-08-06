@@ -15,7 +15,7 @@ summary: cam.timeout events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cam.timeout EMS events, which report when an I/O request to a Common Access Method (CAM) device driver times out.
+cam.timeout events are reported when an I/O request to a Common Access Method (CAM) device driver times out, and corrective actions typically involve following the documented corrective action guidance.
 
 == cam.timeout.retry
 *Severity*::

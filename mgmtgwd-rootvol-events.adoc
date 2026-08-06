@@ -15,7 +15,7 @@ summary: mgmtgwd.rootvol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.rootvol EMS events for different new takeover activity.
+mgmtgwd.rootvol events are reported when the system detects that a root volume might have changed, causing the local management databases to be out of sync with the replicated databases, and corrective actions typically involve contacting NetApp technical support.
 
 == mgmtgwd.rootvol.recovery.changed
 *Severity*::

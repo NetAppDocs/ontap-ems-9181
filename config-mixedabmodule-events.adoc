@@ -15,7 +15,7 @@ summary: config.mixedabmodule events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.mixedabmodule EMS events, which report when the disk shelf stack is miscabled so that one disk shelf's module A is connected to the next disk shelf's module B, or vice versa.
+config.mixedabmodule events are reported when the disk shelf stack is miscabled so that one disk shelf's module A is connected to the next disk shelf's module B, or vice versa, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.mixedABmodule
 *Severity*::

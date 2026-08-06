@@ -15,7 +15,7 @@ summary: wafl.ialloc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.ialloc EMS events, which report when an inode allocation in a stripe is disabled.
+wafl.ialloc events are reported when an inode allocation in a stripe is disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.ialloc.is.disabled
 *Severity*::

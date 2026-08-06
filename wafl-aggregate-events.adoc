@@ -15,7 +15,7 @@ summary: wafl.aggregate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.aggregate EMS events for busy phases activity.
+wafl.aggregate events are reported when an operation is run on an aggregate while the aggregate or any volume of the aggregate is busy, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.aggregate.busy
 *Severity*::

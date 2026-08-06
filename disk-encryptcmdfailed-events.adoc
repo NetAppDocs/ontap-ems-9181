@@ -15,7 +15,7 @@ summary: disk.encryptcmdfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.encryptcmdfailed EMS events, which report when the indicated "storage encryption disk" command fails on an encrypting disk that supports storage encryption methods.
+disk.encryptcmdfailed events are reported when the indicated "storage encryption disk" command fails on an encrypting disk that supports storage encryption methods, and corrective actions typically involve verifying the reported configuration and health state.
 
 == disk.encryptCmdFailed
 *Severity*::

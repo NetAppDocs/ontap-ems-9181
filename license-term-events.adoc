@@ -15,7 +15,7 @@ summary: license.term events
 :imagesdir: ./media/
 
 [.lead]
-Learn about license.term EMS events for enforcement reminder activity.
+license.term events are reported when your feature license has expired, and corrective actions typically involve contacting NetApp technical support.
 
 == license.term.enforcement
 *Severity*::

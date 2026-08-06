@@ -15,7 +15,7 @@ summary: mgmt.s3 events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.s3 EMS events for sm license limit activity.
+mgmt.s3 events are reported when the total cluster-wide logical used size for S3 Snapmirror external object store relationships is near the license capacity limit but does not exceed the limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.s3.sm.license.near.limit
 *Severity*::

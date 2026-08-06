@@ -15,7 +15,7 @@ summary: sm.c2c events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sm.c2c EMS events for rebaseline xfer com activity.
+sm.c2c events are reported when snapMirror(R) performs a SnapMirror Cloud rebaseline transfer because certain conditions for an incremental transfer haven't been met between the source volume and the object-store destination endpoint of the transfer, and corrective actions typically involve following the documented corrective action guidance.
 
 == sm.c2c.rebaseline.xfer
 *Severity*::

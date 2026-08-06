@@ -15,7 +15,7 @@ summary: cf.rv events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.rv EMS events for flush handleexchange localnoconn activity.
+cf.rv events are reported when an HA connection agent connects on an HA interconnect device, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.rv.connected
 *Severity*::

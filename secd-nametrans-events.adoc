@@ -15,7 +15,7 @@ summary: secd.nametrans events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.nametrans EMS events for groupnotfound invalidconfig invaliduser activity.
+secd.nametrans events are reported when the group name cannot be resolved by any of the entities in the ns-switch for the virtual server, and corrective actions typically involve following the documented corrective action guidance.
 
 == secd.nameTrans.groupNotFound
 *Severity*::

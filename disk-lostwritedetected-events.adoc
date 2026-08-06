@@ -15,7 +15,7 @@ summary: disk.lostwritedetected events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.lostwritedetected EMS events, which report when the system detects a lost write.
+disk.lostwritedetected events are reported when the system detects a lost write, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.lostwriteDetected
 *Severity*::

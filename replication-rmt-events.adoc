@@ -15,7 +15,7 @@ summary: replication.rmt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.rmt EMS events, which report when the remote system of a SnapMirror(R) or SnapVault(R) transfer does not have a host name.
+replication.rmt events are reported when the remote system of a SnapMirror(R) or SnapVault(R) transfer does not have a host name, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.rmt.noHostname
 *Severity*::

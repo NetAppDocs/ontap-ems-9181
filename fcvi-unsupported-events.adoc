@@ -15,7 +15,7 @@ summary: fcvi.unsupported events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fcvi.unsupported EMS events, which report when a network adapter port behavior type is set to use FC-VI on a platform that has not been validated for its use and is therefore unsupported.
+fcvi.unsupported events are reported when a network adapter port behavior type is set to use FC-VI on a platform that has not been validated for its use and is therefore unsupported, and corrective actions typically involve following the documented corrective action guidance.
 
 == fcvi.unsupported.config
 *Severity*::

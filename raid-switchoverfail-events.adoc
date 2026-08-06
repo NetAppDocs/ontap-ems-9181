@@ -15,7 +15,7 @@ summary: raid.switchoverfail events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.switchoverfail EMS events, which report when a MetroCluster(tm) switchover attempt fails due to an error detected during RAID assimilation.
+raid.switchoverfail events are reported when a MetroCluster(tm) switchover attempt fails because of an error detected during RAID assimilation, and corrective actions typically involve contacting NetApp technical support.
 
 == raid.switchoverFail
 *Severity*::

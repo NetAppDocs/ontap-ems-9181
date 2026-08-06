@@ -15,7 +15,7 @@ summary: saml.cfg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about saml.cfg EMS events for idp download setup activity.
+saml.cfg events are reported when the Security Assertion Markup Language (SAML) Service Provider (SP) configuration fails to download the Identity Provider (IdP) metadata, and corrective actions typically involve verifying the reported configuration and health state.
 
 == saml.cfg.idp.download
 *Severity*::

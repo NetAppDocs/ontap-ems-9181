@@ -15,7 +15,7 @@ summary: extcache.bypassallocfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.bypassallocfailed EMS events, which report when External Cache cannot be enabled due to a memory allocation error.
+extcache.bypassallocfailed events are reported when external Cache cannot be enabled due to a memory allocation error, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.BypassAllocFailed
 *Severity*::

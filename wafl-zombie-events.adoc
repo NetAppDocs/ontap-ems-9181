@@ -15,7 +15,7 @@ summary: wafl.zombie events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.zombie EMS events for susp aggr limit activity.
+wafl.zombie events are reported when the aggregate encounters the zombie throttling limits during zombie delete processing for large number of file deletions, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.zombie.susp.aggr.limit
 *Severity*::

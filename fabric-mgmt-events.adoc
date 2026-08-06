@@ -15,7 +15,7 @@ summary: fabric.mgmt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fabric.mgmt EMS events, which report when the system fails to establish a management interface on the fabric.
+fabric.mgmt events are reported when the system fails to establish a management interface on the fabric, and corrective actions typically involve following the documented corrective action guidance.
 
 == fabric.mgmt.interface
 *Severity*::

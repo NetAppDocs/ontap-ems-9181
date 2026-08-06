@@ -15,7 +15,7 @@ summary: coredump.mcc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.mcc EMS events, which report when the coredump subsystem vetoes MetroCluster(tm) negotiated switchover because a coredump save is in progress.
+coredump.mcc events are reported when the coredump subsystem vetoes MetroCluster(tm) negotiated switchover because a coredump save is in progress, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.mcc.nso.veto
 *Severity*::

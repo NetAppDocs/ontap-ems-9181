@@ -15,7 +15,7 @@ summary: config.badslot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.badslot EMS events, which report when a disk is found to be attached to an invalid Host Adapter (HA) controller slot.
+config.badslot events are reported when a disk is found to be attached to an invalid Host Adapter (HA) controller slot, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.BadSlot
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.css events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.css EMS events, which report when ONTAP(R) object-store-server denies access to a user.
+nblade.css events are reported when oNTAP(R) object-store-server denies access to a user, and corrective actions typically involve verifying the reported configuration and health state.
 
 == nblade.css.s3.AccessDenied
 *Severity*::

@@ -15,7 +15,7 @@ summary: diskown.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.disk EMS events, which report when This message occurs during an attempt to assign a disk that is being deleted.
+diskown.disk events are reported when this message occurs during an attempt to assign a disk that is being deleted, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.disk.already.deleted
 *Severity*::

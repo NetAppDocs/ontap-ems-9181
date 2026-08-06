@@ -15,7 +15,7 @@ summary: snapmirror.metadata events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapmirror.metadata EMS events for definite loss possible activity.
+snapmirror.metadata events are reported when a Synchronous SnapMirror(R) destination flexible volume is unable to enter synchronous replication mode because the containing aggregate does not have enough space left to allow the update to proceed, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapmirror.metadata.create.fail
 *Severity*::

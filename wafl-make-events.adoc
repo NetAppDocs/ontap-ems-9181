@@ -15,7 +15,7 @@ summary: wafl.make events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.make EMS events, which report when container cant be made dense.
+wafl.make events are reported when container cant be made dense, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.make.container.dense.failed
 *Severity*::

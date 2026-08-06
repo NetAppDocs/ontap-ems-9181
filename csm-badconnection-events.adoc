@@ -15,7 +15,7 @@ summary: csm.badconnection events
 :imagesdir: ./media/
 
 [.lead]
-Learn about csm.badconnection EMS events, which report when ONTAP(R) software receives a Cluster Session Manager (CSM) connection with unrecognizable content.
+csm.badconnection events are reported when oNTAP(R) software receives a Cluster Session Manager (CSM) connection with unrecognizable content, and corrective actions typically involve following the documented corrective action guidance.
 
 == csm.badConnection
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.lifs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.lifs EMS events for clusterlimit lowredundancy noredundancy activity.
+vifmgr.lifs events are reported when the total number of logical interfaces (LIFs) exceeds the supported per-cluster limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.lifs.clusterlimit
 *Severity*::

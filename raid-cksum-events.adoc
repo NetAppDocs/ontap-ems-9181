@@ -15,7 +15,7 @@ summary: raid.cksum events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.cksum EMS events for file bypass bno activity.
+raid.cksum events are reported when this event is issued when WAFL accesses a block that was zeroed because it could not be recovered correctly, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.cksum.bad.file.block
 *Severity*::

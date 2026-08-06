@@ -15,7 +15,7 @@ summary: repl.gsr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.gsr EMS events for gs enfrc replication activity.
+repl.gsr events are reported when snapMirror faces internal error while going Out-Of-Sync or source volume comes online, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.gsr.cache.modify.gs.enfrc.failed
 *Severity*::

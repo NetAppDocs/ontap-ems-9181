@@ -15,7 +15,7 @@ summary: san.changedhomeport events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.changedhomeport EMS events, which report when the home port of an existing SAN LIF is modified during LIF placement.
+san.changedhomeport events are reported when the home port of an existing SAN LIF is modified during LIF placement, and corrective actions typically involve following the documented corrective action guidance.
 
 == san.ChangedHomePort
 *Severity*::

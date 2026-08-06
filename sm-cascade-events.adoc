@@ -15,7 +15,7 @@ summary: sm.cascade events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sm.cascade EMS events, which report when concurrent SnapMirror(R) transfers are attempted while in a cascaded scenario, which is not supported.
+sm.cascade events are reported when concurrent SnapMirror(R) transfers are attempted while in a cascaded scenario, which is not supported, and corrective actions typically involve following the documented corrective action guidance.
 
 == SM.cascade.concurrency.unsupported
 *Severity*::

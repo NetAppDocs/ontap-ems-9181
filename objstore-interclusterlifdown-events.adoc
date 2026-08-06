@@ -15,7 +15,7 @@ summary: objstore.interclusterlifdown events
 :imagesdir: ./media/
 
 [.lead]
-Learn about objstore.interclusterlifdown EMS events, which report when the object store client cannot find an operational LIF to communicate with the object store server.
+objstore.interclusterlifdown events are reported when the object store client cannot find an operational LIF to communicate with the object store server, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == objstore.interclusterlifDown
 *Severity*::

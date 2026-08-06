@@ -15,7 +15,7 @@ summary: mlm.bad events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mlm.bad EMS events, which report when a device reports invalid data for "REPORT LUNS" command.
+mlm.bad events are reported when a device reports invalid data for "REPORT LUNS" command, and corrective actions typically involve following the documented corrective action guidance.
 
 == mlm.bad.topology.data
 *Severity*::

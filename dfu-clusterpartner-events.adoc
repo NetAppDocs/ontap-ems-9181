@@ -15,7 +15,7 @@ summary: dfu.clusterpartner events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.clusterpartner EMS events, which report when automatic firmware download is performed as part of system boot and partner disks are downrev.
+dfu.clusterpartner events are reported when automatic firmware download is performed as part of system boot and partner disks are downrev, and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.clusterPartner
 *Severity*::

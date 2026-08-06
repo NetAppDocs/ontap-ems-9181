@@ -15,7 +15,7 @@ summary: lun.offline events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.offline EMS events, which report when a LUN is brought offline manually.
+lun.offline events are reported when a LUN is brought offline manually, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.offline
 *Severity*::

@@ -15,7 +15,7 @@ summary: sv.vfiler events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sv.vfiler EMS events, which report when movement of SnapVault(R) configuration from 'from' vFiler to 'to' vFiler fails.
+sv.vfiler events are reported when movement of SnapVault(R) configuration from 'from' vFiler to 'to' vFiler fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == SV.vfiler.config.move.error
 *Severity*::

@@ -15,7 +15,7 @@ summary: sm.mediator events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sm.mediator EMS events for cacert expired expiring activity.
+sm.mediator events are reported when oNTAP(R) Mediator is added successfully on a cluster, and corrective actions typically involve following the documented corrective action guidance.
 
 == sm.mediator.added
 *Severity*::

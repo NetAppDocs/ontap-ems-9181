@@ -15,7 +15,7 @@ summary: nblade.dbladenoresponse events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.dbladenoresponse EMS events for cifs nfs activity.
+nblade.dbladenoresponse events are reported when a CIFS network data protocol operation times out because the requesting node cannot communicate with the data-serving node to complete the file operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.dBladeNoResponse.CIFS
 *Severity*::

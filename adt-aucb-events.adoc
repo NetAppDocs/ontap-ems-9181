@@ -15,7 +15,7 @@ summary: adt.aucb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about adt.aucb EMS events, which report when This message occurs in the auditing subsytem, when the subsystem overwrite an existing audit control block during audit control block creation.
+adt.aucb events are reported when this message occurs in the auditing subsytem, when the subsystem overwrite an existing audit control block during audit control block creation, and corrective actions typically involve following the documented corrective action guidance.
 
 == adt.aucb.overwrite
 *Severity*::

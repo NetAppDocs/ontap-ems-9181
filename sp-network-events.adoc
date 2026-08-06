@@ -15,7 +15,7 @@ summary: sp.network events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.network EMS events for ipv6 notifdisable link activity.
+sp.network events are reported when either a user or the system disables the network IPv6 option and the service processor (SP) is configured only with an IPv6 address, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == sp.network.ipv6.disable
 *Severity*::

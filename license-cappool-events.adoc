@@ -15,7 +15,7 @@ summary: license.cappool events
 :imagesdir: ./media/
 
 [.lead]
-Learn about license.cappool EMS events, which report when an aggregate does not comply with the current Capacity Pool entitlement, as determined by the Licensing Manager.
+license.cappool events are reported when an aggregate does not comply with the current Capacity Pool entitlement, as determined by the Licensing Manager, and corrective actions typically involve following the documented corrective action guidance.
 
 == license.cappool.aggr.noncomp
 *Severity*::

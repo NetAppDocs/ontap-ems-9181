@@ -15,7 +15,7 @@ summary: scsitarget.fct events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsitarget.fct EMS events for fabnamerscn fntimeout linkerror activity.
+scsitarget.fct events are reported when a Fibre Channel (FC) Registered State Change Notification (RSCN) frame is received, specifically for a fabric name change event, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsitarget.fct.fabNameRSCN
 *Severity*::

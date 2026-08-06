@@ -15,7 +15,7 @@ summary: mgmtgwd.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.snapshot EMS events for deletewarn frcrestore partcreate activity.
+mgmtgwd.snapshot events are reported when a snapshot cannot be deleted from an Infinite Volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.snapshot.deleteWarn
 *Deprecated*::

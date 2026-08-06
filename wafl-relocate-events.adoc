@@ -15,7 +15,7 @@ summary: wafl.relocate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.relocate EMS events for statusvol vetoedbynvsave activity.
+wafl.relocate events are reported when the system cannot perform an aggregate relocation because one or more of its volumes are used by wafliron to host status files, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.relocate.statusvol.fail
 *Severity*::

@@ -15,7 +15,7 @@ summary: osc.signaturemismatch events
 :imagesdir: ./media/
 
 [.lead]
-Learn about osc.signaturemismatch EMS events, which report when the request signature sent to the object-store server does not match the signature calculated.
+osc.signaturemismatch events are reported when the request signature sent to the object-store server does not match the signature calculated, and corrective actions typically involve verifying the reported configuration and health state.
 
 == osc.signatureMismatch
 *Severity*::

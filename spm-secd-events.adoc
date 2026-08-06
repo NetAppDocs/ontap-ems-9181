@@ -15,7 +15,7 @@ summary: spm.secd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.secd EMS events, which report when the Security daemon (secd) involuntarily terminates.
+spm.secd events are reported when the Security daemon (secd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.secd.process.exit
 *Severity*::

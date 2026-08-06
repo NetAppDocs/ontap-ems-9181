@@ -15,7 +15,7 @@ summary: de.dsai events
 :imagesdir: ./media/
 
 [.lead]
-Learn about de.dsai EMS events, which report when there is an error starting up Data Services for AI.
+de.dsai events are reported when there is an error starting up Data Services for AI, and corrective actions typically involve contacting NetApp technical support.
 
 == de.dsai.service.startup.fail
 *Severity*::

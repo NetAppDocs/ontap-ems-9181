@@ -15,7 +15,7 @@ summary: monitor.raid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.raid EMS events for brokendisk reconstruct susp activity.
+monitor.raid events are reported when the monitor detects a broken disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.raid.brokenDisk
 *Severity*::

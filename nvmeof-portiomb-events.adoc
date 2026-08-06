@@ -15,7 +15,7 @@ summary: nvmeof.portiomb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmeof.portiomb EMS events.
+nvmeof.portiomb events are reported when there are no longer two ports cabled incorrectly from a node to bottom module (B) on a shelf, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmeof.portiomb.clear
 *Severity*::

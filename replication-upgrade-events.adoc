@@ -15,7 +15,7 @@ summary: replication.upgrade events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.upgrade EMS events, which report when post-upgrade operations for SnapMirror(R) and SnapVault(R), as a part of ONTAP upgrade, are complete.
+replication.upgrade events are reported when post-upgrade operations for SnapMirror(R) and SnapVault(R), as a part of ONTAP upgrade, are complete, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.upgrade.complete
 *Severity*::

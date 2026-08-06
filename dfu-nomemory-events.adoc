@@ -15,7 +15,7 @@ summary: dfu.nomemory events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.nomemory EMS events, which report when the disk firmware update routine cannot allocate memory to update the disk firmware.
+dfu.nomemory events are reported when the disk firmware update routine cannot allocate memory to update the disk firmware, and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.noMemory
 *Severity*::

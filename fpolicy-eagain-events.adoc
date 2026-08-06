@@ -15,7 +15,7 @@ summary: fpolicy.eagain events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fpolicy.eagain EMS events for disconnect on activity.
+fpolicy.eagain events are reported when the TCP connection to the FPolicy server is broken four times in a two minute interval due to EAGAIN error, and corrective actions typically involve following the documented corrective action guidance.
 
 == fpolicy.eagain.disconnect
 *Severity*::

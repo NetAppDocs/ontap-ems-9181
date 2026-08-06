@@ -15,7 +15,7 @@ summary: wafl.takeover events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.takeover EMS events for nvram missing vol activity.
+wafl.takeover events are reported when the system does not find any WAFL(R) nvlog records to replay during takeover processing, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.takeover.nvram.missing
 *Severity*::

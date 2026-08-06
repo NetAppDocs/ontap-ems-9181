@@ -15,7 +15,7 @@ summary: upgrademgr.update events
 :imagesdir: ./media/
 
 [.lead]
-Learn about upgrademgr.update EMS events for cancelled pausederr pauseduser activity.
+upgrademgr.update events are reported when the automated update of the cluster is canceled by the operator, and corrective actions typically involve following the documented corrective action guidance.
 
 == upgrademgr.update.cancelled
 *Severity*::

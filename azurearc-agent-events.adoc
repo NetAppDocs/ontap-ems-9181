@@ -15,7 +15,7 @@ summary: azurearc.agent events
 :imagesdir: ./media/
 
 [.lead]
-Learn about azurearc.agent EMS events for connection token gen activity.
+azurearc.agent events are reported when the Microsoft Connected Machine Agent failed to connect to Azure Arc, and corrective actions typically involve following the documented corrective action guidance.
 
 == azurearc.agent.connection.failed
 *Severity*::

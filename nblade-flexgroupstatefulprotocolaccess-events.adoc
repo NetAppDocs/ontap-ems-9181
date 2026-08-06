@@ -15,7 +15,7 @@ summary: nblade.flexgroupstatefulprotocolaccess events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.flexgroupstatefulprotocolaccess EMS events, which report when the system detects an attempt to use Network Lock Manager (NLM) shared locks on a FlexGroup volume.
+nblade.flexgroupstatefulprotocolaccess events are reported when the system detects an attempt to use Network Lock Manager (NLM) shared locks on a FlexGroup volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.flexgroupStatefulProtocolAccess
 *Severity*::

@@ -15,7 +15,7 @@ summary: vsa.scheduledevent events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsa.scheduledevent EMS events for mlx detch scheduled activity.
+vsa.scheduledevent events are reported when oNTAP(R) software is running as an instance in Azure and a NIC SR-IOV driver detach event is detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsa.scheduledEvent.mlx.detch
 *Deprecated*::

@@ -15,7 +15,7 @@ summary: shelf.config events
 :imagesdir: ./media/
 
 [.lead]
-Learn about shelf.config EMS events for mixed mixedha mpha activity.
+shelf.config events are reported when this message occurs at system boot time, when a stand-alone system's storage configuration is a mixture of redundant paths and single paths, and corrective actions typically involve following the documented corrective action guidance.
 
 == shelf.config.mixed
 *Severity*::

@@ -15,7 +15,7 @@ summary: secd.unixlookupfailure events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.unixlookupfailure EMS events, which report when an UNIXi(R) user or group lookup fails.
+secd.unixlookupfailure events are reported when an UNIXi(R) user or group lookup fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == secd.unixLookupFailure
 *Severity*::

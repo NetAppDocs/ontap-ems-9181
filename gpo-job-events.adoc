@@ -15,7 +15,7 @@ summary: gpo.job events
 :imagesdir: ./media/
 
 [.lead]
-Learn about gpo.job EMS events for mainupdatefailed mainupdatesuccess outofmemory activity.
+gpo.job events are reported when the Group Policy Object (GPO) Main Update job run fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == gpo.job.mainUpdateFailed
 *Severity*::

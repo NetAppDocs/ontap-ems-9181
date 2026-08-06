@@ -15,7 +15,7 @@ summary: callhome.arw events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.arw EMS events, which report when ransomware activity is detected.
+callhome.arw events are reported when ransomware activity is detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.arw.activity.seen
 *Severity*::

@@ -15,7 +15,7 @@ summary: nvmeof.cabling events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmeof.cabling EMS events.
+nvmeof.cabling events are reported when all of the cabling issues to the shelf have been corrected, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmeof.cabling.clear
 *Severity*::

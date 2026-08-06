@@ -15,7 +15,7 @@ summary: mct.control events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mct.control EMS events, which report when the Mirror Cache Transport layer encounters an error in its control group.
+mct.control events are reported when the Mirror Cache Transport layer encounters an error in its control group, and corrective actions typically involve following the documented corrective action guidance.
 
 == mct.control.error
 *Severity*::

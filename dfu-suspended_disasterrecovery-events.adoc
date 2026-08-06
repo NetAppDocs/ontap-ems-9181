@@ -15,7 +15,7 @@ summary: dfu.suspended_disasterrecovery events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.suspended_disasterrecovery EMS events, which report when This message occurs in a MetroCluster(TM) environment when firmware download to remote disks is suspended during disaster recovery.
+dfu.suspended_disasterrecovery events are reported when this message occurs in a MetroCluster(TM) environment when firmware download to remote disks is suspended during disaster recovery, and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.suspended_DisasterRecovery
 *Severity*::

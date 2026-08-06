@@ -15,7 +15,7 @@ summary: token.copy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about token.copy EMS events, which report when a 'copy complete' request fails to free the reference on a remote node.
+token.copy events are reported when a 'copy complete' request fails to free the reference on a remote node, and corrective actions typically involve following the documented corrective action guidance.
 
 == token.copy.complete.info
 *Severity*::

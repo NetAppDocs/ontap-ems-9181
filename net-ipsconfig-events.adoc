@@ -15,7 +15,7 @@ summary: net.ipsconfig events
 :imagesdir: ./media/
 
 [.lead]
-Learn about net.ipsconfig EMS events, which report when creation of an IPspace fails.
+net.ipsconfig events are reported when creation of an IPspace fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == net.ipsconfig.failed
 *Severity*::

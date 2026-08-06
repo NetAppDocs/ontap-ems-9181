@@ -15,7 +15,7 @@ summary: cf.fm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.fm EMS events for cpuutilduringtoandgb discardnvram takeoverdetectionseconds activity.
+cf.fm events are reported when this message occurs at the start of a takeover, end of a successful takeover, start of root aggregate giveback, and completion of data aggregate giveback, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.fm.cpuUtilDuringTOAndGB
 *Deprecated*::

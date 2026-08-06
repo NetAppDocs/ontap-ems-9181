@@ -15,7 +15,7 @@ summary: vifmgr.clntdev events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.clntdev EMS events.
+vifmgr.clntdev events are reported when a remote device is removed from the cluster or storage network, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.clntdev.removed
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.cifsnoprivshare events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.cifsnoprivshare EMS events, which report when a client attempts to connect to a nonexistent ONTAP_ADMIN$ share.
+nblade.cifsnoprivshare events are reported when a client attempts to connect to a nonexistent ONTAP_ADMIN$ share, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == Nblade.cifsNoPrivShare
 *Severity*::

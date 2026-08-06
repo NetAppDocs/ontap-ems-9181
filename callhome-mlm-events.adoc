@@ -15,7 +15,7 @@ summary: callhome.mlm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.mlm EMS events for array portonecontroller lun activity.
+callhome.mlm events are reported when all paths for an array LUN are connected to the same controller on the array, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.mlm.array.portOneController
 *Severity*::

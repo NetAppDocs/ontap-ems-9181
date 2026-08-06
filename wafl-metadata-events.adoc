@@ -15,7 +15,7 @@ summary: wafl.metadata events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.metadata EMS events for rsrv decreased increased activity.
+wafl.metadata events are reported when the space reserved for volume metadata is decreased when the value of "space-guarantee" for a FlexClone volume is changed from "volume" to "none", and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.metadata.rsrv.decreased
 *Severity*::

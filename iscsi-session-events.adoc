@@ -15,7 +15,7 @@ summary: iscsi.session events
 :imagesdir: ./media/
 
 [.lead]
-Learn about iscsi.session EMS events, which report when iSCSI session status is changed.
+iscsi.session events are reported when iSCSI session status is changed, and corrective actions typically involve following the documented corrective action guidance.
 
 == iscsi.session.stateChanged
 *Severity*::

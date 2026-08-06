@@ -15,7 +15,7 @@ summary: lmgr.sf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.sf EMS events, which report when the lock manager non-disruption subsystem for CIFS continuously available (CA) shares notifies the high-availability (HA) module that transition into the up state is allowed.
+lmgr.sf events are reported when the lock manager non-disruption subsystem for CIFS continuously available (CA) shares notifies the high-availability (HA) module that transition into the up state is allowed, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.sf.up.ready
 *Severity*::

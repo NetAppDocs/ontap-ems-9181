@@ -15,7 +15,7 @@ summary: replication.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.vol EMS events for activemapdelta dst disk activity.
+replication.vol events are reported when snapMirror(R) or VolCopy replication encounters a disk error in the active map delta blocks on the destination and cannot continue replication, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.vol.activemapdelta.err
 *Severity*::

@@ -15,7 +15,7 @@ summary: smtape.bkp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smtape.bkp EMS events for tape busy change activity.
+smtape.bkp events are reported when an SMTape backup operation is aborted because a write to tape device fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == smtape.bkp.abort.write.err
 *Severity*::

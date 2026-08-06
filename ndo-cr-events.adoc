@@ -15,7 +15,7 @@ summary: ndo.cr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ndo.cr EMS events for nso mccip paused activity.
+ndo.cr events are reported when a controller replacement operation is canceled by the operator, and corrective actions typically involve following the documented corrective action guidance.
 
 == ndo.cr.canceled
 *Severity*::

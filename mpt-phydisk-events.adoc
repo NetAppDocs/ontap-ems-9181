@@ -15,7 +15,7 @@ summary: mpt.phydisk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mpt.phydisk EMS events, which report when the system cannot allocate a physical disk path in the message processing technology (MPT) adapter driver.
+mpt.phydisk events are reported when the system cannot allocate a physical disk path in the message processing technology (MPT) adapter driver, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == mpt.phydisk.path.failed
 *Severity*::

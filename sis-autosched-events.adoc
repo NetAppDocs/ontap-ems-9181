@@ -15,7 +15,7 @@ summary: sis.autosched events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.autosched EMS events, which report when This event is issued when a SIS volume operation cannot be auto scheduled due to unexpected conditions.
+sis.autosched events are reported when this event is issued when a SIS volume operation could not be auto scheduled due to unexpected conditions, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.autoSched.failed
 *Severity*::

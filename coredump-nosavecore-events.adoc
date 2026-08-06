@@ -15,7 +15,7 @@ summary: coredump.nosavecore events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.nosavecore EMS events, which report when the process that saves a coredump is not able to flush to the boot device at the end of coredump.
+coredump.nosavecore events are reported when the process that saves a coredump is not able to flush to the boot device at the end of coredump, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.nosavecore.noflush
 *Severity*::

@@ -15,7 +15,7 @@ summary: repository.ns events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repository.ns EMS events for dangling streams activity.
+repository.ns events are reported when this message occurs during a client file operation request, when the Infinite Volume namespace redirector runs into failures that prevent it from cleaning up a transient lock on the namespace constituent, and corrective actions typically involve following the documented corrective action guidance.
 
 == Repository.NS.Dangling.Lock
 *Deprecated*::

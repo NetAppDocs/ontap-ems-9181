@@ -15,7 +15,7 @@ summary: host.error events
 :imagesdir: ./media/
 
 [.lead]
-Learn about host.error EMS events, which report when the host software encounters an error.
+host.error events are reported when the host software encounters an error, and corrective actions typically involve following the documented corrective action guidance.
 
 == host.error
 *Severity*::

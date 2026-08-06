@@ -15,7 +15,7 @@ summary: securepurge.started events
 :imagesdir: ./media/
 
 [.lead]
-Learn about securepurge.started EMS events, which report when a secure purge operation is started in a flexible volume.
+securepurge.started events are reported when a secure purge operation is started in a flexible volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == securepurge.started
 *Severity*::

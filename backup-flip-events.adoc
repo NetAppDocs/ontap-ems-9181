@@ -15,7 +15,7 @@ summary: backup.flip events
 :imagesdir: ./media/
 
 [.lead]
-Learn about backup.flip EMS events, which report when This message is generated while flipping inodemap.
+backup.flip events are reported when this message is generated while flipping inodemap, and corrective actions typically involve following the documented corrective action guidance.
 
 == backup.flip.inodemap
 *Severity*::

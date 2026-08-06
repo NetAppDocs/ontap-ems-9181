@@ -15,7 +15,7 @@ summary: disk.setarraylqd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.setarraylqd EMS events, which report when you set the LUN queue depth for all the LUNs of an array.
+disk.setarraylqd events are reported when you set the LUN queue depth for all the LUNs of an array, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.setArrayLQD
 *Severity*::

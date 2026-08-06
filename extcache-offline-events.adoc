@@ -15,7 +15,7 @@ summary: extcache.offline events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.offline EMS events, which report when the external cache is automatically taken offline.
+extcache.offline events are reported when the external cache is automatically taken offline, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.offline
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.sectracequeoverload events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.sectracequeoverload EMS events, which report when there are too many Sectrace work items.
+nblade.sectracequeoverload events are reported when there are too many Sectrace work items, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == Nblade.sectraceQueOverload
 *Severity*::

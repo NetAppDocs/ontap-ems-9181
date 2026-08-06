@@ -15,7 +15,7 @@ summary: wafl.check events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.check EMS events for info lostnfound activity.
+wafl.check events are reported when generic wafl check message, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.check.info
 *Severity*::

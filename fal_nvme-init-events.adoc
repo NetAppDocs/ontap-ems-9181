@@ -15,7 +15,7 @@ summary: fal_nvme.init events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fal_nvme.init EMS events, which report when the Flash Adaptation Layer (FAL) NVMe subsystem fails to initialize.
+fal_nvme.init events are reported when the Flash Adaptation Layer (FAL) NVMe subsystem fails to initialize, and corrective actions typically involve rebooting the node or cluster component.
 
 == fal_nvme.init.failed
 *Severity*::

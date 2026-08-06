@@ -15,7 +15,7 @@ summary: dfu.refreshinquiryfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dfu.refreshinquiryfailed EMS events, which report when This message occurs after a successful disk firmware update, when the 'SCSI inquiry' command, which is issued to all disks as part of the disk firmware download process, fails to finish.
+dfu.refreshinquiryfailed events are reported when this message occurs after a successful disk firmware update, when the 'SCSI inquiry' command, which is issued to all disks as part of the disk firmware download process, fails to finish, and corrective actions typically involve following the documented corrective action guidance.
 
 == dfu.refreshInquiryFailed
 *Severity*::

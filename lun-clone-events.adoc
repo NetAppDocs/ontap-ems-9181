@@ -15,7 +15,7 @@ summary: lun.clone events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.clone EMS events for snapshot activity.
+lun.clone events are reported when lun clone creation fails because the limit on the maximum number of supported clone log entries (32705) is exceeded, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.clone.log.full
 *Severity*::

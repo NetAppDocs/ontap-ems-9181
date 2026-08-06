@@ -15,7 +15,7 @@ summary: wafl.volume events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.volume EMS events for failure inuse sidl activity.
+wafl.volume events are reported when a volume comes online with a corrupted or unavailable character mapping configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.volume.charmap.loadfail
 *Severity*::

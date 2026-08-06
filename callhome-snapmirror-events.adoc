@@ -15,7 +15,7 @@ summary: callhome.snapmirror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.snapmirror EMS events for oos pers activity.
+callhome.snapmirror events are reported when a sync-granular consistency group (CG) transitions from in-sync status to out-of-sync status, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.snapmirror.oos
 *Severity*::

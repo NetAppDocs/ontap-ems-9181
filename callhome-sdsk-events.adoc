@@ -15,7 +15,7 @@ summary: callhome.sdsk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.sdsk EMS events for admin fault label activity.
+callhome.sdsk events are reported when you fail a hot spare disk drive, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.sdsk.admin
 *Severity*::

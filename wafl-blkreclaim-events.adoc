@@ -15,7 +15,7 @@ summary: wafl.blkreclaim events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.blkreclaim EMS events for noscan activity.
+wafl.blkreclaim events are reported when this message occurs to inform you that the block reclamation scanner was aborted, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.blkreclaim.abort
 *Severity*::

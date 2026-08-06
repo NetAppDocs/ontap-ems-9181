@@ -15,7 +15,7 @@ summary: device.latency events
 :imagesdir: ./media/
 
 [.lead]
-Learn about device.latency EMS events, which report when a device exceeds the latency threshold for the 30- second monitoring period.
+device.latency events are reported when a device exceeds the latency threshold for the 30- second monitoring period, and corrective actions typically involve contacting NetApp technical support.
 
 == device.latency.threshold
 *Severity*::

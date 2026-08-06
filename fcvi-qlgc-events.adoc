@@ -15,7 +15,7 @@ summary: fcvi.qlgc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fcvi.qlgc EMS events for cpr qp buffer activity.
+fcvi.qlgc events are reported when total number of async events are overflowed, and corrective actions typically involve following the documented corrective action guidance.
 
 == fcvi.qlgc.async.event.overflow
 *Severity*::

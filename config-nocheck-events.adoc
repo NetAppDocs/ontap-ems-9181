@@ -15,7 +15,7 @@ summary: config.nocheck events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.nocheck EMS events, which report when the system should be halting, but it cannot because the "no-config-check.
+config.nocheck events are reported when the system should be halting, but it cannot because the "no-config-check?, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.NoCheck
 *Severity*::

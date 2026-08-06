@@ -15,7 +15,7 @@ summary: ktls.health events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ktls.health EMS events for actionqgrowing actionqhigh backoffgrowing activity.
+ktls.health events are reported when the depth of the action queue in the ktlsd subsystem is increasing in the majority of time intervals, and corrective actions typically involve following the documented corrective action guidance.
 
 == ktls.health.actionQGrowing
 *Severity*::

@@ -15,7 +15,7 @@ summary: malloc.failure events
 :imagesdir: ./media/
 
 [.lead]
-Learn about malloc.failure EMS events for detail activity.
+malloc.failure events are reported when this event is generated if malloc is called unsafely, and corrective actions typically involve following the documented corrective action guidance.
 
 == malloc.failure
 *Severity*::

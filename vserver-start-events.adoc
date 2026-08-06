@@ -15,7 +15,7 @@ summary: vserver.start events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.start EMS events for succeeded activity.
+vserver.start events are reported when a 'vserver start' operation fails due to failure to start either a logical interface (LIF) or a protocol for the Vserver specified, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == vserver.start.failed
 *Severity*::

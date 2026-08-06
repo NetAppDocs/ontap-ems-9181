@@ -15,7 +15,7 @@ summary: raid.verify events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.verify EMS events, which report when a media scrub is aborted due to a storage layer error.
+raid.verify events are reported when a media scrub is aborted due to a storage layer error, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.verify.scrub.aborted
 *Severity*::

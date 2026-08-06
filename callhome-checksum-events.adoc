@@ -15,7 +15,7 @@ summary: callhome.checksum events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.checksum EMS events for multiple activity.
+callhome.checksum events are reported when the system detects a RAID level checksum error, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.checksum
 *Severity*::

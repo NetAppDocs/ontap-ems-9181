@@ -15,7 +15,7 @@ summary: wafl.32bit events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.32bit EMS events, which report when an aggregate or volume with a 32-bit or mixed format file system is found.
+wafl.32bit events are reported when an aggregate or volume with a 32-bit or mixed format file system is found, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.32bit.formatUnsupported
 *Severity*::

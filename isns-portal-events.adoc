@@ -15,7 +15,7 @@ summary: isns.portal events
 :imagesdir: ./media/
 
 [.lead]
-Learn about isns.portal EMS events, which report when the Internet Storage Name Service (iSNS) is not able to retrieve the portal information required for iSNS registration.
+isns.portal events are reported when the Internet Storage Name Service (iSNS) is not able to retrieve the portal information required for iSNS registration, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == isns.portal.info.unavailable
 *Severity*::

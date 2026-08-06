@@ -15,7 +15,7 @@ summary: http.cfg events
 :imagesdir: ./media/
 
 [.lead]
-Learn about http.cfg EMS events, which report when the maximum number of Cross-Site Request Forgery (CSRF) tokens has been reached.
+http.cfg events are reported when the maximum number of Cross-Site Request Forgery (CSRF) tokens has been reached, and corrective actions typically involve following the documented corrective action guidance.
 
 == http.cfg.csrf.max.tokens
 *Severity*::

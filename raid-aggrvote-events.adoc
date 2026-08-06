@@ -15,7 +15,7 @@ summary: raid.aggrvote events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.aggrvote EMS events for pullnotok updatenotok updateok activity.
+raid.aggrvote events are reported when the mirror vote pull from the replicated database (RDB) to the mailbox fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.aggrvote.pullNotOk
 *Severity*::

@@ -15,7 +15,7 @@ summary: xfcvi.attr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about xfcvi.attr EMS events, which report when any of the xfcvi attributes changes.
+xfcvi.attr events are reported when any of the xfcvi attributes changes, and corrective actions typically involve following the documented corrective action guidance.
 
 == xfcvi.attr.changed
 *Severity*::

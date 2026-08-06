@@ -15,7 +15,7 @@ summary: cpeer.access events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cpeer.access EMS events, which report when an access request from a peer cluster is rejected, either because the request is made to a restricted Vserver or to a restricted table.
+cpeer.access events are reported when an access request from a peer cluster is rejected, either because the request is made to a restricted Vserver or to a restricted table, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == cpeer.access.restricted
 *Severity*::

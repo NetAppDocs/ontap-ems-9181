@@ -15,7 +15,7 @@ summary: callhome.ch events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.ch EMS events for ps degraded fan activity.
+callhome.ch events are reported when a degraded chassis power supply unit (PSU) state exists, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.ch.ps.degraded
 *Severity*::

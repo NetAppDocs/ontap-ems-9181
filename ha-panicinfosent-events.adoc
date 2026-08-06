@@ -15,7 +15,7 @@ summary: ha.panicinfosent events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.panicinfosent EMS events, which report when a node successfully sends panic information to its high-availability (HA) partner over the HA interconnect.
+ha.panicinfosent events are reported when a node successfully sends panic information to its high-availability (HA) partner over the HA interconnect, and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.panicInfoSent
 *Severity*::

@@ -15,7 +15,7 @@ summary: snapdiff.spinnp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapdiff.spinnp EMS events, which report when the system encounters an unexpected condition while computing differences between snapshots using the SnapDiff v2 API.
+snapdiff.spinnp events are reported when the system encounters an unexpected condition while computing differences between snapshots using the SnapDiff v2 API, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapdiff.spinnp.abort.mgwd
 *Severity*::

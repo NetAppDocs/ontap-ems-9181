@@ -15,7 +15,7 @@ summary: repl.logical events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.logical EMS events for dw lretolrse lrsetolre activity.
+repl.logical events are reported when a data warehouse is rebuilt as part of a SnapMirror(R) restore or resync operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.logical.dw.rebuild
 *Severity*::

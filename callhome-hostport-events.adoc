@@ -15,7 +15,7 @@ summary: callhome.hostport events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.hostport EMS events for bypass activity.
+callhome.hostport events are reported when an Embedded Switched Hub (ESH) bypasses a host port due to excessive errors on the port, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.hostport.bypass
 *Severity*::

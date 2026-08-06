@@ -15,7 +15,7 @@ summary: ses.multipath events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.multipath EMS events for notsupported reqerror activity.
+ses.multipath events are reported when the AT-FCX disk shelf module does not support the multipath high-availability (Multipath HA) configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.multipath.notSupported
 *Severity*::

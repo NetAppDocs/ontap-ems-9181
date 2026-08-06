@@ -15,7 +15,7 @@ summary: acp.bind events
 :imagesdir: ./media/
 
 [.lead]
-Learn about acp.bind EMS events, which report when the system encounters a socket binding error while setting up the Alternate Control Path (ACP) Management Ethernet port.
+acp.bind events are reported when the system encounters a socket binding error while setting up the Alternate Control Path (ACP) Management Ethernet port, and corrective actions typically involve verifying the reported configuration and health state.
 
 == acp.bind.error
 *Severity*::

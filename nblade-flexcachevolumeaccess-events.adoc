@@ -15,7 +15,7 @@ summary: nblade.flexcachevolumeaccess events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.flexcachevolumeaccess EMS events, which report when a client attempts to access a FlexCache volume through an unsupported protocol.
+nblade.flexcachevolumeaccess events are reported when a client tries to access a FlexCache volume through an unsupported protocol, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.flexCacheVolumeAccess
 *Severity*::

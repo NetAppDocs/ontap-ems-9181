@@ -15,7 +15,7 @@ summary: config.disknoswitch events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.disknoswitch EMS events, which report when a disk is found to be attached to a switch, but it's not supported for a switch configuration.
+config.disknoswitch events are reported when a disk is found to be attached to a switch, but it's not supported for a switch configuration, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == config.DiskNoSwitch
 *Severity*::

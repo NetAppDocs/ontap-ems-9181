@@ -15,7 +15,7 @@ summary: sm.no events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sm.no EMS events, which report when a SnapMirror(R) catalog metadata transfer is attempted and a SnapMirror object store configuration with "usage" of "metadata" is not configured on the system.
+sm.no events are reported when a SnapMirror(R) catalog metadata transfer is attempted and a SnapMirror object store configuration with "usage" of "metadata" is not configured on the system, and corrective actions typically involve following the documented corrective action guidance.
 
 == sm.no.metadata.objstore
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.nfs4unoptimizedio events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.nfs4unoptimizedio EMS events, which report when a session trunking group that is created by the NFSv41 client is split across multiple nodes.
+nblade.nfs4unoptimizedio events are reported when a session trunking group that is created by the NFSv41 client is split across multiple nodes, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.nfs4UnOptimizedIO
 *Deprecated*::

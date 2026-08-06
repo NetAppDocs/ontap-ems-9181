@@ -15,7 +15,7 @@ summary: mgmt.fpolicy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.fpolicy EMS events for policy priv activity.
+mgmt.fpolicy events are reported when a Vserver administrator disables an FPolicy(R) policy, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.fpolicy.policy.disabled
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.nvmem events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.nvmem EMS events for volt hi lo activity.
+callhome.nvmem events are reported when the sensor for the Non-Volatile memory (NVMEM) card lithium battery has an excessively high voltage, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.nvmem.volt.hi
 *Severity*::

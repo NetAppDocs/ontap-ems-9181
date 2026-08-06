@@ -15,7 +15,7 @@ summary: ems.snmp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ems.snmp EMS events, which report when SNMP parsing of an input packet fails.
+ems.snmp events are reported when sNMP parsing of an input packet fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == ems.snmp.parse.error
 *Severity*::

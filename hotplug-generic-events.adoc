@@ -15,7 +15,7 @@ summary: hotplug.generic events
 :imagesdir: ./media/
 
 [.lead]
-Learn about hotplug.generic EMS events, which report when a module replacement or removal command fails because the driver or system is busy.
+hotplug.generic events are reported when a module replacement or removal command fails because the driver or system is busy, and corrective actions typically involve following the documented corrective action guidance.
 
 == hotplug.generic.busy_not_ready
 *Severity*::

@@ -15,7 +15,7 @@ summary: fci.sfp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fci.sfp EMS events, which report when an invalid Small Form-factor Pluggable (SFP) is inserted into the adapter.
+fci.sfp events are reported when an invalid Small Form-factor Pluggable (SFP) is inserted into the adapter, and corrective actions typically involve following the documented corrective action guidance.
 
 == fci.sfp.invalid
 *Severity*::

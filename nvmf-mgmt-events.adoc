@@ -15,7 +15,7 @@ summary: nvmf.mgmt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmf.mgmt EMS events for op cmd threshold activity.
+nvmf.mgmt events are reported when a management operation fails in an NVMe-oF subsystem, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmf.mgmt.op.failed
 *Severity*::

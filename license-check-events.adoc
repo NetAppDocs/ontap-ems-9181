@@ -15,7 +15,7 @@ summary: license.check events
 :imagesdir: ./media/
 
 [.lead]
-Learn about license.check EMS events for expired mirror warn activity.
+license.check events are reported when the license checker determines that the Base license has expired, and corrective actions typically involve following the documented corrective action guidance.
 
 == license.check.expired
 *Severity*::

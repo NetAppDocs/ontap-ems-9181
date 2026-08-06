@@ -15,7 +15,7 @@ summary: secd.ldap events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.ldap EMS events for hostnames resolved noservers activity.
+secd.ldap events are reported when the -bind-dn user is not configured and the -bind-as-cifs-server option is set to false in the Lightweight Directory Access Protocol (LDAP) client configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == secd.ldap.bindDn.missing
 *Severity*::

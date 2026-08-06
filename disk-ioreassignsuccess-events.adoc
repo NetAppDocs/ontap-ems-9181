@@ -15,7 +15,7 @@ summary: disk.ioreassignsuccess events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.ioreassignsuccess EMS events, which report when a medium error is detected on a disk and the sector reassignment succeeds.
+disk.ioreassignsuccess events are reported when a medium error is detected on a disk and the sector reassignment succeeds, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.ioReassignSuccess
 *Severity*::

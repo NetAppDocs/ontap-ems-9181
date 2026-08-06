@@ -15,7 +15,7 @@ summary: rpt.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rpt.disk EMS events, which report when the generation of a disk UUID fails.
+rpt.disk events are reported when the generation of a disk UUID fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == rpt.disk.uuid.gen.failed
 *Severity*::

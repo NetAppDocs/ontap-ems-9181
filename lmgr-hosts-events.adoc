@@ -15,7 +15,7 @@ summary: lmgr.hosts events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.hosts EMS events, which report when a lock manager host object cannot be allocated due to reaching the limit for host objects in the associated pool.
+lmgr.hosts events are reported when a lock manager host object cannot be allocated due to reaching the limit for host objects in the associated pool, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.hosts.limit.hit
 *Severity*::

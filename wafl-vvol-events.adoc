@@ -15,7 +15,7 @@ summary: wafl.vvol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.vvol EMS events for encrypted metadata excessive activity.
+wafl.vvol events are reported when an encrypted flexible volume is created, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.vvol.create.encrypted
 *Severity*::

@@ -15,7 +15,7 @@ summary: sp.autoupdate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.autoupdate EMS events, which report when the Service Processor (SP) AutoUpdate option is enabled or disabled.
+sp.autoupdate events are reported when the Service Processor (SP) AutoUpdate option is enabled or disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.autoupdate.toggle
 *Severity*::

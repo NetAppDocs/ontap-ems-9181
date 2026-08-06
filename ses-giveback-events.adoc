@@ -15,7 +15,7 @@ summary: ses.giveback events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.giveback EMS events for restartafter wait activity.
+ses.giveback events are reported when sCSI Enclosure Services (SES) is restarted after giveback, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.giveback.restartAfter
 *Severity*::

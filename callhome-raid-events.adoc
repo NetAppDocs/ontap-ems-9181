@@ -15,7 +15,7 @@ summary: callhome.raid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.raid EMS events for adp bg ops activity.
+callhome.raid events are reported when auto-partitioning for root aggregate creation is disabled on a system, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.raid.adp.disabled
 *Severity*::

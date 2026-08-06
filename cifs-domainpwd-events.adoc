@@ -15,7 +15,7 @@ summary: cifs.domainpwd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cifs.domainpwd EMS events for job deletion sched activity.
+cifs.domainpwd events are reported when disabling of CIFS domain password change schedule fails to delete the job for a Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == cifs.domainpwd.job.deletion
 *Severity*::

@@ -15,7 +15,7 @@ summary: spm.ypbind events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.ypbind EMS events, which report when the NIS client binding daemon 'ypbind' involuntarily exits.
+spm.ypbind events are reported when the NIS client binding daemon 'ypbind' involuntarily exits, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.ypbind.process.exit
 *Severity*::

@@ -15,7 +15,7 @@ summary: unowned.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about unowned.disk EMS events, which report when the system has unowned/unassigned disks.
+unowned.disk events are reported when the system has unowned/unassigned disks, and corrective actions typically involve following the documented corrective action guidance.
 
 == unowned.disk.reminder
 *Severity*::

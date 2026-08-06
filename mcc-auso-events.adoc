@@ -15,7 +15,7 @@ summary: mcc.auso events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.auso EMS events for trigfailed triggered activity.
+mcc.auso events are reported when a trigger for automatic unplanned switchover fails to issue the operation, and corrective actions typically involve verifying the reported configuration and health state.
 
 == mcc.auso.trigFailed
 *Severity*::

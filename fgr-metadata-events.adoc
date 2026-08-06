@@ -15,7 +15,7 @@ summary: fgr.metadata events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fgr.metadata EMS events, which report when the system detects an inconsistency in the volume capacity rebalancing metadata.
+fgr.metadata events are reported when the system detects an inconsistency in the volume capacity rebalancing metadata, and no corrective action is typically required.
 
 == fgr.metadata.repaired
 *Severity*::

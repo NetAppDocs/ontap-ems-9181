@@ -15,7 +15,7 @@ summary: nblade.nocsmsession events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.nocsmsession EMS events, which report when the local node could not acquire a Connection Session Manager (CSM) session.
+nblade.nocsmsession events are reported when the local node could not acquire a Connection Session Manager (CSM) session, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == Nblade.noCsmSession
 *Severity*::

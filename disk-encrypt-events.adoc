@@ -15,7 +15,7 @@ summary: disk.encrypt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.encrypt EMS events for destroy range revert activity.
+disk.encrypt events are reported when the disk encrypt destroy operation is completed, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.encrypt.destroy.complete
 *Severity*::

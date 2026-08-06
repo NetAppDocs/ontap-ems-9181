@@ -15,7 +15,7 @@ summary: useradmin.registry events
 :imagesdir: ./media/
 
 [.lead]
-Learn about useradmin.registry EMS events for specific activity.
+useradmin.registry events are reported when the system encounters an internal registry error while reading the useradmin entries, and corrective actions typically involve following the documented corrective action guidance.
 
 == useradmin.registry
 *Severity*::

@@ -15,7 +15,7 @@ summary: cmd.shelfchk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cmd.shelfchk EMS events for ok activity.
+cmd.shelfchk events are reported when this event is generated while verifying disk shelf cabling and configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == cmd.shelfchk.config.OK
 *Severity*::

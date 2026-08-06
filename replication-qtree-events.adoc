@@ -15,7 +15,7 @@ summary: replication.qtree events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.qtree EMS events for dst disk inconsistent activity.
+replication.qtree events are reported when the replication destination engine receives blocks with disk errors from the source for the first time in a transfer and continues with replication, and corrective actions typically involve contacting NetApp technical support.
 
 == replication.qtree.dst.disk.error
 *Severity*::

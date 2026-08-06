@@ -15,7 +15,7 @@ summary: oauth2.status events
 :imagesdir: ./media/
 
 [.lead]
-Learn about oauth2.status EMS events.
+oauth2.status events are reported when the OAuth 2, and corrective actions typically involve following the documented corrective action guidance.
 
 == oauth2.status.disabled
 *Severity*::

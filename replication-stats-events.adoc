@@ -15,7 +15,7 @@ summary: replication.stats events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.stats EMS events for notloaded notsaved activity.
+replication.stats events are reported when this message occurs during system boot when SnapMirror(R) or SnapVault(R) cannot load the statistics (for example, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.stats.notLoaded
 *Severity*::

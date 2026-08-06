@@ -15,7 +15,7 @@ summary: nvmf.graceperiod events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmf.graceperiod EMS events for expired activity.
+nvmf.graceperiod events are reported when this message occurs daily while the NVMe over Fabrics (NVMe-oF) protocol is in use and the license grace period is active, and corrective actions typically involve contacting NetApp technical support.
 
 == nvmf.graceperiod.active
 *Severity*::

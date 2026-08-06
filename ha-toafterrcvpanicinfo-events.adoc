@@ -15,7 +15,7 @@ summary: ha.toafterrcvpanicinfo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.toafterrcvpanicinfo EMS events, which report when the local node initiates a takeover of its high-availability (HA) partner after detecting a panic of the HA partner node.
+ha.toafterrcvpanicinfo events are reported when the local node initiates a takeover of its high-availability (HA) partner after detecting a panic of the HA partner node, and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.toAfterRcvPanicInfo
 *Severity*::

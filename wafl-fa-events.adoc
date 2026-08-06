@@ -15,7 +15,7 @@ summary: wafl.fa events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.fa EMS events, which report when an aggregate is being marked inconsistent.
+wafl.fa events are reported when an aggregate is being marked inconsistent, and corrective actions typically involve contacting NetApp technical support.
 
 == wafl.fa.mark.inconsistent
 *Severity*::

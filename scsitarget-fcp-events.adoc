@@ -15,7 +15,7 @@ summary: scsitarget.fcp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsitarget.fcp EMS events for sfp inserted activity.
+scsitarget.fcp events are reported when a small form-factor pluggable (SFP) is inserted into the Fibre Channel (FC) target adapter, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsitarget.fcp.sfp.inserted
 *Severity*::

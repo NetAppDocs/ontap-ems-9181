@@ -15,7 +15,7 @@ summary: ipmultipath.init events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ipmultipath.init EMS events for badchksumtype badversion activity.
+ipmultipath.init events are reported when this message occurs during IP Multipath session initialization, when an INIT packet with an unknown checksum type is received, and corrective actions typically involve following the documented corrective action guidance.
 
 == ipmultipath.init.badChksumType
 *Severity*::

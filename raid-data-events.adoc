@@ -15,7 +15,7 @@ summary: raid.data events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.data EMS events for lw blkerr ws activity.
+raid.data events are reported when a WAFL(R) generated read detects a stale block due to a lost write, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.data.lw.blkErr
 *Severity*::

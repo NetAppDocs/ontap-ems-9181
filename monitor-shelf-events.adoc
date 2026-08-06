@@ -15,7 +15,7 @@ summary: monitor.shelf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.shelf EMS events for accesserror ok configerror activity.
+monitor.shelf events are reported when the monitor detects that a disk shelf access error has occurred, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == monitor.shelf.accessError
 *Severity*::

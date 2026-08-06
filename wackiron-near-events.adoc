@@ -15,7 +15,7 @@ summary: wackiron.near events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wackiron.near EMS events for hour limit kernel activity.
+wackiron.near events are reported when the number of hours since wafliron was last run on the specified volume is approaching its limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == wackiron.near.hour.limit
 *Severity*::

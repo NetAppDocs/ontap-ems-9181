@@ -15,7 +15,7 @@ summary: monitor.rtclowpower events
 :imagesdir: ./media/
 
 [.lead]
-Learn about monitor.rtclowpower EMS events, which report when the real-time clock (RTC) battery is at a dangerously low power level.
+monitor.rtclowpower events are reported when the real-time clock (RTC) battery is at a dangerously low power level, and corrective actions typically involve following the documented corrective action guidance.
 
 == monitor.rtcLowPower
 *Severity*::

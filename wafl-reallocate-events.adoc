@@ -15,7 +15,7 @@ summary: wafl.reallocate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.reallocate EMS events for aggr interrupt high activity.
+wafl.reallocate events are reported when an aggregate reallocation scan is interrupted, and no corrective action is typically required.
 
 == wafl.reallocate.aggr.interrupt
 *Severity*::

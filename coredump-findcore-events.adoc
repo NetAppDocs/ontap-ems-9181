@@ -15,7 +15,7 @@ summary: coredump.findcore events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.findcore EMS events for nospace partial nosave activity.
+coredump.findcore events are reported when the core dump process detects an error while checking for an unsaved core in the dump device, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.findcore.error
 *Severity*::

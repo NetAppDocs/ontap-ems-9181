@@ -15,7 +15,7 @@ summary: mgmt.nfslisteners events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmt.nfslisteners EMS events for failure activity.
+mgmt.nfslisteners events are reported when the listener for the NFS service is not configured, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmt.nfslisteners.failure
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.startup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.startup EMS events for failover merge activity.
+vifmgr.startup events are reported when the logical interface manager (VIFMgr) encounters an error while initializing the structures required for logical interface (LIF) failover, and corrective actions typically involve contacting NetApp technical support.
 
 == vifmgr.startup.failover.err
 *Severity*::

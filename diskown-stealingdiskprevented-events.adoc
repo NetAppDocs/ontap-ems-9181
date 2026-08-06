@@ -15,7 +15,7 @@ summary: diskown.stealingdiskprevented events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.stealingdiskprevented EMS events, which report when a "storage disk assign" operation is performed on a disk that is owned and has a reservation from another system.
+diskown.stealingdiskprevented events are reported when a "storage disk assign" operation is performed on a disk that is owned and has a reservation from another system, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.StealingDiskPrevented
 *Severity*::

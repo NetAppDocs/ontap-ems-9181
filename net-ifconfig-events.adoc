@@ -15,7 +15,7 @@ summary: net.ifconfig events
 :imagesdir: ./media/
 
 [.lead]
-Learn about net.ifconfig EMS events for addlimitexceed ioctlerror activity.
+net.ifconfig events are reported when the limit for adding logical virtual local area network (VLAN) and interface group (ifgrp) interfaces is exceeded, and corrective actions typically involve following the documented corrective action guidance.
 
 == net.ifconfig.addLimitExceed
 *Severity*::

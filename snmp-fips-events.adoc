@@ -15,7 +15,7 @@ summary: snmp.fips events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snmp.fips EMS events for objs del support activity.
+snmp.fips events are reported when the system fails to delete SNMP traphosts and users that are not FIPS compliant, and corrective actions typically involve following the documented corrective action guidance.
 
 == snmp.fips.objs.del.failed
 *Severity*::

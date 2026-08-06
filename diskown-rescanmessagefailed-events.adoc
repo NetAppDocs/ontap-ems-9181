@@ -15,7 +15,7 @@ summary: diskown.rescanmessagefailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.rescanmessagefailed EMS events, which report when a disk rescan message is sent, but does not go through while transferring the ownership of a disk to another node.The node to which the disk ownership is transferred might not detect them until it performs the rescan.
+diskown.rescanmessagefailed events are reported when a disk rescan message is sent, but does not go through while transferring the ownership of a disk to another node, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.RescanMessageFailed
 *Severity*::

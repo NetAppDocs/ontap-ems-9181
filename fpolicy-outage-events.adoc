@@ -15,7 +15,7 @@ summary: fpolicy.outage events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fpolicy.outage EMS events for file msg lost activity.
+fpolicy.outage events are reported when file creation fails under the configured resiliency directory path, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == fpolicy.outage.file.invalid
 *Severity*::

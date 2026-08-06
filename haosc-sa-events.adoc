@@ -15,7 +15,7 @@ summary: haosc.sa events
 :imagesdir: ./media/
 
 [.lead]
-Learn about haosc.sa EMS events, which report when nonvolatile memory on a stand-alone system is configured for a high-availability system.
+haosc.sa events are reported when nonvolatile memory on a stand-alone system is configured for a high-availability system, and corrective actions typically involve rebooting the node or cluster component.
 
 == haosc.sa.config
 *Severity*::

@@ -15,7 +15,7 @@ summary: reg.cookie events
 :imagesdir: ./media/
 
 [.lead]
-Learn about reg.cookie EMS events, which report when allocation of cookies for traversing all keys under a prefix fails.
+reg.cookie events are reported when allocation of cookies for traversing all keys under a prefix fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == reg.cookie.null
 *Severity*::

@@ -15,7 +15,7 @@ summary: mcc.sbca events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.sbca EMS events, which report when a MetroCluster (tm) system metadata volume that provides storage for the configuration replication services is not available.
+mcc.sbca events are reported when a MetroCluster (tm) system metadata volume that provides storage for the configuration replication services is not available, and corrective actions typically involve contacting NetApp technical support.
 
 == mcc.sbca.mdvNotAvailable
 *Severity*::

@@ -15,7 +15,7 @@ summary: repository.dc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repository.dc EMS events, which report when This message occurs during a client file operation request, when the Infinite Volume runs into failures that prevent it from cleaning up a transient or client-originated lock on the data constituent.
+repository.dc events are reported when this message occurs during a client file operation request, when the Infinite Volume runs into failures that prevent it from cleaning up a transient or client-originated lock on the data constituent, and corrective actions typically involve following the documented corrective action guidance.
 
 == Repository.DC.Dangling.Lock
 *Deprecated*::

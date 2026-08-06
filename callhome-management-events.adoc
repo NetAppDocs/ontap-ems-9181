@@ -15,7 +15,7 @@ summary: callhome.management events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.management EMS events for rotate activity.
+callhome.management events are reported when the MANAGEMENT_LOG AutoSupport or 'call home' event is sent, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.management.log
 *Severity*::

@@ -15,7 +15,7 @@ summary: connectx.ibqsfpdumpdata events
 :imagesdir: ./media/
 
 [.lead]
-Learn about connectx.ibqsfpdumpdata EMS events, which report when InfiniBand retimer programming fails due to a quad small form-factor pluggable (QSFP) transceiver parse error, and 128 bytes of QSFP data are dumped.
+connectx.ibqsfpdumpdata events are reported when infiniBand retimer programming fails due to a quad small form-factor pluggable (QSFP) transceiver parse error, and 128 bytes of QSFP data are dumped, and corrective actions typically involve following the documented corrective action guidance.
 
 == connectx.IbQsfpDumpData
 *Severity*::

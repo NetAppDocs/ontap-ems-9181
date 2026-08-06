@@ -15,7 +15,7 @@ summary: dump.transit events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dump.transit EMS events, which report when This event is generated when the failover is still in transit while waiting for the dump to be initialized.
+dump.transit events are reported when the failover is still in transit while waiting for the dump to be initialized, and corrective actions typically involve following the documented corrective action guidance.
 
 == dump.transit.fail
 *Severity*::

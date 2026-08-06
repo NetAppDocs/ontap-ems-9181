@@ -15,7 +15,7 @@ summary: config.pvlan events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.pvlan EMS events.
+config.pvlan events are reported when a pseudo-VLAN port is created, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.pvlan.created
 *Severity*::

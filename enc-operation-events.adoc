@@ -15,7 +15,7 @@ summary: enc.operation events
 :imagesdir: ./media/
 
 [.lead]
-Learn about enc.operation EMS events for disableaid failure activity.
+enc.operation events are reported when rekey or conversion to encryption operation is completed in a flexible volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == enc.operation.completed
 *Severity*::

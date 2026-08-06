@@ -15,7 +15,7 @@ summary: kern.syslogd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kern.syslogd EMS events, which report when an event is generated to log errors from the syslog daemon.
+kern.syslogd events are reported when an event is generated to log errors from the syslog daemon, and corrective actions typically involve following the documented corrective action guidance.
 
 == kern.syslogd.error
 *Severity*::

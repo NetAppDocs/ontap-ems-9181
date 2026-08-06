@@ -15,7 +15,7 @@ summary: vsdr.schedule events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.schedule EMS events, which report when a schedule is not available on the secondary site for replication of policies for a Vserver in a MetroCluster(tm) configuration or Vserver DR setup.
+vsdr.schedule events are reported when a schedule is not available on the secondary site for replication of policies for a Vserver in a MetroCluster(tm) configuration or Vserver DR setup, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.schedule.unavailable
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.andu events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.andu EMS events for pausederr activity.
+callhome.andu events are reported when the automated update of the cluster has been completed, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.andu.completed
 *Severity*::

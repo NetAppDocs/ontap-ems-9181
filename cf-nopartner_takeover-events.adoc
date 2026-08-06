@@ -15,7 +15,7 @@ summary: cf.nopartner_takeover events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.nopartner_takeover EMS events, which report when the partner node fails but requested not to be taken over to prevent multiple, simultaneous RAID reconstructs from starting.
+cf.nopartner_takeover events are reported when the partner node fails but requested not to be taken over to prevent multiple, simultaneous RAID reconstructs from starting, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == cf.noPartner_takeover
 *Severity*::

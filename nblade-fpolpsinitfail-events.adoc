@@ -15,7 +15,7 @@ summary: nblade.fpolpsinitfail events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.fpolpsinitfail EMS events, which report when initialization of any FPolicy persistent store resource fails.
+nblade.fpolpsinitfail events are reported when initialization of any FPolicy persistent store resource fails, and corrective actions typically involve contacting NetApp technical support.
 
 == Nblade.fpolPsInitFail
 *Severity*::

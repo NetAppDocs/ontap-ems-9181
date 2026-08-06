@@ -15,7 +15,7 @@ summary: fm.cpuutilduringarl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fm.cpuutilduringarl EMS events, which report when This message occurs at the start of an aggregate relocation (ARL) and at the completion of an ARL.
+fm.cpuutilduringarl events are reported when this message occurs at the start of an aggregate relocation (ARL) and at the completion of an ARL, and corrective actions typically involve following the documented corrective action guidance.
 
 == fm.cpuUtilDuringARL
 *Deprecated*::

@@ -15,7 +15,7 @@ summary: api.fileio events
 :imagesdir: ./media/
 
 [.lead]
-Learn about api.fileio EMS events, which report when This message occurs after a file I/O error that typically causes a Data ONTAP(R) API to fail.
+api.fileio events are reported when this message occurs after a file I/O error that typically causes a Data ONTAP(R) API to fail, and corrective actions typically involve following the documented corrective action guidance.
 
 == api.fileio
 *Severity*::

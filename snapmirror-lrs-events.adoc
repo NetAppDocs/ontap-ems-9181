@@ -15,7 +15,7 @@ summary: snapmirror.lrs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapmirror.lrs EMS events, which report when SnapMirror encounters mismatched file types between two snapshots that it is comparing.
+snapmirror.lrs events are reported when snapMirror encounters mismatched file types between two snapshots that it is comparing, and corrective actions typically involve contacting NetApp technical support.
 
 == snapmirror.lrs.FiletypeMod
 *Severity*::

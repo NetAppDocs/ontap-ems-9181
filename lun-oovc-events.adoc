@@ -15,7 +15,7 @@ summary: lun.oovc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.oovc EMS events for done version mismatch activity.
+lun.oovc events are reported when the rebuilding of the Out Of Volume Container (OOVC) file is complete, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.oovc.rebuild.done
 *Severity*::

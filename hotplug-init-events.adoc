@@ -15,7 +15,7 @@ summary: hotplug.init events
 :imagesdir: ./media/
 
 [.lead]
-Learn about hotplug.init EMS events.
+hotplug.init events are reported when the "slot module insert" command encounters an error while initializing the module, and corrective actions typically involve following the documented corrective action guidance.
 
 == hotplug.init.failed
 *Severity*::

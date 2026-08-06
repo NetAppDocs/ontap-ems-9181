@@ -15,7 +15,7 @@ summary: raid.read events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.read EMS events for cksum blk media activity.
+raid.read events are reported when the system detects a checksum block media error in an advanced zoned checksums(AZCS) RAID group during a read operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.read.cksum.blk.err
 *Deprecated*::

@@ -15,7 +15,7 @@ summary: wafl.snapshot_xlation_duplicate_entry events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.snapshot_xlation_duplicate_entry EMS events, which report when WAFL(R) determines that there are duplicate snapshot entries in the snapshot translation table.
+wafl.snapshot_xlation_duplicate_entry events are reported when wAFL(R) determines that there are duplicate snapshot entries in the snapshot translation table, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.snapshot_xlation_duplicate_entry
 *Severity*::

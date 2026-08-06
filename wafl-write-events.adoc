@@ -15,7 +15,7 @@ summary: wafl.write events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.write EMS events for cifsspace spcres activity.
+wafl.write events are reported when a write to a file with CIFS-style space reservations fails due to a lack of space in the volume or aggregate, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.write.fail.cifsSpace
 *Severity*::

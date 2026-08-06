@@ -15,7 +15,7 @@ summary: hybaggrcopy.dstgeommismatch events
 :imagesdir: ./media/
 
 [.lead]
-Learn about hybaggrcopy.dstgeommismatch EMS events, which report when there is a mismatch between the disk geometries of source and destination hybrid aggregates.
+hybaggrcopy.dstgeommismatch events are reported when there is a mismatch between the disk geometries of source and destination hybrid aggregates, and corrective actions typically involve following the documented corrective action guidance.
 
 == hybAggrCopy.dstGeomMismatch
 *Severity*::

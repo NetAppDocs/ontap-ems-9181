@@ -15,7 +15,7 @@ summary: sms.clone events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sms.clone EMS events, which report when SnapMirror(R) Synchronous fails a clone request because the relation is temporarily in a state that does not permit clone replication.
+sms.clone events are reported when snapMirror(R) Synchronous fails a clone request because the relation is temporarily in a state that does not permit clone replication, and corrective actions typically involve following the documented corrective action guidance.
 
 == sms.clone.request.disallow
 *Severity*::

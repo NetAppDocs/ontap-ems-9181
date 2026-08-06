@@ -15,7 +15,7 @@ summary: config.noswitchcount events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.noswitchcount EMS events, which report when an attempt to obtain the switch port count fails because it does not exist.
+config.noswitchcount events are reported when an attempt to obtain the switch port count fails because it does not exist, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.NoSwitchCount
 *Severity*::

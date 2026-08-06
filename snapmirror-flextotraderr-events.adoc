@@ -15,7 +15,7 @@ summary: snapmirror.flextotraderr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapmirror.flextotraderr EMS events, which report when the user attempts to copy a flexible volume into a traditional volume using SnapMirror(R).
+snapmirror.flextotraderr events are reported when the user tries to copy a flexible volume into a traditional volume using SnapMirror(R), and corrective actions typically involve following the documented corrective action guidance.
 
 == snapmirror.flexToTradErr
 *Severity*::

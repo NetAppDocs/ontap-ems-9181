@@ -15,7 +15,7 @@ summary: mcc.forced events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mcc.forced EMS events, which report when the node triggers a forced automatic unplanned switchover because the "allow-auto-forced-switchover" option is true.
+mcc.forced events are reported when the node triggers a forced automatic unplanned switchover because the "allow-auto-forced-switchover" option is true, and corrective actions typically involve following the documented corrective action guidance.
 
 == mcc.forced.auso.issued
 *Severity*::

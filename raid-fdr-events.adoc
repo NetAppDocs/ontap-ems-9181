@@ -15,7 +15,7 @@ summary: raid.fdr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.fdr EMS events for ok inservice reminder activity.
+raid.fdr events are reported when we detect an entry in the failed disk registry, and have forcibly failed the disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.fdr.failed.ok
 *Severity*::

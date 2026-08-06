@@ -15,7 +15,7 @@ summary: exports.dom events
 :imagesdir: ./media/
 
 [.lead]
-Learn about exports.dom EMS events for notfound transient activity.
+exports.dom events are reported when the reverse lookup record mapping an IP address to its hostname cannot be found in the configured name servers, and corrective actions typically involve following the documented corrective action guidance.
 
 == exports.dom.notFound
 *Severity*::

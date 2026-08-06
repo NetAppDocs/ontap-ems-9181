@@ -15,7 +15,7 @@ summary: air.repair events
 :imagesdir: ./media/
 
 [.lead]
-Learn about air.repair EMS events, which report when there is an inconsistency in the persistent lock entry metafile.
+air.repair events are reported when there is an inconsistency in the persistent lock entry metafile, and corrective actions typically involve following the documented corrective action guidance.
 
 == air.repair.prsist.lock.entry
 *Severity*::

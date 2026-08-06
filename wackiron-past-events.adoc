@@ -15,7 +15,7 @@ summary: wackiron.past events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wackiron.past EMS events for hour limit kernel activity.
+wackiron.past events are reported when the number of hours since wafliron was last run on the specified volume is past its limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == wackiron.past.hour.limit
 *Severity*::

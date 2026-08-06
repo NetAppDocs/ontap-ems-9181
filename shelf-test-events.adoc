@@ -15,7 +15,7 @@ summary: shelf.test events
 :imagesdir: ./media/
 
 [.lead]
-Learn about shelf.test EMS events for in progress request activity.
+shelf.test events are reported when a TEST request is now in progress, and corrective actions typically involve following the documented corrective action guidance.
 
 == shelf.test.in.progress
 *Severity*::

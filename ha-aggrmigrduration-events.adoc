@@ -15,7 +15,7 @@ summary: ha.aggrmigrduration events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.aggrmigrduration EMS events, which report when This message occurs every 60 seconds during an aggregate migration operation.
+ha.aggrmigrduration events are reported when this message occurs every 60 seconds during an aggregate migration operation, and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.aggrMigrDuration
 *Severity*::

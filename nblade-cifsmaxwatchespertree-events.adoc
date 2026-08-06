@@ -15,7 +15,7 @@ summary: nblade.cifsmaxwatchespertree events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.cifsmaxwatchespertree EMS events, which report when the total number of directory watch (Change Notify) requests exceed the per-tree limit.
+nblade.cifsmaxwatchespertree events are reported when the total number of directory watch (Change Notify) requests exceed the per-tree limit, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.cifsMaxWatchesPerTree
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.fs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.fs EMS events for corrupt fr pct activity.
+wafl.fs events are reported when this message occurs during volume mount, when the fractional reservation value for a volume is found to be corrupted, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.fs.corrupt.fr.pct.changed
 *Severity*::

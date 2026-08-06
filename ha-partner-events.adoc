@@ -15,7 +15,7 @@ summary: ha.partner events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.partner EMS events, which report when a controller in an High Availability Configuration discovers its HA partner.
+ha.partner events are reported when a controller in an High Availability Configuration discovers its HA partner, and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.partner.discovered
 *Severity*::

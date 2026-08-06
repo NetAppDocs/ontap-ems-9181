@@ -15,7 +15,7 @@ summary: ctran.jpc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ctran.jpc EMS events for assigned multiple nodes activity.
+ctran.jpc events are reported when a Join Proposal Coordinator (JPC) node is assigned by Kernel Cluster Services (KCS) Cluster Transaction Manager (CTRAN), and corrective actions typically involve following the documented corrective action guidance.
 
 == ctran.jpc.assigned
 *Severity*::

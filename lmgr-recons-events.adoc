@@ -15,7 +15,7 @@ summary: lmgr.recons events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.recons EMS events, which report when locks established through CIFS Continuously Available (CA) shares are dropped after a takeover, giveback, or aggregate relocation.
+lmgr.recons events are reported when locks established through CIFS Continuously Available (CA) shares are dropped after a takeover, giveback, or aggregate relocation, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.recons.CA.lock.dropped
 *Severity*::

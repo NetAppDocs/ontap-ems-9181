@@ -15,7 +15,7 @@ summary: disk.encryptaccesserr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.encryptaccesserr EMS events, which report when a disk reports a data protection error, and ONTAP(R) cannot restore permission to access the data through storage encryption methods.
+disk.encryptaccesserr events are reported when a disk reports a data protection error, and ONTAP(R) cannot restore permission to access the data through storage encryption methods, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.encryptAccessErr
 *Severity*::

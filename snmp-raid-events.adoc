@@ -15,7 +15,7 @@ summary: snmp.raid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snmp.raid EMS events, which report when This event is generated when a RAID group iterator was not able to be created.
+snmp.raid events are reported when a RAID group iterator was not able to be created, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == snmp.raid.iterator.failure
 *Severity*::

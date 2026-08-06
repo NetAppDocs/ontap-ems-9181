@@ -15,7 +15,7 @@ summary: vifmgr.lifmove events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.lifmove EMS events, which report when an attempt to move a logical interface (LIF) IP address to another node/port due to a load-balance event has failed because the LIF has active connections which can not be safely migrated.
+vifmgr.lifmove events are reported when an attempt to move a logical interface (LIF) IP address to another node/port due to a load-balance event has failed because the LIF has active connections which can not be safely migrated, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.lifmove.blocked
 *Severity*::

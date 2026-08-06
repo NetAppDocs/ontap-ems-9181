@@ -15,7 +15,7 @@ summary: clus.reboot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clus.reboot EMS events for internalerror nobootsequence persistencyerror activity.
+clus.reboot events are reported when the cluster reboot detection feature detects an internal software error due to insufficient system resources, and corrective actions typically involve rebooting the node or cluster component.
 
 == clus.reboot.internalError
 *Severity*::

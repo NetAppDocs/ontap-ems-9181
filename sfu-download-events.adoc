@@ -15,7 +15,7 @@ summary: sfu.download events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfu.download EMS events for details done activity.
+sfu.download events are reported when a disk shelf firmware update completes download firmware to a disk shelf or shelves in the system, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfu.download.details
 *Deprecated*::

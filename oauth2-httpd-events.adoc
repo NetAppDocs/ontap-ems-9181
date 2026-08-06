@@ -15,7 +15,7 @@ summary: oauth2.httpd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about oauth2.httpd EMS events, which report when the httpd process fails to restart when the OAuth 2.0 status changes.
+oauth2.httpd events are reported when the httpd process fails to restart when the OAuth 2, and corrective actions typically involve contacting NetApp technical support.
 
 == oauth2.httpd.restart.failed
 *Severity*::

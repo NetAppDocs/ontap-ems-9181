@@ -15,7 +15,7 @@ summary: vscan.disabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vscan.disabled EMS events, which report when a Vserver or cluster administrator disables Vscan on a Vserver.
+vscan.disabled events are reported when a Vserver or cluster administrator disables Vscan on a Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == vscan.disabled
 *Severity*::

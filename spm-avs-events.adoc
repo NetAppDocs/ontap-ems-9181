@@ -15,7 +15,7 @@ summary: spm.avs events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spm.avs EMS events, which report when the antivirus service stops running due to repeated failures.
+spm.avs events are reported when the antivirus service stops running due to repeated failures, and corrective actions typically involve following the documented corrective action guidance.
 
 == spm.avs.process.exit
 *Severity*::

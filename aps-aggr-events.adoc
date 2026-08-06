@@ -15,7 +15,7 @@ summary: aps.aggr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about aps.aggr EMS events for advisory automatic activity.
+aps.aggr events are reported when the space rebalancing service detects that a flexaggr is at risk of running out of space over the next space exhaustion window, and corrective actions typically involve following the documented corrective action guidance.
 
 == aps.aggr.full.advisory
 *Severity*::

@@ -15,7 +15,7 @@ summary: netinet.ethr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netinet.ethr EMS events for arpstorm broadcstaddr dup activity.
+netinet.ethr events are reported when a high arrival rate of address resolution protocol (ARP) frames has been detected (possible ARP storm), and corrective actions typically involve following the documented corrective action guidance.
 
 == netinet.ethr.arpstorm
 *Severity*::

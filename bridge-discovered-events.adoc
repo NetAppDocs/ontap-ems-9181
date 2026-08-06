@@ -15,7 +15,7 @@ summary: bridge.discovered events
 :imagesdir: ./media/
 
 [.lead]
-Learn about bridge.discovered EMS events, which report when the system discovers an FC-to-SAS bridge.
+bridge.discovered events are reported when the system discovers an FC-to-SAS bridge, and corrective actions typically involve following the documented corrective action guidance.
 
 == bridge.discovered
 *Severity*::

@@ -15,7 +15,7 @@ summary: bcomd.fcplifremoved events
 :imagesdir: ./media/
 
 [.lead]
-Learn about bcomd.fcplifremoved EMS events, which report when a Fibre Channel logical interface (LIF) is removed.
+bcomd.fcplifremoved events are reported when a Fibre Channel logical interface (LIF) is removed, and corrective actions typically involve following the documented corrective action guidance.
 
 == bcomd.fcpLifRemoved
 *Severity*::

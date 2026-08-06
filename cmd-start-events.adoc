@@ -15,7 +15,7 @@ summary: cmd.start events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cmd.start EMS events, which report when the Counter Manager daemon (cmd) fails to start.
+cmd.start events are reported when the Counter Manager daemon (cmd) fails to start, and corrective actions typically involve following the documented corrective action guidance.
 
 == cmd.start.unsuccessful
 *Severity*::

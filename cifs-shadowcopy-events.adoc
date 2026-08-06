@@ -15,7 +15,7 @@ summary: cifs.shadowcopy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cifs.shadowcopy EMS events for failure activity.
+cifs.shadowcopy events are reported when a shadow copy set is automatically aborted when no activity has been detected for a certain period of time, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == cifs.shadowcopy.abort
 *Severity*::

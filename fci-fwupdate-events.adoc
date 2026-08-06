@@ -15,7 +15,7 @@ summary: fci.fwupdate events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fci.fwupdate EMS events for autoboot needboot upddone activity.
+fci.fwupdate events are reported when the Service Level Initiator Fibre Channel (SLIFC) Initiator driver successfully updates the firmware of the host bus adapter (HBA), and no corrective action is typically required.
 
 == fci.fwupdate.AutoBoot
 *Severity*::

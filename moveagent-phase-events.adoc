@@ -15,7 +15,7 @@ summary: moveagent.phase events
 :imagesdir: ./media/
 
 [.lead]
-Learn about moveagent.phase EMS events, which report when an active volume move operation cannot access the volume move phase information.
+moveagent.phase events are reported when an active volume move operation cannot access the volume move phase information, and corrective actions typically involve following the documented corrective action guidance.
 
 == moveagent.phase.queryerr
 *Severity*::

@@ -15,7 +15,7 @@ summary: sync.snapmirror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sync.snapmirror EMS events for arl veto oos activity.
+sync.snapmirror events are reported when a storage failover (SFO) operation is vetoed because the aggregate is hosting volumes that are in a SnapMirror(R) Synchronous relationship with StrictSync policy, and corrective actions typically involve following the documented corrective action guidance.
 
 == sync.snapmirror.arl.veto
 *Severity*::

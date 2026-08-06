@@ -15,7 +15,7 @@ summary: cache.ttl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cache.ttl EMS events, which report when This message occurs on the last node during the upgrade to ONTAP(R) 9.3, if the default TTL values of any of the SecD or NFS export caches are changed.
+cache.ttl events are reported when this message occurs on the last node during the upgrade to ONTAP(R) 9, and corrective actions typically involve following the documented corrective action guidance.
 
 == cache.ttl.settings.change
 *Severity*::

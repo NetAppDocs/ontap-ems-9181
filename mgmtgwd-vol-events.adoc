@@ -15,7 +15,7 @@ summary: mgmtgwd.vol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.vol EMS events.
+mgmtgwd.vol events are reported when one of the volume upgrade tasks fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.vol.upgrade.failed
 *Severity*::

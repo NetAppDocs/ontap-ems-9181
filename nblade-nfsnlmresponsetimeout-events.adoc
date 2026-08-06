@@ -15,7 +15,7 @@ summary: nblade.nfsnlmresponsetimeout events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.nfsnlmresponsetimeout EMS events, which report when the NLM request times out because ONTAP is not able to respond due to a transient error.
+nblade.nfsnlmresponsetimeout events are reported when the NLM request times out because ONTAP is not able to respond due to a transient error, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.nfsNlmResponseTimeout
 *Severity*::

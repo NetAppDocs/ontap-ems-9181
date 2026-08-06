@@ -15,7 +15,7 @@ summary: upgrademgr.cmd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about upgrademgr.cmd EMS events for invoke done activity.
+upgrademgr.cmd events are reported when the execution of the commands listed in the support file has completed, and corrective actions typically involve following the documented corrective action guidance.
 
 == upgrademgr.cmd.invoke.done
 *Severity*::

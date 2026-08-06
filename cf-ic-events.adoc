@@ -15,7 +15,7 @@ summary: cf.ic events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.ic EMS events for cc clientinitfailed flush activity.
+cf.ic events are reported when the controller configuration is changed from a single enclosure HA configuration to a dual enclosure HA configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.ic.cc.config.changed
 *Severity*::

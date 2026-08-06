@@ -15,7 +15,7 @@ summary: repl.core events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.core EMS events, which report when a replication transfer that completed ten or more minutes ago is found and subsequently cleaned up.
+repl.core events are reported when a replication transfer that completed ten or more minutes ago is found and subsequently cleaned up, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.core.nanny.cleanup
 *Severity*::

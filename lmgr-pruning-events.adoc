@@ -15,7 +15,7 @@ summary: lmgr.pruning events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.pruning EMS events, which report when there is a delay in pruning and removing unused entries in the volume lock manager hosts file.
+lmgr.pruning events are reported when there is a delay in pruning and removing unused entries in the volume lock manager hosts file, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.pruning.delayed
 *Severity*::

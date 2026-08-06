@@ -15,7 +15,7 @@ summary: vsdr.app events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.app EMS events, which report when This message occurs during the configuration replication phase of a Vserver DR transfer when the consistency group that the system is trying to replicate already exists in the cluster on a different Vserver.
+vsdr.app events are reported when this message occurs during the configuration replication phase of a Vserver DR transfer when the consistency group that the system is trying to replicate already exists in the cluster on a different Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.app.cg.conflict
 *Severity*::

@@ -15,7 +15,7 @@ summary: disk.adaptererror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.adaptererror EMS events, which report when an adapter error is detected.
+disk.adaptererror events are reported when an adapter error is detected, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.adapterError
 *Severity*::

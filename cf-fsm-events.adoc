@@ -15,7 +15,7 @@ summary: cf.fsm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.fsm EMS events for clam nfo takeover activity.
+cf.fsm events are reported when a node initiates an automatic giveback to its partner following a takeover that was due to a panic on the partner, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.fsm.autoGBTkoverOnPanic
 *Severity*::

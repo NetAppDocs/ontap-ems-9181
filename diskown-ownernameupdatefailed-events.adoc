@@ -15,7 +15,7 @@ summary: diskown.ownernameupdatefailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.ownernameupdatefailed EMS events, which report when This event is issued when we have to rewrite a DOWN because it is out of date wrt the other DOWNs.
+diskown.ownernameupdatefailed events are reported when this event is issued when we have to rewrite a DOWN because it is out of date wrt the other DOWNs, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.OwnerNameUpdateFailed
 *Severity*::

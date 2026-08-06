@@ -15,7 +15,7 @@ summary: token.node events
 :imagesdir: ./media/
 
 [.lead]
-Learn about token.node EMS events for count out of activity.
+token.node events are reported when the maximum number of tokens per node is reached, and corrective actions typically involve following the documented corrective action guidance.
 
 == token.node.max.count.reached
 *Severity*::

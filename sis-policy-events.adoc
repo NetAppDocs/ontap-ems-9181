@@ -15,7 +15,7 @@ summary: sis.policy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.policy EMS events for predef upgradeerror activity.
+sis.policy events are reported when this message occurs during system software upgrade to Data ONTAP(R) 8, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.policy.predef.create.upgradeError
 *Severity*::

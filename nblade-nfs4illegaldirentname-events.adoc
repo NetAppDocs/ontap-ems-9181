@@ -15,7 +15,7 @@ summary: nblade.nfs4illegaldirentname events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.nfs4illegaldirentname EMS events, which report when a user attempts to list a directory over NFSv4 that contains an entry name with non UTF-8 characters.
+nblade.nfs4illegaldirentname events are reported when a user attempts to list a directory over NFSv4 that contains an entry name with non UTF-8 characters, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.Nfs4IllegalDirentName
 *Deprecated*::

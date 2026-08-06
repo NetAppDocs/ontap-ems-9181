@@ -15,7 +15,7 @@ summary: rpc.unspecified events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rpc.unspecified EMS events, which report when This event is issued when turning an ypgroup update fails to occur.
+rpc.unspecified events are reported when this event is issued when turning an ypgroup update fails to occur, and corrective actions typically involve following the documented corrective action guidance.
 
 == rpc.unspecified.error
 *Deprecated*::

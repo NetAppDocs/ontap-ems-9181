@@ -15,7 +15,7 @@ summary: adt.max events
 :imagesdir: ./media/
 
 [.lead]
-Learn about adt.max EMS events, which report when a management command or file operation attempts to generate an audit record larger than the max_audit_record_size value.
+adt.max events are reported when a management command or file operation tries to generate an audit record, that is greater than the max_audit_record_size value, and corrective actions typically involve contacting NetApp technical support.
 
 == adt.max.record.size.exceeded
 *Severity*::

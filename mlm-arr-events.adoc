@@ -15,7 +15,7 @@ summary: mlm.arr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mlm.arr EMS events for affinity queued many activity.
+mlm.arr events are reported when the current processing of an error event prevents the Asymmetric Logical Unit Access (ALUA) handler from queuing an affinity switch event, and corrective actions typically involve following the documented corrective action guidance.
 
 == mlm.arr.affinity.not.queued
 *Severity*::

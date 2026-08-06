@@ -15,7 +15,7 @@ summary: mlm.tapemc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mlm.tapemc EMS events for lun discovery noinit activity.
+mlm.tapemc events are reported when the system discovers a new tape or media changer logical unit (Tape/MC LUN) reported by a tape library, and corrective actions typically involve following the documented corrective action guidance.
 
 == mlm.tapemc.lun.discovery
 *Severity*::

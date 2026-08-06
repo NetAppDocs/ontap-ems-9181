@@ -15,7 +15,7 @@ summary: hm.alert events
 :imagesdir: ./media/
 
 [.lead]
-Learn about hm.alert EMS events for raised activity.
+hm.alert events are reported when a system health monitor alert is successfully cleared, and corrective actions typically involve following the documented corrective action guidance.
 
 == hm.alert.cleared
 *Severity*::

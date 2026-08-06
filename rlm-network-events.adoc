@@ -15,7 +15,7 @@ summary: rlm.network events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rlm.network EMS events, which report when the Remote LAN Module (RLM) detects a link error on the RLM network port.
+rlm.network events are reported when the Remote LAN Module (RLM) detects a link error on the RLM network port, and corrective actions typically involve following the documented corrective action guidance.
 
 == rlm.network.link.down
 *Severity*::

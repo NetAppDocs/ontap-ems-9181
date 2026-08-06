@@ -15,7 +15,7 @@ summary: secd.single events
 :imagesdir: ./media/
 
 [.lead]
-Learn about secd.single EMS events, which report when the trusted domains for the CIFS home domain of a Vserver contains a single-label domain (SLD).
+secd.single events are reported when the trusted domains for the CIFS home domain of a Vserver contains a single-label domain (SLD), and corrective actions typically involve following the documented corrective action guidance.
 
 == secd.single.label.domain
 *Severity*::

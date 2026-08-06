@@ -15,7 +15,7 @@ summary: lun.outplace events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lun.outplace EMS events, which report when an out-of-place restore of a LUN from dump fails because the source LUN is of a higher version than this Data ONTAP(R) release supports.
+lun.outplace events are reported when an out-of-place restore of a LUN from dump fails because the source LUN is of a higher version than this Data ONTAP(R) release supports, and corrective actions typically involve following the documented corrective action guidance.
 
 == LUN.outplace.dumpRestoreFail
 *Severity*::

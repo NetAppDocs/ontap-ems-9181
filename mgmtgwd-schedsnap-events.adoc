@@ -15,7 +15,7 @@ summary: mgmtgwd.schedsnap events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mgmtgwd.schedsnap EMS events for createfail createskip activity.
+mgmtgwd.schedsnap events are reported when the system fails to create a Snapshot(tm) copy for the given volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == mgmtgwd.schedSnap.createFail
 *Severity*::

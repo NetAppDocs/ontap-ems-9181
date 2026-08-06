@@ -15,7 +15,7 @@ summary: fci.wrong events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fci.wrong EMS events, which report when the fixed speed level requested by the fc-force-XG-ports bootarg is out of range for the corresponding FC port.
+fci.wrong events are reported when the fixed speed level requested by the fc-force-XG-ports bootarg is out of range for the corresponding FC port, and corrective actions typically involve following the documented corrective action guidance.
 
 == fci.wrong.speed
 *Severity*::

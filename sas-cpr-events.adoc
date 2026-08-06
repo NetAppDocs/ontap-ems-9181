@@ -15,7 +15,7 @@ summary: sas.cpr events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sas.cpr EMS events for recoverythreshold recoverytimeout activity.
+sas.cpr events are reported when the CPR (Core PCIe Resilience) infrastructure determines that the SAS controller hardware cannot be recovered, and the associated SAS ports will be taken offline, and corrective actions typically involve following the documented corrective action guidance.
 
 == sas.cpr.failed
 *Severity*::

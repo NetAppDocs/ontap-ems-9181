@@ -15,7 +15,7 @@ summary: sp.dhcp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.dhcp EMS events, which report when the Service Processor (SP) cannot obtain network configuration data through DHCP.
+sp.dhcp events are reported when the Service Processor (SP) cannot obtain network configuration data through DHCP, and corrective actions typically involve verifying the reported configuration and health state.
 
 == sp.dhcp.failure
 *Severity*::

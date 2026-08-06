@@ -15,7 +15,7 @@ summary: nv.fake events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nv.fake EMS events, which report when the nonvolatile (NV) driver detects that system memory is being used to simulate NVRAM.
+nv.fake events are reported when the nonvolatile (NV) driver detects that system memory is being used to simulate NVRAM, and corrective actions typically involve following the documented corrective action guidance.
 
 == nv.fake
 *Severity*::

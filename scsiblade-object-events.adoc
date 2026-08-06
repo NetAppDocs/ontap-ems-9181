@@ -15,7 +15,7 @@ summary: scsiblade.object events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.object EMS events, which report when a SAN management event receives a timeout error due to network congestion in the system and all efforts of recovery fail.
+scsiblade.object events are reported when a SAN management event receives a timeout error due to network congestion in the system and all efforts of recovery fail, and corrective actions typically involve contacting NetApp technical support.
 
 == scsiblade.object.out.of.sync
 *Severity*::

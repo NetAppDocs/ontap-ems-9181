@@ -15,7 +15,7 @@ summary: fmmb.revert events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fmmb.revert EMS events, which report when This event is issued when the HA Mailbox opaque recieves a write request for the opaque area and a revert_to command is in progress.
+fmmb.revert events are reported when this event is issued when the HA Mailbox opaque recieves a write request for the opaque area and a revert_to command is in progress, and corrective actions typically involve following the documented corrective action guidance.
 
 == fmmb.revert.opaque
 *Severity*::

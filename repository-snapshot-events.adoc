@@ -15,7 +15,7 @@ summary: repository.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repository.snapshot EMS events for access noaccess activity.
+repository.snapshot events are reported when the Infinite Volume namespace redirector restores access to the Infinite Volume Snapshot(tm) copies after it recovers from an internal communication problem that had previously shut down access, and corrective actions typically involve following the documented corrective action guidance.
 
 == Repository.Snapshot.Access
 *Deprecated*::

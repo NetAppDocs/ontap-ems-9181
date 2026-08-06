@@ -15,7 +15,7 @@ summary: net.ifgrp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about net.ifgrp EMS events for addlimitexceeded lacp link activity.
+net.ifgrp events are reported when the system fails to create a new interface group because the number of such groups already present on the node exceed either the number of physical ports on the node or the upper bound on number of interface groups supported, and corrective actions typically involve following the documented corrective action guidance.
 
 == net.ifgrp.addLimitExceeded
 *Severity*::

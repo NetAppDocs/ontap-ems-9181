@@ -15,7 +15,7 @@ summary: vifmgr.port events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.port EMS events for discovered ifgrpaddport monitor activity.
+vifmgr.port events are reported when a physical network port has been discovered, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.port.discovered
 *Severity*::

@@ -15,7 +15,7 @@ summary: vserver.rbac events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.rbac EMS events for alias command replicaterole activity.
+vserver.rbac events are reported when a custom role associated with a Storage Virtual Machine (SVM) has an aliased command directory associated with it, and corrective actions typically involve following the documented corrective action guidance.
 
 == vserver.rbac.alias.command
 *Deprecated*::

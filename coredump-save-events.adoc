@@ -15,7 +15,7 @@ summary: coredump.save events
 :imagesdir: ./media/
 
 [.lead]
-Learn about coredump.save EMS events for attempts count denied activity.
+coredump.save events are reported when the savecore operation is aborted while saving a kernel core, and corrective actions typically involve following the documented corrective action guidance.
 
 == coredump.save.aborted
 *Severity*::

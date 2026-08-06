@@ -15,7 +15,7 @@ summary: sis.undo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.undo EMS events for inconsistent done nospace activity.
+sis.undo events are reported when this messages occurs when a SIS volume 'undo' operation is aborted due to unexpected conditions, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.undo.aborted
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.lifcapacity events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.lifcapacity EMS events, which report when the system informs the administrator of the number of Logical Interfaces (LIFs) supported by the node.
+vifmgr.lifcapacity events are reported when the system informs the administrator of the number of Logical Interfaces (LIFs) supported by the node, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.lifCapacity
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.sb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.sb EMS events for pp fcp failo activity.
+callhome.sb events are reported when the persistent port feature is not working during non-disruptive operations (NDO) such as takeover or giveback due to configuration errors, and corrective actions typically involve contacting NetApp technical support.
 
 == callhome.sb.pp.fcp.failo.err
 *Severity*::

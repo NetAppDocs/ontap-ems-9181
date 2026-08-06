@@ -15,7 +15,7 @@ summary: certificate.insecure events
 :imagesdir: ./media/
 
 [.lead]
-Learn about certificate.insecure EMS events for hash key activity.
+certificate.insecure events are reported when an installed certificate uses a hash function that is no longer considered secure, and corrective actions typically involve following the documented corrective action guidance.
 
 == certificate.insecure.hash
 *Severity*::

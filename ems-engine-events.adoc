@@ -15,7 +15,7 @@ summary: ems.engine events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ems.engine EMS events for event dnslkupfail undefinedevent activity.
+ems.engine events are reported when the Event Management System (EMS) fails to send an event to a mail destination due to name resolution lookup failures for the mail server specified in EMS configuration options, and corrective actions typically involve following the documented corrective action guidance.
 
 == ems.engine.event.dnsLkupFail
 *Severity*::

@@ -15,7 +15,7 @@ summary: disk.fw events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.fw EMS events for autodownrev downrevwarning activity.
+disk.fw events are reported when the system detects disks with firmware that is not up-to-date, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.fw.autodownrev
 *Severity*::

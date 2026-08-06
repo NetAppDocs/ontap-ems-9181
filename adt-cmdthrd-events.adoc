@@ -15,7 +15,7 @@ summary: adt.cmdthrd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about adt.cmdthrd EMS events, which report when audit initialization fails because the necessary execution threads cannot be created.
+adt.cmdthrd events are reported when audit initialization fails because the necessary execution threads cannot be created, and corrective actions typically involve restoring available system resources.
 
 == adt.cmdthrd.create.fail
 *Severity*::

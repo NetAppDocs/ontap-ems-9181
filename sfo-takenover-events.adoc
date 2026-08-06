@@ -15,7 +15,7 @@ summary: sfo.takenover events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfo.takenover EMS events for commfailed relocdone activity.
+sfo.takenover events are reported when an attempted optimized negotiated takeover is aborted by the node about to be taken over, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfo.takenOver.aborted
 *Severity*::

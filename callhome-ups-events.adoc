@@ -15,7 +15,7 @@ summary: callhome.ups events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.ups EMS events for low battery ok activity.
+callhome.ups events are reported when line power for an Uninterruptible Power Supply (UPS) system is restored and the battery power is normal, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.ups.line
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.porthealthy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vifmgr.porthealthy EMS events, which report when port health status changes from degraded to healthy.
+vifmgr.porthealthy events are reported when port health status changes from degraded to healthy, and corrective actions typically involve following the documented corrective action guidance.
 
 == vifmgr.portHealthy
 *Severity*::

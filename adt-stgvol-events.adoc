@@ -15,7 +15,7 @@ summary: adt.stgvol events
 :imagesdir: ./media/
 
 [.lead]
-Learn about adt.stgvol EMS events for info notavailable missing activity.
+adt.stgvol events are reported when retrieving staging volume information fails, and corrective actions typically involve contacting NetApp technical support.
 
 == adt.stgvol.info.notavailable
 *Severity*::

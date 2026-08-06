@@ -15,7 +15,7 @@ summary: spider.message events
 :imagesdir: ./media/
 
 [.lead]
-Learn about spider.message EMS events, which report when a directory traversal task cannot finish due to an unexpected error.
+spider.message events are reported when a directory traversal task cannot finish because of an unexpected error, and corrective actions typically involve ensuring the required configuration and resources are in place.
 
 == spider.message.fail
 *Severity*::

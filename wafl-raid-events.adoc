@@ -15,7 +15,7 @@ summary: wafl.raid events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.raid EMS events for snapshot incons buf activity.
+wafl.raid events are reported when this message occurs during an aggregate transition workflow when an aggregate snapshot created in a 7-Mode environment is missing, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.raid.cft.aggr.snapshot.missing
 *Severity*::

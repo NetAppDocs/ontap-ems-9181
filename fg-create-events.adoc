@@ -15,7 +15,7 @@ summary: fg.create events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.create EMS events, which report when a user creates a FlexGroup volume that has a workflow with a type that is not "auto".
+fg.create events are reported when a user creates a FlexGroup volume that has a workflow with a type that is not "auto", and corrective actions typically involve following the documented corrective action guidance.
 
 == fg.create.workflow.non.auto
 *Severity*::

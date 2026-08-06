@@ -15,7 +15,7 @@ summary: sm.syncmirror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sm.syncmirror EMS events, which report when a sync granular CG relationship transitions from in-sync status to out-of-sync status.
+sm.syncmirror events are reported when a sync granular CG relationship transitions from in-sync status to out-of-sync status, and corrective actions typically involve verifying the reported configuration and health state.
 
 == sm.syncmirror.out.of.sync
 *Severity*::

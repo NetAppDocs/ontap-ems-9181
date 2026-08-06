@@ -15,7 +15,7 @@ summary: wafl.upgrade events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.upgrade EMS events, which report when This event is issued during an upgrade where the system need to use the active filesystem inofile.
+wafl.upgrade events are reported when this event is issued during an upgrade where the system need to use the active filesystem inofile, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.upgrade.useActiveInofile
 *Severity*::

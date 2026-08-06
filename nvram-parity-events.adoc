@@ -15,7 +15,7 @@ summary: nvram.parity events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvram.parity EMS events, which report when excessive parity errors are reported by the NVRAM complex.
+nvram.parity events are reported when excessive parity errors are reported by the NVRAM complex, and corrective actions typically involve contacting NetApp technical support.
 
 == nvram.parity.threshold
 *Severity*::

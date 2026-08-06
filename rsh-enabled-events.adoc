@@ -15,7 +15,7 @@ summary: rsh.enabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about rsh.enabled EMS events, which report when rsh is enabled in the cluster using the (privilege: advanced) "security protocol" command.
+rsh.enabled events are reported when rsh is enabled in the cluster using the (privilege: advanced) "security protocol" command, and corrective actions typically involve following the documented corrective action guidance.
 
 == rsh.enabled
 *Severity*::

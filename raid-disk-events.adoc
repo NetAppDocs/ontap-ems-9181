@@ -15,7 +15,7 @@ summary: raid.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.disk EMS events for zero done maint activity.
+raid.disk events are reported when this event is issued to inform what the sum of all disk sizes is as well as what system capacity limit is, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.disk.capacity.info
 *Severity*::

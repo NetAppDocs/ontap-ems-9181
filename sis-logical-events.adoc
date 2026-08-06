@@ -15,7 +15,7 @@ summary: sis.logical events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.logical EMS events for limit activity.
+sis.logical events are reported when the deduplication engine's logical data limit is nearly reached on a volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.logical.limit.near
 *Severity*::

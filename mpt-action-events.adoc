@@ -15,7 +15,7 @@ summary: mpt.action events
 :imagesdir: ./media/
 
 [.lead]
-Learn about mpt.action EMS events for bus dev activity.
+mpt.action events are reported when the system bus is reset in the message processing technology (MPT) adapter driver, and corrective actions typically involve following the documented corrective action guidance.
 
 == mpt.action.reset.bus
 *Severity*::

@@ -15,7 +15,7 @@ summary: sis.schedule events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.schedule EMS events for notify change compression activity.
+sis.schedule events are reported when the Single Instance Storage (SIS) schedule of a volume is changed to the default schedule (sun-san@0) because the node's clusterid does not match with the SIS config clusterid, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.schedule.notify.change
 *Severity*::

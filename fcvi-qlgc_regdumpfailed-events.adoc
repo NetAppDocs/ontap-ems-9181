@@ -15,7 +15,7 @@ summary: fcvi.qlgc_regdumpfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fcvi.qlgc_regdumpfailed EMS events, which report when the HA interconnect driver could not save a diagnostic dump.
+fcvi.qlgc_regdumpfailed events are reported when the HA interconnect driver could not save a diagnostic dump, and corrective actions typically involve following the documented corrective action guidance.
 
 == fcvi.qlgc_regDumpFailed
 *Severity*::

@@ -15,7 +15,7 @@ summary: sfo.arl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sfo.arl EMS events for gb conversion notallowed activity.
+sfo.arl events are reported when aRL/giveback of the Storage Failover (SFO) aggregate fails because of active volume conversion operations against one or more volumes on this aggregate while acquiring the RAID lock, and corrective actions typically involve following the documented corrective action guidance.
 
 == sfo.arl.gb.failed.conversion
 *Severity*::

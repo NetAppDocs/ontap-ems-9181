@@ -15,7 +15,7 @@ summary: wafl.snaprestore events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.snaprestore EMS events for badversion cancel prevcp activity.
+wafl.snaprestore events are reported when this message occurs during a snapshot restore operation, when the system cannot recognize the version of Data ONTAP(R) from the snapshot it is reverting to, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.snaprestore.badVersion
 *Severity*::

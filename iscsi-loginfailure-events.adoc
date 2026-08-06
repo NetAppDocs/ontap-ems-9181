@@ -15,7 +15,7 @@ summary: iscsi.loginfailure events
 :imagesdir: ./media/
 
 [.lead]
-Learn about iscsi.loginfailure EMS events, which report when This event is issued when an initiator fails an iSCSI login attempt.
+iscsi.loginfailure events are reported when this event is issued when an initiator fails an iSCSI login attempt, and corrective actions typically involve following the documented corrective action guidance.
 
 == iscsi.loginFailure
 *Severity*::

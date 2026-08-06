@@ -15,7 +15,7 @@ summary: tcpip.conn events
 :imagesdir: ./media/
 
 [.lead]
-Learn about tcpip.conn EMS events, which report when a connection is leaked because it can't be closed.
+tcpip.conn events are reported when a connection is leaked because it can't be closed, and corrective actions typically involve following the documented corrective action guidance.
 
 == tcpip.conn.leaked
 *Severity*::

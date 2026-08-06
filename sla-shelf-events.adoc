@@ -15,7 +15,7 @@ summary: sla.shelf events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sla.shelf EMS events for mod reboot unexp activity.
+sla.shelf events are reported when a shelf firmware module is rebooted administratively, or when a reboot occurs normally when the system powers up, the firmware is updated, or the alternate control path (ACP) is reset, and corrective actions typically involve following the documented corrective action guidance.
 
 == sla.shelf.mod.reboot
 *Severity*::

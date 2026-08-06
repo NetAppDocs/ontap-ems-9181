@@ -15,7 +15,7 @@ summary: vserver.mcc events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vserver.mcc EMS events for repl activity.
+vserver.mcc events are reported when this message occurs in a MetroCluster(TM) configuration when an attempt to create a Vserver on the partner cluster fails, and corrective actions typically involve following the documented corrective action guidance.
 
 == vserver.mcc.repl.failed
 *Severity*::

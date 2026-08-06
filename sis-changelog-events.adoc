@@ -15,7 +15,7 @@ summary: sis.changelog events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sis.changelog EMS events for noinit noload truncate activity.
+sis.changelog events are reported when the Single Instance Storage (SIS) change logging metafile is full, and corrective actions typically involve following the documented corrective action guidance.
 
 == sis.changelog.full
 *Severity*::

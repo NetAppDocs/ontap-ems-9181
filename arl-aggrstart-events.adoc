@@ -15,7 +15,7 @@ summary: arl.aggrstart events
 :imagesdir: ./media/
 
 [.lead]
-Learn about arl.aggrstart EMS events, which report when relocation of a storage failover aggregate starts.
+arl.aggrstart events are reported when relocation of a storage failover aggregate starts, and corrective actions typically involve following the documented corrective action guidance.
 
 == arl.aggrStart
 *Severity*::

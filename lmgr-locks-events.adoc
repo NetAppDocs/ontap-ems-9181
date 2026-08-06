@@ -15,7 +15,7 @@ summary: lmgr.locks events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.locks EMS events for limit hit sync activity.
+lmgr.locks events are reported when a lock manager lock object cannot be allocated due to reaching the limit for lock objects in the associated pool, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.locks.limit.hit
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.bdfu events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.bdfu EMS events, which report when drive unlock fails for firmware download on a FIPS-certified NetApp Storage Encryption SAS drive.
+callhome.bdfu events are reported when drive unlock fails for firmware download on a FIPS-certified NetApp Storage Encryption SAS drive, and corrective actions typically involve contacting NetApp technical support.
 
 == callhome.bdfu.suspended
 *Severity*::

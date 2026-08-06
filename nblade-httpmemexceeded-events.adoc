@@ -15,7 +15,7 @@ summary: nblade.httpmemexceeded events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.httpmemexceeded EMS events, which report when the HTTP subsystem, which operates all the HTTP servers exposed through a given node, has requested more memory than it is allowed in this node.
+nblade.httpmemexceeded events are reported when the HTTP subsystem, which operates all the HTTP servers exposed through a given node, has requested more memory than it is allowed in this node, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.httpMemExceeded
 *Severity*::

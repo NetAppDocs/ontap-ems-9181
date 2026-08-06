@@ -15,7 +15,7 @@ summary: diskown.waitingforreassign events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.waitingforreassign EMS events, which report when a giveback is occurring and the "storage disk reassign" is in progress.
+diskown.waitingforreassign events are reported when a giveback is occurring and the "storage disk reassign" is in progress, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.WaitingForReassign
 *Severity*::

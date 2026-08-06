@@ -15,7 +15,7 @@ summary: callhome.hm events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.hm EMS events for alert critical major activity.
+callhome.hm events are reported when an error is detected during the periodic health monitoring of system health monitors, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.hm.alert.critical
 *Severity*::

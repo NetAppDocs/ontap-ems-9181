@@ -15,7 +15,7 @@ summary: pac.if events
 :imagesdir: ./media/
 
 [.lead]
-Learn about pac.if EMS events, which report when the protocol access control fails to get the interface name with the address.
+pac.if events are reported when the protocol access control fails to get the interface name with the address, and corrective actions typically involve following the documented corrective action guidance.
 
 == pac.if.getName
 *Severity*::

@@ -15,7 +15,7 @@ summary: raid.foreign events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.foreign EMS events, which report when a disk is found to have a different storage pod uuid than what this node is allowed to access.
+raid.foreign events are reported when a disk is found to have a different storage pod uuid than what this node is allowed to access, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.foreign.disk.failed
 *Severity*::

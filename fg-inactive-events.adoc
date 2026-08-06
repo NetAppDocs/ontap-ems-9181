@@ -15,7 +15,7 @@ summary: fg.inactive events
 :imagesdir: ./media/
 
 [.lead]
-Learn about fg.inactive EMS events for dc only activity.
+fg.inactive events are reported when the system automatically deletes an inactive FlexGroup constituent that existed only in the data component, and corrective actions typically involve following the documented corrective action guidance.
 
 == fg.inactive.dc.only.delete
 *Severity*::

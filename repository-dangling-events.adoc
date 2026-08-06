@@ -15,7 +15,7 @@ summary: repository.dangling events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repository.dangling EMS events for data file redirector activity.
+repository.dangling events are reported when this message occurs during a client file operation request, when the Infinite Volume namespace redirector runs into failures that prevent it from cleaning up a file on a data constituent, and corrective actions typically involve contacting NetApp technical support.
 
 == Repository.Dangling.Data.File
 *Deprecated*::

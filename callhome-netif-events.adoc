@@ -15,7 +15,7 @@ summary: callhome.netif events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.netif EMS events for fatal uncoreccerror activity.
+callhome.netif events are reported when network Interface Card encountered a fatal error, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == callhome.netif.fatal.error
 *Severity*::

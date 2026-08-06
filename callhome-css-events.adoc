@@ -15,7 +15,7 @@ summary: callhome.css events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.css EMS events, which report when an inconsistency is discovered in a metadata record of the Cloud Storage Service (CSS).
+callhome.css events are reported when an inconsistency is discovered in a metadata record of the Cloud Storage Service (CSS), and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.css.toc.repair
 *Severity*::

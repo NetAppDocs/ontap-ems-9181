@@ -15,7 +15,7 @@ summary: download.request events
 :imagesdir: ./media/
 
 [.lead]
-Learn about download.request EMS events, which report when This event is generated when a user-initiated download is initiated.
+download.request events are reported when a user-initiated download is initiated, and corrective actions typically involve following the documented corrective action guidance.
 
 == download.request
 *Severity*::

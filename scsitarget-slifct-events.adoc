@@ -15,7 +15,7 @@ summary: scsitarget.slifct events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsitarget.slifct EMS events for asyncerror fwautoboot fwneedboot activity.
+scsitarget.slifct events are reported when the Fibre Channel target device driver encounters an unrecognized asynchronous event notification from the firmware, possibly as a result of a firmware update, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsitarget.slifct.asyncError
 *Deprecated*::

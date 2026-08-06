@@ -15,7 +15,7 @@ summary: repl.out events
 :imagesdir: ./media/
 
 [.lead]
-Learn about repl.out EMS events for of band vbn activity.
+repl.out events are reported when replication source is asked to send certain blocks out of band because the replica volume did a snapshot restore, and corrective actions typically involve following the documented corrective action guidance.
 
 == repl.out.of.band.vbn
 *Severity*::

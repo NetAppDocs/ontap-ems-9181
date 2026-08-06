@@ -15,7 +15,7 @@ summary: cf.partner events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cf.partner EMS events for login logoff nvram activity.
+cf.partner events are reported when this event is issued when a login to the console of the partner occurs as a result of the 'partner' command being issued with no arguments, and corrective actions typically involve following the documented corrective action guidance.
 
 == cf.partner.login
 *Severity*::

@@ -15,7 +15,7 @@ summary: cloud.dbinfo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cloud.dbinfo EMS events, which report when ONTAP detects that the connection to the cloud database has been closed, which the database service may do periodically for enhanced security.
+cloud.dbinfo events are reported when oNTAP detects that the connection to the cloud database has been closed, which the database service may do periodically for enhanced security, and no corrective action is typically required.
 
 == cloud.DBInfo
 *Severity*::

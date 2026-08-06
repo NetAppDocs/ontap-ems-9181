@@ -15,7 +15,7 @@ summary: sp.dup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.dup EMS events, which report when another system has been detected to be using the same IP address as the one configured on the Service Processor (SP).
+sp.dup events are reported when another system has been detected to be using the same IP address as the one configured on the Service Processor (SP), and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.dup.ip
 *Severity*::

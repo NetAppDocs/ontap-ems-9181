@@ -15,7 +15,7 @@ summary: wafl.bagofbits events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.bagofbits EMS events, which report when a read directory request from an NFSv4 client is made to a Unicode-based directory in which directory entries with no NFS alternate name contain non-Unicode characters.
+wafl.bagofbits events are reported when a read directory request from an NFSv4 client is made to a Unicode-based directory in which directory entries with no NFS alternate name contain non-Unicode characters, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.bagofbits.name
 *Severity*::

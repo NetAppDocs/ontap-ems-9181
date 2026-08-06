@@ -15,7 +15,7 @@ summary: scsiblade.online events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.online EMS events, which report when the node completes initialization of the SAN configuration cache.
+scsiblade.online events are reported when the node completes initialization of the SAN configuration cache, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.online
 *Severity*::

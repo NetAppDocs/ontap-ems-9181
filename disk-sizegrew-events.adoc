@@ -15,7 +15,7 @@ summary: disk.sizegrew events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.sizegrew EMS events, which report when the controller detects an increase in the capacity of a virtual disk.
+disk.sizegrew events are reported when the controller detects an increase in the capacity of a virtual disk, and corrective actions typically involve following the documented corrective action guidance.
 
 == disk.sizeGrew
 *Severity*::

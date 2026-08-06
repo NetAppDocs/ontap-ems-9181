@@ -15,7 +15,7 @@ summary: netif.linkup events
 :imagesdir: ./media/
 
 [.lead]
-Learn about netif.linkup EMS events, which report when the state of a network link changes to "up".
+netif.linkup events are reported when the state of a network link changes to "up", and corrective actions typically involve following the documented corrective action guidance.
 
 == netif.linkUp
 *Severity*::

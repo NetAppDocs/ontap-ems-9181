@@ -15,7 +15,7 @@ summary: san.noportsinipspace events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.noportsinipspace EMS events, which report when an attempt to place an IP LIF on a particular node fails because the system cannot find any ports in an IPspace on that node.
+san.noportsinipspace events are reported when an attempt to place an IP LIF on a particular node fails because the system cannot find any ports in an IPspace on that node, and corrective actions typically involve following the documented corrective action guidance.
 
 == san.NoPortsInIpspace
 *Severity*::

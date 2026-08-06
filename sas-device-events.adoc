@@ -15,7 +15,7 @@ summary: sas.device events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sas.device EMS events for vmdisk header wwn activity.
+sas.device events are reported when a disk's vmdisk header is bad, and corrective actions typically involve following the documented corrective action guidance.
 
 == sas.device.bad.vmdisk.header
 *Severity*::

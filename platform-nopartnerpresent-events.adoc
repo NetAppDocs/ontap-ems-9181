@@ -15,7 +15,7 @@ summary: platform.nopartnerpresent events
 :imagesdir: ./media/
 
 [.lead]
-Learn about platform.nopartnerpresent EMS events, which report when the HA partner's presence cannot be read via the GPIO ports on the controller.
+platform.nopartnerpresent events are reported when the HA partner's presence cannot be read via the GPIO ports on the controller, and corrective actions typically involve following the documented corrective action guidance.
 
 == platform.noPartnerPresent
 *Severity*::

@@ -15,7 +15,7 @@ summary: clam.update events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clam.update EMS events, which report when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) updates the failover state of the partner.
+clam.update events are reported when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) updates the failover state of the partner, and corrective actions typically involve following the documented corrective action guidance.
 
 == clam.update.partner.state
 *Severity*::

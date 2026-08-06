@@ -15,7 +15,7 @@ summary: vsdr.ruleaddedtosmpolicy events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vsdr.ruleaddedtosmpolicy EMS events, which report when a MAX Data(R) schedule update adds a new rule to a SnapMirror(R) policy with the "mirror-vault" type.
+vsdr.ruleaddedtosmpolicy events are reported when a MAX Data(R) schedule update adds a new rule to a SnapMirror(R) policy with the "mirror-vault" type, and corrective actions typically involve following the documented corrective action guidance.
 
 == vsdr.RuleAddedToSmPolicy
 *Severity*::

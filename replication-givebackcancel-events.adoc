@@ -15,7 +15,7 @@ summary: replication.givebackcancel events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.givebackcancel EMS events, which report when a 'giveback' command is issued while a SnapMirror(R) or SnapVault(R) transfer is in progress.
+replication.givebackcancel events are reported when a 'giveback' command is issued while a SnapMirror(R) or SnapVault(R) transfer is in progress, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.givebackCancel
 *Severity*::

@@ -15,7 +15,7 @@ summary: replication.dst events
 :imagesdir: ./media/
 
 [.lead]
-Learn about replication.dst EMS events for attrsnotsaved resync throttlechange activity.
+replication.dst events are reported when this message is issued at the end of a Qtree SnapMirror(R) or SnapVault(R) transfer or checker/fixer operation when the replication destination detects that the replication source has sent file attributes that the replication destination does not support, and the replication destination has not saved those attributes, and corrective actions typically involve following the documented corrective action guidance.
 
 == replication.dst.attrsNotSaved
 *Severity*::

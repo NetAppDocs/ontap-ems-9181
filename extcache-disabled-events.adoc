@@ -15,7 +15,7 @@ summary: extcache.disabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about extcache.disabled EMS events, which report when the external cache is administratively disabled.
+extcache.disabled events are reported when the external cache is administratively disabled, and corrective actions typically involve following the documented corrective action guidance.
 
 == extCache.disabled
 *Severity*::

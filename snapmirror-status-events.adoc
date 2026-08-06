@@ -15,7 +15,7 @@ summary: snapmirror.status events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapmirror.status EMS events for dstupdatesnaperr illegalsrcpath nobasesnapshot activity.
+snapmirror.status events are reported when oNTAP cannot update the latest base snapshot for the replication destination, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == snapmirror.status.dstUpdateSnapErr
 *Severity*::

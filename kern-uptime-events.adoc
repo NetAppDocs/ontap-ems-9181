@@ -15,7 +15,7 @@ summary: kern.uptime events
 :imagesdir: ./media/
 
 [.lead]
-Learn about kern.uptime EMS events, which report when This message occurs to display the uptime status of the controller.
+kern.uptime events are reported when this message occurs to display the uptime status of the controller, and corrective actions typically involve following the documented corrective action guidance.
 
 == kern.uptime.filer
 *Severity*::

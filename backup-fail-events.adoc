@@ -15,7 +15,7 @@ summary: backup.fail events
 :imagesdir: ./media/
 
 [.lead]
-Learn about backup.fail EMS events for logopen logwrite activity.
+backup.fail events are reported when this message occurs during a giveback operation, when there are active dump or restore processes running on root aggregates of the partner node, and corrective actions typically involve following the documented corrective action guidance.
 
 == backup.fail.giveback
 *Severity*::

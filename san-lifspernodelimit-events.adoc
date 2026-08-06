@@ -15,7 +15,7 @@ summary: san.lifspernodelimit events
 :imagesdir: ./media/
 
 [.lead]
-Learn about san.lifspernodelimit EMS events, which report when This message occurs in MetroCluster(tm) configurations on clustered Data ONTAP(R) systems, when Data ONTAP cannot replicate a SAN or NVMe logical interface (LIF) in the destination cluster due to the LIF limits per node per Vserver.
+san.lifspernodelimit events are reported when this message occurs in MetroCluster(tm) configurations on clustered Data ONTAP(R) systems, when Data ONTAP cannot replicate a SAN or NVMe logical interface (LIF) in the destination cluster due to the LIF limits per node per Vserver, and corrective actions typically involve following the documented corrective action guidance.
 
 == san.LifsPerNodeLimit
 *Severity*::

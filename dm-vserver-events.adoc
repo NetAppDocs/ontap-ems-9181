@@ -15,7 +15,7 @@ summary: dm.vserver events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dm.vserver EMS events for mcc rebaselinefailed sm activity.
+dm.vserver events are reported when resynchronization of the Vserver configuration failed in a MetroCluster(tm) configuration, and corrective actions typically involve following the documented corrective action guidance.
 
 == dm.vserver.mcc.rebaselinefailed
 *Severity*::

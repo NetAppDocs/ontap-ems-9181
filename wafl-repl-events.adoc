@@ -15,7 +15,7 @@ summary: wafl.repl events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.repl EMS events for badtimestamp maxdirsize raid activity.
+wafl.repl events are reported when a replication operation receives a timestamp with an invalid nanoseconds portion, and clears it, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.repl.badTimestamp
 *Severity*::

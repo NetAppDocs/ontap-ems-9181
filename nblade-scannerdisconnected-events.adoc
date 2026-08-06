@@ -15,7 +15,7 @@ summary: nblade.scannerdisconnected events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.scannerdisconnected EMS events, which report when any Vserver disconnects from a Vscan server.
+nblade.scannerdisconnected events are reported when any Vserver disconnects from a Vscan server, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.scannerDisconnected
 *Severity*::

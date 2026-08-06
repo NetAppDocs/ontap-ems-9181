@@ -15,7 +15,7 @@ summary: diskown.uprevversion events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.uprevversion EMS events, which report when disk ownership information has been read and found to be from a version that is higher (newer) than what the current version of Data ONTAP understands.
+diskown.uprevversion events are reported when disk ownership information has been read and found to be from a version that is higher (newer) than what the current version of Data ONTAP understands, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.UpRevVersion
 *Severity*::

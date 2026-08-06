@@ -15,7 +15,7 @@ summary: download.requestdoneerror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about download.requestdoneerror EMS events, which report when This event is generated when a user-initiated download did not complete successfully due to a problem.
+download.requestdoneerror events are reported when a user-initiated download did not complete successfully because of a problem, and corrective actions typically involve following the documented corrective action guidance.
 
 == download.requestDoneError
 *Severity*::

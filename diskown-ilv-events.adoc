@@ -15,7 +15,7 @@ summary: diskown.ilv events
 :imagesdir: ./media/
 
 [.lead]
-Learn about diskown.ilv EMS events for hshlf invshlf mowners activity.
+diskown.ilv events are reported when the controller cannot automatically assign drives to a shelf using interleaved-half-shelf-based drive assignment, either because the shelf is offline, or is temporarily unavailable and therefore cannot be queried for the information required to properly divide the drives for assignment to the controller, and corrective actions typically involve following the documented corrective action guidance.
 
 == diskown.ilv.hShlf.invShlf
 *Severity*::

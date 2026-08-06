@@ -15,7 +15,7 @@ summary: disk.senseerror events
 :imagesdir: ./media/
 
 [.lead]
-Learn about disk.senseerror EMS events, which report when the drive reports an error.
+disk.senseerror events are reported when the drive reports an error, and corrective actions typically involve checking the reported configuration and connectivity.
 
 == disk.senseError
 *Severity*::

@@ -15,7 +15,7 @@ summary: arw.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-Learn about arw.snapshot EMS events for expiry time extended activity.
+arw.snapshot events are reported when a new ARP snapshot is created in anti-ransomware enabled volume, and corrective actions typically involve following the documented corrective action guidance.
 
 == arw.snapshot.created
 *Severity*::

@@ -15,7 +15,7 @@ summary: sysmgr.gb events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sysmgr.gb EMS events, which report when acquiring the desired Effective Cluster Version (ECV) of System Manager was not accomplished within the time limit during the first storage giveback phase.
+sysmgr.gb events are reported when acquiring the desired Effective Cluster Version (ECV) of System Manager was not accomplished within the time limit during the first storage giveback phase, and corrective actions typically involve following the documented corrective action guidance.
 
 == sysmgr.gb.ecv
 *Severity*::

@@ -15,7 +15,7 @@ summary: snmp.server events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snmp.server EMS events, which report when the SNMP daemon is busy serving a high rate of incoming SNMP queries.
+snmp.server events are reported when the SNMP daemon is busy serving a high rate of incoming SNMP queries, and corrective actions typically involve following the documented corrective action guidance.
 
 == snmp.server.busy
 *Severity*::

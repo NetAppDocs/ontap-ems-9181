@@ -15,7 +15,7 @@ summary: sk.kt events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sk.kt EMS events, which report when This is the output of debugging command that prints the time of day held in the real-time clock chip.
+sk.kt events are reported when this is the output of debugging command that prints the time of day held in the real-time clock chip, and corrective actions typically involve following the documented corrective action guidance.
 
 == sk.kt.rtc
 *Severity*::

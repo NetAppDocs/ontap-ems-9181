@@ -15,7 +15,7 @@ summary: adt.dest events
 :imagesdir: ./media/
 
 [.lead]
-Learn about adt.dest EMS events for access directory unavail activity.
+adt.dest events are reported when the audit consolidation job fails to write audit logs to the destination directory because the destination directory is not available, and corrective actions typically involve following the documented corrective action guidance.
 
 == adt.dest.access.fail
 *Severity*::

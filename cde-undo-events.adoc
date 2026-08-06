@@ -15,7 +15,7 @@ summary: cde.undo events
 :imagesdir: ./media/
 
 [.lead]
-Learn about cde.undo EMS events for done activity.
+cde.undo events are reported when undo of cde has to abort, and corrective actions typically involve following the documented corrective action guidance.
 
 == cde.undo.abort
 *Severity*::

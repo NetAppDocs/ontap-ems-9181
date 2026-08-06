@@ -15,7 +15,7 @@ summary: nblade.flexcachecaaccess events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nblade.flexcachecaaccess EMS events, which report when a client attempts to access a FlexCache(R) volume via SMB3 using a continuously available share but is denied because FlexCache does not support persistent handle capability.
+nblade.flexcachecaaccess events are reported when a client tries to access a FlexCache(R) volume via SMB3 using a continuously available share but is denied because FlexCache does not support persistent handle capability, and corrective actions typically involve following the documented corrective action guidance.
 
 == Nblade.flexcacheCAAccess
 *Severity*::

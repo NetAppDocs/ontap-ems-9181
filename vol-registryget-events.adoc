@@ -15,7 +15,7 @@ summary: vol.registryget events
 :imagesdir: ./media/
 
 [.lead]
-Learn about vol.registryget EMS events for no512520bps nondefbps nozonecksum activity.
+vol.registryget events are reported when a registry request finds no 512 or 520 BPS (bytes per sector) disks, and corrective actions typically involve following the documented corrective action guidance.
 
 == vol.registryGet.no512520BPS
 *Severity*::

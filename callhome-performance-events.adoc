@@ -15,7 +15,7 @@ summary: callhome.performance events
 :imagesdir: ./media/
 
 [.lead]
-Learn about callhome.performance EMS events for archive data activity.
+callhome.performance events are reported when you invoke an AutoSupport for performance archives, and corrective actions typically involve following the documented corrective action guidance.
 
 == callhome.performance.archive
 *Severity*::

@@ -15,7 +15,7 @@ summary: nvmeof.portioma events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmeof.portioma EMS events.
+nvmeof.portioma events are reported when there are no longer two ports cabled incorrectly from a node to top module (A) on a shelf, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmeof.portioma.clear
 *Severity*::

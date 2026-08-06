@@ -15,7 +15,7 @@ summary: hashd.maxstore events
 :imagesdir: ./media/
 
 [.lead]
-Learn about hashd.maxstore EMS events, which report when the size of hashes in the hash store is larger than the maximum size configured.
+hashd.maxstore events are reported when the size of hashes in the hash store is greater than the maximum size configured, and corrective actions typically involve following the documented corrective action guidance.
 
 == hashd.maxstore.oversize
 *Severity*::

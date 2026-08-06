@@ -15,7 +15,7 @@ summary: dml.init events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dml.init EMS events, which report when the Device Management Layer (DML) fails initialization.
+dml.init events are reported when the Device Management Layer (DML) fails initialization, and corrective actions typically involve following the documented corrective action guidance.
 
 == dml.init.fail
 *Severity*::

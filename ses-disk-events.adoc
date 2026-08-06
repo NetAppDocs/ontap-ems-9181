@@ -15,7 +15,7 @@ summary: ses.disk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ses.disk EMS events for configok illegalconfigwarn activity.
+ses.disk events are reported when there are no longer any drives in a FAS2050 system's slots 20 through 23, and corrective actions typically involve following the documented corrective action guidance.
 
 == ses.disk.configOk
 *Severity*::

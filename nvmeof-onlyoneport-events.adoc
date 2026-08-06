@@ -15,7 +15,7 @@ summary: nvmeof.onlyoneport events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvmeof.onlyoneport EMS events.
+nvmeof.onlyoneport events are reported when there is no longer only one port cabled from a node to a shelf, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvmeof.onlyoneport.clear
 *Severity*::

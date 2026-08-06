@@ -15,7 +15,7 @@ summary: config.noadisk events
 :imagesdir: ./media/
 
 [.lead]
-Learn about config.noadisk EMS events, which report when the local node in an HA configuration is connected to its disk shelves through the shelf B module instead of the shelf A module.
+config.noadisk events are reported when the local node in an HA configuration is connected to its disk shelves through the shelf B module instead of the shelf A module, and corrective actions typically involve following the documented corrective action guidance.
 
 == config.noAdisk
 *Severity*::

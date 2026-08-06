@@ -15,7 +15,7 @@ summary: lmgr.move events
 :imagesdir: ./media/
 
 [.lead]
-Learn about lmgr.move EMS events, which report when a volume move operation fails the cutover phase, due to volume quiesce timer expiration, and not all locks were transferred before the failure.
+lmgr.move events are reported when a volume move operation fails the cutover phase, due to volume quiesce timer expiration, and not all locks were transferred before the failure, and corrective actions typically involve following the documented corrective action guidance.
 
 == lmgr.move.dump.lock.counts
 *Severity*::

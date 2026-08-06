@@ -15,7 +15,7 @@ summary: scsiblade.disabled events
 :imagesdir: ./media/
 
 [.lead]
-Learn about scsiblade.disabled EMS events, which report when the local node is made ineligible.
+scsiblade.disabled events are reported when the local node is made ineligible, and corrective actions typically involve following the documented corrective action guidance.
 
 == scsiblade.disabled
 *Severity*::

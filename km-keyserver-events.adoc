@@ -15,7 +15,7 @@ summary: km.keyserver events
 :imagesdir: ./media/
 
 [.lead]
-Learn about km.keyserver EMS events for available notavailable activity.
+km.keyserver events are reported when a check by the key manager for connectivity with a configured key management server indicates that the key management server that was previously unavailable is now available, and corrective actions typically involve following the documented corrective action guidance.
 
 == km.keyserver.available
 *Severity*::

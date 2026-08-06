@@ -15,7 +15,7 @@ summary: tapemc.sas events
 :imagesdir: ./media/
 
 [.lead]
-Learn about tapemc.sas EMS events for dedicatedport supported activity.
+tapemc.sas events are reported when data ONTAP(R) detects a SAS device that is connected to a port that is dedicated for SAS disk storage attachment, but is not a disk shelf or a bridge device, and corrective actions typically involve following the documented corrective action guidance.
 
 == tapemc.SAS.dedicatedPort
 *Severity*::

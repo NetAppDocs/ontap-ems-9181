@@ -15,7 +15,7 @@ summary: configbr.initfailed events
 :imagesdir: ./media/
 
 [.lead]
-Learn about configbr.initfailed EMS events, which report when the configuration backup and restore feature cannot initialize the necessary software components.
+configbr.initfailed events are reported when the configuration backup and restore feature cannot initialize the necessary software components, and corrective actions typically involve verifying the reported configuration and health state.
 
 == configbr.initFailed
 *Severity*::

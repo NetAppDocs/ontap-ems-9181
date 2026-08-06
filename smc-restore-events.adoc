@@ -15,7 +15,7 @@ summary: smc.restore events
 :imagesdir: ./media/
 
 [.lead]
-Learn about smc.restore EMS events, which report when a SnapMirror restore operation or a SnapMirror restore cleanup operation fails to cleanup a SnapMirror restore source relationship information.
+smc.restore events are reported when a SnapMirror restore operation or a SnapMirror restore cleanup operation fails to cleanup a SnapMirror restore source relationship information, and corrective actions typically involve following the documented corrective action guidance.
 
 == smc.restore.src.cleanup.fail
 *Severity*::

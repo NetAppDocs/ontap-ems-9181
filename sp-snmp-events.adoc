@@ -15,7 +15,7 @@ summary: sp.snmp events
 :imagesdir: ./media/
 
 [.lead]
-Learn about sp.snmp EMS events, which report when This message occurs each time a system boots, if the advanced privilege level in Data ONTAP(R) was used to disable the SNMP Trap feature of the Service Processor (SP).
+sp.snmp events are reported when this message occurs each time a system boots, if the advanced privilege level in Data ONTAP(R) was used to disable the SNMP Trap feature of the Service Processor (SP), and corrective actions typically involve following the documented corrective action guidance.
 
 == sp.snmp.traps.off
 *Severity*::

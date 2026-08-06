@@ -15,7 +15,7 @@ summary: ha.localnodeshutdown events
 :imagesdir: ./media/
 
 [.lead]
-Learn about ha.localnodeshutdown EMS events, which report when shutdown of the local node is initiated.
+ha.localnodeshutdown events are reported when shutdown of the local node is initiated, and corrective actions typically involve following the documented corrective action guidance.
 
 == ha.localNodeShutDown
 *Severity*::

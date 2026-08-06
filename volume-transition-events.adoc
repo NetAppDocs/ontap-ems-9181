@@ -15,7 +15,7 @@ summary: volume.transition events
 :imagesdir: ./media/
 
 [.lead]
-Learn about volume.transition EMS events, which report when a volume transition plug-in is taking longer than expected.
+volume.transition events are reported when a volume transition plug-in is taking longer than expected, and corrective actions typically involve following the documented corrective action guidance.
 
 == volume.transition.plugin.slow
 *Severity*::

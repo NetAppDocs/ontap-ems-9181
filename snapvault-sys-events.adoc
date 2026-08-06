@@ -15,7 +15,7 @@ summary: snapvault.sys events
 :imagesdir: ./media/
 
 [.lead]
-Learn about snapvault.sys EMS events for internal vfileron activity.
+snapvault.sys events are reported when snapVault(R) encounters an internal error, and corrective actions typically involve following the documented corrective action guidance.
 
 == snapvault.sys.internal
 *Severity*::

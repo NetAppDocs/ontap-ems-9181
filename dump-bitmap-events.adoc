@@ -15,7 +15,7 @@ summary: dump.bitmap events
 :imagesdir: ./media/
 
 [.lead]
-Learn about dump.bitmap EMS events, which report when This event is generated during dump restarting and looking for the bitmap file and it is unable to locate.
+dump.bitmap events are reported when this event is generated during dump restarting and looking for the bitmap file and it is unable to locate, and corrective actions typically involve following the documented corrective action guidance.
 
 == dump.bitmap.fail
 *Severity*::

@@ -15,7 +15,7 @@ summary: clam.voting events
 :imagesdir: ./media/
 
 [.lead]
-Learn about clam.voting EMS events, which report when the Kernel Cluster Services Connectivity, Liveliness, Availability Monitor (CLAM) detects that the voting state of the node changed.
+clam.voting events are reported when the Kernel Cluster Services Connectivity, Liveliness, Availability Monitor (CLAM) detects that the voting state of the node changed, and corrective actions typically involve following the documented corrective action guidance.
 
 == clam.voting.state.change
 *Severity*::

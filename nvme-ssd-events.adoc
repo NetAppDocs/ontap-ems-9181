@@ -15,7 +15,7 @@ summary: nvme.ssd events
 :imagesdir: ./media/
 
 [.lead]
-Learn about nvme.ssd EMS events, which report when the NVMe drive encounters an error before the drive is reported to upper layers.
+nvme.ssd events are reported when the NVMe drive encounters an error before the drive is reported to upper layers, and corrective actions typically involve following the documented corrective action guidance.
 
 == nvme.ssd.attach.error
 *Severity*::

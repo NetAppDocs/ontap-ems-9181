@@ -15,7 +15,7 @@ summary: raid.labelmaint events
 :imagesdir: ./media/
 
 [.lead]
-Learn about raid.labelmaint EMS events for isolate aggr disk activity.
+raid.labelmaint events are reported when the system places an aggregate into online label maintenance mode, and corrective actions typically involve following the documented corrective action guidance.
 
 == raid.labelmaint.isolate.aggr
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.extent events
 :imagesdir: ./media/
 
 [.lead]
-Learn about wafl.extent EMS events, which report when the volume extent option is set and WAFL(R) encounters an invalid extent size.
+wafl.extent events are reported when the volume extent option is set and WAFL(R) encounters an invalid extent size, and corrective actions typically involve following the documented corrective action guidance.
 
 == wafl.extent.size.reset
 *Severity*::
