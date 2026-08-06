@@ -14,6 +14,9 @@ summary: coredump.encryption events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about coredump.encryption EMS events.
+
 == coredump.encryption.disabled
 *Severity*::
 ERROR

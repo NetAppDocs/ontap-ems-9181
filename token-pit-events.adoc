@@ -14,6 +14,9 @@ summary: token.pit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about token.pit EMS events for file info activity.
+
 == token.pit.file.create.info
 *Severity*::
 NOTICE

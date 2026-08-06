@@ -14,6 +14,9 @@ summary: cf.rv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cf.rv EMS events for flush handleexchange localnoconn activity.
+
 == cf.rv.connected
 *Severity*::
 INFORMATIONAL

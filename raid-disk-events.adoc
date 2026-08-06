@@ -14,6 +14,9 @@ summary: raid.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.disk EMS events for zero done maint activity.
+
 == raid.disk.capacity.info
 *Severity*::
 NOTICE

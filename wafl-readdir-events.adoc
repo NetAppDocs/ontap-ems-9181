@@ -14,6 +14,9 @@ summary: wafl.readdir events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.readdir EMS events for expired sparse activity.
+
 == wafl.readdir.expired
 *Severity*::
 ERROR

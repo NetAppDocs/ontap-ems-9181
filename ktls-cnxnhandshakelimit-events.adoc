@@ -14,6 +14,9 @@ summary: ktls.cnxnhandshakelimit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ktls.cnxnhandshakelimit EMS events, which report when the concurrent TLS connection handshake limit is reached.
+
 == ktls.cnxnHandshakeLimit
 *Severity*::
 NOTICE

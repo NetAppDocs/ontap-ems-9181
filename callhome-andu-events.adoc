@@ -14,6 +14,9 @@ summary: callhome.andu events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.andu EMS events for pausederr activity.
+
 == callhome.andu.completed
 *Severity*::
 NOTICE

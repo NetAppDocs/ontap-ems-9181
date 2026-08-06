@@ -14,6 +14,9 @@ summary: secd.quark events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about secd.quark EMS events for ddns updt failure activity.
+
 == secd.quark.ddns.updt.failure
 *Severity*::
 ERROR

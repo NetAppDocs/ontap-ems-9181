@@ -14,6 +14,9 @@ summary: adminapi.xml events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about adminapi.xml EMS events for encoding namespace activity.
+
 == adminapi.xml.encoding
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: arl.netra events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about arl.netra EMS events for ca ha lmgr activity.
+
 == arl.netra.ca.check.failed
 *Severity*::
 ERROR

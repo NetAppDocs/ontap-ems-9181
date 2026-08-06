@@ -14,6 +14,9 @@ summary: lun.vtoc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lun.vtoc EMS events for done version mismatch activity.
+
 == LUN.vtoc.rebuild.done
 *Severity*::
 NOTICE

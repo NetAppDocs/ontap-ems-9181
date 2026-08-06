@@ -14,6 +14,9 @@ summary: nvmem.voltage events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvmem.voltage EMS events for high warn low activity.
+
 == nvmem.voltage.high
 *Severity*::
 EMERGENCY

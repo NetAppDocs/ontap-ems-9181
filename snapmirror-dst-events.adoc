@@ -14,6 +14,9 @@ summary: snapmirror.dst events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapmirror.dst EMS events for multipath restart sync activity.
+
 == snapmirror.dst.abortOps
 *Severity*::
 ERROR

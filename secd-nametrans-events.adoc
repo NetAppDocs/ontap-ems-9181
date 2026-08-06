@@ -14,6 +14,9 @@ summary: secd.nametrans events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about secd.nametrans EMS events for groupnotfound invalidconfig invaliduser activity.
+
 == secd.nameTrans.groupNotFound
 *Severity*::
 ERROR

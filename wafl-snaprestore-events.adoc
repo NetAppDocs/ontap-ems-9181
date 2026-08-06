@@ -14,6 +14,9 @@ summary: wafl.snaprestore events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.snaprestore EMS events for badversion cancel prevcp activity.
+
 == wafl.snaprestore.badVersion
 *Severity*::
 ERROR

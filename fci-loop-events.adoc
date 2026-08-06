@@ -14,6 +14,9 @@ summary: fci.loop events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fci.loop EMS events, which report when the Fibre Channel loop generates too many loop initialization events.
+
 == fci.loop.stability
 *Severity*::
 ERROR

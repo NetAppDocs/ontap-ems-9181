@@ -14,6 +14,9 @@ summary: sis.enable events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.enable EMS events for sm ssm activity.
+
 == sis.enable.post.sm.break
 *Severity*::
 NOTICE

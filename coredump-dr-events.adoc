@@ -14,6 +14,9 @@ summary: coredump.dr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about coredump.dr EMS events for dump spare noabort activity.
+
 == coredump.dr.dump.not.started
 *Severity*::
 ERROR

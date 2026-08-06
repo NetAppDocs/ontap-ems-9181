@@ -14,6 +14,9 @@ summary: aggrcopy.dst events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about aggrcopy.dst EMS events for autorestrictmsg nomemory revert activity.
+
 == aggrcopy.dst.autoRestrictMsg
 *Severity*::
 NOTICE

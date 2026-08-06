@@ -14,6 +14,9 @@ summary: wafl.cbin events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.cbin EMS events for iron mirror objslothdr activity.
+
 == wafl.cbin.iron.mirror.config.changed
 *Severity*::
 INFORMATIONAL

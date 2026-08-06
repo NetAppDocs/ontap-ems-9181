@@ -14,6 +14,9 @@ summary: lun.clone events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lun.clone EMS events for snapshot activity.
+
 == LUN.clone.log.full
 *Severity*::
 NOTICE

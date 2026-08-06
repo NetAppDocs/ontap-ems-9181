@@ -14,6 +14,9 @@ summary: savecore.completed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about savecore.completed EMS events, which report when A synchronous savecore operation has completed.
+
 == savecore.completed
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: mgmt.smbc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmt.smbc EMS events for repl proxy activity.
+
 == mgmt.smbc.config.not.repl
 *Severity*::
 NOTICE

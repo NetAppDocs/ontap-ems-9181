@@ -14,6 +14,9 @@ summary: raid.rg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.rg EMS events for recons media cksum activity.
+
 == raid.rg.bigio.fatal
 *Severity*::
 ALERT

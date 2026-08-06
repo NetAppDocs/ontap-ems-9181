@@ -14,6 +14,9 @@ summary: raid.diskadd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.diskadd EMS events.
+
 == raid.diskadd.abort
 *Severity*::
 ERROR

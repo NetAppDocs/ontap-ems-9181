@@ -14,6 +14,9 @@ summary: vserver.peering events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vserver.peering EMS events for relcreated reldeleted relrenamed activity.
+
 == vserver.peering.relCreated
 *Severity*::
 NOTICE

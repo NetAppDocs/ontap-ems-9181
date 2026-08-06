@@ -14,6 +14,9 @@ summary: nvmf.tcp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvmf.tcp EMS events for lif trans activity.
+
 == nvmf.tcp.lif.create.fail
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: sfo.sendhome events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sfo.sendhome EMS events for nopartnerdisks partnernoboot subsystemabort activity.
+
 == sfo.sendhome.NoPartnerDisks
 *Severity*::
 INFORMATIONAL

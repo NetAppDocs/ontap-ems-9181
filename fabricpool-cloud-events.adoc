@@ -14,6 +14,9 @@ summary: fabricpool.cloud events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fabricpool.cloud EMS events for subscription activity.
+
 == fabricpool.cloud.subscription.added
 *Severity*::
 NOTICE

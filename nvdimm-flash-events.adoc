@@ -14,6 +14,9 @@ summary: nvdimm.flash events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvdimm.flash EMS events, which report when the NVDIMM device exceeds its warning threshold.
+
 == nvdimm.flash.lifetime.low
 *Severity*::
 ALERT

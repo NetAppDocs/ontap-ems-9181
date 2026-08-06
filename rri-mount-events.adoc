@@ -14,6 +14,9 @@ summary: rri.mount events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about rri.mount EMS events, which report when This event is issued to indicate that flexaggr RRI mount failed.
+
 == rri.mount.fail
 *Severity*::
 NOTICE

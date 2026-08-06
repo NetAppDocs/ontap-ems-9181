@@ -14,6 +14,9 @@ summary: raid.unpartition events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.unpartition EMS events for disk activity.
+
 == raid.unpartition.disk
 *Severity*::
 NOTICE

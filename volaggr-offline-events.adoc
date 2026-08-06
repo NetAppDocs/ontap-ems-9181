@@ -14,6 +14,9 @@ summary: volaggr.offline events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about volaggr.offline EMS events, which report when Some aggregates are forced offline.
+
 == volaggr.offline
 *Severity*::
 ALERT

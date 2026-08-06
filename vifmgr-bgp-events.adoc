@@ -14,6 +14,9 @@ summary: vifmgr.bgp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.bgp EMS events for defaults disconnected peergroupdown activity.
+
 == vifmgr.bgp.connected
 *Severity*::
 NOTICE

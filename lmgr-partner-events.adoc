@@ -14,6 +14,9 @@ summary: lmgr.partner events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lmgr.partner EMS events for locks outofsync resynched activity.
+
 == lmgr.partner.locks.outOfSync
 *Severity*::
 ERROR

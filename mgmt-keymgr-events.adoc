@@ -14,6 +14,9 @@ summary: mgmt.keymgr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmt.keymgr EMS events, which report when the system cannot delete the key ID associated with the encrypted aggregate from the key management server.
+
 == mgmt.keymgr.keyid.noDelete
 *Severity*::
 ERROR

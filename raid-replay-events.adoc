@@ -14,6 +14,9 @@ summary: raid.replay events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.replay EMS events for nvfile done partner activity.
+
 == raid.replay.nvfile.done
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: san.noconnectedfcport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about san.noconnectedfcport EMS events for prim activity.
+
 == san.NoConnectedFCport
 *Severity*::
 ERROR

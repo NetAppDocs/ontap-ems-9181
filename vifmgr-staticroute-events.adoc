@@ -14,6 +14,9 @@ summary: vifmgr.staticroute events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.staticroute EMS events for del netadd netremove activity.
+
 == vifmgr.staticRoute.add
 *Severity*::
 NOTICE

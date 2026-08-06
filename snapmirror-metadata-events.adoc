@@ -14,6 +14,9 @@ summary: snapmirror.metadata events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapmirror.metadata EMS events for definite loss possible activity.
+
 == snapmirror.metadata.create.fail
 *Severity*::
 ERROR

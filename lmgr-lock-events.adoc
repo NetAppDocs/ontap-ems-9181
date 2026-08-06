@@ -14,6 +14,9 @@ summary: lmgr.lock events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lmgr.lock EMS events for reclaim type counts activity.
+
 == lmgr.lock.reclaim.aborted
 *Severity*::
 ERROR

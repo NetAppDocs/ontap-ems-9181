@@ -14,6 +14,9 @@ summary: callhome.performance events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.performance EMS events for archive data activity.
+
 == callhome.performance.archive
 *Severity*::
 NOTICE

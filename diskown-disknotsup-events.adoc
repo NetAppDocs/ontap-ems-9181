@@ -14,6 +14,9 @@ summary: diskown.disknotsup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about diskown.disknotsup EMS events, which report when newly inserted disks are only supported with software disk ownership enabled, but it is not enabled.
+
 == diskown.diskNotSup
 *Severity*::
 INFORMATIONAL

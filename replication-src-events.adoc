@@ -14,6 +14,9 @@ summary: replication.src events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about replication.src EMS events for inconsistent snapmap throttlechange activity.
+
 == replication.src.err
 *Severity*::
 ERROR

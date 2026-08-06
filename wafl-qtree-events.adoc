@@ -14,6 +14,9 @@ summary: wafl.qtree events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.qtree EMS events for id mismatch qsmbreak activity.
+
 == wafl.qtree.id.mismatch
 *Severity*::
 ERROR

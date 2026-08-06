@@ -14,6 +14,9 @@ summary: rlm.firmware events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about rlm.firmware EMS events for reqd version unsupported activity.
+
 == rlm.firmware.upgrade.reqd
 *Severity*::
 NOTICE

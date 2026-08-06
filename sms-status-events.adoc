@@ -14,6 +14,9 @@ summary: sms.status events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sms.status EMS events for sync out of activity.
+
 == sms.status.in.sync
 *Severity*::
 NOTICE

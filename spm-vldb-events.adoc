@@ -14,6 +14,9 @@ summary: spm.vldb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about spm.vldb EMS events, which report when Volume Location Database (VLDB) subsystem stops running.
+
 == spm.vldb.process.exit
 *Severity*::
 EMERGENCY

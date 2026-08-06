@@ -14,6 +14,9 @@ summary: license.fpool events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about license.fpool EMS events for denied cloud unsupported activity.
+
 == license.fpool.changed
 *Severity*::
 NOTICE

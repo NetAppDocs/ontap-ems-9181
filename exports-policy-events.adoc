@@ -14,6 +14,9 @@ summary: exports.policy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about exports.policy EMS events for empty last rule activity.
+
 == exports.policy.empty
 *Severity*::
 NOTICE

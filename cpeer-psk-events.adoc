@@ -14,6 +14,9 @@ summary: cpeer.psk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cpeer.psk EMS events for cluster revoked unauth activity.
+
 == cpeer.psk.cluster.revoked
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: nvmeof.onlyoneport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvmeof.onlyoneport EMS events.
+
 == nvmeof.onlyoneport.clear
 *Severity*::
 NOTICE

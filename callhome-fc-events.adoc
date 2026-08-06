@@ -14,6 +14,9 @@ summary: callhome.fc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.fc EMS events for al link poor activity.
+
 == callhome.fc.al.link
 *Severity*::
 ALERT

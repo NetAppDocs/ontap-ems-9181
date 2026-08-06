@@ -14,6 +14,9 @@ summary: azurearc.agent events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about azurearc.agent EMS events for connection token gen activity.
+
 == azurearc.agent.connection.failed
 *Severity*::
 ERROR

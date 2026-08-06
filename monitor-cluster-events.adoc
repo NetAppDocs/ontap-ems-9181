@@ -14,6 +14,9 @@ summary: monitor.cluster events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.cluster EMS events for nearlyfull ok overalloc activity.
+
 == monitor.cluster.full
 *Severity*::
 ALERT

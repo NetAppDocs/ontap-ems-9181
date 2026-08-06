@@ -14,6 +14,9 @@ summary: mgmtgwd.volmove events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmtgwd.volmove EMS events for notoptimized optimized activity.
+
 == mgmtgwd.volmove.notoptimized
 *Severity*::
 NOTICE

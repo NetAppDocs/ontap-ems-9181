@@ -14,6 +14,9 @@ summary: fmmb.opaque events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fmmb.opaque EMS events, which report when This event is issued when the HA Mailbox opaque header is invalid.
+
 == fmmb.opaque.hdr.invalid
 *Severity*::
 ALERT

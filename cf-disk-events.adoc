@@ -14,6 +14,9 @@ summary: cf.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cf.disk EMS events for invent mismatchalt inventory activity.
+
 == cf.disk.invent.mismatchalt
 *Severity*::
 ALERT

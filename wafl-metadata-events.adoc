@@ -14,6 +14,9 @@ summary: wafl.metadata events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.metadata EMS events for rsrv decreased increased activity.
+
 == wafl.metadata.rsrv.decreased
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: rdma.rlib events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about rdma.rlib EMS events for adv if get activity.
+
 == rdma.rlib.adv.failed
 *Deprecated*::
 Deprecated as of ONTAP 9.1 because this platform is no longer supported.

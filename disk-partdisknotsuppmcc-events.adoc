@@ -14,6 +14,9 @@ summary: disk.partdisknotsuppmcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about disk.partdisknotsuppmcc EMS events, which report when a partitioned disk is found in a MetroCluster(TM) configuration.
+
 == disk.partDiskNotSuppMCC
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: secd.unixlookupfailure events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about secd.unixlookupfailure EMS events, which report when an UNIXi(R) user or group lookup fails.
+
 == secd.unixLookupFailure
 *Severity*::
 ERROR

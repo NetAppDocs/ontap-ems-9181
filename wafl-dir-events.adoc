@@ -14,6 +14,9 @@ summary: wafl.dir events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.dir EMS events for convert link size activity.
+
 == wafl.dir.convert
 *Severity*::
 NOTICE

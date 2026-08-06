@@ -14,6 +14,9 @@ summary: diskown.shlf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about diskown.shlf EMS events for assignstatus multiowners activity.
+
 == diskown.Shlf.assignStatus
 *Severity*::
 NOTICE

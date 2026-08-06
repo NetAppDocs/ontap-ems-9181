@@ -14,6 +14,9 @@ summary: ha.panicinfonotsent events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ha.panicinfonotsent EMS events, which report when a node cannot send panic information to its high-availability (HA) partner over the HA interconnect.
+
 == ha.panicInfoNotSent
 *Severity*::
 NOTICE

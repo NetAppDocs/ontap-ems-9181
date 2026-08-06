@@ -14,6 +14,9 @@ summary: sis.schedule events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.schedule EMS events for notify change compression activity.
+
 == sis.schedule.notify.change
 *Severity*::
 NOTICE

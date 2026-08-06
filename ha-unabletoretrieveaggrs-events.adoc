@@ -14,6 +14,9 @@ summary: ha.unabletoretrieveaggrs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ha.unabletoretrieveaggrs EMS events, which report when the node is unable to retrieve a list of aggregates from the replicated database (RDB).
+
 == ha.unableToRetrieveAggrs
 *Severity*::
 ERROR

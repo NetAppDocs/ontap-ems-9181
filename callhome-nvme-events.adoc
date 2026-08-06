@@ -14,6 +14,9 @@ summary: callhome.nvme events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.nvme EMS events for exhausted activity.
+
 == callhome.nvme.exhausted
 *Severity*::
 ALERT

@@ -14,6 +14,9 @@ summary: raid.aggrvote events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.aggrvote EMS events for pullnotok updatenotok updateok activity.
+
 == raid.aggrvote.pullNotOk
 *Severity*::
 INFORMATIONAL

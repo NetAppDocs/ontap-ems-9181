@@ -14,6 +14,9 @@ summary: raid.tree events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.tree EMS events, which report when RAID I/Os are active while removing a disk from the RAID tree.
+
 == raid.tree.remove.activeIOs
 *Severity*::
 NOTICE

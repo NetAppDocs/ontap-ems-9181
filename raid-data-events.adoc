@@ -14,6 +14,9 @@ summary: raid.data events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.data EMS events for lw blkerr ws activity.
+
 == raid.data.lw.blkErr
 *Severity*::
 NOTICE

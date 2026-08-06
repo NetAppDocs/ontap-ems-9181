@@ -14,6 +14,9 @@ summary: mgmt.cifssuperuser events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmt.cifssuperuser EMS events for failure activity.
+
 == mgmt.cifssuperuser.failure
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: nvdimm.nvmem events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvdimm.nvmem EMS events for destage failure succeed activity.
+
 == nvdimm.nvmem.checkfail
 *Severity*::
 EMERGENCY

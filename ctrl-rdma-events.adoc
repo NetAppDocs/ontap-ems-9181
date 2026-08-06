@@ -14,6 +14,9 @@ summary: ctrl.rdma events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ctrl.rdma EMS events for badsystemid heartbeat partnerok activity.
+
 == ctrl.rdma.badSystemId
 *Severity*::
 NOTICE

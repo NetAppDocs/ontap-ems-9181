@@ -14,6 +14,9 @@ summary: diskown.wfgfencecheckbad events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about diskown.wfgfencecheckbad EMS events, which report when the disk ownership module gets a bad status when it attempts to find whether the local node is fenced during waitForGiveback check.
+
 == diskown.WFGFenceCheckBad
 *Severity*::
 NOTICE

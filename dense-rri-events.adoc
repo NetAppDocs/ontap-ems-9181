@@ -14,6 +14,9 @@ summary: dense.rri events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dense.rri EMS events, which report when WAFL message corresponding to volume level dedupe or cross volume dedupe is timed out while waiting for the Remote Refcount Increment on volume.
+
 == dense.rri.wait.for.free.file.timedout
 *Severity*::
 ERROR

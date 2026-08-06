@@ -14,6 +14,9 @@ summary: monitor.raiddp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.raiddp EMS events, which report when This message occurs as part of an hourly system check when a double parity volume is in single degraded mode.
+
 == monitor.raiddp.vol.singleDegraded
 *Severity*::
 ERROR

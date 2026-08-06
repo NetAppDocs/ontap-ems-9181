@@ -14,6 +14,9 @@ summary: wafl.zombie events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.zombie EMS events for susp aggr limit activity.
+
 == wafl.zombie.susp.aggr.limit
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: wafl.inconsistent events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.inconsistent EMS events for acl ino vol activity.
+
 == wafl.inconsistent.acl
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: nblade.cifsmaxsessperusrconn events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nblade.cifsmaxsessperusrconn EMS events, which report when the number of sessions allowed per user over a TCP connection is exceeded.
+
 == Nblade.cifsMaxSessPerUsrConn
 *Severity*::
 ERROR

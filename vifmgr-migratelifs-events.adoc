@@ -14,6 +14,9 @@ summary: vifmgr.migratelifs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.migratelifs EMS events for nlbddown nlbdup activity.
+
 == vifmgr.migrateLifs.nlbdDown
 *Severity*::
 ERROR

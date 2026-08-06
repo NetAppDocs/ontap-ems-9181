@@ -14,6 +14,9 @@ summary: dm.vserver events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dm.vserver EMS events for mcc rebaselinefailed sm activity.
+
 == dm.vserver.mcc.rebaselinefailed
 *Severity*::
 ERROR

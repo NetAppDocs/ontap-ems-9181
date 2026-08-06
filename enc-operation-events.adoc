@@ -14,6 +14,9 @@ summary: enc.operation events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about enc.operation EMS events for disableaid failure activity.
+
 == enc.operation.completed
 *Severity*::
 NOTICE

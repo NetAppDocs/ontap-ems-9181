@@ -14,6 +14,9 @@ summary: qos.viodet events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about qos.viodet EMS events for maxthrottle mintput throttle activity.
+
 == qos.VioDet.maxThrottle
 *Severity*::
 NOTICE

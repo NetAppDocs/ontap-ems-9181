@@ -14,6 +14,9 @@ summary: nblade.cifsnonunicoderequest events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nblade.cifsnonunicoderequest EMS events, which report when a client attempts to send a non-unicode request to a Vserver.
+
 == Nblade.cifsNonUnicodeRequest
 *Severity*::
 ERROR

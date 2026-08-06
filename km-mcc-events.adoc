@@ -14,6 +14,9 @@ summary: km.mcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about km.mcc EMS events for okm hierarchy okmkey activity.
+
 == km.mcc.okm.hierarchy.bad
 *Severity*::
 ALERT

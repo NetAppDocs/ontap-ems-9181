@@ -14,6 +14,9 @@ summary: wafl.snapshot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.snapshot EMS events for badfilesize badlevel ecv activity.
+
 == wafl.snapshot.badFilesize
 *Severity*::
 NOTICE

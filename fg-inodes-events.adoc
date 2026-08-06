@@ -14,6 +14,9 @@ summary: fg.inodes events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fg.inodes EMS events for member allok nearlyfull activity.
+
 == fg.inodes.member.allOK
 *Severity*::
 NOTICE

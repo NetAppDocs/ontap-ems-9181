@@ -14,6 +14,9 @@ summary: aggr.provisioning events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about aggr.provisioning EMS events, which report when This message is issued when the aggregate provisioning recommendation generated for the cluster is found to be incomplete due to the presence of unassigned disks.
+
 == aggr.provisioning.unassigned.detected
 *Severity*::
 NOTICE

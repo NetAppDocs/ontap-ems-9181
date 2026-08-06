@@ -14,6 +14,9 @@ summary: wafl.atime events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.atime EMS events for updates restarted will activity.
+
 == wafl.atime.updates.restarted
 *Severity*::
 NOTICE

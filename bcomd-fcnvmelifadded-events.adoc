@@ -14,6 +14,9 @@ summary: bcomd.fcnvmelifadded events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about bcomd.fcnvmelifadded EMS events, which report when an FC NVMe (Nonvolatile Memory Express) logical interface (LIF) is added.
+
 == bcomd.fcNvmeLifAdded
 *Severity*::
 NOTICE

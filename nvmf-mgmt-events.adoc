@@ -14,6 +14,9 @@ summary: nvmf.mgmt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvmf.mgmt EMS events for op cmd threshold activity.
+
 == nvmf.mgmt.op.failed
 *Severity*::
 EMERGENCY

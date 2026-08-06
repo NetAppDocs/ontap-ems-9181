@@ -14,6 +14,9 @@ summary: wafl.sfsr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.sfsr EMS events for ino inodeleted lun activity.
+
 == wafl.sfsr.abort.ino
 *Severity*::
 NOTICE

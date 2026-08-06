@@ -14,6 +14,9 @@ summary: moveagent.outofmemory events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about moveagent.outofmemory EMS events, which report when the move agent fails to allocate memory for the move object.
+
 == moveagent.outofmemory
 *Severity*::
 NOTICE

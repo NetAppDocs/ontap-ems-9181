@@ -14,6 +14,9 @@ summary: moveagent.swapvldb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about moveagent.swapvldb EMS events for sync activity.
+
 == moveagent.swapvldb.fail
 *Severity*::
 ALERT

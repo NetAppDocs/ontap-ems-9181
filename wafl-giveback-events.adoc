@@ -14,6 +14,9 @@ summary: wafl.giveback events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.giveback EMS events for fence iron sp activity.
+
 == wafl.giveback.create.fail
 *Severity*::
 ERROR

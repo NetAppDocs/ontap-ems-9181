@@ -14,6 +14,9 @@ summary: vol.language events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vol.language EMS events for openfailed unspecified activity.
+
 == vol.language.changed
 *Severity*::
 INFORMATIONAL

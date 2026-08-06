@@ -14,6 +14,9 @@ summary: diskown.rewriteowner events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about diskown.rewriteowner EMS events, which report when This event is issued when we have to rewrite a DOWN because it is out of date wrt the other DOWNs.
+
 == diskown.rewriteOwner
 *Severity*::
 NOTICE

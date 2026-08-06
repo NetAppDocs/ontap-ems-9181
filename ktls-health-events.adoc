@@ -14,6 +14,9 @@ summary: ktls.health events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ktls.health EMS events for actionqgrowing actionqhigh backoffgrowing activity.
+
 == ktls.health.actionQGrowing
 *Severity*::
 NOTICE

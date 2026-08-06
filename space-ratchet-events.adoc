@@ -14,6 +14,9 @@ summary: space.ratchet events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about space.ratchet EMS events for failure detail activity.
+
 == space.ratchet.failure
 *Severity*::
 ERROR

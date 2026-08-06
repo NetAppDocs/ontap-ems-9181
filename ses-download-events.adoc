@@ -14,6 +14,9 @@ summary: ses.download events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ses.download EMS events for powercyclingchannel shelftoreboot suspendioforpowercycle activity.
+
 == ses.download.powerCyclingChannel
 *Severity*::
 INFORMATIONAL

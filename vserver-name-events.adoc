@@ -14,6 +14,9 @@ summary: vserver.name events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vserver.name EMS events for conflict local peer activity.
+
 == vserver.name.conflict.local
 *Severity*::
 NOTICE

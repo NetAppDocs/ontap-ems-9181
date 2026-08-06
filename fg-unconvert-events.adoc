@@ -14,6 +14,9 @@ summary: fg.unconvert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fg.unconvert EMS events for critical activity.
+
 == fg.unconvert.critical.fail
 *Severity*::
 ALERT

@@ -14,6 +14,9 @@ summary: sync.snapmirror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sync.snapmirror EMS events for arl veto oos activity.
+
 == sync.snapmirror.arl.veto
 *Severity*::
 ALERT

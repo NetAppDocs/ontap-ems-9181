@@ -14,6 +14,9 @@ summary: disk.healthtrigger events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about disk.healthtrigger EMS events, which report when the disk returns a health trigger event.
+
 == disk.healthTrigger
 *Severity*::
 NOTICE

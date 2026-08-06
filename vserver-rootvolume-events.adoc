@@ -14,6 +14,9 @@ summary: vserver.rootvolume events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vserver.rootvolume EMS events for noinodes activity.
+
 == vserver.rootVolume.full
 *Severity*::
 ERROR

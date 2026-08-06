@@ -14,6 +14,9 @@ summary: useradmin.registry events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about useradmin.registry EMS events for specific activity.
+
 == useradmin.registry
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: gpo.security events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about gpo.security EMS events for unrecogfileform unrecogtemplate activity.
+
 == gpo.security.unrecogFileForm
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: snapvault.dst events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapvault.dst EMS events for bkpsnapcreate blidatarepaired bliwarning activity.
+
 == snapvault.dst.bkpSnapCreate
 *Severity*::
 INFORMATIONAL

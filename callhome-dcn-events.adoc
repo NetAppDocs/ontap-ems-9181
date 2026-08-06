@@ -14,6 +14,9 @@ summary: callhome.dcn events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.dcn EMS events, which report when a Data Compute Node (DCN) encounters a problem.
+
 == callhome.dcn.error
 *Severity*::
 ERROR

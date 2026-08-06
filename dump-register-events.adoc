@@ -14,6 +14,9 @@ summary: dump.register events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dump.register EMS events for commit activity.
+
 == dump.register.commit
 *Severity*::
 ERROR

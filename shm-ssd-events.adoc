@@ -14,6 +14,9 @@ summary: shm.ssd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about shm.ssd EMS events, which report when ONTAP(R) detects that a solid-state drive (SSD) has an average block latency during a five-minute timeframe that is larger than expected.
+
 == shm.ssd.threshold.ioLatency
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: gb.netra events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about gb.netra EMS events for ca oam activity.
+
 == gb.netra.ca.check.failed
 *Severity*::
 ERROR

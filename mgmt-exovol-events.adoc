@@ -14,6 +14,9 @@ summary: mgmt.exovol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmt.exovol EMS events for transfer xfer dest activity.
+
 == mgmt.exovol.transfer.failed
 *Severity*::
 ERROR

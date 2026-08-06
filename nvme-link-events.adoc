@@ -14,6 +14,9 @@ summary: nvme.link events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvme.link EMS events.
+
 == nvme.link.disabled.error
 *Severity*::
 ERROR

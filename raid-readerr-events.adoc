@@ -14,6 +14,9 @@ summary: raid.readerr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.readerr EMS events for lw ckinfo id activity.
+
 == raid.readerr.lw.data.ckinfo
 *Severity*::
 INFORMATIONAL

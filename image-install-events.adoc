@@ -14,6 +14,9 @@ summary: image.install events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about image.install EMS events for bypass ds chk activity.
+
 == image.install.bypass.ds.chk
 *Severity*::
 ALERT

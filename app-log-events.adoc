@@ -14,6 +14,9 @@ summary: app.log events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about app.log EMS events for alert emerg info activity.
+
 == app.log.alert
 *Severity*::
 ALERT

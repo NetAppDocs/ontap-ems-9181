@@ -14,6 +14,9 @@ summary: sp.eth events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sp.eth EMS events for switch upd activity.
+
 == sp.eth.switch.upd.failed
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: dns.server events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dns.server EMS events, which report when the DNS server fails to respond to a query and timeout occurs.
+
 == dns.server.timed.out
 *Severity*::
 ERROR

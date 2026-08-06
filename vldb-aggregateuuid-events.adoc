@@ -14,6 +14,9 @@ summary: vldb.aggregateuuid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vldb.aggregateuuid EMS events for mismatch missing activity.
+
 == vldb.aggregateUUID.mismatch
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: shm.threshold events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about shm.threshold EMS events for agrsviocount allmediaerrors disk activity.
+
 == shm.threshold.agrsvIOCount
 *Deprecated*::
 This event is removed as it is a test message not intended for customers.

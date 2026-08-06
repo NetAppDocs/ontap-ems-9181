@@ -14,6 +14,9 @@ summary: nblade.recoverybegin events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nblade.recoverybegin EMS events, which report when the NFS server enters the lock recovery state.
+
 == Nblade.recoveryBegin
 *Severity*::
 NOTICE

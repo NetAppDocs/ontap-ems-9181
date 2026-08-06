@@ -14,6 +14,9 @@ summary: monitor.weeklystatsasup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.weeklystatsasup EMS events, which report when weekly performance AutoSupport(tm) is disabled.
+
 == monitor.weeklyStatsASUP.off
 *Severity*::
 ERROR

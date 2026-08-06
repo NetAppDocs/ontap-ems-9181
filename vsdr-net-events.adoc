@@ -14,6 +14,9 @@ summary: vsdr.net events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vsdr.net EMS events for ipindiffvserver lifipcollision lifnamecollision activity.
+
 == vsdr.net.IPInDiffVserver
 *Severity*::
 ERROR

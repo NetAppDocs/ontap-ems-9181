@@ -14,6 +14,9 @@ summary: sis.undo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.undo EMS events for inconsistent done nospace activity.
+
 == sis.undo.aborted
 *Severity*::
 ERROR

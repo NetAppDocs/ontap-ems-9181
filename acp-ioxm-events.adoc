@@ -14,6 +14,9 @@ summary: acp.ioxm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about acp.ioxm EMS events for up activity.
+
 == acp.ioxm.port.down
 *Severity*::
 INFORMATIONAL

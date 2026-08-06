@@ -14,6 +14,9 @@ summary: snapmirror.status events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapmirror.status EMS events for dstupdatesnaperr illegalsrcpath nobasesnapshot activity.
+
 == snapmirror.status.dstUpdateSnapErr
 *Severity*::
 ERROR

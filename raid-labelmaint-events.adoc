@@ -14,6 +14,9 @@ summary: raid.labelmaint events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.labelmaint EMS events for isolate aggr disk activity.
+
 == raid.labelmaint.isolate.aggr
 *Severity*::
 INFORMATIONAL

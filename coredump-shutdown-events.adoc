@@ -14,6 +14,9 @@ summary: coredump.shutdown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about coredump.shutdown EMS events, which report when a core is about to be generated.
+
 == coredump.shutdown.trace
 *Severity*::
 NOTICE

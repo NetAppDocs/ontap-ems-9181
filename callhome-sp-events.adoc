@@ -14,6 +14,9 @@ summary: callhome.sp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.sp EMS events for hbt missed activity.
+
 == callhome.sp.hbt.missed
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: cloud.aws events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cloud.aws EMS events for iamcredsexpired iamcredsinvalid iamcredsnotfound activity.
+
 == cloud.aws.iamCredsExpired
 *Severity*::
 ERROR

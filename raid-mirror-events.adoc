@@ -14,6 +14,9 @@ summary: raid.mirror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.mirror EMS events for resync deferred vote activity.
+
 == raid.mirror.aggrSnapUse
 *Severity*::
 NOTICE

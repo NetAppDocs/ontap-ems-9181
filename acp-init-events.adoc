@@ -14,6 +14,9 @@ summary: acp.init events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about acp.init EMS events for configip netmask ssl activity.
+
 == acp.init.configIP
 *Severity*::
 ERROR

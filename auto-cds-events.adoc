@@ -14,6 +14,9 @@ summary: auto.cds events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about auto.cds EMS events for feature activity.
+
 == auto.cds.feature.disable.failed
 *Severity*::
 INFORMATIONAL

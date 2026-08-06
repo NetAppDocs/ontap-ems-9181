@@ -14,6 +14,9 @@ summary: raid.preserve events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.preserve EMS events for nvram issue activity.
+
 == raid.preserve.nvram
 *Severity*::
 INFORMATIONAL

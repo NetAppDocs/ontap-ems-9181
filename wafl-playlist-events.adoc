@@ -14,6 +14,9 @@ summary: wafl.playlist events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.playlist EMS events for fh failure playlist activity.
+
 == wafl.playlist.bad_fh
 *Severity*::
 INFORMATIONAL

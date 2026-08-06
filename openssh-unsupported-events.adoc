@@ -14,6 +14,9 @@ summary: openssh.unsupported events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about openssh.unsupported EMS events for cipher hostalgo kexalgo activity.
+
 == openssh.unsupported.cipher
 *Severity*::
 ERROR

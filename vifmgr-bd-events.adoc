@@ -14,6 +14,9 @@ summary: vifmgr.bd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.bd EMS events for badmtu conflicts activity.
+
 == vifmgr.bd.badmtu
 *Severity*::
 ERROR

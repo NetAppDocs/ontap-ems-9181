@@ -14,6 +14,9 @@ summary: adt.dest events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about adt.dest EMS events for access directory unavail activity.
+
 == adt.dest.access.fail
 *Severity*::
 ERROR

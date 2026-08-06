@@ -14,6 +14,9 @@ summary: wafl.air events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.air EMS events, which report when Generic wafl air message.
+
 == wafl.air.info
 *Severity*::
 ERROR

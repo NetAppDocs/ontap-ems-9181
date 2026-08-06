@@ -14,6 +14,9 @@ summary: async.igroup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about async.igroup EMS events, which report when an error occurs asynchronously replicating an initiator group.
+
 == async.igroup.replication.error
 *Severity*::
 ALERT

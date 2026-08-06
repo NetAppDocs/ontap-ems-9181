@@ -14,6 +14,9 @@ summary: flexcache.originfull events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about flexcache.originfull EMS events, which report when a FlexCache(R) origin volume cannot serve data to cache volume because origin volume is full.
+
 == flexcache.originFull
 *Severity*::
 ALERT

@@ -14,6 +14,9 @@ summary: config.differentswitchport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about config.differentswitchport EMS events, which report when the two ports of the disk are connected to different switch ports.
+
 == config.DifferentSwitchPort
 *Severity*::
 ALERT

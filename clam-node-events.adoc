@@ -14,6 +14,9 @@ summary: clam.node events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about clam.node EMS events for inq ooq voting activity.
+
 == clam.node.disabled
 *Severity*::
 INFORMATIONAL

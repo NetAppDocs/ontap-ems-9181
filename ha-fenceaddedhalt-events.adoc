@@ -14,6 +14,9 @@ summary: ha.fenceaddedhalt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ha.fenceaddedhalt EMS events, which report when the node halts itself after it finds that another node has fenced this node.
+
 == ha.fenceAddedHalt
 *Severity*::
 NOTICE

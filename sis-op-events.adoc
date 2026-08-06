@@ -14,6 +14,9 @@ summary: sis.op events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.op EMS events for idle activity.
+
 == sis.op.aborted
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: sfu.nsmdownloadfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sfu.nsmdownloadfailed EMS events, which report when a disk shelf firmware update fails to download disk shelf firmware to a disk shelf successfully.
+
 == sfu.NSMDownloadFailed
 *Severity*::
 ERROR

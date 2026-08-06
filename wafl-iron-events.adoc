@@ -14,6 +14,9 @@ summary: wafl.iron events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.iron EMS events for backup rst oc activity.
+
 == wafl.iron.7mode
 *Severity*::
 ERROR

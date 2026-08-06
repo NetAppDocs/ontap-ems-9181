@@ -14,6 +14,9 @@ summary: wafl.watch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.watch EMS events for limit remote client activity.
+
 == wafl.watch.cache.limit.near
 *Severity*::
 INFORMATIONAL

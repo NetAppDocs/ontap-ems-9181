@@ -14,6 +14,9 @@ summary: mgmtgwd.upgrade events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmtgwd.upgrade EMS events.
+
 == mgmtgwd.upgrade.aborted
 *Severity*::
 ALERT

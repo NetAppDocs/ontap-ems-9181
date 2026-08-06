@@ -14,6 +14,9 @@ summary: wafl.spacetax events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.spacetax EMS events, which report when the spacetax feature is disabled for all flexible volumes in the system due to the 'wafl-disable-spacetax?' boot option.
+
 == wafl.spacetax.disabled
 *Severity*::
 ERROR

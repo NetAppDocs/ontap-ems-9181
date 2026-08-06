@@ -14,6 +14,9 @@ summary: fli.lun events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fli.lun EMS events for import checkpoint r2 activity.
+
 == fli.lun.import.checkpoint
 *Severity*::
 ERROR

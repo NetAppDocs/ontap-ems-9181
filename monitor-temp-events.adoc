@@ -14,6 +14,9 @@ summary: monitor.temp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.temp EMS events, which report when the controller module temperature is not readable.
+
 == monitor.temp.unreadable
 *Severity*::
 ERROR

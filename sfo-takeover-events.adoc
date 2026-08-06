@@ -14,6 +14,9 @@ summary: sfo.takeover events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sfo.takeover EMS events for aggrprocesstime aggrsubsystime bypassed activity.
+
 == sfo.takeover.aborted
 *Severity*::
 ERROR

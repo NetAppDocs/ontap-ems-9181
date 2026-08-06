@@ -14,6 +14,9 @@ summary: mcc.fabricpool events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mcc.fabricpool EMS events for license absent diff activity.
+
 == mcc.fabricpool.license.absent
 *Severity*::
 ERROR

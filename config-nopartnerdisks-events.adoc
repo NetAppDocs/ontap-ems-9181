@@ -14,6 +14,9 @@ summary: config.nopartnerdisks events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about config.nopartnerdisks EMS events, which report when This message occurs in a High-Availablity (HA> configuration when there are no partner disks.
+
 == config.noPartnerDisks
 *Severity*::
 ERROR

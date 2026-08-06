@@ -14,6 +14,9 @@ summary: fg.convert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fg.convert EMS events for critical ksmf activity.
+
 == fg.convert.critical.fail
 *Severity*::
 ALERT

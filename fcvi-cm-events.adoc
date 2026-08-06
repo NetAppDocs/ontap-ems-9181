@@ -14,6 +14,9 @@ summary: fcvi.cm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fcvi.cm EMS events, which report when connection requests times out.
+
 == fcvi.cm.timedout
 *Severity*::
 NOTICE

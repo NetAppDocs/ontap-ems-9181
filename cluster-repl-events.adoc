@@ -14,6 +14,9 @@ summary: cluster.repl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cluster.repl EMS events for localnw unreachable peer activity.
+
 == cluster.repl.localNW.unreachable
 *Severity*::
 NOTICE

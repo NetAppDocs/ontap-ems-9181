@@ -14,6 +14,9 @@ summary: vifmgr.hv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.hv EMS events for nohostconfig nosnmpconfig nouplinkmapping activity.
+
 == vifmgr.hv.nohostconfig
 *Severity*::
 ALERT

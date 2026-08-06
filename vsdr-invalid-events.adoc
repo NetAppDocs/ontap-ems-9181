@@ -14,6 +14,9 @@ summary: vsdr.invalid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vsdr.invalid EMS events, which report when a package is licensed at the primary site but not licensed at the secondary site in a MetroCluster(tm) configuration or Vserver DR setup.
+
 == vsdr.invalid.license
 *Severity*::
 ERROR

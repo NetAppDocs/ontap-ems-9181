@@ -14,6 +14,9 @@ summary: raid.hybrid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.hybrid EMS events for ssdhaexceed ssdtotexceed activity.
+
 == raid.hybrid.SSDHAExceed
 *Severity*::
 ERROR

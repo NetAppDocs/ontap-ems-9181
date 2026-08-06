@@ -14,6 +14,9 @@ summary: vifmgr.cdb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.cdb EMS events for merge dupip unavail activity.
+
 == vifmgr.cdb.merge.dupip
 *Severity*::
 ALERT

@@ -14,6 +14,9 @@ summary: cmds.sysconf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cmds.sysconf EMS events for halterr1 halterr2 inconstrule activity.
+
 == cmds.sysconf.haltERR1
 *Severity*::
 ALERT

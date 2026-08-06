@@ -14,6 +14,9 @@ summary: air.certify events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about air.certify EMS events, which report when a metadata inconsistency is discovered inside a file system feature that is read-only and therefore cannot be immediately corrected.
+
 == air.certify.cancel
 *Severity*::
 ALERT

@@ -14,6 +14,9 @@ summary: flexcache.softevict events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about flexcache.softevict EMS events.
+
 == flexcache.softEvict.failed
 *Severity*::
 ERROR

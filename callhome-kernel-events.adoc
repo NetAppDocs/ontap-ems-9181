@@ -14,6 +14,9 @@ summary: callhome.kernel events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.kernel EMS events for core coreinfo activity.
+
 == callhome.kernel.core
 *Deprecated*::
 Deprecated as of ONTAP 9.3. This event is replaced by the callhome.kernel.coreinfo event.

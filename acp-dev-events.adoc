@@ -14,6 +14,9 @@ summary: acp.dev events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about acp.dev EMS events, which report when the Alternate Control Path (ACP) Administrator encounters an error event in a development-only kernel.
+
 == acp.dev.notify
 *Severity*::
 ERROR

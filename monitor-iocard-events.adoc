@@ -14,6 +14,9 @@ summary: monitor.iocard events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.iocard EMS events for degraded ok sfp activity.
+
 == monitor.ioCard.degraded
 *Severity*::
 ALERT

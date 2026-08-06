@@ -14,6 +14,9 @@ summary: cf.shutdown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cf.shutdown EMS events, which report when the controller receives a message from its partner over the HA interconnect that indicates a condition related to the partner's attempted graceful shutdown.
+
 == cf.shutdown.info
 *Severity*::
 NOTICE

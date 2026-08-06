@@ -14,6 +14,9 @@ summary: netif.excesslinkinterrupts events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netif.excesslinkinterrupts EMS events, which report when excessive link status change interrupts occur on the network interface.
+
 == netif.excessLinkInterrupts
 *Severity*::
 ERROR

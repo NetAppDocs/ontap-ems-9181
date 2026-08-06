@@ -14,6 +14,9 @@ summary: availability.zone events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about availability.zone EMS events for nearlyfull ok overalloc activity.
+
 == availability.zone.full
 *Severity*::
 ALERT

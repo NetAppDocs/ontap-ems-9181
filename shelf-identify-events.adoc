@@ -14,6 +14,9 @@ summary: shelf.identify events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about shelf.identify EMS events.
+
 == shelf.identify.start
 *Severity*::
 INFORMATIONAL

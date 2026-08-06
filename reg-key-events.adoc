@@ -14,6 +14,9 @@ summary: reg.key events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about reg.key EMS events for null activity.
+
 == reg.key.invalid
 *Severity*::
 ERROR

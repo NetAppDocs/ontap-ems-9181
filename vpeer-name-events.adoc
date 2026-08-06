@@ -14,6 +14,9 @@ summary: vpeer.name events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vpeer.name EMS events, which report when system generated a new name for a Vserver due to a naming conflict with another Vserver in the local cluster.
+
 == vpeer.name.conflict
 *Severity*::
 NOTICE

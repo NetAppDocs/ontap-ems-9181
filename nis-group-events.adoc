@@ -14,6 +14,9 @@ summary: nis.group events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nis.group EMS events for db build failure activity.
+
 == nis.group.db.build.failure
 *Severity*::
 ERROR

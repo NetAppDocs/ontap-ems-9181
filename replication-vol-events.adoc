@@ -14,6 +14,9 @@ summary: replication.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about replication.vol EMS events for activemapdelta dst disk activity.
+
 == replication.vol.activemapdelta.err
 *Severity*::
 ERROR

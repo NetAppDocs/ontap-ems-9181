@@ -14,6 +14,9 @@ summary: vsdr.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vsdr.vol EMS events for inline dedup name activity.
+
 == vsdr.vol.aff.inline.dedup
 *Severity*::
 ALERT

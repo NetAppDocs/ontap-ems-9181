@@ -14,6 +14,9 @@ summary: cr.fix events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cr.fix EMS events for crpt data file activity.
+
 == CR.Fix.Corrupt.Redir.Failed
 *Deprecated*::
 Deprecated as of Data ONTAP 9.6 because Infinite Volumes no longer exist.

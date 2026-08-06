@@ -14,6 +14,9 @@ summary: fpolicy.server events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fpolicy.server EMS events for bkpressapply bkpressremove connecterror activity.
+
 == fpolicy.server.bkPressApply
 *Severity*::
 INFORMATIONAL

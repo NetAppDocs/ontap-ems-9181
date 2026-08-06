@@ -14,6 +14,9 @@ summary: nvmf.subsystem events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvmf.subsystem EMS events for hidden unhidden activity.
+
 == nvmf.subsystem.hidden
 *Severity*::
 ALERT

@@ -14,6 +14,9 @@ summary: raid.multierr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.multierr EMS events for block cksum lw activity.
+
 == raid.multierr.bad.block
 *Severity*::
 ERROR

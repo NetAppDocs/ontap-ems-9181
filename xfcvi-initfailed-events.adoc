@@ -14,6 +14,9 @@ summary: xfcvi.initfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about xfcvi.initfailed EMS events, which report when the driver fails to initialize a FC-VI port.
+
 == xfcvi.initFailed
 *Severity*::
 ERROR

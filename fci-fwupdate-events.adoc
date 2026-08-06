@@ -14,6 +14,9 @@ summary: fci.fwupdate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fci.fwupdate EMS events for autoboot needboot upddone activity.
+
 == fci.fwupdate.AutoBoot
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: scsitarget.hwpfct events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about scsitarget.hwpfct EMS events for dump saved els activity.
+
 == scsitarget.hwpfct.dump.saved
 *Severity*::
 NOTICE

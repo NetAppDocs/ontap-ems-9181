@@ -14,6 +14,9 @@ summary: netgroupbyname.cache events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netgroupbyname.cache EMS events, which report when a host is checked for its membership in a netgroup that contains a large number of members.
+
 == netgroupbyname.cache.skip
 *Severity*::
 ALERT

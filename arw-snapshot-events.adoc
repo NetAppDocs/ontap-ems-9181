@@ -14,6 +14,9 @@ summary: arw.snapshot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about arw.snapshot EMS events for expiry time extended activity.
+
 == arw.snapshot.created
 *Severity*::
 NOTICE

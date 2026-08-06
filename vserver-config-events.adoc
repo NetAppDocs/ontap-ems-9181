@@ -14,6 +14,9 @@ summary: vserver.config events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vserver.config EMS events for createdirectoryfailed nameservice activity.
+
 == vserver.config.createDirectoryFailed
 *Severity*::
 ERROR

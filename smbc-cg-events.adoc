@@ -14,6 +14,9 @@ summary: smbc.cg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about smbc.cg EMS events for info activity.
+
 == smbc.cg.info.read.failed
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: cf.misc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cf.misc EMS events for givebackpartnernotready icnicfailuretakeover operatordisable activity.
+
 == cf.misc.givebackPartnerNotReady
 *Severity*::
 NOTICE

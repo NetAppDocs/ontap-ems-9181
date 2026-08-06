@@ -14,6 +14,9 @@ summary: flexcache.attrib events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about flexcache.attrib EMS events for sync passed warn activity.
+
 == flexcache.attrib.sync.failed
 *Severity*::
 ALERT

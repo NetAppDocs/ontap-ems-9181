@@ -14,6 +14,9 @@ summary: shelf.test events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about shelf.test EMS events for in progress request activity.
+
 == shelf.test.in.progress
 *Severity*::
 INFORMATIONAL

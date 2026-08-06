@@ -14,6 +14,9 @@ summary: lun.oovc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lun.oovc EMS events for done version mismatch activity.
+
 == LUN.oovc.rebuild.done
 *Severity*::
 NOTICE

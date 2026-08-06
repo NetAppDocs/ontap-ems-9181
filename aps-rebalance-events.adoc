@@ -14,6 +14,9 @@ summary: aps.rebalance events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about aps.rebalance EMS events.
+
 == aps.rebalance.failed
 *Severity*::
 ERROR

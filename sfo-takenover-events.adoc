@@ -14,6 +14,9 @@ summary: sfo.takenover events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sfo.takenover EMS events for commfailed relocdone activity.
+
 == sfo.takenOver.aborted
 *Severity*::
 ERROR

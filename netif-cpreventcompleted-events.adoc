@@ -14,6 +14,9 @@ summary: netif.cpreventcompleted events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netif.cpreventcompleted EMS events, which report when a CPR Event (core PCI resiliency) has completed.
+
 == netif.cprEventCompleted
 *Severity*::
 INFORMATIONAL

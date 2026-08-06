@@ -14,6 +14,9 @@ summary: raid.cksum events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.cksum EMS events for file bypass bno activity.
+
 == raid.cksum.bad.file.block
 *Severity*::
 ERROR

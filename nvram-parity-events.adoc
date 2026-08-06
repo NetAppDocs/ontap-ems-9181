@@ -14,6 +14,9 @@ summary: nvram.parity events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvram.parity EMS events, which report when excessive parity errors are reported by the NVRAM complex.
+
 == nvram.parity.threshold
 *Severity*::
 ERROR

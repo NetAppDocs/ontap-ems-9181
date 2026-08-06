@@ -14,6 +14,9 @@ summary: callhome.coredump events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.coredump EMS events, which report when all the core segments belonging to a coredump have been saved.
+
 == callhome.coredump.save.done
 *Severity*::
 NOTICE

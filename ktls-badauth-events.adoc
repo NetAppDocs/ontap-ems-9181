@@ -14,6 +14,9 @@ summary: ktls.badauth events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ktls.badauth EMS events, which report when the system receives a TLS message with bad 'authentication' data.
+
 == ktls.badAuth
 *Severity*::
 NOTICE

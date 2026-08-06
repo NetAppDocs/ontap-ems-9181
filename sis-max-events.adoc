@@ -14,6 +14,9 @@ summary: sis.max events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.max EMS events for saving activity.
+
 == sis.max.saving.near
 *Severity*::
 NOTICE

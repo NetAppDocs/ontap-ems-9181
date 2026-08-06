@@ -14,6 +14,9 @@ summary: vsdr.clone events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vsdr.clone EMS events for cleanup splitonsource activity.
+
 == vsdr.clone.cleanup.fail
 *Severity*::
 ERROR

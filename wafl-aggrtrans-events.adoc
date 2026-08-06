@@ -14,6 +14,9 @@ summary: wafl.aggrtrans events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.aggrtrans EMS events for corrupted dirtyfs outofspace activity.
+
 == wafl.aggrtrans.corrupted
 *Severity*::
 ALERT

@@ -14,6 +14,9 @@ summary: wafl.delete events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.delete EMS events for indirect fenced file activity.
+
 == wafl.delete.bad.indirect
 *Severity*::
 NOTICE

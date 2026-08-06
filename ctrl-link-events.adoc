@@ -14,6 +14,9 @@ summary: ctrl.link events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ctrl.link EMS events for degraded switchover activity.
+
 == ctrl.link.degraded
 *Severity*::
 ERROR

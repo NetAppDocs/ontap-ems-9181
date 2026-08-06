@@ -14,6 +14,9 @@ summary: wafl.remote events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.remote EMS events, which report when WAFL cannot get enough storage space for remote caching to function properly.
+
 == wafl.remote.cannot.refill.fsps
 *Severity*::
 ERROR

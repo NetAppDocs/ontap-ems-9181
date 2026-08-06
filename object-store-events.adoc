@@ -14,6 +14,9 @@ summary: object.store events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about object.store EMS events for c2s clock mirror activity.
+
 == object.store.available
 *Severity*::
 NOTICE

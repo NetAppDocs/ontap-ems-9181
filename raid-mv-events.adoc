@@ -14,6 +14,9 @@ summary: raid.mv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.mv EMS events for defvol skip transfer activity.
+
 == raid.mv.defVol.online
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: shm.reformat events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about shm.reformat EMS events for diskerror partnerdisk startmsg activity.
+
 == shm.reformat.diskError
 *Severity*::
 ERROR

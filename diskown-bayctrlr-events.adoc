@@ -14,6 +14,9 @@ summary: diskown.bayctrlr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about diskown.bayctrlr EMS events for unknown activity.
+
 == diskown.bayctrlr
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: wafl.cdemap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.cdemap EMS events, which report when an inconsistency is discovered in one of the metafile blocks.
+
 == wafl.cdemap.repaired.metafile
 *Severity*::
 ERROR

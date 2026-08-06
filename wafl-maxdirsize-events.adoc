@@ -14,6 +14,9 @@ summary: wafl.maxdirsize events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.maxdirsize EMS events, which report when This message occurs for each volume that has a maximum directory size larger than the default during boot.
+
 == wafl.maxdirsize.boot.notice
 *Severity*::
 NOTICE

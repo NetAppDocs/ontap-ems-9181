@@ -14,6 +14,9 @@ summary: rlib.remote events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about rlib.remote EMS events for node event activity.
+
 == rlib.remote.node.event
 *Severity*::
 NOTICE

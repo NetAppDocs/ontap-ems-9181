@@ -14,6 +14,9 @@ summary: pha.dev events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about pha.dev EMS events for get capacity uuid activity.
+
 == pha.dev.get.capacity.failed
 *Severity*::
 ERROR

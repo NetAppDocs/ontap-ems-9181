@@ -14,6 +14,9 @@ summary: telnet.socket events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about telnet.socket EMS events for failure activity.
+
 == telnet.socket.failure
 *Severity*::
 ERROR

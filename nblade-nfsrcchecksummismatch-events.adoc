@@ -14,6 +14,9 @@ summary: nblade.nfsrcchecksummismatch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nblade.nfsrcchecksummismatch EMS events, which report when the server detects a retransmitted request from the client with a modified payload.
+
 == Nblade.nfsRCChecksumMismatch
 *Severity*::
 ALERT

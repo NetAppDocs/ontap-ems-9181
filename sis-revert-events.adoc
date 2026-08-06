@@ -14,6 +14,9 @@ summary: sis.revert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.revert EMS events for to has succeeded activity.
+
 == sis.revert.to.has.Aborted
 *Severity*::
 NOTICE

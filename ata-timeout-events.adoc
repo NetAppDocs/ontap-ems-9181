@@ -14,6 +14,9 @@ summary: ata.timeout events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ata.timeout EMS events.
+
 == ata.timeout.failed
 *Deprecated*::
 Last used 9.2

@@ -14,6 +14,9 @@ summary: monitor.mismatch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.mismatch EMS events for hourly activity.
+
 == monitor.mismatch.hourly
 *Severity*::
 ALERT

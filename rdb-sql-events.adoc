@@ -14,6 +14,9 @@ summary: rdb.sql events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about rdb.sql EMS events for succeeded activity.
+
 == rdb.sql.upgrade.failed
 *Severity*::
 ERROR

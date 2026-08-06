@@ -14,6 +14,9 @@ summary: dump.terminate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dump.terminate EMS events for reserved activity.
+
 == dump.terminate
 *Severity*::
 NOTICE

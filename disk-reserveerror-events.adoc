@@ -14,6 +14,9 @@ summary: disk.reserveerror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about disk.reserveerror EMS events, which report when a SCSI reservation is requested for a disk or LUN that is no longer seen.
+
 == disk.reserveError
 *Severity*::
 NOTICE

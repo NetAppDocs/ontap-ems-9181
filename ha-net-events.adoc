@@ -14,6 +14,9 @@ summary: ha.net events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ha.net EMS events, which report when HA network security is disabled.
+
 == ha.net.sec.disabled
 *Severity*::
 NOTICE

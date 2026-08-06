@@ -14,6 +14,9 @@ summary: wafl.pvbn events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.pvbn EMS events for done found mismatch activity.
+
 == wafl.pvbn.check.done
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: vserver.stop events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vserver.stop EMS events for succeeded activity.
+
 == vserver.stop.failed
 *Severity*::
 ERROR

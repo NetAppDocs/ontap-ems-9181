@@ -14,6 +14,9 @@ summary: callhome.dr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.dr EMS events, which report when all attempts to replicate the configuration fails.
+
 == callhome.dr.apply.failed
 *Severity*::
 ERROR

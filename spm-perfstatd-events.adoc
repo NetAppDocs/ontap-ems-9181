@@ -14,6 +14,9 @@ summary: spm.perfstatd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about spm.perfstatd EMS events, which report when the perfstat daemon (perfstatd) involuntarily terminates.
+
 == spm.perfstatd.process.exit
 *Severity*::
 ALERT

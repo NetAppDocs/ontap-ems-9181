@@ -14,6 +14,9 @@ summary: dfu.fwdownloadfailedstatus events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dfu.fwdownloadfailedstatus EMS events, which report when a firmware download failure occurs.
+
 == dfu.fwDownloadFailedStatus
 *Severity*::
 ERROR

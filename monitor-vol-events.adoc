@@ -14,6 +14,9 @@ summary: monitor.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.vol EMS events for inc sav nearfull activity.
+
 == monitor.vol.full.inc.sav
 *Severity*::
 ALERT

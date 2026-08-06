@@ -14,6 +14,9 @@ summary: nis.netgrp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nis.netgrp EMS events for db build job activity.
+
 == nis.netgrp.db.build.failure
 *Severity*::
 ERROR

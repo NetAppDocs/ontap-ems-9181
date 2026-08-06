@@ -14,6 +14,9 @@ summary: kern.cron events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about kern.cron EMS events for dsterror rescheddst activity.
+
 == kern.cron.dstError
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: tapemc.sas events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about tapemc.sas EMS events for dedicatedport supported activity.
+
 == tapemc.SAS.dedicatedPort
 *Severity*::
 ERROR

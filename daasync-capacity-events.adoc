@@ -14,6 +14,9 @@ summary: daasync.capacity events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about daasync.capacity EMS events, which report when the capacity data of a target device changes.
+
 == daasync.capacity.changed
 *Severity*::
 NOTICE

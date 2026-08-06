@@ -14,6 +14,9 @@ summary: raid.shared events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.shared EMS events for disk awaiting done activity.
+
 == raid.shared.disk.awaiting.done
 *Severity*::
 INFORMATIONAL

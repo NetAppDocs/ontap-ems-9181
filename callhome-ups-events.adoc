@@ -14,6 +14,9 @@ summary: callhome.ups events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.ups EMS events for low battery ok activity.
+
 == callhome.ups.line
 *Severity*::
 NOTICE

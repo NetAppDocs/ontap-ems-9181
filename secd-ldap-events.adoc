@@ -14,6 +14,9 @@ summary: secd.ldap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about secd.ldap EMS events for hostnames resolved noservers activity.
+
 == secd.ldap.bindDn.missing
 *Severity*::
 ALERT

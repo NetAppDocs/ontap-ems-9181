@@ -14,6 +14,9 @@ summary: monitor.nvramlowbattery events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.nvramlowbattery EMS events.
+
 == monitor.nvramLowBattery
 *Severity*::
 EMERGENCY

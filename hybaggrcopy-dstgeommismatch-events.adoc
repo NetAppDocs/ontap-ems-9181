@@ -14,6 +14,9 @@ summary: hybaggrcopy.dstgeommismatch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about hybaggrcopy.dstgeommismatch EMS events, which report when there is a mismatch between the disk geometries of source and destination hybrid aggregates.
+
 == hybAggrCopy.dstGeomMismatch
 *Severity*::
 ERROR

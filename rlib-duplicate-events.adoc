@@ -14,6 +14,9 @@ summary: rlib.duplicate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about rlib.duplicate EMS events, which report when an interconnect link IP address on this node has a conflict with an IP address on another node in the cluster.
+
 == rlib.duplicate.ip.detected
 *Severity*::
 ERROR

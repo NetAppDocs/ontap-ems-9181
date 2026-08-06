@@ -14,6 +14,9 @@ summary: san.fcadapter events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about san.fcadapter EMS events, which report when FC adapters hosting LIFs fails to initialize during node boot.
+
 == san.fcadapter.init.failure
 *Severity*::
 ERROR

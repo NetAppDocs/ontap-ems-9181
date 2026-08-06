@@ -14,6 +14,9 @@ summary: config.badpoolassign events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about config.badpoolassign EMS events, which report when SyncMirror(R) is in use and disks are assigned to different pools on the same interface or loop.
+
 == config.BadPoolAssign
 *Severity*::
 ERROR

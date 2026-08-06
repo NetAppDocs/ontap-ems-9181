@@ -14,6 +14,9 @@ summary: callhome.chassis events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.chassis EMS events for hitemp overtemp ps activity.
+
 == callhome.chassis.hitemp
 *Severity*::
 ERROR

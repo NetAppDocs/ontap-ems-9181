@@ -14,6 +14,9 @@ summary: exports.dom events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about exports.dom EMS events for notfound transient activity.
+
 == exports.dom.notFound
 *Severity*::
 ERROR

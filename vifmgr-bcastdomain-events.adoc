@@ -14,6 +14,9 @@ summary: vifmgr.bcastdomain events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.bcastdomain EMS events for portadd portrem activity.
+
 == vifmgr.bcastdomain.portadd
 *Severity*::
 NOTICE

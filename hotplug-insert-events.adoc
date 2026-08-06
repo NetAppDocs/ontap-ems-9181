@@ -14,6 +14,9 @@ summary: hotplug.insert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about hotplug.insert EMS events for badcard type up activity.
+
 == hotplug.insert.badCard.type
 *Severity*::
 ERROR

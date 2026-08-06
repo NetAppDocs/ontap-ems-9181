@@ -14,6 +14,9 @@ summary: mixed.controller events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mixed.controller EMS events for halt partner activity.
+
 == mixed.controller.halt
 *Severity*::
 ALERT

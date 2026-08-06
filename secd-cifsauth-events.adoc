@@ -14,6 +14,9 @@ summary: secd.cifsauth events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about secd.cifsauth EMS events for denied nonamemap nounixcreds activity.
+
 == secd.cifsAuth.denied
 *Severity*::
 ERROR

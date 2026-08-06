@@ -14,6 +14,9 @@ summary: vsdr.fpvolallpolicy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vsdr.fpvolallpolicy EMS events, which report when SnapMirror(R) transfer happens between the source volume of an SVM disaster recovery (SVMDR) relationship having a tiering policy of "all" residing on a FabricPool aggregate on the primary cluster and destination volume residing on a FabricPool aggregate at the secondary cluster.
+
 == vsdr.FPVolAllPolicy
 *Severity*::
 ALERT

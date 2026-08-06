@@ -14,6 +14,9 @@ summary: kern.syslogd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about kern.syslogd EMS events, which report when an event is generated to log errors from the syslog daemon.
+
 == kern.syslogd.error
 *Severity*::
 ERROR

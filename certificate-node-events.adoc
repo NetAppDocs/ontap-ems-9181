@@ -14,6 +14,9 @@ summary: certificate.node events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about certificate.node EMS events, which report when an installed certificate record exists in a node Vserver.
+
 == certificate.node.vserver
 *Severity*::
 ERROR

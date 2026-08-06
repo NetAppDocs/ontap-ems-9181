@@ -14,6 +14,9 @@ summary: nvme.boot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvme.boot EMS events for fw failure activity.
+
 == nvme.boot.fw.update.complete
 *Severity*::
 NOTICE

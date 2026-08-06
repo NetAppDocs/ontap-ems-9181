@@ -14,6 +14,9 @@ summary: nodewatchdog.node events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nodewatchdog.node EMS events for failure longreboot ucore activity.
+
 == nodewatchdog.node.failure
 *Severity*::
 EMERGENCY

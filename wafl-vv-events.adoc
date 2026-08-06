@@ -14,6 +14,9 @@ summary: wafl.vv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.vv EMS events for dup uuid raidfile activity.
+
 == wafl.vv.bad.DSIDorMSID
 *Severity*::
 ERROR

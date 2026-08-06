@@ -14,6 +14,9 @@ summary: netinet6.mld6 events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netinet6.mld6 EMS events for illegal type srcadr activity.
+
 == netinet6.mld6.illegal.type
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: kern.thread events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about kern.thread EMS events, which report when a thread creation has the system close to the maximum limit for the number of threads.
+
 == kern.thread.alloc.limit
 *Severity*::
 NOTICE

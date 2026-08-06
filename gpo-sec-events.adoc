@@ -14,6 +14,9 @@ summary: gpo.sec events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about gpo.sec EMS events for applied notapplied notappliedfor activity.
+
 == gpo.sec.EvtAdt.applied
 *Severity*::
 INFORMATIONAL

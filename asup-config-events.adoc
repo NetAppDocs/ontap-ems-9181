@@ -14,6 +14,9 @@ summary: asup.config events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about asup.config EMS events for minimal parse unavailable activity.
+
 == asup.config.minimal.parse
 *Severity*::
 INFORMATIONAL

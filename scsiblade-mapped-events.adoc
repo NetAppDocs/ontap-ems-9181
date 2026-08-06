@@ -14,6 +14,9 @@ summary: scsiblade.mapped events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about scsiblade.mapped EMS events, which report when a mapped NVMe namespace attribute changes as a result of a management operation.
+
 == scsiblade.mapped.ns.attr.mod
 *Severity*::
 ERROR

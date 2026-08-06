@@ -14,6 +14,9 @@ summary: mgmtgwd.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmtgwd.vol EMS events.
+
 == mgmtgwd.vol.upgrade.failed
 *Severity*::
 ERROR

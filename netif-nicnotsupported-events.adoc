@@ -14,6 +14,9 @@ summary: netif.nicnotsupported events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netif.nicnotsupported EMS events, which report when the installed network interface card (NIC) version is not supported.
+
 == netif.nicNotSupported
 *Severity*::
 ERROR

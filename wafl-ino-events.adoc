@@ -14,6 +14,9 @@ summary: wafl.ino events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.ino EMS events for cantabort rem susp activity.
+
 == wafl.ino.upgrade.aborted
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: disk.ddr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about disk.ddr EMS events for capacity scanner failure activity.
+
 == disk.ddr.dqp.out.of.date
 *Severity*::
 NOTICE

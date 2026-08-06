@@ -14,6 +14,9 @@ summary: rsh.rcmd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about rsh.rcmd EMS events for bind used activity.
+
 == rsh.rcmd.port.bind
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: nv.rename events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nv.rename EMS events for files longname activity.
+
 == nv.rename.err
 *Severity*::
 INFORMATIONAL

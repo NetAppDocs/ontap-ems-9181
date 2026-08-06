@@ -14,6 +14,9 @@ summary: sis.autosched events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.autosched EMS events, which report when This event is issued when a SIS volume operation cannot be auto scheduled due to unexpected conditions.
+
 == sis.autoSched.failed
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: callhome.snapmirror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.snapmirror EMS events for oos pers activity.
+
 == callhome.snapmirror.oos
 *Severity*::
 NOTICE

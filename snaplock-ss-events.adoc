@@ -14,6 +14,9 @@ summary: snaplock.ss events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snaplock.ss EMS events for lockbadvolume state createfail activity.
+
 == snaplock.ss.lockBadVolume
 *Severity*::
 ALERT

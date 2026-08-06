@@ -14,6 +14,9 @@ summary: vifmgr.ifgrp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.ifgrp EMS events, which report when an interface group (ifgrp) is configured with an unsupported name.
+
 == vifmgr.ifgrp.invalidname
 *Severity*::
 ERROR

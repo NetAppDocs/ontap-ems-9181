@@ -14,6 +14,9 @@ summary: nvdimm.fw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvdimm.fw EMS events for failure succeed activity.
+
 == nvdimm.fw.upgrade.failure
 *Severity*::
 ERROR

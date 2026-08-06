@@ -14,6 +14,9 @@ summary: vs.migrate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vs.migrate EMS events for cleanup cutover src activity.
+
 == vs.migrate.cleanup.completed
 *Severity*::
 NOTICE

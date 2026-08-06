@@ -14,6 +14,9 @@ summary: crypto.ssal events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about crypto.ssal EMS events for tpm activity.
+
 == crypto.ssal.failed
 *Severity*::
 ALERT

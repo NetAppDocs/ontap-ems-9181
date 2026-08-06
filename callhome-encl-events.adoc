@@ -14,6 +14,9 @@ summary: callhome.encl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.encl EMS events, which report when contact to one or more disk shelf enclosure services (environmental monitoring) is lost, possibly due to storage cabling, adapter, or configuration problems.
+
 == callhome.encl.access
 *Severity*::
 ERROR

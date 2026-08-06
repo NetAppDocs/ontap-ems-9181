@@ -14,6 +14,9 @@ summary: scsiblade.import events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about scsiblade.import EMS events for attr mod dblade activity.
+
 == scsiblade.import.attr.mod
 *Severity*::
 ERROR

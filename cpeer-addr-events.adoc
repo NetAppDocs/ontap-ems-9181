@@ -14,6 +14,9 @@ summary: cpeer.addr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cpeer.addr EMS events for dns host stable activity.
+
 == cpeer.addr.bad.dns
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: netinet.ethr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netinet.ethr EMS events for arpstorm broadcstaddr dup activity.
+
 == netinet.ethr.arpstorm
 *Severity*::
 ERROR

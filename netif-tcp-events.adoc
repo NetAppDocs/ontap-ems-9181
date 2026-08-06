@@ -14,6 +14,9 @@ summary: netif.tcp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netif.tcp EMS events, which report when a bad checksum is detected in the incoming TCP packets.
+
 == netif.tcp.conn.bad.checksum
 *Severity*::
 ERROR

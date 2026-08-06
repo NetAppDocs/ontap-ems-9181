@@ -14,6 +14,9 @@ summary: config.localswitch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about config.localswitch EMS events, which report when a disk is found attached via both local connection and a switch.
+
 == config.localswitch
 *Severity*::
 EMERGENCY

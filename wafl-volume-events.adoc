@@ -14,6 +14,9 @@ summary: wafl.volume events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.volume EMS events for failure inuse sidl activity.
+
 == wafl.volume.charmap.loadfail
 *Severity*::
 ERROR

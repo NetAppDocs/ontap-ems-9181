@@ -14,6 +14,9 @@ summary: fmmb.newdisksuggestion events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fmmb.newdisksuggestion EMS events, which report when RAID sends to the high-availability (HA) mailbox code a list of disks to use for HA mailbox disks.
+
 == fmmb.NewDiskSuggestion
 *Severity*::
 INFORMATIONAL

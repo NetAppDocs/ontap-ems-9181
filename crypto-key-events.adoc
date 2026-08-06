@@ -14,6 +14,9 @@ summary: crypto.key events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about crypto.key EMS events for stored activity.
+
 == crypto.key.deleted
 *Severity*::
 NOTICE

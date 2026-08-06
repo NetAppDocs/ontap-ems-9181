@@ -14,6 +14,9 @@ summary: wafl.volume_snap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.volume_snap EMS events, which report when automatic deletion of a snapshot fails.
+
 == wafl.volume_snap.autoDelete.fail
 *Severity*::
 INFORMATIONAL

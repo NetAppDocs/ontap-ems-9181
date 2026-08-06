@@ -14,6 +14,9 @@ summary: cf.fm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cf.fm EMS events for cpuutilduringtoandgb discardnvram takeoverdetectionseconds activity.
+
 == cf.fm.cpuUtilDuringTOAndGB
 *Deprecated*::
 Deprecated as of version 9.0.

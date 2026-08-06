@@ -14,6 +14,9 @@ summary: tapemc.device events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about tapemc.device EMS events for cmdallocfail lunnotconn maxexceed activity.
+
 == tapemc.device.cmdAllocFail
 *Severity*::
 ERROR

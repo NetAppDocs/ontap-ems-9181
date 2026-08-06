@@ -14,6 +14,9 @@ summary: vol.duplicate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vol.duplicate EMS events, which report when a duplicate master set ID (MSID) has been detected.
+
 == vol.duplicate.msid
 *Severity*::
 EMERGENCY

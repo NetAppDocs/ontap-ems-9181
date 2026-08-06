@@ -14,6 +14,9 @@ summary: monitor.chassispowersupply events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.chassispowersupply EMS events for degraded notpresent off activity.
+
 == monitor.chassisPowerSupply.degraded
 *Severity*::
 NOTICE

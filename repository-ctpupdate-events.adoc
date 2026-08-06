@@ -14,6 +14,9 @@ summary: repository.ctpupdate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about repository.ctpupdate EMS events, which report when an update to the Create Time Placement (CTP) ruleset fails.
+
 == Repository.CTPUpdate.Failed
 *Deprecated*::
 Deprecated as of Data ONTAP 9.6 because Infinite Volumes no longer exist.

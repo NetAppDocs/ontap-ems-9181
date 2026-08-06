@@ -14,6 +14,9 @@ summary: wafl.mount events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.mount EMS events for fa incons inconsistent activity.
+
 == wafl.mount.fa.incons
 *Severity*::
 ERROR

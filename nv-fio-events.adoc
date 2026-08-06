@@ -14,6 +14,9 @@ summary: nv.fio events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nv.fio EMS events.
+
 == nv.fio.write.err
 *Severity*::
 ERROR

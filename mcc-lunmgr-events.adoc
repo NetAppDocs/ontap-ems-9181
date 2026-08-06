@@ -14,6 +14,9 @@ summary: mcc.lunmgr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mcc.lunmgr EMS events, which report when failing to allocate a CTL Target LUN ID to a target disk.
+
 == mcc.lunmgr.lunid_alloc_failure
 *Severity*::
 ERROR

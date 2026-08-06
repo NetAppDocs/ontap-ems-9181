@@ -14,6 +14,9 @@ summary: vifmgr.svcpolicy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.svcpolicy EMS events for addsvc deprecated remsvc activity.
+
 == vifmgr.svcPolicy.addSvc
 *Severity*::
 NOTICE

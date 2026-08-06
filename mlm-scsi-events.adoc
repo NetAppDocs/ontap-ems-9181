@@ -14,6 +14,9 @@ summary: mlm.scsi events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mlm.scsi EMS events for supportlvl good activity.
+
 == mlm.SCSI.supportLvl.bad
 *Severity*::
 ALERT

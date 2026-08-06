@@ -14,6 +14,9 @@ summary: quota.parse events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about quota.parse EMS events, which report when the system detects an error while scanning the quota rules.
+
 == quota.parse.error
 *Severity*::
 ERROR

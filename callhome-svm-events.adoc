@@ -14,6 +14,9 @@ summary: callhome.svm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.svm EMS events for mig clean pause activity.
+
 == callhome.svm.mig.abort.fail
 *Severity*::
 ERROR

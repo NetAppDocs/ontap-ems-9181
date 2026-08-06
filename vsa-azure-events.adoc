@@ -14,6 +14,9 @@ summary: vsa.azure events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vsa.azure EMS events for nlb probeactive probeinactive activity.
+
 == vsa.azure.nlb.probeActive
 *Severity*::
 NOTICE

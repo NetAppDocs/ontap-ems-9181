@@ -14,6 +14,9 @@ summary: connectx.ibcabledetected events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about connectx.ibcabledetected EMS events, which report when an InfiniBand cable is detected on the InfiniBand port.
+
 == connectx.IbCableDetected
 *Severity*::
 INFORMATIONAL

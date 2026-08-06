@@ -14,6 +14,9 @@ summary: pubsub.kernel events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about pubsub.kernel EMS events for flow control msg activity.
+
 == pubsub.kernel.flow.control.enabled
 *Deprecated*::
 This event is deprecated as of 9.10.0.

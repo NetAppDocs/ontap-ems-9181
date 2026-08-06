@@ -14,6 +14,9 @@ summary: mcc.drsom events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mcc.drsom EMS events for disk fsm sstbl activity.
+
 == mcc.drsom.disk.filter.fail
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: lun.copy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lun.copy EMS events for dstpresent activity.
+
 == LUN.copy.dstPresent
 *Severity*::
 INFORMATIONAL

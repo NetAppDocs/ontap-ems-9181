@@ -14,6 +14,9 @@ summary: config.pvlan events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about config.pvlan EMS events.
+
 == config.pvlan.created
 *Severity*::
 NOTICE

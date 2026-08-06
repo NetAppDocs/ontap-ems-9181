@@ -14,6 +14,9 @@ summary: ha.tkover events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ha.tkover EMS events for waitarlabort waitgbabort activity.
+
 == ha.tkover.waitARLabort
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: diskown.autoassign events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about diskown.autoassign EMS events for multipleowners multiplepools noowner activity.
+
 == diskown.AutoAssign.MultipleOwners
 *Severity*::
 ERROR

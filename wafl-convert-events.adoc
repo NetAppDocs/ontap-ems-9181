@@ -14,6 +14,9 @@ summary: wafl.convert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.convert EMS events, which report when a directory cannot be safely converted to Unicode format.
+
 == wafl.convert.directory.failed
 *Severity*::
 ERROR

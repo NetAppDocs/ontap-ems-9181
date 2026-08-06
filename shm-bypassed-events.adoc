@@ -14,6 +14,9 @@ summary: shm.bypassed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about shm.bypassed EMS events for disk activity.
+
 == shm.bypassed.disk.fail
 *Deprecated*::
 Deprecated as of Data ONTAP 9.3 because bypass code has been removed.

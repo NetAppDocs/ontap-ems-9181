@@ -14,6 +14,9 @@ summary: usbmon.boot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about usbmon.boot EMS events for device pfa activity.
+
 == usbmon.boot.device.failed
 *Severity*::
 ERROR

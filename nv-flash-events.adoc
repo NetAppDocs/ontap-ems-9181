@@ -14,6 +14,9 @@ summary: nv.flash events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nv.flash EMS events for predict unable to activity.
+
 == nv.flash.predict.fail
 *Severity*::
 ALERT

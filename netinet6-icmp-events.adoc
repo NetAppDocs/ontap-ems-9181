@@ -14,6 +14,9 @@ summary: netinet6.icmp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netinet6.icmp EMS events for chksum redirect reject activity.
+
 == netinet6.icmp.chksum
 *Severity*::
 ERROR

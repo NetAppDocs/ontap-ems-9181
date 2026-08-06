@@ -14,6 +14,9 @@ summary: vifmgr.gcp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.gcp EMS events for nlbddown nlbdup activity.
+
 == vifmgr.gcp.NlbdDown
 *Severity*::
 ERROR

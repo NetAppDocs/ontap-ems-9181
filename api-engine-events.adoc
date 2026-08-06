@@ -14,6 +14,9 @@ summary: api.engine events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about api.engine EMS events, which report when This event is posted when the ONTAPI(R) engine is unexpectedly terminated.
+
 == api.engine.killed
 *Severity*::
 EMERGENCY

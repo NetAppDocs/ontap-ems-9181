@@ -14,6 +14,9 @@ summary: callhome.cpu events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.cpu EMS events for fan fault activity.
+
 == callhome.cpu.fan
 *Severity*::
 ERROR

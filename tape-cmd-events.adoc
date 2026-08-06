@@ -14,6 +14,9 @@ summary: tape.cmd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about tape.cmd EMS events for chkconderr chkcondnullsensedbg cmdfail activity.
+
 == tape.cmd.chkCondErr
 *Severity*::
 ERROR

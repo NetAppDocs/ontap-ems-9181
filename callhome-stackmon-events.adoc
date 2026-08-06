@@ -14,6 +14,9 @@ summary: callhome.stackmon events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.stackmon EMS events, which report when the system fails to assign the correct stack-id to one or more disk shelves.
+
 == callhome.stackmon.recon.failed
 *Severity*::
 ALERT

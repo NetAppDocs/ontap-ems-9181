@@ -14,6 +14,9 @@ summary: fci.device events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fci.device EMS events for general reject login activity.
+
 == fci.device.general.reject
 *Severity*::
 INFORMATIONAL

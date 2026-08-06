@@ -14,6 +14,9 @@ summary: fg.inactive events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fg.inactive EMS events for dc only activity.
+
 == fg.inactive.dc.only.delete
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: snmp.link events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snmp.link EMS events for up activity.
+
 == snmp.link.down
 *Severity*::
 INFORMATIONAL

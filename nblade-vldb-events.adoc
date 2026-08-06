@@ -14,6 +14,9 @@ summary: nblade.vldb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nblade.vldb EMS events for leakedbladelist activity.
+
 == Nblade.vldb.LeakedBladeList
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: callhome.nvdimm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.nvdimm EMS events for cecc failure activity.
+
 == callhome.nvdimm.cecc
 *Severity*::
 ERROR

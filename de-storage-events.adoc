@@ -14,6 +14,9 @@ summary: de.storage events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about de.storage EMS events, which report when ONTAP volume used by AI Data Engine (AIDE) is close to full capacity.
+
 == de.storage.vol.full
 *Severity*::
 ERROR

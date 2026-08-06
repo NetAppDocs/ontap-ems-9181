@@ -14,6 +14,9 @@ summary: cpeer.out events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cpeer.out EMS events, which report when an outgoing cluster peer request authentication fails due to a passphrase mismatch.
+
 == cpeer.out.pp.mismatch
 *Severity*::
 ERROR

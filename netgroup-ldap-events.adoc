@@ -14,6 +14,9 @@ summary: netgroup.ldap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netgroup.ldap EMS events for byhost missing activity.
+
 == netgroup.ldap.byhost.missing
 *Severity*::
 INFORMATIONAL

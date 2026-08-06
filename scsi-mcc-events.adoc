@@ -14,6 +14,9 @@ summary: scsi.mcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about scsi.mcc EMS events, which report when Generated when an I/O request encounters an error due to an iSCSI Protocol Error, a end device error, or some stack internal error.
+
 == scsi.mcc.adt.ioTransportError
 *Severity*::
 ERROR

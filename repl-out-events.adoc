@@ -14,6 +14,9 @@ summary: repl.out events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about repl.out EMS events for of band vbn activity.
+
 == repl.out.of.band.vbn
 *Severity*::
 INFORMATIONAL

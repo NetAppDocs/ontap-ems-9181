@@ -14,6 +14,9 @@ summary: snapvault.qtree events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapvault.qtree EMS events for initiate notcoalesced upgradestatus activity.
+
 == snapvault.qtree.initiate
 *Severity*::
 NOTICE

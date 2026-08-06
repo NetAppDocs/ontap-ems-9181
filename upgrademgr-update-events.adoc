@@ -14,6 +14,9 @@ summary: upgrademgr.update events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about upgrademgr.update EMS events for cancelled pausederr pauseduser activity.
+
 == upgrademgr.update.cancelled
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: sm.mediator events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sm.mediator EMS events for cacert expired expiring activity.
+
 == sm.mediator.added
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: mdb.exit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mdb.exit EMS events, which report when the management process exits to recover from a database error.
+
 == mdb.exit
 *Severity*::
 EMERGENCY

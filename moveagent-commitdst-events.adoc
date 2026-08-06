@@ -14,6 +14,9 @@ summary: moveagent.commitdst events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about moveagent.commitdst EMS events, which report when a 'volume move' operation finishes moving the volume to the destination but fails to update the appropriate information on the destination.
+
 == moveagent.commitdst.fail
 *Severity*::
 ALERT

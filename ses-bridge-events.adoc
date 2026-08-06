@@ -14,6 +14,9 @@ summary: ses.bridge events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ses.bridge EMS events for fw getfailwarn mmerr activity.
+
 == ses.bridge.fw.getFailWarn
 *Severity*::
 ERROR

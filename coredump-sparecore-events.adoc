@@ -14,6 +14,9 @@ summary: coredump.sparecore events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about coredump.sparecore EMS events, which report when Sparecore was aborted by partner.
+
 == coredump.sparecore.killed
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: wafl.buf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.buf EMS events for badheader freeingfreeblock activity.
+
 == wafl.buf.badHeader
 *Severity*::
 EMERGENCY

@@ -14,6 +14,9 @@ summary: config.mirrornotmultipath events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about config.mirrornotmultipath EMS events, which report when a disk is not multipathed but synchronous mirroring is enabled.
+
 == config.MirrorNotMultiPath
 *Severity*::
 ERROR

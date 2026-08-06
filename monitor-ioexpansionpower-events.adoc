@@ -14,6 +14,9 @@ summary: monitor.ioexpansionpower events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.ioexpansionpower EMS events for degraded ok activity.
+
 == monitor.ioexpansionPower.degraded
 *Severity*::
 NOTICE

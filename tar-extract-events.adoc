@@ -14,6 +14,9 @@ summary: tar.extract events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about tar.extract EMS events for failure unhandledtype activity.
+
 == tar.extract.failure
 *Severity*::
 ERROR

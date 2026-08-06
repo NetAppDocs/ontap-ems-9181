@@ -14,6 +14,9 @@ summary: arl.aggronlinetimeout events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about arl.aggronlinetimeout EMS events, which report when a node fails to bring online the aggregate and its containing volumes within the specified time after relocation.
+
 == arl.aggrOnlineTimeout
 *Severity*::
 ALERT

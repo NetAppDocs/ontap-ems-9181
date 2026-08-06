@@ -14,6 +14,9 @@ summary: cluster.op events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cluster.op EMS events for rerun activity.
+
 == cluster.op.fail
 *Severity*::
 ERROR

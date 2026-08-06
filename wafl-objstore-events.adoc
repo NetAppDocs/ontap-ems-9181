@@ -14,6 +14,9 @@ summary: wafl.objstore events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.objstore EMS events, which report when FabricPool aggregate and SnapMirror(R) attempts to share the same underlying objectstore connection pools in a platform where the sharing is not supported.
+
 == wafl.objstore.ownership.conflict
 *Severity*::
 ALERT

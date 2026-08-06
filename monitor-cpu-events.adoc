@@ -14,6 +14,9 @@ summary: monitor.cpu events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.cpu EMS events for ok toobusy activity.
+
 == monitor.cpu.ok
 *Severity*::
 INFORMATIONAL

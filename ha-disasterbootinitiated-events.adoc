@@ -14,6 +14,9 @@ summary: ha.disasterbootinitiated events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ha.disasterbootinitiated EMS events, which report when an HA disaster recovery boot is initiated.
+
 == ha.disasterBootInitiated
 *Severity*::
 NOTICE

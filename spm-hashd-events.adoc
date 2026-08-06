@@ -14,6 +14,9 @@ summary: spm.hashd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about spm.hashd EMS events, which report when the hashd server (hashd) involuntarily terminates.
+
 == spm.hashd.process.exit
 *Severity*::
 ALERT

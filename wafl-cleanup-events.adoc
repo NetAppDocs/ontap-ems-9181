@@ -14,6 +14,9 @@ summary: wafl.cleanup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.cleanup EMS events for after relocate sendhome activity.
+
 == wafl.cleanup.after.giveback
 *Severity*::
 INFORMATIONAL

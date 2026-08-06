@@ -14,6 +14,9 @@ summary: de.job events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about de.job EMS events, which report when a job in AIDP fails to complete successfully.
+
 == de.job.failure
 *Severity*::
 ERROR

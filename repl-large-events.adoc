@@ -14,6 +14,9 @@ summary: repl.large events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about repl.large EMS events for vol limits unsup activity.
+
 == repl.large.vol.600tb.limits.unsup
 *Severity*::
 ERROR

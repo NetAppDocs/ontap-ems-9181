@@ -14,6 +14,9 @@ summary: raid.encrypt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.encrypt EMS events for key activity.
+
 == raid.encrypt.disabled
 *Severity*::
 ALERT

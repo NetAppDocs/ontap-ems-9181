@@ -14,6 +14,9 @@ summary: bcomd.vdisk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about bcomd.vdisk EMS events for repl activity.
+
 == bcomd.vdisk.repl.failed
 *Severity*::
 ERROR

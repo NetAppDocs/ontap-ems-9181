@@ -14,6 +14,9 @@ summary: raid.unsupported events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.unsupported EMS events for bitformat cksumtype activity.
+
 == raid.unsupported.bitformat
 *Severity*::
 ERROR

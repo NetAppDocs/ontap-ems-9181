@@ -14,6 +14,9 @@ summary: scsitarget.fcp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about scsitarget.fcp EMS events for sfp inserted activity.
+
 == scsitarget.fcp.sfp.inserted
 *Severity*::
 INFORMATIONAL

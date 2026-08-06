@@ -14,6 +14,9 @@ summary: ses.psu events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ses.psu EMS events for comboerror coolingreqerror powerreqerror activity.
+
 == ses.psu.comboError
 *Severity*::
 ALERT

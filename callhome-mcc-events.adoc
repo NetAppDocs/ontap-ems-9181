@@ -14,6 +14,9 @@ summary: callhome.mcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.mcc EMS events for auso 2min switchover activity.
+
 == callhome.mcc.auso.2min
 *Severity*::
 ALERT

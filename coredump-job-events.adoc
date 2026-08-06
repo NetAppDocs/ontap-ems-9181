@@ -14,6 +14,9 @@ summary: coredump.job events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about coredump.job EMS events for notstarted notswitchedback activity.
+
 == coredump.job.notstarted
 *Severity*::
 ERROR

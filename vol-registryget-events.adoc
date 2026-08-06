@@ -14,6 +14,9 @@ summary: vol.registryget events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vol.registryget EMS events for no512520bps nondefbps nozonecksum activity.
+
 == vol.registryGet.no512520BPS
 *Severity*::
 NOTICE

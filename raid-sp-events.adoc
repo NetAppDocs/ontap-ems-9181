@@ -14,6 +14,9 @@ summary: raid.sp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.sp EMS events for aggr nodone failure activity.
+
 == raid.sp.add.aggr.grow.noDone
 *Severity*::
 NOTICE

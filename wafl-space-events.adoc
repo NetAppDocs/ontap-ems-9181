@@ -14,6 +14,9 @@ summary: wafl.space events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.space EMS events, which report when an internal error has occurred during a space balancing activity.
+
 == wafl.space.balancing.op.hung
 *Severity*::
 ERROR

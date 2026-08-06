@@ -14,6 +14,9 @@ summary: lmgr.hostfile events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lmgr.hostfile EMS events.
+
 == lmgr.hostfile.cleared
 *Severity*::
 INFORMATIONAL

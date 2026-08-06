@@ -14,6 +14,9 @@ summary: repl.gsr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about repl.gsr EMS events for gs enfrc replication activity.
+
 == repl.gsr.cache.modify.gs.enfrc.failed
 *Severity*::
 ERROR

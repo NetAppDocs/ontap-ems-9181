@@ -14,6 +14,9 @@ summary: mgr.stack events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgr.stack EMS events for at checkpoint proc activity.
+
 == mgr.stack.at
 *Severity*::
 NOTICE

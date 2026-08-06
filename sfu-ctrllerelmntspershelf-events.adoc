@@ -14,6 +14,9 @@ summary: sfu.ctrllerelmntspershelf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sfu.ctrllerelmntspershelf EMS events, which report when a disk shelf firmware download determines the number of controller elements per shelf that can be downloaded.
+
 == sfu.ctrllerElmntsPerShelf
 *Severity*::
 INFORMATIONAL

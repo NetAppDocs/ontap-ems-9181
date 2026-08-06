@@ -14,6 +14,9 @@ summary: mgr.module events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgr.module EMS events, which report when This occurs to inform you of where kernel modules were loaded in memory.
+
 == mgr.module.address
 *Severity*::
 NOTICE

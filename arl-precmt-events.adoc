@@ -14,6 +14,9 @@ summary: arl.precmt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about arl.precmt EMS events for lmgr resync sync activity.
+
 == arl.precmt.lmgr.resync.abrt
 *Severity*::
 NOTICE

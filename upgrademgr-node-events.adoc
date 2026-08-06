@@ -14,6 +14,9 @@ summary: upgrademgr.node events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about upgrademgr.node EMS events for slowboot slowwfg updatedone activity.
+
 == upgrademgr.node.slowboot
 *Severity*::
 NOTICE

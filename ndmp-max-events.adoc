@@ -14,6 +14,9 @@ summary: ndmp.max events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ndmp.max EMS events, which report when the maximum number of NDMP sessions has been reached.
+
 == ndmp.max.warning
 *Severity*::
 NOTICE

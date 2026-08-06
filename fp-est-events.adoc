@@ -14,6 +14,9 @@ summary: fp.est events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fp.est EMS events for catalog vvol gc activity.
+
 == fp.est.scan.catalog.failed
 *Severity*::
 ERROR

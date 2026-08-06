@@ -14,6 +14,9 @@ summary: wafl.rebalance events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.rebalance EMS events, which report when A volume rebalance event has happened.
+
 == wafl.rebalance.vol_affi
 *Severity*::
 NOTICE

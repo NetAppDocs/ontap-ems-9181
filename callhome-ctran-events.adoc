@@ -14,6 +14,9 @@ summary: callhome.ctran events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.ctran EMS events for gcror jpc splitbrain activity.
+
 == callhome.ctran.gcror.timeout
 *Severity*::
 ALERT

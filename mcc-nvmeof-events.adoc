@@ -14,6 +14,9 @@ summary: mcc.nvmeof events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mcc.nvmeof EMS events for rdma disconnect subsystem activity.
+
 == mcc.nvmeof.port.modify
 *Severity*::
 NOTICE

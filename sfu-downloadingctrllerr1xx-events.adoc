@@ -14,6 +14,9 @@ summary: sfu.downloadingctrllerr1xx events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sfu.downloadingctrllerr1xx EMS events, which report when a disk shelf firmware download starts on a particular disk shelf.
+
 == sfu.downloadingCtrllerR1XX
 *Severity*::
 INFORMATIONAL

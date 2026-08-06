@@ -14,6 +14,9 @@ summary: monitor.chassispowersupplies events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.chassispowersupplies EMS events, which report when all power supplies are OK.
+
 == monitor.chassisPowerSupplies.ok
 *Severity*::
 INFORMATIONAL

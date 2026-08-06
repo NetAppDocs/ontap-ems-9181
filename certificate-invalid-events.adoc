@@ -14,6 +14,9 @@ summary: certificate.invalid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about certificate.invalid EMS events, which report when an installed certificate record contains multiple X.509 certificates.
+
 == certificate.invalid.chain
 *Severity*::
 ERROR

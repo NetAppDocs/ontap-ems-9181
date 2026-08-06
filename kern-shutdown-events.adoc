@@ -14,6 +14,9 @@ summary: kern.shutdown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about kern.shutdown EMS events for cantdeleteentry activity.
+
 == kern.shutdown
 *Severity*::
 NOTICE

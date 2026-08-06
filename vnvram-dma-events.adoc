@@ -14,6 +14,9 @@ summary: vnvram.dma events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vnvram.dma EMS events, which report when a vNVRAM flush operation on an ONTAP-v system is taking too much time.
+
 == vnvram.dma.long.wait
 *Severity*::
 ALERT

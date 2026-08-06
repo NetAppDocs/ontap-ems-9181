@@ -14,6 +14,9 @@ summary: mgmtgwd.certificate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmtgwd.certificate EMS events for expired expiring switch activity.
+
 == mgmtgwd.certificate.expired
 *Severity*::
 ERROR

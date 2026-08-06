@@ -14,6 +14,9 @@ summary: vifmgr.clntdev events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.clntdev EMS events.
+
 == vifmgr.clntdev.removed
 *Severity*::
 NOTICE

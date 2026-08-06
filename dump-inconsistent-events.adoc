@@ -14,6 +14,9 @@ summary: dump.inconsistent events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dump.inconsistent EMS events for acl data file activity.
+
 == dump.inconsistent.acl_data
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: lun.vdisk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lun.vdisk EMS events for cnt prov activity.
+
 == LUN.vdisk.cnt.exceeded
 *Severity*::
 ERROR

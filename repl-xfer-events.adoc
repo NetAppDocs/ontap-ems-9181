@@ -14,6 +14,9 @@ summary: repl.xfer events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about repl.xfer EMS events, which report when a replication transfer component (sender or receiver) has taken more than an hour to terminate.
+
 == repl.xfer.term.timed.out
 *Severity*::
 ERROR

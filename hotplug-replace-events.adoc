@@ -14,6 +14,9 @@ summary: hotplug.replace events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about hotplug.replace EMS events, which report when module replacement is successful.
+
 == hotplug.replace.success
 *Severity*::
 NOTICE

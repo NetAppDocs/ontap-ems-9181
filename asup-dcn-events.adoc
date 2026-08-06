@@ -14,6 +14,9 @@ summary: asup.dcn events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about asup.dcn EMS events for sync activity.
+
 == asup.dcn.sync.failed
 *Severity*::
 NOTICE

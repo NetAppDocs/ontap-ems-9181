@@ -14,6 +14,9 @@ summary: cf.hwassist events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cf.hwassist EMS events for default nodemgmtaddr empty activity.
+
 == cf.hwassist.Default.NodemgmtAddr
 *Severity*::
 INFORMATIONAL

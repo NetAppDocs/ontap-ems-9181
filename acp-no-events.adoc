@@ -14,6 +14,9 @@ summary: acp.no events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about acp.no EMS events, which report when the node cannot find a free IP address for the Alternate Control Path (ACP) Management port.
+
 == acp.no.ip
 *Severity*::
 ERROR

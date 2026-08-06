@@ -14,6 +14,9 @@ summary: callhome.hwaccel events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.hwaccel EMS events for qat dump activity.
+
 == callhome.hwaccel.qat.dump
 *Severity*::
 NOTICE

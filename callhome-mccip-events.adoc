@@ -14,6 +14,9 @@ summary: callhome.mccip events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.mccip EMS events for auso collectstats activity.
+
 == callhome.mccip.auso.disabled
 *Severity*::
 ALERT

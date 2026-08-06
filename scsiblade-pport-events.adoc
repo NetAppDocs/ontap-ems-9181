@@ -14,6 +14,9 @@ summary: scsiblade.pport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about scsiblade.pport EMS events for bsh cancel fcp activity.
+
 == scsiblade.pport.bsh.cancel.timeout
 *Severity*::
 NOTICE

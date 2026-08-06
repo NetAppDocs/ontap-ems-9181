@@ -14,6 +14,9 @@ summary: wafl.s2c events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.s2c EMS events for vvbn vmap lang activity.
+
 == wafl.s2c.clone.vvbn.vmap.bad
 *Severity*::
 NOTICE

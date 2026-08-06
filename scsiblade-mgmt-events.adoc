@@ -14,6 +14,9 @@ summary: scsiblade.mgmt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about scsiblade.mgmt EMS events for evt lost mem activity.
+
 == scsiblade.mgmt.evt.lost.mem
 *Severity*::
 ERROR

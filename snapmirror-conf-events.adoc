@@ -14,6 +14,9 @@ summary: snapmirror.conf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapmirror.conf EMS events for depre cpsync invalidstr activity.
+
 == snapmirror.conf.depre.cpsync
 *Severity*::
 ERROR

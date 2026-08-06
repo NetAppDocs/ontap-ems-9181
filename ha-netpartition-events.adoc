@@ -14,6 +14,9 @@ summary: ha.netpartition events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ha.netpartition EMS events for reboot takeover activity.
+
 == ha.netPartition
 *Severity*::
 NOTICE

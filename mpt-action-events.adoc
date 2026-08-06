@@ -14,6 +14,9 @@ summary: mpt.action events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mpt.action EMS events for bus dev activity.
+
 == mpt.action.reset.bus
 *Severity*::
 NOTICE

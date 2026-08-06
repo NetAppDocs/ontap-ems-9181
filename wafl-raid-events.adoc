@@ -14,6 +14,9 @@ summary: wafl.raid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.raid EMS events for snapshot incons buf activity.
+
 == wafl.raid.cft.aggr.snapshot.missing
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: hwaccel.reset events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about hwaccel.reset EMS events, which report when a hardware accelerator is reset using software.
+
 == hwaccel.reset
 *Severity*::
 NOTICE

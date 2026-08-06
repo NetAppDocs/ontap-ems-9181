@@ -14,6 +14,9 @@ summary: sis.cfg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.cfg EMS events for invalidentry setfailed activity.
+
 == sis.cfg.deleted
 *Severity*::
 ERROR

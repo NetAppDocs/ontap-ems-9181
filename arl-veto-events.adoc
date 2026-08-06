@@ -14,6 +14,9 @@ summary: arl.veto events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about arl.veto EMS events for coredump lmgr volmove activity.
+
 == arl.veto.coredump.saveinprog
 *Severity*::
 INFORMATIONAL

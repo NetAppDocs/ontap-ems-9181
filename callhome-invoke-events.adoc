@@ -14,6 +14,9 @@ summary: callhome.invoke events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.invoke EMS events for all remotesplog splog activity.
+
 == callhome.invoke
 *Severity*::
 NOTICE

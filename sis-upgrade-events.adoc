@@ -14,6 +14,9 @@ summary: sis.upgrade events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.upgrade EMS events for aggr metafile feature activity.
+
 == sis.upgrade.aggr.metafile.failed
 *Severity*::
 ERROR

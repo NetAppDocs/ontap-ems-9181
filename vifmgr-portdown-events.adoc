@@ -14,6 +14,9 @@ summary: vifmgr.portdown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.portdown EMS events, which report when a link down event was received on a network port.
+
 == vifmgr.portdown
 *Severity*::
 NOTICE

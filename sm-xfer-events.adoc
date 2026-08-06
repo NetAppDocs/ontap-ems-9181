@@ -14,6 +14,9 @@ summary: sm.xfer events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sm.xfer EMS events for del warn limit activity.
+
 == sm.xfer.fail.del.snap
 *Severity*::
 ERROR

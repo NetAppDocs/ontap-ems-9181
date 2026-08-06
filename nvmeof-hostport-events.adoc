@@ -14,6 +14,9 @@ summary: nvmeof.hostport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvmeof.hostport EMS events.
+
 == nvmeof.hostport.clear
 *Severity*::
 NOTICE

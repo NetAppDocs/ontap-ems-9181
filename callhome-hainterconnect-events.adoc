@@ -14,6 +14,9 @@ summary: callhome.hainterconnect events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.hainterconnect EMS events, which report when the high-availability (HA) interconnect is down.
+
 == callhome.hainterconnect.down
 *Severity*::
 ALERT

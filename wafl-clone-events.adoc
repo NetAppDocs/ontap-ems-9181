@@ -14,6 +14,9 @@ summary: wafl.clone events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.clone EMS events for inherited counters basesnap activity.
+
 == wafl.clone.invalid.inherited.counters
 *Severity*::
 ERROR

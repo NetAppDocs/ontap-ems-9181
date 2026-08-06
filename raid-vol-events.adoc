@@ -14,6 +14,9 @@ summary: raid.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.vol EMS events for req toobig reminder activity.
+
 == raid.vol.disk.add.done
 *Severity*::
 NOTICE

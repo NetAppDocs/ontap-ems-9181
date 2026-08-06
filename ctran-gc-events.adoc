@@ -14,6 +14,9 @@ summary: ctran.gc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ctran.gc EMS events for proposal stuck reselection activity.
+
 == ctran.gc.proposal.stuck
 *Severity*::
 EMERGENCY

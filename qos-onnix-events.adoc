@@ -14,6 +14,9 @@ summary: qos.onnix events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about qos.onnix EMS events, which report when the classification subsystem for Quality of Service (QoS) fails.
+
 == qos.onnix.classf.failure
 *Severity*::
 ERROR

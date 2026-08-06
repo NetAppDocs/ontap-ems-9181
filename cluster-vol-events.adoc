@@ -14,6 +14,9 @@ summary: cluster.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cluster.vol EMS events for feature inoper ok activity.
+
 == cluster.vol.create.success
 *Severity*::
 NOTICE

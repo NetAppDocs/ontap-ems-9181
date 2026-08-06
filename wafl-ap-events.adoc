@@ -14,6 +14,9 @@ summary: wafl.ap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.ap EMS events, which report when adaptive playlist message.
+
 == wafl.ap.info
 *Severity*::
 NOTICE

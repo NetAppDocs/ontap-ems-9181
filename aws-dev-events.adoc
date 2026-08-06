@@ -14,6 +14,9 @@ summary: aws.dev events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about aws.dev EMS events for diskfailure disknotunique limitexceeded activity.
+
 == aws.dev.diskFailure
 *Severity*::
 ERROR

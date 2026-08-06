@@ -14,6 +14,9 @@ summary: km.okm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about km.okm EMS events for count missing key activity.
+
 == km.okm.count.invalid
 *Severity*::
 ALERT

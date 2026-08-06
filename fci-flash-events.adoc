@@ -14,6 +14,9 @@ summary: fci.flash events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fci.flash EMS events for preload reboot activity.
+
 == fci.flash.preload.failed
 *Severity*::
 ERROR

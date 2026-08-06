@@ -14,6 +14,9 @@ summary: repl.cloud events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about repl.cloud EMS events for incons buf gc activity.
+
 == repl.cloud.incons.buf
 *Severity*::
 ERROR

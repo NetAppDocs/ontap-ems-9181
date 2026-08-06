@@ -14,6 +14,9 @@ summary: callhome.checksum events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.checksum EMS events for multiple activity.
+
 == callhome.checksum
 *Severity*::
 ALERT

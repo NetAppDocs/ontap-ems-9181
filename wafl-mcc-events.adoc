@@ -14,6 +14,9 @@ summary: wafl.mcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.mcc EMS events for nso veto sb activity.
+
 == wafl.mcc.config.notFound
 *Deprecated*::
 Deprecated as of version 9.4 as this debug EMS not supported now.

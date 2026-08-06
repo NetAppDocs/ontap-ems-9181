@@ -14,6 +14,9 @@ summary: cf.ic events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cf.ic EMS events for cc clientinitfailed flush activity.
+
 == cf.ic.cc.config.changed
 *Severity*::
 NOTICE

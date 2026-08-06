@@ -14,6 +14,9 @@ summary: snaplock.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snaplock.disk EMS events for import 7mode on activity.
+
 == snaplock.disk.import.7mode
 *Severity*::
 ERROR

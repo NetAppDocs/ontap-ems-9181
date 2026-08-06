@@ -14,6 +14,9 @@ summary: gpo.job events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about gpo.job EMS events for mainupdatefailed mainupdatesuccess outofmemory activity.
+
 == gpo.job.mainUpdateFailed
 *Severity*::
 ERROR

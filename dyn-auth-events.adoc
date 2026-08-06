@@ -14,6 +14,9 @@ summary: dyn.auth events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dyn.auth EMS events for custom comp history activity.
+
 == dyn.auth.custom.comp.error
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: vserver.rbac events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vserver.rbac EMS events for alias command replicaterole activity.
+
 == vserver.rbac.alias.command
 *Deprecated*::
 ONTAP now directly creates a role entry on the target of the alias.

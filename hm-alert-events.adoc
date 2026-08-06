@@ -14,6 +14,9 @@ summary: hm.alert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about hm.alert EMS events for raised activity.
+
 == hm.alert.cleared
 *Severity*::
 NOTICE

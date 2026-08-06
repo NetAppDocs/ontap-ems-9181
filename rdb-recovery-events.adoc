@@ -14,6 +14,9 @@ summary: rdb.recovery events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about rdb.recovery EMS events for succeeded activity.
+
 == rdb.recovery.failed
 *Severity*::
 EMERGENCY

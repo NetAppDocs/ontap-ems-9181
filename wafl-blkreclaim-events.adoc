@@ -14,6 +14,9 @@ summary: wafl.blkreclaim events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.blkreclaim EMS events for noscan activity.
+
 == wafl.blkreclaim.abort
 *Severity*::
 INFORMATIONAL

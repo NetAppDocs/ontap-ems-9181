@@ -14,6 +14,9 @@ summary: vifmgr.port events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.port EMS events for discovered ifgrpaddport monitor activity.
+
 == vifmgr.port.discovered
 *Severity*::
 NOTICE

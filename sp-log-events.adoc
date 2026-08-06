@@ -14,6 +14,9 @@ summary: sp.log events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sp.log EMS events for partition readonly readwrite activity.
+
 == sp.log.partition.full
 *Severity*::
 ERROR

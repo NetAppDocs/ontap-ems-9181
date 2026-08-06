@@ -14,6 +14,9 @@ summary: cecc_log.entry_no_syslog events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cecc_log.entry_no_syslog EMS events, which report when Correctable ECC errors occurred in the system memory.
+
 == cecc_log.entry_no_syslog
 *Severity*::
 NOTICE

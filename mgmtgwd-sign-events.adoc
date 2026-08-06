@@ -14,6 +14,9 @@ summary: mgmtgwd.sign events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmtgwd.sign EMS events for cert expired expiring activity.
+
 == mgmtgwd.sign.cert.expired
 *Severity*::
 ERROR

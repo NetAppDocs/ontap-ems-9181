@@ -14,6 +14,9 @@ summary: vifmgr.portdeg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.portdeg EMS events for ifgrpadded lifhosted lifmoved activity.
+
 == vifmgr.portDeg.ifgrpAdded
 *Severity*::
 NOTICE

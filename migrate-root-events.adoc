@@ -14,6 +14,9 @@ summary: migrate.root events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about migrate.root EMS events.
+
 == migrate.root.completed
 *Severity*::
 NOTICE

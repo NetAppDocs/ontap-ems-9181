@@ -14,6 +14,9 @@ summary: replication.nomemory events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about replication.nomemory EMS events, which report when there is insufficient memory for the replication transfer to continue.
+
 == replication.noMemory
 *Severity*::
 ALERT

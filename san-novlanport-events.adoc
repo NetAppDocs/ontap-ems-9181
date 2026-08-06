@@ -14,6 +14,9 @@ summary: san.novlanport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about san.novlanport EMS events, which report when a clustered Data ONTAP(R) system is in a MetroCluster(TM) configuration.
+
 == san.NoVlanPort
 *Severity*::
 ERROR

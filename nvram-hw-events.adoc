@@ -14,6 +14,9 @@ summary: nvram.hw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvram.hw EMS events for degraded initfail normal activity.
+
 == nvram.hw.degraded
 *Severity*::
 ERROR

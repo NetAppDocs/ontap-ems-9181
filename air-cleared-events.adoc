@@ -14,6 +14,9 @@ summary: air.cleared events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about air.cleared EMS events, which report when the Automated Incremental Repair (AIR) subsystem clears an entry in the qtree metafile due to inconsistent data in that entry.
+
 == air.cleared.qtm.entry
 *Severity*::
 NOTICE

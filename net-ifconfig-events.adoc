@@ -14,6 +14,9 @@ summary: net.ifconfig events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about net.ifconfig EMS events for addlimitexceed ioctlerror activity.
+
 == net.ifconfig.addLimitExceed
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: wafl.hya events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.hya EMS events for policy bc cbi activity.
+
 == wafl.hya.aggr.policy.init
 *Severity*::
 INFORMATIONAL

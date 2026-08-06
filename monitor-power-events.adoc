@@ -14,6 +14,9 @@ summary: monitor.power events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about monitor.power EMS events for degraded normal sufficient activity.
+
 == monitor.power.degraded
 *Deprecated*::
 Deprecated as of version 9.2. Last used in 7.3.6 on Tin and Dell one-PSU systems. It is the last user of snmp trap 43.

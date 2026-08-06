@@ -14,6 +14,9 @@ summary: km.run events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about km.run EMS events for setup needed onboard activity.
+
 == km.run.external.setup
 *Severity*::
 ERROR

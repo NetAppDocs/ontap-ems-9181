@@ -14,6 +14,9 @@ summary: snapdiff.rebl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapdiff.rebl EMS events for absent allocated block activity.
+
 == snapdiff.rebl.absent.allocated.block
 *Severity*::
 INFORMATIONAL

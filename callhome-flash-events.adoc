@@ -14,6 +14,9 @@ summary: callhome.flash events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.flash EMS events for degraded offlined activity.
+
 == callhome.flash.cache.degraded
 *Severity*::
 ERROR

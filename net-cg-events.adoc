@@ -14,6 +14,9 @@ summary: net.cg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about net.cg EMS events for backpressureentered ratelimited utilthresholdexceed activity.
+
 == net.cg.backpressureEntered
 *Severity*::
 NOTICE

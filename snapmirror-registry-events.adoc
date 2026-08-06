@@ -14,6 +14,9 @@ summary: snapmirror.registry events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapmirror.registry EMS events, which report when the system cleans up an invalid value in SnapMirror(R) registry.
+
 == snapmirror.registry.cleanup
 *Severity*::
 INFORMATIONAL

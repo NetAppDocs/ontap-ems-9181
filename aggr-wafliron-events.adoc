@@ -14,6 +14,9 @@ summary: aggr.wafliron events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about aggr.wafliron EMS events, which report when wafliron is started.
+
 == aggr.wafliron.attemptStart
 *Severity*::
 INFORMATIONAL

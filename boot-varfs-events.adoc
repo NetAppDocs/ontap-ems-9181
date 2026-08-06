@@ -14,6 +14,9 @@ summary: boot.varfs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about boot.varfs EMS events for backup issue forced activity.
+
 == boot.varfs.backup.issue
 *Severity*::
 EMERGENCY

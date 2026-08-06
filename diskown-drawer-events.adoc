@@ -14,6 +14,9 @@ summary: diskown.drawer events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about diskown.drawer EMS events for assignstatus invalidshlf multiowners activity.
+
 == diskown.drawer.assignStatus
 *Severity*::
 NOTICE

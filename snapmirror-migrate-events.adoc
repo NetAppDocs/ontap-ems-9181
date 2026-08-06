@@ -14,6 +14,9 @@ summary: snapmirror.migrate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapmirror.migrate EMS events for dsterr entryfound fsiderr activity.
+
 == snapmirror.migrate.complete
 *Severity*::
 NOTICE

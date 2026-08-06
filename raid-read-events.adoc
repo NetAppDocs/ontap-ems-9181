@@ -14,6 +14,9 @@ summary: raid.read events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.read EMS events for cksum blk media activity.
+
 == raid.read.cksum.blk.err
 *Deprecated*::
 Deprecated as of version 9.9.1 because this EMS does not appropriately describe the checksum block error.

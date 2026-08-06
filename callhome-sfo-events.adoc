@@ -14,6 +14,9 @@ summary: callhome.sfo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.sfo EMS events for downrev takeover m activity.
+
 == callhome.sfo.downrev
 *Severity*::
 ERROR

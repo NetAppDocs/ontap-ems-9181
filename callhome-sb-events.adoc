@@ -14,6 +14,9 @@ summary: callhome.sb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.sb EMS events for pp fcp failo activity.
+
 == callhome.sb.pp.fcp.failo.err
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: cloud.gcpcredsinvalid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cloud.gcpcredsinvalid EMS events, which report when the system acquires Google Cloud Platform (GCP) Service Account based credentials that are not valid.
+
 == cloud.gcpCredsInvalid
 *Severity*::
 ERROR

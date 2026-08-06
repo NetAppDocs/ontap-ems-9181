@@ -14,6 +14,9 @@ summary: kern.syslog events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about kern.syslog EMS events for drops msg activity.
+
 == kern.syslog.drops
 *Severity*::
 ERROR

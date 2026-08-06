@@ -14,6 +14,9 @@ summary: vsdr.ip events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vsdr.ip EMS events for lif home activity.
+
 == vsdr.ip.lif.auto.created
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: nvmens.out events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvmens.out EMS events, which report when an NVMe namespace has been brought offline due to a write failure due to lack of space.
+
 == NVMeNS.out.of.space
 *Severity*::
 EMERGENCY

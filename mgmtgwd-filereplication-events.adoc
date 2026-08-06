@@ -14,6 +14,9 @@ summary: mgmtgwd.filereplication events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmtgwd.filereplication EMS events for failverify forbidden nopubroot activity.
+
 == mgmtgwd.filereplication.failverify
 *Severity*::
 ERROR

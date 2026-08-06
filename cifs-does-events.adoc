@@ -14,6 +14,9 @@ summary: cifs.does events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cifs.does EMS events, which report when a Vserver or Cluster administrator attempts to initialize Snapmirror on Async VserverDR ID Discard setup without creating a CIFS server at destination.
+
 == cifs.does.not.exist
 *Severity*::
 ERROR

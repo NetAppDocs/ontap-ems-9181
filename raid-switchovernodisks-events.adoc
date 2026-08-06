@@ -14,6 +14,9 @@ summary: raid.switchovernodisks events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.switchovernodisks EMS events, which report when a MetroCluster(tm) switchover finds no disks during RAID assimilation.
+
 == raid.switchoverNoDisks
 *Severity*::
 INFORMATIONAL

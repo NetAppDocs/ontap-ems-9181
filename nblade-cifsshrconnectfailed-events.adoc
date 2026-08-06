@@ -14,6 +14,9 @@ summary: nblade.cifsshrconnectfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nblade.cifsshrconnectfailed EMS events, which report when the network blade cannot connect to the path specified in the CIFS share.
+
 == Nblade.cifsShrConnectFailed
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: malloc.failure events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about malloc.failure EMS events for detail activity.
+
 == malloc.failure
 *Severity*::
 ERROR

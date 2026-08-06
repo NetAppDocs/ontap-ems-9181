@@ -14,6 +14,9 @@ summary: callhome.clus events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.clus EMS events for net degraded vol activity.
+
 == callhome.clus.net.degraded
 *Severity*::
 ALERT

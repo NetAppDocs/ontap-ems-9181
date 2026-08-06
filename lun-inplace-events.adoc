@@ -14,6 +14,9 @@ summary: lun.inplace events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lun.inplace EMS events for dmprstrlunonns dmprstrnsonlun dumprestorefail activity.
+
 == LUN.inplace.dmpRstrLUNonNS
 *Severity*::
 ERROR

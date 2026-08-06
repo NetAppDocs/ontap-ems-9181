@@ -14,6 +14,9 @@ summary: sfu.adaptersuspendio events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sfu.adaptersuspendio EMS events for ndu activity.
+
 == sfu.adapterSuspendIO
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: dml.drive events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dml.drive EMS events for status activity.
+
 == dml.drive.offline.status
 *Severity*::
 NOTICE

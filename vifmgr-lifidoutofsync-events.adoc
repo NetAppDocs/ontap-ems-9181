@@ -14,6 +14,9 @@ summary: vifmgr.lifidoutofsync events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vifmgr.lifidoutofsync EMS events, which report when a Logical Interface (LIF) is configured in the Logical Interface manager (VIFMgr) but is not visible in the user interface.".
+
 == vifmgr.lifIdOutOfSync
 *Severity*::
 ERROR

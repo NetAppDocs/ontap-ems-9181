@@ -14,6 +14,9 @@ summary: wafl.bad events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.bad EMS events for aggr buftree type activity.
+
 == wafl.bad.aggr.buftree.type
 *Severity*::
 EMERGENCY

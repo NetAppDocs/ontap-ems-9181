@@ -14,6 +14,9 @@ summary: km.cmek events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about km.cmek EMS events for akvkms available gckms activity.
+
 == km.cmek.akvkms.active
 *Severity*::
 NOTICE

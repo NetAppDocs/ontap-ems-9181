@@ -14,6 +14,9 @@ summary: ses.loop events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ses.loop EMS events for configerr configok loopmapunavailable activity.
+
 == ses.loop.configErr
 *Severity*::
 ALERT

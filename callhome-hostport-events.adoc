@@ -14,6 +14,9 @@ summary: callhome.hostport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.hostport EMS events for bypass activity.
+
 == callhome.hostport.bypass
 *Severity*::
 ALERT

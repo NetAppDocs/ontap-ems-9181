@@ -14,6 +14,9 @@ summary: cifs.domainpwd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about cifs.domainpwd EMS events for job deletion sched activity.
+
 == cifs.domainpwd.job.deletion
 *Severity*::
 NOTICE

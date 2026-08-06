@@ -14,6 +14,9 @@ summary: vserver.ipspace events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vserver.ipspace EMS events for lookupfailed notavailable notfound activity.
+
 == vserver.ipspace.lookupfailed
 *Severity*::
 ALERT

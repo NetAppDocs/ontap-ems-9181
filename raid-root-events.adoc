@@ -14,6 +14,9 @@ summary: raid.root events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.root EMS events for unmirrored vol nofaultisolation activity.
+
 == raid.root.unmirrored
 *Severity*::
 ALERT

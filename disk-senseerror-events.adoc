@@ -14,6 +14,9 @@ summary: disk.senseerror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about disk.senseerror EMS events, which report when the drive reports an error.
+
 == disk.senseError
 *Severity*::
 ERROR

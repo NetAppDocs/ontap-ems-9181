@@ -14,6 +14,9 @@ summary: disk.lun events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about disk.lun EMS events for allmemoryavailable outofmemory sizetoolarge activity.
+
 == disk.lun.allMemoryAvailable
 *Severity*::
 NOTICE

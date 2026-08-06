@@ -14,6 +14,9 @@ summary: km.volume events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about km.volume EMS events for mount mismatch activity.
+
 == km.volume.mount.fail
 *Severity*::
 ALERT

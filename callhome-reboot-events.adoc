@@ -14,6 +14,9 @@ summary: callhome.reboot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.reboot EMS events for halt reboot sk activity.
+
 == callhome.reboot
 *Severity*::
 NOTICE

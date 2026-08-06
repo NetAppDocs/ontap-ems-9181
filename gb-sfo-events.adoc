@@ -14,6 +14,9 @@ summary: gb.sfo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about gb.sfo EMS events for veto precmt lmgr activity.
+
 == gb.sfo.abort.raid.fm
 *Severity*::
 ERROR

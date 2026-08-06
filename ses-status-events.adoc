@@ -14,6 +14,9 @@ summary: ses.status events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ses.status EMS events for battery info dimm activity.
+
 == ses.status.ACPError
 *Severity*::
 ALERT

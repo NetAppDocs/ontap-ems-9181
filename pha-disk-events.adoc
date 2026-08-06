@@ -14,6 +14,9 @@ summary: pha.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about pha.disk EMS events for type lookup activity.
+
 == pha.disk.type.changed
 *Severity*::
 ERROR

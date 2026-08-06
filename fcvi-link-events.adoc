@@ -14,6 +14,9 @@ summary: fcvi.link events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fcvi.link EMS events for up activity.
+
 == fcvi.link.down
 *Severity*::
 NOTICE

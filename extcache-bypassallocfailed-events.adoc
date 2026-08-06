@@ -14,6 +14,9 @@ summary: extcache.bypassallocfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about extcache.bypassallocfailed EMS events, which report when External Cache cannot be enabled due to a memory allocation error.
+
 == extCache.BypassAllocFailed
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: coredump.segment events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about coredump.segment EMS events for pfail activity.
+
 == coredump.segment.auto.fail
 *Severity*::
 NOTICE

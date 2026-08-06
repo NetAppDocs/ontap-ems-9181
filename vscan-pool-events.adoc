@@ -14,6 +14,9 @@ summary: vscan.pool events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vscan.pool EMS events for autoactivated autodeactivated largereqtimeout activity.
+
 == vscan.pool.autoActivated
 *Severity*::
 INFORMATIONAL

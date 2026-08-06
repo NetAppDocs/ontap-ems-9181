@@ -14,6 +14,9 @@ summary: netif.fwupdatestatus events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netif.fwupdatestatus EMS events, which report when the status of a network interface firmware update.
+
 == netif.fwUpdateStatus
 *Severity*::
 NOTICE

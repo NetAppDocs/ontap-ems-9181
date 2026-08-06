@@ -14,6 +14,9 @@ summary: time.stamp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about time.stamp EMS events for micro base nano activity.
+
 == time.stamp.micro.base
 *Severity*::
 NOTICE

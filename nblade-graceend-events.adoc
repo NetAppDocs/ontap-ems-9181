@@ -14,6 +14,9 @@ summary: nblade.graceend events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nblade.graceend EMS events, which report when the NFS server exits the grace state.
+
 == Nblade.graceEnd
 *Severity*::
 NOTICE

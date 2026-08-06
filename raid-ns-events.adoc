@@ -14,6 +14,9 @@ summary: raid.ns events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about raid.ns EMS events for removeownership skipunpartition unpartition activity.
+
 == raid.ns.init.removeOwnership
 *Severity*::
 NOTICE

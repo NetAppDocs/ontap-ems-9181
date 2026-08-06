@@ -14,6 +14,9 @@ summary: callhome.ha events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.ha EMS events, which report when the HA network security is enabled.
+
 == callhome.ha.net.sec.enabled
 *Severity*::
 NOTICE

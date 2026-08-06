@@ -14,6 +14,9 @@ summary: callhome.vfiler events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.vfiler EMS events for to dst src activity.
+
 == callhome.vfiler.move.to.dst
 *Severity*::
 ALERT

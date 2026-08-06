@@ -14,6 +14,9 @@ summary: other.veto events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about other.veto EMS events for kmgr keysmissing query activity.
+
 == other.veto.kmgr.keysmissing
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: nblade.pcp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nblade.pcp EMS events for linkthrashing rdma conndrop activity.
+
 == Nblade.pcp.linkThrashing
 *Severity*::
 INFORMATIONAL

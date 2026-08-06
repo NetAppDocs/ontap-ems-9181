@@ -14,6 +14,9 @@ summary: mlm.vmdisk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mlm.vmdisk EMS events for discovery pathadded activity.
+
 == mlm.vmdisk.discovery
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: ccma.quota events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ccma.quota EMS events for datastore leak file activity.
+
 == ccma.quota.datastore.leak
 *Severity*::
 ERROR

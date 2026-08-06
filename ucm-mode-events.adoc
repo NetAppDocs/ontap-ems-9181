@@ -14,6 +14,9 @@ summary: ucm.mode events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ucm.mode EMS events for autoreboot needsreboot activity.
+
 == ucm.mode.autoReboot
 *Severity*::
 INFORMATIONAL

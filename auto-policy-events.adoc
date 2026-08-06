@@ -14,6 +14,9 @@ summary: auto.policy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about auto.policy EMS events for feature done activity.
+
 == auto.policy.feature.enable
 *Severity*::
 NOTICE

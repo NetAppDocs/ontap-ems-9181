@@ -14,6 +14,9 @@ summary: flexcache.svmdr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about flexcache.svmdr EMS events for ecv warn notification activity.
+
 == flexcache.svmdr.ecv.warn
 *Severity*::
 ERROR

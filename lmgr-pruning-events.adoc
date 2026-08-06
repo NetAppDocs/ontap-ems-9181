@@ -14,6 +14,9 @@ summary: lmgr.pruning events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about lmgr.pruning EMS events, which report when there is a delay in pruning and removing unused entries in the volume lock manager hosts file.
+
 == lmgr.pruning.delayed
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: de.dsai events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about de.dsai EMS events, which report when there is an error starting up Data Services for AI.
+
 == de.dsai.service.startup.fail
 *Severity*::
 ERROR

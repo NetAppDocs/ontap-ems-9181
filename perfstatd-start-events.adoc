@@ -14,6 +14,9 @@ summary: perfstatd.start events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about perfstatd.start EMS events, which report when the perfstat daemon (perfstatd) startup fails.
+
 == perfstatd.start.unsuccessful
 *Severity*::
 ERROR

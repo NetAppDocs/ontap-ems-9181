@@ -14,6 +14,9 @@ summary: mgmtgwd.volcreatedrestricted events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmtgwd.volcreatedrestricted EMS events, which report when a volume is created in the restricted state.
+
 == mgmtgwd.volcreatedrestricted
 *Severity*::
 NOTICE

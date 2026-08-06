@@ -14,6 +14,9 @@ summary: fpolicy.eagain events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fpolicy.eagain EMS events for disconnect on activity.
+
 == fpolicy.eagain.disconnect
 *Severity*::
 ALERT

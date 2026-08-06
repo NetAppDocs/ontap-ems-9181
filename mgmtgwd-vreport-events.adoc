@@ -14,6 +14,9 @@ summary: mgmtgwd.vreport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmtgwd.vreport EMS events, which report when the 'debug vreport' command found that some nodes were unreachable.
+
 == mgmtgwd.vreport.nodesUnreachable
 *Severity*::
 ERROR

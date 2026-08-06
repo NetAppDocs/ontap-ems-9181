@@ -14,6 +14,9 @@ summary: nblade.cifs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nblade.cifs EMS events for budgetallocfailure logon audit activity.
+
 == Nblade.cifs.budgetAllocFailure
 *Severity*::
 ERROR

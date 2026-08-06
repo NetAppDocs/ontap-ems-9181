@@ -14,6 +14,9 @@ summary: callhome.hm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.hm EMS events for alert critical major activity.
+
 == callhome.hm.alert.critical
 *Severity*::
 ALERT

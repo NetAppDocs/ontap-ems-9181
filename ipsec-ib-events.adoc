@@ -14,6 +14,9 @@ summary: ipsec.ib events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ipsec.ib EMS events for encrypt lookup policy activity.
+
 == ipsec.ib.bad.encrypt
 *Severity*::
 ALERT

@@ -14,6 +14,9 @@ summary: netif.overtemperror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about netif.overtemperror EMS events, which report when a network port is too hot or a sensor has malfunctioned.
+
 == netif.overTempError
 *Severity*::
 EMERGENCY

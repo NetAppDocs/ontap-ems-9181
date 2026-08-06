@@ -14,6 +14,9 @@ summary: wafl.enc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.enc EMS events for aggrmfrecreated aggrmfrecreatefail activity.
+
 == wafl.enc.aggrMFRecreated
 *Severity*::
 NOTICE

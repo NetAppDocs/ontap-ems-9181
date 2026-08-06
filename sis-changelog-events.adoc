@@ -14,6 +14,9 @@ summary: sis.changelog events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.changelog EMS events for noinit noload truncate activity.
+
 == sis.changelog.full
 *Severity*::
 ERROR

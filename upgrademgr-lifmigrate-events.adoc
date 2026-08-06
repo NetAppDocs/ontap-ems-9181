@@ -14,6 +14,9 @@ summary: upgrademgr.lifmigrate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about upgrademgr.lifmigrate EMS events for sfo activity.
+
 == upgrademgr.LIFmigrate.end
 *Severity*::
 NOTICE

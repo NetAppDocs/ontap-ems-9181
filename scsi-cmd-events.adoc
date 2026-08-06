@@ -14,6 +14,9 @@ summary: scsi.cmd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about scsi.cmd EMS events for checkcondition atatimeout fw activity.
+
 == scsi.cmd.aborted
 *Deprecated*::
 This event has been removed as it does not provide any useful information for a customer.

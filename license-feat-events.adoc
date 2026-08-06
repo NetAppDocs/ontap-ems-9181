@@ -14,6 +14,9 @@ summary: license.feat events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about license.feat EMS events for install installed activity.
+
 == license.feat.delete.failed
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: callhome.fcp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.fcp EMS events for adapter sram dump activity.
+
 == callhome.fcp.adapter.failed
 *Severity*::
 ERROR

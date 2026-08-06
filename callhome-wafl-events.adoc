@@ -14,6 +14,9 @@ summary: callhome.wafl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.wafl EMS events for inconsistent block user activity.
+
 == callhome.wafl.check
 *Severity*::
 ALERT

@@ -14,6 +14,9 @@ summary: mcc.ctlbe events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mcc.ctlbe EMS events for iodelayed ioresponsedelayed activity.
+
 == mcc.ctlbe.IODelayed
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: disk.maint events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about disk.maint EMS events for test activity.
+
 == disk.maint.test.end
 *Severity*::
 NOTICE

@@ -14,6 +14,9 @@ summary: nvmf.qos events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nvmf.qos EMS events for mismatch policy r2 activity.
+
 == nvmf.qos.mismatch.policy.r2
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: vscan.privsharecreate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about vscan.privsharecreate EMS events, which report when the creation of privileged share ONTAP_ADMIN$ fails.
+
 == vscan.privShareCreate.failed
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: fg.recover events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fg.recover EMS events.
+
 == fg.recover.fail
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: wafl.analytics events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.analytics EMS events for air sp valid activity.
+
 == wafl.analytics.air.uh
 *Severity*::
 ALERT

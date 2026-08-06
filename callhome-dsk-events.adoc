@@ -14,6 +14,9 @@ summary: callhome.dsk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.dsk EMS events for bypass fault label activity.
+
 == callhome.dsk.bypass
 *Severity*::
 ERROR

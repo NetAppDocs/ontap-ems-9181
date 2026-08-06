@@ -14,6 +14,9 @@ summary: scsitarget.slifct events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about scsitarget.slifct EMS events for asyncerror fwautoboot fwneedboot activity.
+
 == scsitarget.slifct.asyncError
 *Deprecated*::
 Deprecated as of ONTAP(R) version 9.2.0 in an effort reduce event messages.

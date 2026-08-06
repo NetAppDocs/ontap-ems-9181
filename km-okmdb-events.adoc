@@ -14,6 +14,9 @@ summary: km.okmdb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about km.okmdb EMS events.
+
 == km.okmdb.read.failed
 *Severity*::
 ALERT

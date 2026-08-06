@@ -14,6 +14,9 @@ summary: fmmb.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about fmmb.disk EMS events for idchange notaccsble activity.
+
 == fmmb.disk.IDchange
 *Severity*::
 INFORMATIONAL

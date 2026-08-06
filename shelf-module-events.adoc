@@ -14,6 +14,9 @@ summary: shelf.module events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about shelf.module EMS events for failure element missing activity.
+
 == shelf.module.configuration.failure
 *Severity*::
 ERROR

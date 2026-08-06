@@ -14,6 +14,9 @@ summary: wafl.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.vol EMS events for snapshot quiesce quiesceto activity.
+
 == wafl.vol.access.denied
 *Severity*::
 ERROR

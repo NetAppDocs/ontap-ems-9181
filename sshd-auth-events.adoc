@@ -14,6 +14,9 @@ summary: sshd.auth events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sshd.auth EMS events, which report when This event is issued when sshd refuses a login attempt due to authentication failure.
+
 == sshd.auth.loginDenied
 *Severity*::
 NOTICE

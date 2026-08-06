@@ -14,6 +14,9 @@ summary: ses.shelf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ses.shelf EMS events for ctrlfailerr request fw activity.
+
 == ses.shelf.bay.populate
 *Severity*::
 INFORMATIONAL

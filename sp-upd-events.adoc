@@ -14,6 +14,9 @@ summary: sp.upd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sp.upd EMS events for fw package depot activity.
+
 == sp.upd.bad.fw.package
 *Severity*::
 ERROR

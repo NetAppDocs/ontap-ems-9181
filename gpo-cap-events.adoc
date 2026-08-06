@@ -14,6 +14,9 @@ summary: gpo.cap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about gpo.cap EMS events for applied notapplied activity.
+
 == gpo.CAP.applied
 *Severity*::
 INFORMATIONAL

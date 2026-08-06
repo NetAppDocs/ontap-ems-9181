@@ -14,6 +14,9 @@ summary: callhome.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.disk EMS events for carrier evacuation notpossible activity.
+
 == callhome.disk.carrier.evacuation.notpossible
 *Severity*::
 ALERT

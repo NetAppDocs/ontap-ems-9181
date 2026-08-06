@@ -14,6 +14,9 @@ summary: xinetd.hit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about xinetd.hit EMS events for cps limit instances activity.
+
 == xinetd.hit.cps.limit
 *Severity*::
 ERROR

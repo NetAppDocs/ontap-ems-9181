@@ -14,6 +14,9 @@ summary: gb.cfo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about gb.cfo EMS events for veto coredump lmgr activity.
+
 == gb.cfo.abort.raid.fm
 *Severity*::
 ERROR

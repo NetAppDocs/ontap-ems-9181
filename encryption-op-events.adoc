@@ -14,6 +14,9 @@ summary: encryption.op events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about encryption.op EMS events for paused by user activity.
+
 == encryption.op.completed
 *Severity*::
 NOTICE

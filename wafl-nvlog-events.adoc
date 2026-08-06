@@ -14,6 +14,9 @@ summary: wafl.nvlog events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about wafl.nvlog EMS events for stats createerror writeerror activity.
+
 == wafl.nvlog.stats.createError
 *Severity*::
 NOTICE

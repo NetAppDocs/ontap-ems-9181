@@ -14,6 +14,9 @@ summary: ndo.cr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about ndo.cr EMS events for nso mccip paused activity.
+
 == ndo.cr.canceled
 *Severity*::
 NOTICE

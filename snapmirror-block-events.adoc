@@ -14,6 +14,9 @@ summary: snapmirror.block events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about snapmirror.block EMS events for on reconstruct reconstructerr activity.
+
 == snapmirror.block.on.reconstruct
 *Severity*::
 NOTICE

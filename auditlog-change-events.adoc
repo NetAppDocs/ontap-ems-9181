@@ -14,6 +14,9 @@ summary: auditlog.change events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about auditlog.change EMS events, which report when the system detects that audit log files have been tampered with.
+
 == auditlog.change.detected
 *Severity*::
 ERROR

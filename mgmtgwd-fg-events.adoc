@@ -14,6 +14,9 @@ summary: mgmtgwd.fg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about mgmtgwd.fg EMS events for 32bit nfs3ids constituent activity.
+
 == mgmtgwd.fg.32bit.nfs3ids
 *Severity*::
 ERROR

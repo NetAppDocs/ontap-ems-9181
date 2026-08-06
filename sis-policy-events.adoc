@@ -14,6 +14,9 @@ summary: sis.policy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sis.policy EMS events for predef upgradeerror activity.
+
 == sis.policy.predef.create.upgradeError
 *Severity*::
 NOTICE

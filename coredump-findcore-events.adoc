@@ -14,6 +14,9 @@ summary: coredump.findcore events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about coredump.findcore EMS events for nospace partial nosave activity.
+
 == coredump.findcore.error
 *Severity*::
 ERROR

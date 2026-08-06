@@ -14,6 +14,9 @@ summary: sas.adapter events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sas.adapter EMS events for wwn debug firmware activity.
+
 == sas.adapter.bad.WWN
 *Severity*::
 ERROR

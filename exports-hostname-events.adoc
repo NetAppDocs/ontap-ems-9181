@@ -14,6 +14,9 @@ summary: exports.hostname events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about exports.hostname EMS events for notfound transient activity.
+
 == exports.hostname.notFound
 *Severity*::
 INFORMATIONAL

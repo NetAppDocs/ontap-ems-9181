@@ -14,6 +14,9 @@ summary: repl.holdblock events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about repl.holdblock EMS events for arrived activity.
+
 == repl.holdblock.arrived
 *Severity*::
 INFORMATIONAL

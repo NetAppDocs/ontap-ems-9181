@@ -14,6 +14,9 @@ summary: acp.upgrade events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about acp.upgrade EMS events, which report when the Alternate Control Path (ACP) Administrator determines that the ACP Processor has successfully upgraded the firmware.
+
 == acp.upgrade.successful
 *Severity*::
 INFORMATIONAL

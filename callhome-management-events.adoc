@@ -14,6 +14,9 @@ summary: callhome.management events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about callhome.management EMS events for rotate activity.
+
 == callhome.management.log
 *Severity*::
 NOTICE

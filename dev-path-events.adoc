@@ -14,6 +14,9 @@ summary: dev.path events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about dev.path EMS events, which report when the system fails to discover the drive.
+
 == dev.path.inquiry.failed
 *Severity*::
 ERROR

@@ -14,6 +14,9 @@ summary: nis.server events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about nis.server EMS events for inactive domain available activity.
+
 == nis.server.active
 *Severity*::
 INFORMATIONAL

@@ -14,6 +14,9 @@ summary: sp.network events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Learn about sp.network EMS events for ipv6 notifdisable link activity.
+
 == sp.network.ipv6.disable
 *Severity*::
 ERROR
