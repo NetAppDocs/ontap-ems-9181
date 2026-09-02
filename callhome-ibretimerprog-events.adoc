@@ -15,7 +15,7 @@ summary: callhome.ibretimerprog events
 :imagesdir: ./media/
 
 [.lead]
-callhome.ibretimerprog events are reported when infiniBand (IB) retimer programming of the high- availability (HA) interconnect link failed after multiple retry attempts, and corrective actions typically involve following the documented corrective action guidance.
+callhome.ibretimerprog EMS events occur when InfiniBand (IB) retimer programming of the high- availability (HA) interconnect link failed after multiple retry attempts.
 
 == callhome.ibretimerprog.fail
 *Severity*::

@@ -15,7 +15,7 @@ summary: disk.partition events
 :imagesdir: ./media/
 
 [.lead]
-disk.partition events are reported when the disk partition layout contains more partitions than are supported by the system, and corrective actions typically involve following the documented corrective action guidance.
+disk.partition EMS events occur when the disk partition layout contains more partitions than are supported by the system.
 
 == disk.partition.exceeded
 *Severity*::

@@ -15,7 +15,7 @@ summary: rlib.ifconfig events
 :imagesdir: ./media/
 
 [.lead]
-rlib.ifconfig events are reported when there is a link event on the MCC/IP managed interface, and corrective actions typically involve following the documented corrective action guidance.
+rlib.ifconfig EMS events occur when there is a link event on the MCC/IP or HA managed interface.
 
 == rlib.ifconfig.linkEvent
 *Severity*::

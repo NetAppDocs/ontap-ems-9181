@@ -15,7 +15,7 @@ summary: sas.cpr events
 :imagesdir: ./media/
 
 [.lead]
-sas.cpr events are reported when the CPR (Core PCIe Resilience) infrastructure determines that the SAS controller hardware cannot be recovered, and the associated SAS ports will be taken offline, and corrective actions typically involve following the documented corrective action guidance.
+sas.cpr EMS events occur when ONTAP encounters issues associated with CPR (Core PCIe Resilience) recovery of SAS controllers.
 
 == sas.cpr.failed
 *Severity*::

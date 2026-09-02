@@ -15,7 +15,7 @@ summary: disk.toomanypartitioneddisks events
 :imagesdir: ./media/
 
 [.lead]
-disk.toomanypartitioneddisks events are reported when data ONTAP(R) finds more partitioned disks present on a platform than the platform supports, and corrective actions typically involve following the documented corrective action guidance.
+disk.toomanypartitioneddisks EMS events occur when Data ONTAP(R) finds more partitioned disks present on a platform than the platform supports.
 
 == disk.tooManyPartitionedDisks
 *Severity*::

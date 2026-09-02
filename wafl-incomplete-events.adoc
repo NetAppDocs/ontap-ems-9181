@@ -15,7 +15,7 @@ summary: wafl.incomplete events
 :imagesdir: ./media/
 
 [.lead]
-wafl.incomplete events are reported when the WAFL(R) kernel detects incomplete inode to path information for an inode on disk, and corrective actions typically involve following the documented corrective action guidance.
+wafl.incomplete EMS events occur when the WAFL(R) kernel detects incomplete inode to path information for an inode on disk.
 
 == wafl.incomplete.i2p
 *Severity*::

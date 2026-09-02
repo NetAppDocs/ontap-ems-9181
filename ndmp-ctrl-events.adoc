@@ -15,7 +15,7 @@ summary: ndmp.ctrl events
 :imagesdir: ./media/
 
 [.lead]
-ndmp.ctrl events are reported when the IP address of the logical interface (LIF) that hosts the NDMP control connection is hosted on maintenance port "e0M", and corrective actions typically involve ensuring the required configuration and resources are in place.
+ndmp.ctrl EMS events occur when the IP address of the logical interface (LIF) that hosts the NDMP control connection is hosted on maintenance port "e0M".
 
 == ndmp.ctrl.on.e0m
 *Severity*::

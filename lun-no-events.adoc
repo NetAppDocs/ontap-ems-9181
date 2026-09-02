@@ -15,7 +15,7 @@ summary: lun.no events
 :imagesdir: ./media/
 
 [.lead]
-lun.no events are reported when an operation on LUNs or NVMe namespaces on the node owning the given volume fails due to the unavailability of Data ONTAP(R) memory, and corrective actions typically involve following the documented corrective action guidance.
+lun.no EMS events occur when an operation on LUNs or NVMe namespaces on the node owning the given volume fails due to the unavailability of Data ONTAP(R) memory.
 
 == LUN.no.memory.available
 *Severity*::

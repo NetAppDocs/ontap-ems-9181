@@ -15,7 +15,7 @@ summary: wafl.nvlog events
 :imagesdir: ./media/
 
 [.lead]
-wafl.nvlog events are reported when this event is issued to indicate that the system is unable to create nvlog stats file, and corrective actions typically involve following the documented corrective action guidance.
+wafl.nvlog EMS events occur when ONTAP encounters issues associated with nvlog file operations and version compatibility.
 
 == wafl.nvlog.stats.createError
 *Severity*::

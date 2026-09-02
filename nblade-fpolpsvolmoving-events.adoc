@@ -15,7 +15,7 @@ summary: nblade.fpolpsvolmoving events
 :imagesdir: ./media/
 
 [.lead]
-nblade.fpolpsvolmoving events are reported when the FPolicy persistent store volume is being moved, and corrective actions typically involve following the documented corrective action guidance.
+nblade.fpolpsvolmoving EMS events occur when the FPolicy persistent store volume is being moved.
 
 == Nblade.fpolPsVolMoving
 *Severity*::

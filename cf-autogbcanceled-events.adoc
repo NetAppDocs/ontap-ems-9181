@@ -15,7 +15,7 @@ summary: cf.autogbcanceled events
 :imagesdir: ./media/
 
 [.lead]
-cf.autogbcanceled events are reported when an automatic giveback is canceled because of a headswap, and corrective actions typically involve following the documented corrective action guidance.
+cf.autogbcanceled EMS events occur when an automatic giveback is canceled because of a headswap.
 
 == cf.autoGBCanceled.headswap
 *Severity*::

@@ -15,7 +15,7 @@ summary: sectrace.warning events
 :imagesdir: ./media/
 
 [.lead]
-sectrace.warning events are reported when a security tracing filter is enabled, and corrective actions typically involve following the documented corrective action guidance.
+sectrace.warning EMS events occur when a security tracing filter is enabled.
 
 == sectrace.warning.aboutperf
 *Severity*::

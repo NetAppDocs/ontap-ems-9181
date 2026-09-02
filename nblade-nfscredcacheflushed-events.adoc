@@ -15,7 +15,7 @@ summary: nblade.nfscredcacheflushed events
 :imagesdir: ./media/
 
 [.lead]
-nblade.nfscredcacheflushed events are reported when the administrator modifies the options "extended-groups-limit", "auth-sys-extended-groups" or "v4-id-domain" option using the "vserver nfs modify" command, and corrective actions typically involve following the documented corrective action guidance.
+nblade.nfscredcacheflushed EMS events occur when the administrator modifies the options "extended-groups-limit", "auth-sys-extended-groups" or "v4-id-domain" option using the "vserver nfs modify" command.
 
 == Nblade.nfsCredCacheFlushed
 *Severity*::

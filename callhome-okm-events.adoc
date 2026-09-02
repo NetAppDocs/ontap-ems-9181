@@ -15,7 +15,7 @@ summary: callhome.okm events
 :imagesdir: ./media/
 
 [.lead]
-callhome.okm events are reported when the cluster has reached an inconsistent state with respect to the onboard key hierarchy, and corrective actions typically involve following the documented corrective action guidance.
+callhome.okm EMS events occur when the cluster has reached an inconsistent state with respect to the onboard key hierarchy.
 
 == callhome.okm.sync.needed
 *Severity*::

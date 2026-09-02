@@ -15,7 +15,7 @@ summary: config.localswitch events
 :imagesdir: ./media/
 
 [.lead]
-config.localswitch events are reported when a disk is found attached via both local connection and a switch, and corrective actions typically involve following the documented corrective action guidance.
+config.localswitch EMS events occur when a disk is found attached via both local connection and a switch.
 
 == config.localswitch
 *Severity*::

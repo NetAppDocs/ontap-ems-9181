@@ -15,7 +15,7 @@ summary: auto.update events
 :imagesdir: ./media/
 
 [.lead]
-auto.update events are reported when an action is applied to an automatic update request, and corrective actions typically involve following the documented corrective action guidance.
+auto.update EMS events occur when ONTAP encounters issues associated with automatic update requests and package installation actions.
 
 == auto.update.action
 *Severity*::

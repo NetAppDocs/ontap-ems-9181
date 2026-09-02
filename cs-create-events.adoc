@@ -15,7 +15,7 @@ summary: cs.create events
 :imagesdir: ./media/
 
 [.lead]
-cs.create events are reported when there is an attempt to release SnapMirror resources for a volume as a result of volume delete while a Cloud Snapshot create operation is in progress, and corrective actions typically involve ensuring the required configuration and resources are in place.
+cs.create EMS events occur when there is an attempt to release SnapMirror resources for a volume as a result of volume delete while a Cloud Snapshot create operation is in progress.
 
 == cs.create.inprogress
 *Severity*::

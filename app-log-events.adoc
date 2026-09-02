@@ -15,7 +15,7 @@ summary: app.log events
 :imagesdir: ./media/
 
 [.lead]
-app.log events are reported when this event is issued when an application is in a condition that should be corrected immediately, and corrective actions typically involve following the documented corrective action guidance.
+app.log EMS events occur when ONTAP encounters issues associated with application events and messages from remote client applications.
 
 == app.log.alert
 *Severity*::

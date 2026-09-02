@@ -15,7 +15,7 @@ summary: ha.giveback events
 :imagesdir: ./media/
 
 [.lead]
-ha.giveback events are reported when the RAID or WAFL(R) subsystem fails to bring online the aggregate or its containing volumes after giveback, and corrective actions typically involve checking the reported configuration and connectivity.
+ha.giveback EMS events occur when ONTAP encounters issues associated with high-availability (HA) giveback aggregate operations.
 
 == ha.giveback.aggrOnlineFailed
 *Severity*::

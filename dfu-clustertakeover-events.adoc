@@ -15,7 +15,7 @@ summary: dfu.clustertakeover events
 :imagesdir: ./media/
 
 [.lead]
-dfu.clustertakeover events are reported when firmware download is attempted while in takeover mode, and corrective actions typically involve following the documented corrective action guidance.
+dfu.clustertakeover EMS events occur when firmware download is attempted while in takeover mode.
 
 == dfu.clusterTakeover
 *Severity*::

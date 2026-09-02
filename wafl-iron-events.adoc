@@ -15,7 +15,7 @@ summary: wafl.iron events
 :imagesdir: ./media/
 
 [.lead]
-wafl.iron events are reported when wafliron is running on a transitioned aggregate in precommit phase and there are 7-Mode volumes present, and corrective actions typically involve following the documented corrective action guidance.
+wafl.iron EMS events occur when ONTAP encounters issues associated with wafliron file system consistency checker operations.
 
 == wafl.iron.7mode
 *Severity*::

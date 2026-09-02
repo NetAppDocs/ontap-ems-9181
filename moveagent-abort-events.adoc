@@ -15,7 +15,7 @@ summary: moveagent.abort events
 :imagesdir: ./media/
 
 [.lead]
-moveagent.abort events are reported when this event is issued during volume move when cutover is aborted because the volume took too long to replicate, and corrective actions typically involve following the documented corrective action guidance.
+moveagent.abort EMS events occur when during volume move when cutover is aborted because the volume took too long to replicate.
 
 == moveagent.abort.cutover
 *Severity*::

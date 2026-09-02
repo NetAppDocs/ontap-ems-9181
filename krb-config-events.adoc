@@ -15,7 +15,7 @@ summary: krb.config events
 :imagesdir: ./media/
 
 [.lead]
-krb.config events are reported when the CIFS server's security settings could not be written to the configuration file on this node, and corrective actions typically involve following the documented corrective action guidance.
+krb.config EMS events occur when the CIFS server's security settings could not be written to the configuration file on this node.
 
 == krb.config.updateFail
 *Severity*::

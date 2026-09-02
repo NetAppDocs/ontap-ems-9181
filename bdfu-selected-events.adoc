@@ -15,7 +15,7 @@ summary: bdfu.selected events
 :imagesdir: ./media/
 
 [.lead]
-bdfu.selected events are reported when background disk firmware update selects a disk for firmware download, and corrective actions typically involve following the documented corrective action guidance.
+bdfu.selected EMS events occur when background disk firmware update selects a disk for firmware download.
 
 == bdfu.selected
 *Severity*::

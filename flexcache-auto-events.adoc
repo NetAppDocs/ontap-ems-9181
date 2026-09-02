@@ -15,7 +15,7 @@ summary: flexcache.auto events
 :imagesdir: ./media/
 
 [.lead]
-flexcache.auto events are reported when a FlexCache(R) configuration is deleted automatically on the FlexCache Origin cluster as the config refresh operation failed due to the FlexCache volume being deleted, and corrective actions typically involve following the documented corrective action guidance.
+flexcache.auto EMS events occur when a FlexCache(R) configuration is deleted automatically on the FlexCache Origin cluster as the config refresh operation failed due to the FlexCache volume being deleted.
 
 == flexcache.auto.cache.config.cleanup
 *Severity*::

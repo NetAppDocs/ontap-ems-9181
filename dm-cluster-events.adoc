@@ -15,7 +15,7 @@ summary: dm.cluster events
 :imagesdir: ./media/
 
 [.lead]
-dm.cluster events are reported when resynchronization of the cluster configuration failed in a MetroCluster(tm) configuration, and corrective actions typically involve following the documented corrective action guidance.
+dm.cluster EMS events occur when resynchronization of the cluster configuration failed in a MetroCluster(tm) configuration.
 
 == dm.cluster.rebaselinefailed
 *Severity*::

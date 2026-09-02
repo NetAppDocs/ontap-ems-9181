@@ -15,7 +15,7 @@ summary: fci.mserr events
 :imagesdir: ./media/
 
 [.lead]
-fci.mserr events are reported when the Fibre Channel fabric cannot successfully complete a request to the Management Server to retrieve configuration information, and corrective actions typically involve following the documented corrective action guidance.
+fci.mserr EMS events occur when the Fibre Channel fabric cannot successfully complete a request to the Management Server to retrieve configuration information.
 
 == fci.mserr.general
 *Severity*::

@@ -15,7 +15,7 @@ summary: monitor.sparelabelcheckfailed events
 :imagesdir: ./media/
 
 [.lead]
-monitor.sparelabelcheckfailed events are reported when the system detects that a hot spare disk has an invalid or a missing label, and corrective actions typically involve following the documented corrective action guidance.
+monitor.sparelabelcheckfailed EMS events occur when the system detects that a hot spare disk has an invalid or a missing label.
 
 == monitor.spareLabelCheckFailed
 *Severity*::

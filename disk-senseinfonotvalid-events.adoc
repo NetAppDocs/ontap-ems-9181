@@ -15,7 +15,7 @@ summary: disk.senseinfonotvalid events
 :imagesdir: ./media/
 
 [.lead]
-disk.senseinfonotvalid events are reported when invalid sense information is returned, and corrective actions typically involve following the documented corrective action guidance.
+disk.senseinfonotvalid EMS events occur when invalid sense information is returned.
 
 == disk.senseInfoNotValid
 *Severity*::

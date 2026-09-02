@@ -15,7 +15,7 @@ summary: wafl.check events
 :imagesdir: ./media/
 
 [.lead]
-wafl.check events are reported when generic wafl check message, and corrective actions typically involve following the documented corrective action guidance.
+wafl.check EMS events occur when ONTAP encounters issues associated with WAFL consistency check operations.
 
 == wafl.check.info
 *Severity*::

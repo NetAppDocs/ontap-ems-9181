@@ -15,7 +15,7 @@ summary: dump.inconsistent events
 :imagesdir: ./media/
 
 [.lead]
-dump.inconsistent events are reported when the dump engine encounters a disk error in an ACL file in a Snapshot(tm) copy, and corrective actions typically involve contacting NetApp technical support.
+dump.inconsistent EMS events occur when ONTAP encounters issues associated with disk errors during dump operations.
 
 == dump.inconsistent.acl_data
 *Severity*::

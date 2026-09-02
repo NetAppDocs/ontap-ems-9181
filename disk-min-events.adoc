@@ -15,7 +15,7 @@ summary: disk.min events
 :imagesdir: ./media/
 
 [.lead]
-disk.min events are reported when a disk is detected that is not supported in this version of Data ONTAP(R), and corrective actions typically involve following the documented corrective action guidance.
+disk.min EMS events occur when a disk is detected that is not supported in this version of Data ONTAP(R).
 
 == disk.min.OS.error
 *Severity*::

@@ -15,7 +15,7 @@ summary: tcp.cc events
 :imagesdir: ./media/
 
 [.lead]
-tcp.cc events are reported when the system is configured to use the TCP NewReno congestion control algorithm, and corrective actions typically involve following the documented corrective action guidance.
+tcp.cc EMS events occur when the system is configured to use the TCP NewReno congestion control algorithm.
 
 == tcp.cc.NewRenoInUpgrade
 *Severity*::

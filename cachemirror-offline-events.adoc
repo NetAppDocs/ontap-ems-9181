@@ -15,7 +15,7 @@ summary: cachemirror.offline events
 :imagesdir: ./media/
 
 [.lead]
-cachemirror.offline events are reported when cache Mirror encounters an error and has to be taken offline, and corrective actions typically involve rebooting the node or cluster component.
+cachemirror.offline EMS events occur when Cache Mirror encounters an error and has to be taken offline.
 
 == cacheMirror.offline
 *Severity*::

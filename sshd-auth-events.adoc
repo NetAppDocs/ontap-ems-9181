@@ -15,7 +15,7 @@ summary: sshd.auth events
 :imagesdir: ./media/
 
 [.lead]
-sshd.auth events are reported when this event is issued when sshd refuses a login attempt due to authentication failure, and corrective actions typically involve following the documented corrective action guidance.
+sshd.auth EMS events occur when sshd refuses a login attempt due to authentication failure.
 
 == sshd.auth.loginDenied
 *Severity*::

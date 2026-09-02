@@ -15,7 +15,7 @@ summary: vsa.instancemetadata events
 :imagesdir: ./media/
 
 [.lead]
-vsa.instancemetadata events are reported when the system detects that a field in the virtual machine's instance metadata settings has changed, and corrective actions typically involve following the documented corrective action guidance.
+vsa.instancemetadata EMS events occur when the system detects that a field in the virtual machine's instance metadata settings has changed.
 
 == vsa.instanceMetadata.change
 *Severity*::

@@ -15,7 +15,7 @@ summary: lun.online events
 :imagesdir: ./media/
 
 [.lead]
-lun.online events are reported when a LUN is brought online manually, and corrective actions typically involve following the documented corrective action guidance.
+lun.online EMS events occur when a LUN is brought online manually.
 
 == LUN.online
 *Severity*::

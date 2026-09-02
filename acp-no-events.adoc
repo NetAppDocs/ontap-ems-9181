@@ -15,7 +15,7 @@ summary: acp.no events
 :imagesdir: ./media/
 
 [.lead]
-acp.no events are reported when the node cannot find a free IP address for the Alternate Control Path (ACP) Management port, and corrective actions typically involve checking the reported configuration and connectivity.
+acp.no EMS events occur when the node cannot find a free IP address for the Alternate Control Path (ACP) Management port.
 
 == acp.no.ip
 *Severity*::

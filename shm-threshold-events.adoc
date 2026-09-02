@@ -15,7 +15,7 @@ summary: shm.threshold events
 :imagesdir: ./media/
 
 [.lead]
-shm.threshold events are reported when the system detects a disk that exceeds the threshold count of high aggressive IO latencies, and corrective actions typically involve following the documented corrective action guidance.
+shm.threshold EMS events occur when ONTAP encounters issues associated with disk health threshold monitoring.
 
 == shm.threshold.agrsvIOCount
 *Deprecated*::

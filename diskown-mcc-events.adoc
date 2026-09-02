@@ -15,7 +15,7 @@ summary: diskown.mcc events
 :imagesdir: ./media/
 
 [.lead]
-diskown.mcc events are reported when the number of drives assigned in the MetroCluster(tm) configuration exceeds the supported limit, and corrective actions typically involve following the documented corrective action guidance.
+diskown.mcc EMS events occur when the number of drives assigned in the MetroCluster(tm) configuration exceeds the supported limit.
 
 == diskown.mcc.AssignExceeded
 *Severity*::

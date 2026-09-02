@@ -15,7 +15,7 @@ summary: nameserv.conf events
 :imagesdir: ./media/
 
 [.lead]
-nameserv.conf events are reported when a UNIX user or group name exceeds 64 characters, and corrective actions typically involve following the documented corrective action guidance.
+nameserv.conf EMS events occur when a UNIX user or group name exceeds 64 characters.
 
 == nameserv.conf.limit.reached
 *Severity*::

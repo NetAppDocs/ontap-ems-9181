@@ -15,7 +15,7 @@ summary: flexcache.cacheconnected events
 :imagesdir: ./media/
 
 [.lead]
-flexcache.cacheconnected events are reported when a FlexCache(R) origin volume establishes communication with its cache volume, and corrective actions typically involve following the documented corrective action guidance.
+flexcache.cacheconnected EMS events occur when a FlexCache(R) origin volume establishes communication with its cache volume.
 
 == flexcache.cacheConnected
 *Severity*::

@@ -15,7 +15,7 @@ summary: geom.ontap events
 :imagesdir: ./media/
 
 [.lead]
-geom.ontap events are reported when the geometry layer (geom) detects a device to be detached from the system, and corrective actions typically involve following the documented corrective action guidance.
+geom.ontap EMS events occur when the geometry layer (geom) detects a device to be detached from the system.
 
 == geom.ontap.orphan.removing
 *Severity*::

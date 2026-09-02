@@ -15,7 +15,7 @@ summary: diskown.assign events
 :imagesdir: ./media/
 
 [.lead]
-diskown.assign events are reported when the "storage disk assign" command fail to assign a disk to a different owner from the other disks within the carrier, and corrective actions typically involve following the documented corrective action guidance.
+diskown.assign EMS events occur when the "storage disk assign" command fail to assign a disk to a different owner from the other disks within the carrier.
 
 == diskown.assign.splitOwner
 *Severity*::

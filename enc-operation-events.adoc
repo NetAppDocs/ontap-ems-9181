@@ -15,7 +15,7 @@ summary: enc.operation events
 :imagesdir: ./media/
 
 [.lead]
-enc.operation events are reported when rekey or conversion to encryption operation is completed in a flexible volume, and corrective actions typically involve following the documented corrective action guidance.
+enc.operation EMS events occur when ONTAP encounters issues associated with volume encryption operations.
 
 == enc.operation.completed
 *Severity*::

@@ -15,7 +15,7 @@ summary: lmgr.session events
 :imagesdir: ./media/
 
 [.lead]
-lmgr.session events are reported when a SpinNP session has failed, which causes session-scoped (e, and no corrective action is typically required.
+lmgr.session EMS events occur when a SpinNP session has failed, which causes session-scoped (e.g.
 
 == lmgr.session.failed
 *Severity*::

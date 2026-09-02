@@ -15,7 +15,7 @@ summary: wafl.replay events
 :imagesdir: ./media/
 
 [.lead]
-wafl.replay events are reported when a partner aggregate is mounted early before replay, and corrective actions typically involve following the documented corrective action guidance.
+wafl.replay EMS events occur when ONTAP encounters issues associated with WAFL(R) nvlog replay operations.
 
 == wafl.replay.aggr.early.mt
 *Severity*::

@@ -15,7 +15,7 @@ summary: vol.reserve events
 :imagesdir: ./media/
 
 [.lead]
-vol.reserve events are reported when wAFL(R) grows the reserve of a flexible volume that is running dangerously low on blocks for writing, and corrective actions typically involve following the documented corrective action guidance.
+vol.reserve EMS events occur when WAFL(R) grows the reserve of a flexible volume that is running dangerously low on blocks for writing.
 
 == vol.reserve.grew
 *Severity*::

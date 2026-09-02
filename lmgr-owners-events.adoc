@@ -15,7 +15,7 @@ summary: lmgr.owners events
 :imagesdir: ./media/
 
 [.lead]
-lmgr.owners events are reported when a lock manager owner object cannot be allocated due to reaching the limit for owner objects in the associated pool, and corrective actions typically involve following the documented corrective action guidance.
+lmgr.owners EMS events occur when ONTAP encounters issues associated with lock manager owner object allocation limits.
 
 == lmgr.owners.limit.hit
 *Severity*::

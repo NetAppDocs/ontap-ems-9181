@@ -15,7 +15,7 @@ summary: net.ifconfig events
 :imagesdir: ./media/
 
 [.lead]
-net.ifconfig events are reported when the limit for adding logical virtual local area network (VLAN) and interface group (ifgrp) interfaces is exceeded, and corrective actions typically involve following the documented corrective action guidance.
+net.ifconfig EMS events occur when ONTAP encounters issues associated with logical interface configuration operations.
 
 == net.ifconfig.addLimitExceed
 *Severity*::

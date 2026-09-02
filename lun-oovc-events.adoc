@@ -15,7 +15,7 @@ summary: lun.oovc events
 :imagesdir: ./media/
 
 [.lead]
-lun.oovc events are reported when the rebuilding of the Out Of Volume Container (OOVC) file is complete, and corrective actions typically involve following the documented corrective action guidance.
+lun.oovc EMS events occur when ONTAP encounters issues associated with the Out Of Volume Container (OOVC) metafile.
 
 == LUN.oovc.rebuild.done
 *Severity*::

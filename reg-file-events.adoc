@@ -15,7 +15,7 @@ summary: reg.file events
 :imagesdir: ./media/
 
 [.lead]
-reg.file events are reported when the system registry file could not be created, and corrective actions typically involve following the documented corrective action guidance.
+reg.file EMS events occur when ONTAP encounters issues associated with system registry file operations.
 
 == reg.file.createFail
 *Severity*::

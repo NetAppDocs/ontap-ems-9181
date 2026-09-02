@@ -15,7 +15,7 @@ summary: mcc.check events
 :imagesdir: ./media/
 
 [.lead]
-mcc.check events are reported when the MetroCluster (tm) check job has failed to complete all checks for the system, and corrective actions typically involve following the documented corrective action guidance.
+mcc.check EMS events occur when the MetroCluster (tm) check job has failed to complete all checks for the system.
 
 == mcc.check.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: extcache.enabled events
 :imagesdir: ./media/
 
 [.lead]
-extcache.enabled events are reported when the external cache is administratively enabled, and corrective actions typically involve following the documented corrective action guidance.
+extcache.enabled EMS events occur when the external cache is administratively enabled.
 
 == extCache.enabled
 *Severity*::

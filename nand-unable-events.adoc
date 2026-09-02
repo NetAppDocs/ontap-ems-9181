@@ -15,7 +15,7 @@ summary: nand.unable events
 :imagesdir: ./media/
 
 [.lead]
-nand.unable events are reported when data ONTAP(R) module that is responsible for monitoring the health of the NVRAM device cannot extract health information, and corrective actions typically involve following the documented corrective action guidance.
+nand.unable EMS events occur when Data ONTAP(R) module that is responsible for monitoring the health of the NVRAM device cannot extract health information.
 
 == nand.unable.to.monitor
 *Severity*::

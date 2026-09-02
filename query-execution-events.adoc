@@ -15,7 +15,7 @@ summary: query.execution events
 :imagesdir: ./media/
 
 [.lead]
-query.execution events are reported when the dotsql command-line program processes an SQL query, and corrective actions typically involve following the documented corrective action guidance.
+query.execution EMS events occur when ONTAP encounters issues associated with SQL query processing.
 
 == query.execution.console
 *Severity*::

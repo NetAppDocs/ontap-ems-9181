@@ -15,7 +15,7 @@ summary: scsiblade.vserver events
 :imagesdir: ./media/
 
 [.lead]
-scsiblade.vserver events are reported when a command or other internal operation becomes blocked within Data ONTAP(R), and corrective actions typically involve following the documented corrective action guidance.
+scsiblade.vserver EMS events occur when a command or other internal operation becomes blocked within Data ONTAP(R).
 
 == scsiblade.vserver.op.timeout
 *Severity*::

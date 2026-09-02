@@ -15,7 +15,7 @@ summary: cf.nducomplete events
 :imagesdir: ./media/
 
 [.lead]
-cf.nducomplete events are reported when a nondisruptive upgrade is completed successfully, and corrective actions typically involve following the documented corrective action guidance.
+cf.nducomplete EMS events occur when a nondisruptive upgrade is completed successfully.
 
 == cf.nduComplete
 *Severity*::

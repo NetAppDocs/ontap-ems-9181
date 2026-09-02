@@ -15,7 +15,7 @@ summary: tcpip.duplicate events
 :imagesdir: ./media/
 
 [.lead]
-tcpip.duplicate events are reported when the local node detects that it and some other device are using the same IP address, and corrective actions typically involve checking the reported configuration and connectivity.
+tcpip.duplicate EMS events occur when the local node detects that it and some other device are using the same IP address.
 
 == tcpip.duplicate.ip
 *Severity*::

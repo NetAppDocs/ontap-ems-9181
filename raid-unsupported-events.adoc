@@ -15,7 +15,7 @@ summary: raid.unsupported events
 :imagesdir: ./media/
 
 [.lead]
-raid.unsupported events are reported when configuration management detects that the disk belongs to a 32-bit aggregate, the use of which has been deprecated, and corrective actions typically involve following the documented corrective action guidance.
+raid.unsupported EMS events occur when ONTAP encounters issues associated with unsupported aggregate formats.
 
 == raid.unsupported.bitformat
 *Severity*::

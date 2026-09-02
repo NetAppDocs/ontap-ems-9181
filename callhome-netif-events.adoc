@@ -15,7 +15,7 @@ summary: callhome.netif events
 :imagesdir: ./media/
 
 [.lead]
-callhome.netif events are reported when network Interface Card encountered a fatal error, and corrective actions typically involve checking the reported configuration and connectivity.
+callhome.netif EMS events occur when ONTAP encounters issues associated with Network Interface Cards.
 
 == callhome.netif.fatal.error
 *Severity*::

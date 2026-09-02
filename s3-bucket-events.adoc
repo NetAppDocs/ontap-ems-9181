@@ -15,7 +15,7 @@ summary: s3.bucket events
 :imagesdir: ./media/
 
 [.lead]
-s3.bucket events are reported when the access key is invalid and it has been used to access the S3 bucket/object, and corrective actions typically involve verifying the reported configuration and health state.
+s3.bucket EMS events occur when ONTAP encounters issues associated with S3 bucket access and authentication.
 
 == s3.bucket.invalid.accessKey
 *Severity*::

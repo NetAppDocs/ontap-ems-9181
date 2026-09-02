@@ -15,7 +15,7 @@ summary: raid.tetris events
 :imagesdir: ./media/
 
 [.lead]
-raid.tetris events are reported when the system detects a block number mismatch during a write operation, and corrective actions typically involve following the documented corrective action guidance.
+raid.tetris EMS events occur when ONTAP encounters issues associated with write operations and block verification.
 
 == raid.tetris.cksum.bno
 *Severity*::

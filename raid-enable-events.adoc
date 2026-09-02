@@ -15,7 +15,7 @@ summary: raid.enable events
 :imagesdir: ./media/
 
 [.lead]
-raid.enable events are reported when this event is issued when RAID sub system enables recording in the partner's NVRAM entries for the log based file system, and corrective actions typically involve following the documented corrective action guidance.
+raid.enable EMS events occur when RAID sub system enables recording in the partner's NVRAM entries for the log based file system.
 
 == raid.enable.remote.nvlog
 *Severity*::

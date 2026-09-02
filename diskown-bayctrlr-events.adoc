@@ -15,7 +15,7 @@ summary: diskown.bayctrlr events
 :imagesdir: ./media/
 
 [.lead]
-diskown.bayctrlr events are reported when this message occurs if the controller address is determined when the bay policy override option has been set, and corrective actions typically involve following the documented corrective action guidance.
+diskown.bayctrlr EMS events occur when ONTAP encounters issues associated with determining controller addresses for bay-based disk assignment.
 
 == diskown.bayctrlr
 *Severity*::

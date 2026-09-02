@@ -15,7 +15,7 @@ summary: nv.extension events
 :imagesdir: ./media/
 
 [.lead]
-nv.extension events are reported when nVRAM segments of a nvlog client are disabled in a NVRAM section, and corrective actions typically involve following the documented corrective action guidance.
+nv.extension EMS events occur when ONTAP encounters issues associated with NVRAM segment operations.
 
 == nv.extension.disabled
 *Severity*::

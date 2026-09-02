@@ -15,7 +15,7 @@ summary: nblade.vscanvirusdetected events
 :imagesdir: ./media/
 
 [.lead]
-nblade.vscanvirusdetected events are reported when a vscan server reports an error to the storage system, and corrective actions typically involve checking the reported configuration and connectivity.
+nblade.vscanvirusdetected EMS events occur when a vscan server reports an error to the storage system.
 
 == Nblade.vscanVirusDetected
 *Severity*::

@@ -15,7 +15,7 @@ summary: scsi.cmd events
 :imagesdir: ./media/
 
 [.lead]
-scsi.cmd events are reported when the aborted event is issued if an I/O request is aborted by a class driver, and corrective actions typically involve following the documented corrective action guidance.
+scsi.cmd EMS events occur when ONTAP encounters issues associated with SCSI command execution and transport errors.
 
 == scsi.cmd.aborted
 *Deprecated*::

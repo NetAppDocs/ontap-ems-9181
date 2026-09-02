@@ -15,7 +15,7 @@ summary: ha.takeover events
 :imagesdir: ./media/
 
 [.lead]
-ha.takeover events are reported when the value of the 'bypass-takeover-optimization' parameter of the "storage failover" command is changed on a node, and corrective actions typically involve following the documented corrective action guidance.
+ha.takeover EMS events occur when ONTAP encounters issues associated with high-availability (HA) takeover operations.
 
 == ha.takeover.bypOptimChange
 *Severity*::

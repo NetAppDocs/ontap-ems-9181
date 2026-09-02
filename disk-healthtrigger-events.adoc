@@ -15,7 +15,7 @@ summary: disk.healthtrigger events
 :imagesdir: ./media/
 
 [.lead]
-disk.healthtrigger events are reported when the disk returns a health trigger event, and corrective actions typically involve following the documented corrective action guidance.
+disk.healthtrigger EMS events occur when the disk returns a health trigger event.
 
 == disk.healthTrigger
 *Severity*::

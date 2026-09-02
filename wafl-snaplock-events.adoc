@@ -15,7 +15,7 @@ summary: wafl.snaplock events
 :imagesdir: ./media/
 
 [.lead]
-wafl.snaplock events are reported when the snaplock scan has completed, and corrective actions typically involve following the documented corrective action guidance.
+wafl.snaplock EMS events occur when this event indicates that the snaplock scan has completed.
 
 == wafl.snaplock.scan.complete
 *Severity*::

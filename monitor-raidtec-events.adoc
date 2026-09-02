@@ -15,7 +15,7 @@ summary: monitor.raidtec events
 :imagesdir: ./media/
 
 [.lead]
-monitor.raidtec events are reported when this message occurs as part of an hourly system check, when a RAID-TEC aggregate is in double degraded mode, and corrective actions typically involve following the documented corrective action guidance.
+monitor.raidtec EMS events occur as part of an hourly system check, when a RAID-TEC aggregate is in double degraded mode.
 
 == monitor.raidtec.dblDegraded
 *Severity*::

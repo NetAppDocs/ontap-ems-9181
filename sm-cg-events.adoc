@@ -15,7 +15,7 @@ summary: sm.cg events
 :imagesdir: ./media/
 
 [.lead]
-sm.cg events are reported when there is a failure to replicate tag information to a SnapMirror destination consistency group as part of a SnapMirror operation, and corrective actions typically involve following the documented corrective action guidance.
+sm.cg EMS events occur when there is a failure to replicate tag information to a SnapMirror destination consistency group as part of a SnapMirror operation.
 
 == sm.cg.tag.replicate.fail
 *Severity*::

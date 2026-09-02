@@ -15,7 +15,7 @@ summary: savecore.nospace events
 :imagesdir: ./media/
 
 [.lead]
-savecore.nospace events are reported when savecore has determined that the space available for storing the unsaved core is not sufficient, and corrective actions typically involve following the documented corrective action guidance.
+savecore.nospace EMS events occur when savecore has determined that the space available for storing the unsaved core is not sufficient.
 
 == savecore.nospace
 *Severity*::

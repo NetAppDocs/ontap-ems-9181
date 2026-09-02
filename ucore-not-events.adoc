@@ -15,7 +15,7 @@ summary: ucore.not events
 :imagesdir: ./media/
 
 [.lead]
-ucore.not events are reported when a userspace core cannot be dumped either because coredumps are not enabled or because the process called setuid, and coredump is disabled for processes that have changed their user credentials, and corrective actions typically involve contacting NetApp technical support.
+ucore.not EMS events occur when a userspace core cannot be dumped either because coredumps are not enabled or because the process called setuid, and coredump is disabled for processes that have changed their user credentials.
 
 == ucore.not.enabled
 *Severity*::

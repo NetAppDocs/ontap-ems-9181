@@ -15,7 +15,7 @@ summary: lmgr.gb events
 :imagesdir: ./media/
 
 [.lead]
-lmgr.gb events are reported when giveback veto is overridden, and corrective actions typically involve following the documented corrective action guidance.
+lmgr.gb EMS events occur when ONTAP encounters issues associated with giveback operations and Continuously Available (CA) locks.
 
 == lmgr.gb.CA.locks.lost
 *Severity*::

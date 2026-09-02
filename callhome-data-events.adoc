@@ -15,7 +15,7 @@ summary: callhome.data events
 :imagesdir: ./media/
 
 [.lead]
-callhome.data events are reported when the system detects that it has encountered an outage prior to this boot, and corrective actions typically involve contacting NetApp technical support.
+callhome.data EMS events occur when the system detects that it has encountered an outage prior to this boot.
 
 == callhome.data.outage.detected
 *Severity*::

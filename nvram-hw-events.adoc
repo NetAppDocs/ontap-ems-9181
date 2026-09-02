@@ -15,7 +15,7 @@ summary: nvram.hw events
 :imagesdir: ./media/
 
 [.lead]
-nvram.hw events are reported when the NVRAM hardware is degraded, and corrective actions typically involve contacting NetApp technical support.
+nvram.hw EMS events occur when ONTAP encounters issues associated with NVRAM hardware initialization and operation.
 
 == nvram.hw.degraded
 *Severity*::

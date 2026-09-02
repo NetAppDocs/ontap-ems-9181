@@ -15,7 +15,7 @@ summary: telnet.enabled events
 :imagesdir: ./media/
 
 [.lead]
-telnet.enabled events are reported when telnet is enabled in the cluster using the (privilege: advanced) "security protocol" command, and corrective actions typically involve following the documented corrective action guidance.
+telnet.enabled EMS events occur when telnet is enabled in the cluster using the (privilege: advanced) "security protocol" command.
 
 == telnet.enabled
 *Severity*::

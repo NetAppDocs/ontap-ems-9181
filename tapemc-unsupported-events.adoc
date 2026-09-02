@@ -15,7 +15,7 @@ summary: tapemc.unsupported events
 :imagesdir: ./media/
 
 [.lead]
-tapemc.unsupported events are reported when a tape or media changer is detected that is not supported on this system, but its usage is not blocked, and corrective actions typically involve following the documented corrective action guidance.
+tapemc.unsupported EMS events occur when a tape or media changer is detected that is not supported on this system, but its usage is not blocked.
 
 == tapemc.unsupported.allow
 *Severity*::

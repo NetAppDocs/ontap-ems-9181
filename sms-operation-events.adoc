@@ -15,7 +15,7 @@ summary: sms.operation events
 :imagesdir: ./media/
 
 [.lead]
-sms.operation events are reported when a blacklisted operation is performed on the primary volume of a SnapMirror(R) Sync relationship when the relationship status is "Transitioning", and corrective actions typically involve following the documented corrective action guidance.
+sms.operation EMS events occur when a blacklisted operation is performed on the primary volume of a SnapMirror(R) Sync relationship when the relationship status is "Transitioning".
 
 == sms.operation.blacklisted
 *Severity*::

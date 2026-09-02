@@ -15,7 +15,7 @@ summary: netinet.icmp events
 :imagesdir: ./media/
 
 [.lead]
-netinet.icmp events are reported when an ICMPv4 redirect message is received, and corrective actions typically involve following the documented corrective action guidance.
+netinet.icmp EMS events occur when an ICMPv4 redirect message is received.
 
 == netinet.icmp.redirect
 *Severity*::

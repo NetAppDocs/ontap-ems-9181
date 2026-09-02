@@ -15,7 +15,7 @@ summary: mgmtgwd.mixed events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.mixed events are reported when not all nodes are running the same version of ONTAP, and corrective actions typically involve following the documented corrective action guidance.
+mgmtgwd.mixed EMS events occur when not all nodes are running the same version of ONTAP.
 
 == mgmtgwd.mixed.version
 *Severity*::

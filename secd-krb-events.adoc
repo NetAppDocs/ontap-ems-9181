@@ -15,7 +15,7 @@ summary: secd.krb events
 :imagesdir: ./media/
 
 [.lead]
-secd.krb events are reported when kerberos S4U2self (Service for User to Self) operation fails, and corrective actions typically involve following the documented corrective action guidance.
+secd.krb EMS events occur when Kerberos S4U2self (Service for User to Self) operation fails.
 
 == secd.krb.s4u2self.failure
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.cifsmaxopensamefile events
 :imagesdir: ./media/
 
 [.lead]
-nblade.cifsmaxopensamefile events are reported when the number of times a user tries to open a file over a TCP connection is exceeded, and corrective actions typically involve following the documented corrective action guidance.
+nblade.cifsmaxopensamefile EMS events occur when the number of times a user tries to open a file over a TCP connection is exceeded.
 
 == Nblade.cifsMaxOpenSameFile
 *Severity*::

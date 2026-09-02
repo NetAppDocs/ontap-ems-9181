@@ -15,7 +15,7 @@ summary: dump.xfercomplete events
 :imagesdir: ./media/
 
 [.lead]
-dump.xfercomplete events are reported when the dump engine completes data backup with disk errors in user files, and corrective actions typically involve contacting NetApp technical support.
+dump.xfercomplete EMS events occur when the dump engine completes data backup with disk errors in user files.
 
 == dump.xfercomplete.inconsistent_data
 *Severity*::

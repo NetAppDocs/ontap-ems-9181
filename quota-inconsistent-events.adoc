@@ -15,7 +15,7 @@ summary: quota.inconsistent events
 :imagesdir: ./media/
 
 [.lead]
-quota.inconsistent events are reported when the quota database is corrupted, and corrective actions typically involve following the documented corrective action guidance.
+quota.inconsistent EMS events occur when the quota database is corrupted.
 
 == quota.inconsistent
 *Severity*::

@@ -15,7 +15,7 @@ summary: repl.logical events
 :imagesdir: ./media/
 
 [.lead]
-repl.logical events are reported when a data warehouse is rebuilt as part of a SnapMirror(R) restore or resync operation, and corrective actions typically involve following the documented corrective action guidance.
+repl.logical EMS events occur when ONTAP encounters issues associated with data warehouse rebuilds and logical replication.
 
 == repl.logical.dw.rebuild
 *Severity*::

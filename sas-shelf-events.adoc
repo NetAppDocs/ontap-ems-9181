@@ -15,7 +15,7 @@ summary: sas.shelf events
 :imagesdir: ./media/
 
 [.lead]
-sas.shelf events are reported when the system detects that two or more SAS (serial attached SCSI) disk shelves have the same shelf ID, and corrective actions typically involve following the documented corrective action guidance.
+sas.shelf EMS events occur when the system detects that two or more SAS (serial attached SCSI) disk shelves have the same shelf ID.
 
 == sas.shelf.conflict
 *Severity*::

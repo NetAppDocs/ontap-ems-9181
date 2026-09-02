@@ -15,7 +15,7 @@ summary: fpolicy.outage events
 :imagesdir: ./media/
 
 [.lead]
-fpolicy.outage events are reported when file creation fails under the configured resiliency directory path, and corrective actions typically involve checking the reported configuration and connectivity.
+fpolicy.outage EMS events occur when ONTAP encounters issues associated with FPolicy network outages and notification handling.
 
 == fpolicy.outage.file.invalid
 *Severity*::

@@ -15,7 +15,7 @@ summary: lun.space events
 :imagesdir: ./media/
 
 [.lead]
-lun.space events are reported when the space reservation settings for the named volume are not honored in its containing aggregate, and corrective actions typically involve following the documented corrective action guidance.
+lun.space EMS events occur when the space reservation settings for the named volume are not honored in its containing aggregate.
 
 == LUN.space.resv.not.honored
 *Severity*::

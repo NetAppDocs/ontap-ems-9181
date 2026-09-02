@@ -15,7 +15,7 @@ summary: cam.dev events
 :imagesdir: ./media/
 
 [.lead]
-cam.dev events are reported when the disk does not support the Forced Unit Access (FUA) feature bit, and corrective actions typically involve following the documented corrective action guidance.
+cam.dev EMS events occur when ONTAP encounters issues associated with the Forced Unit Access (FUA) feature bit.
 
 == cam.dev.fuaNotSupported
 *Severity*::

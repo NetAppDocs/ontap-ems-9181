@@ -15,7 +15,7 @@ summary: flexcache.softevict events
 :imagesdir: ./media/
 
 [.lead]
-flexcache.softevict events are reported when soft evicting a cache volume fails, and corrective actions typically involve following the documented corrective action guidance.
+flexcache.softevict EMS events occur when ONTAP encounters issues associated with FlexCache volume soft eviction.
 
 == flexcache.softEvict.failed
 *Severity*::

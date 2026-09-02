@@ -15,7 +15,7 @@ summary: vldb.aggrbladeid events
 :imagesdir: ./media/
 
 [.lead]
-vldb.aggrbladeid events are reported when the system discovers an inconsistency in the volume location database (VLDB), and corrective actions typically involve following the documented corrective action guidance.
+vldb.aggrbladeid EMS events occur when the system discovers an inconsistency in the volume location database (VLDB).
 
 == vldb.aggrBladeID.missing
 *Severity*::

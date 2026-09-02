@@ -15,7 +15,7 @@ summary: volcopy.dst events
 :imagesdir: ./media/
 
 [.lead]
-volcopy.dst events are reported when this event is issued when a vol copy start is issued on a volume which is offline, and corrective actions typically involve following the documented corrective action guidance.
+volcopy.dst EMS events occur when ONTAP encounters issues associated with volume copy destination operations.
 
 == volcopy.dst.autoRestrictMsg
 *Severity*::

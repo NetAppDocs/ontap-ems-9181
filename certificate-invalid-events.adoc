@@ -15,7 +15,7 @@ summary: certificate.invalid events
 :imagesdir: ./media/
 
 [.lead]
-certificate.invalid events are reported when an installed certificate record contains multiple X, and corrective actions typically involve following the documented corrective action guidance.
+certificate.invalid EMS events occur when an installed certificate record contains multiple X.509 certificates.
 
 == certificate.invalid.chain
 *Severity*::

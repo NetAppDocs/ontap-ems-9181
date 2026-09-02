@@ -15,7 +15,7 @@ summary: secd.rogue events
 :imagesdir: ./media/
 
 [.lead]
-secd.rogue events are reported when a CIFS authentication request fails more than 30 times in one minute with an invalid login password from a particular client, and corrective actions typically involve checking the reported configuration and connectivity.
+secd.rogue EMS events occur when a CIFS authentication request fails more than 30 times in one minute with an invalid login password from a particular client.
 
 == secd.rogue.client.detected
 *Severity*::

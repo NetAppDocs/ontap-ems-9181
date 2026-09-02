@@ -15,7 +15,7 @@ summary: spm.perfstatd events
 :imagesdir: ./media/
 
 [.lead]
-spm.perfstatd events are reported when the perfstat daemon (perfstatd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
+spm.perfstatd EMS events occur when the perfstat daemon (perfstatd) involuntarily terminates.
 
 == spm.perfstatd.process.exit
 *Severity*::

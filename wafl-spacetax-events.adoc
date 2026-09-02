@@ -15,7 +15,7 @@ summary: wafl.spacetax events
 :imagesdir: ./media/
 
 [.lead]
-wafl.spacetax events are reported when the spacetax feature is disabled for all flexible volumes in the system because of the 'wafl-disable-spacetax?, and corrective actions typically involve rebooting the node or cluster component.
+wafl.spacetax EMS events occur when the spacetax feature is disabled for all flexible volumes in the system because of the 'wafl-disable-spacetax?' boot option.
 
 == wafl.spacetax.disabled
 *Severity*::

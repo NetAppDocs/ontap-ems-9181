@@ -15,7 +15,7 @@ summary: wafl.metafile events
 :imagesdir: ./media/
 
 [.lead]
-wafl.metafile events are reported when a metafile to be created is not documented, has information about it missing, or has not been identified and associated with an entry from the wiki page: MetafileRegistration, and corrective actions typically involve following the documented corrective action guidance.
+wafl.metafile EMS events occur when ONTAP encounters issues associated with undocumented or unknown metafile creation.
 
 == wafl.metafile.reg.unknown
 *Severity*::

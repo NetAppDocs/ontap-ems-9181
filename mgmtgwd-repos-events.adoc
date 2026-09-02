@@ -15,7 +15,7 @@ summary: mgmtgwd.repos events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.repos events are reported when an Infinite Volume operation cannot be started because another Infinite Volume operation is already in progress, and corrective actions typically involve checking the reported configuration and connectivity.
+mgmtgwd.repos EMS events occur when an Infinite Volume operation cannot be started because another Infinite Volume operation is already in progress.
 
 == mgmtgwd.repos.conflictingOps
 *Deprecated*::

@@ -15,7 +15,7 @@ summary: spm.crs events
 :imagesdir: ./media/
 
 [.lead]
-spm.crs events are reported when the configuration replication server (crs) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
+spm.crs EMS events occur when the configuration replication server (crs) involuntarily terminates.
 
 == spm.crs.process.exit
 *Severity*::

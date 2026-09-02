@@ -15,7 +15,7 @@ summary: security.cluster events
 :imagesdir: ./media/
 
 [.lead]
-security.cluster events are reported when a digital certificate associated with a node for cluster-network security is already expired, and corrective actions typically involve following the documented corrective action guidance.
+security.cluster EMS events occur when ONTAP encounters issues associated with cluster-network security certificates.
 
 == security.cluster.network.cert.expired
 *Severity*::

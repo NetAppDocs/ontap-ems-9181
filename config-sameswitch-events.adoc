@@ -15,7 +15,7 @@ summary: config.sameswitch events
 :imagesdir: ./media/
 
 [.lead]
-config.sameswitch events are reported when both ports of a disk is found to be attached to the same switch, and corrective actions typically involve following the documented corrective action guidance.
+config.sameswitch EMS events occur when both ports of a disk is found to be attached to the same switch.
 
 == config.SameSwitch
 *Severity*::

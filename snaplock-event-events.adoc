@@ -15,7 +15,7 @@ summary: snaplock.event events
 :imagesdir: ./media/
 
 [.lead]
-snaplock.event events are reported when this message occurs on completion of a event based retention apply operation on a SnapLock(R) volume, and corrective actions typically involve following the documented corrective action guidance.
+snaplock.event EMS events occur on completion of a event based retention apply operation on a SnapLock(R) volume.
 
 == snaplock.event.based.retention.op.status
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.aggregate events
 :imagesdir: ./media/
 
 [.lead]
-wafl.aggregate events are reported when an operation is run on an aggregate while the aggregate or any volume of the aggregate is busy, and corrective actions typically involve following the documented corrective action guidance.
+wafl.aggregate EMS events occur when ONTAP encounters issues associated with aggregate or volume operations while the aggregate or volume is busy.
 
 == wafl.aggregate.busy
 *Severity*::

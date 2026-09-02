@@ -15,7 +15,7 @@ summary: fg.statechange events
 :imagesdir: ./media/
 
 [.lead]
-fg.statechange events are reported when the FlexGroup has transitioned from one state to another, and corrective actions typically involve following the documented corrective action guidance.
+fg.statechange EMS events occur when the FlexGroup has transitioned from one state to another.
 
 == fg.stateChange
 *Severity*::

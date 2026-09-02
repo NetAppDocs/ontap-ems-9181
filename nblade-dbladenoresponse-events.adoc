@@ -15,7 +15,7 @@ summary: nblade.dbladenoresponse events
 :imagesdir: ./media/
 
 [.lead]
-nblade.dbladenoresponse events are reported when a CIFS network data protocol operation times out because the requesting node cannot communicate with the data-serving node to complete the file operation, and corrective actions typically involve following the documented corrective action guidance.
+nblade.dbladenoresponse EMS events occur when ONTAP encounters issues associated with network protocol operations timing out due to inter-node communication failures.
 
 == Nblade.dBladeNoResponse.CIFS
 *Severity*::

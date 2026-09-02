@@ -15,7 +15,7 @@ summary: snaplock.ss events
 :imagesdir: ./media/
 
 [.lead]
-snaplock.ss events are reported when this event is generated if an attempt is made to lock a snapshot on a SnapLock volume that has previously failed to find or load its SnapLock snapshot state, and corrective actions typically involve following the documented corrective action guidance.
+snaplock.ss EMS events occur when ONTAP encounters issues associated with SnapLock(R) snapshot state.
 
 == snaplock.ss.lockBadVolume
 *Severity*::

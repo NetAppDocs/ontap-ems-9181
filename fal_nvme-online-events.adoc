@@ -15,7 +15,7 @@ summary: fal_nvme.online events
 :imagesdir: ./media/
 
 [.lead]
-fal_nvme.online events are reported when the Flash Adaptation Layer (FAL) NVMe subsystem successfully brings online all resources in a caching module, and corrective actions typically involve following the documented corrective action guidance.
+fal_nvme.online EMS events occur when the Flash Adaptation Layer (FAL) NVMe subsystem successfully brings online all resources in a caching module.
 
 == fal_nvme.online.succ
 *Severity*::

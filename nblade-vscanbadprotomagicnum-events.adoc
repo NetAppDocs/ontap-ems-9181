@@ -15,7 +15,7 @@ summary: nblade.vscanbadprotomagicnum events
 :imagesdir: ./media/
 
 [.lead]
-nblade.vscanbadprotomagicnum events are reported when an incorrectly formatted message is received from the AV Connector, and corrective actions typically involve ensuring the required configuration and resources are in place.
+nblade.vscanbadprotomagicnum EMS events occur when an incorrectly formatted message is received from the AV Connector.
 
 == Nblade.vscanBadProtoMagicNum
 *Severity*::

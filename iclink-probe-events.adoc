@@ -15,7 +15,7 @@ summary: iclink.probe events
 :imagesdir: ./media/
 
 [.lead]
-iclink.probe events are reported when the system cannot detect a High Availability (HA) interconnect card, making HA communication inoperable, and corrective actions typically involve verifying the reported configuration and health state.
+iclink.probe EMS events occur when the system cannot detect a High Availability (HA) interconnect card, making HA communication inoperable.
 
 == iclink.probe.error
 *Severity*::

@@ -15,7 +15,7 @@ summary: showmount.update events
 :imagesdir: ./media/
 
 [.lead]
-showmount.update events are reported when the showmount job fails to update the "exports, and corrective actions typically involve verifying the reported configuration and health state.
+showmount.update EMS events occur when the showmount job fails to update the "exports.data" file.
 
 == showmount.update.failed
 *Severity*::

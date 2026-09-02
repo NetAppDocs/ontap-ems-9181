@@ -15,7 +15,7 @@ summary: netgroupbyname.cache events
 :imagesdir: ./media/
 
 [.lead]
-netgroupbyname.cache events are reported when a host is checked for its membership in a netgroup that contains a large number of members, and corrective actions typically involve following the documented corrective action guidance.
+netgroupbyname.cache EMS events occur when a host is checked for its membership in a netgroup that contains a large number of members.
 
 == netgroupbyname.cache.skip
 *Severity*::

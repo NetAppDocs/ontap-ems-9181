@@ -15,7 +15,7 @@ summary: vifmgr.clus events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.clus events are reported when a cluster link goes down unexpectedly, and corrective actions typically involve verifying the reported configuration and health state.
+vifmgr.clus EMS events occur when a cluster link goes down unexpectedly.
 
 == vifmgr.clus.linkdown
 *Severity*::

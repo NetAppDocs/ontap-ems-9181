@@ -15,7 +15,7 @@ summary: wafl.log events
 :imagesdir: ./media/
 
 [.lead]
-wafl.log events are reported when wAFL reports suspended messages that have been languishing for more than 30 seconds (represented by the macro MAX_SUSP_TIME_REPORT_THRESHOLD), and corrective actions typically involve following the documented corrective action guidance.
+wafl.log EMS events occur when WAFL reports suspended messages that have been languishing for more than 30 seconds (represented by the macro MAX_SUSP_TIME_REPORT_THRESHOLD).
 
 == wafl.log.languish.messages
 *Severity*::

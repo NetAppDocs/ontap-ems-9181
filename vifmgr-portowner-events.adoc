@@ -15,7 +15,7 @@ summary: vifmgr.portowner events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.portowner events are reported when a port receives a configuration error, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.portowner EMS events occur when a port receives a configuration error.
 
 == vifmgr.portowner.err
 *Severity*::

@@ -15,7 +15,7 @@ summary: license.feat events
 :imagesdir: ./media/
 
 [.lead]
-license.feat events are reported when the system cannot successfully delete a license for a feature, and corrective actions typically involve following the documented corrective action guidance.
+license.feat EMS events occur when ONTAP encounters issues associated with feature license operations.
 
 == license.feat.delete.failed
 *Severity*::

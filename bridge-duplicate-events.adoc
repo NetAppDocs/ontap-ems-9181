@@ -15,7 +15,7 @@ summary: bridge.duplicate events
 :imagesdir: ./media/
 
 [.lead]
-bridge.duplicate events are reported when the system discovers an ATTO FibreBridge using the same IP address as some other device in the network, and corrective actions typically involve following the documented corrective action guidance.
+bridge.duplicate EMS events occur when ONTAP encounters issues associated with FC-to-SAS bridges using duplicate IP addresses or WWNs.
 
 == bridge.duplicate.ip.address
 *Severity*::

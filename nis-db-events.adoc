@@ -15,7 +15,7 @@ summary: nis.db events
 :imagesdir: ./media/
 
 [.lead]
-nis.db events are reported when the NIS group database job queue fails, and corrective actions typically involve following the documented corrective action guidance.
+nis.db EMS events occur when the NIS group database job queue fails.
 
 == nis.db.job.queue.failure
 *Severity*::

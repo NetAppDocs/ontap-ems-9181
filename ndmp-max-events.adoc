@@ -15,7 +15,7 @@ summary: ndmp.max events
 :imagesdir: ./media/
 
 [.lead]
-ndmp.max events are reported when the maximum number of NDMP sessions has been reached, and corrective actions typically involve following the documented corrective action guidance.
+ndmp.max EMS events occur when the maximum number of NDMP sessions has been reached.
 
 == ndmp.max.warning
 *Severity*::

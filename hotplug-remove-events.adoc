@@ -15,7 +15,7 @@ summary: hotplug.remove events
 :imagesdir: ./media/
 
 [.lead]
-hotplug.remove events are reported when module removal is successful, and corrective actions typically involve following the documented corrective action guidance.
+hotplug.remove EMS events occur when module removal is successful.
 
 == hotplug.remove.success
 *Severity*::

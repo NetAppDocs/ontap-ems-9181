@@ -15,7 +15,7 @@ summary: ses.mismatch events
 :imagesdir: ./media/
 
 [.lead]
-ses.mismatch events are reported when the two disk shelf modules within the same disk shelf are running different versions of the firmware, and corrective actions typically involve following the documented corrective action guidance.
+ses.mismatch EMS events occur when the two disk shelf modules within the same disk shelf are running different versions of the firmware.
 
 == ses.mismatch.fw.version
 *Severity*::

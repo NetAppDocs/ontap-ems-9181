@@ -15,7 +15,7 @@ summary: callhome.sblade events
 :imagesdir: ./media/
 
 [.lead]
-callhome.sblade events are reported when lUN import cannot resume after takeover/giveback, and corrective actions typically involve contacting NetApp technical support.
+callhome.sblade EMS events occur when ONTAP encounters issues associated with SCSI target operations.
 
 == callhome.sblade.import.susp
 *Severity*::

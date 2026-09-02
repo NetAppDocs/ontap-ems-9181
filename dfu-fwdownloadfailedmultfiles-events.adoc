@@ -15,7 +15,7 @@ summary: dfu.fwdownloadfailedmultfiles events
 :imagesdir: ./media/
 
 [.lead]
-dfu.fwdownloadfailedmultfiles events are reported when more than one file is found for downloading to an ATA drive, and corrective actions typically involve following the documented corrective action guidance.
+dfu.fwdownloadfailedmultfiles EMS events occur when more than one file is found for downloading to an ATA drive.
 
 == dfu.fwDownloadFailedMultFiles
 *Severity*::

@@ -15,7 +15,7 @@ summary: rpc.xprt events
 :imagesdir: ./media/
 
 [.lead]
-rpc.xprt events are reported when the number of active connections to a side band Remote Procedure Call (RPC) reaches the limit, and corrective actions typically involve following the documented corrective action guidance.
+rpc.xprt EMS events occur when ONTAP encounters issues associated with side band Remote Procedure Call (RPC) connection limits.
 
 == rpc.xprt.limit
 *Deprecated*::

@@ -15,7 +15,7 @@ summary: arl.opfinished events
 :imagesdir: ./media/
 
 [.lead]
-arl.opfinished events are reported when the aggregate relocation operation from the source node to the specified destination is finished, and corrective actions typically involve following the documented corrective action guidance.
+arl.opfinished EMS events occur when the aggregate relocation operation from the source node to the specified destination is finished.
 
 == arl.OpFinished
 *Severity*::

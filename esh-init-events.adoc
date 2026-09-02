@@ -15,7 +15,7 @@ summary: esh.init events
 :imagesdir: ./media/
 
 [.lead]
-esh.init events are reported when the system cannot allocate memory for a required service, and corrective actions typically involve contacting NetApp technical support.
+esh.init EMS events occur when the system cannot allocate memory for a required service.
 
 == esh.init.error
 *Severity*::

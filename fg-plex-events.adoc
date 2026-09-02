@@ -15,7 +15,7 @@ summary: fg.plex events
 :imagesdir: ./media/
 
 [.lead]
-fg.plex events are reported when a user unmirrors an aggregate (plex delete) that contains a FlexGroup constituent on nodes in a MetroCluster(tm) configuration, and corrective actions typically involve following the documented corrective action guidance.
+fg.plex EMS events occur when a user unmirrors an aggregate (plex delete) that contains a FlexGroup constituent on nodes in a MetroCluster(tm) configuration.
 
 == fg.plex.del.unmirror.aggr
 *Severity*::

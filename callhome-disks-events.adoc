@@ -15,7 +15,7 @@ summary: callhome.disks events
 :imagesdir: ./media/
 
 [.lead]
-callhome.disks events are reported when the system detected simultaneously that multiple disk drives were missing from the system, and corrective actions typically involve following the documented corrective action guidance.
+callhome.disks EMS events occur when the system detected simultaneously that multiple disk drives were missing from the system.
 
 == callhome.disks.missing
 *Severity*::

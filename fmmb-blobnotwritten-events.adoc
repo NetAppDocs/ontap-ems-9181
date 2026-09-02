@@ -15,7 +15,7 @@ summary: fmmb.blobnotwritten events
 :imagesdir: ./media/
 
 [.lead]
-fmmb.blobnotwritten events are reported when a mailbox 'blob' write operation to the on-disk mailbox data structure fails, and corrective actions typically involve following the documented corrective action guidance.
+fmmb.blobnotwritten EMS events occur when a mailbox 'blob' write operation to the on-disk mailbox data structure fails.
 
 == fmmb.BlobNotWritten
 *Deprecated*::

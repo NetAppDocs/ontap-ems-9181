@@ -15,7 +15,7 @@ summary: moveagent.cleanup events
 :imagesdir: ./media/
 
 [.lead]
-moveagent.cleanup events are reported when a volume move operation running on the partner cluster is interrupted by a disaster recovery event (such as switchover or switchback) in the MetroCluster(tm) configuration before the operation reaches the cutover phase, and corrective actions typically involve following the documented corrective action guidance.
+moveagent.cleanup EMS events occur when ONTAP encounters issues associated with volume move operations interrupted by MetroCluster(tm) disaster recovery events.
 
 == moveagent.cleanup.dest
 *Severity*::

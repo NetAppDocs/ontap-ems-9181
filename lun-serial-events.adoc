@@ -15,7 +15,7 @@ summary: lun.serial events
 :imagesdir: ./media/
 
 [.lead]
-lun.serial events are reported when the system clock has been set back in time, and corrective actions typically involve following the documented corrective action guidance.
+lun.serial EMS events occur when the system clock has been set back in time.
 
 == lun.serial.timeWentBack
 *Severity*::

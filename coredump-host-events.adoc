@@ -15,7 +15,7 @@ summary: coredump.host events
 :imagesdir: ./media/
 
 [.lead]
-coredump.host events are reported when no sparecore disk is found at boot/takeover time, and corrective actions typically involve following the documented corrective action guidance.
+coredump.host EMS events occur when ONTAP encounters issues associated with locating and identifying sparecore disks at boot or takeover time.
 
 == coredump.host.spare.none
 *Severity*::

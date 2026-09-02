@@ -15,7 +15,7 @@ summary: secd.dns events
 :imagesdir: ./media/
 
 [.lead]
-secd.dns events are reported when the DNS server fails to respond to a query and timeout occurs, and corrective actions typically involve following the documented corrective action guidance.
+secd.dns EMS events occur when ONTAP encounters issues associated with DNS server communications.
 
 == secd.dns.server.timed.out
 *Severity*::

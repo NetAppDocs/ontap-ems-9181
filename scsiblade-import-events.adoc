@@ -15,7 +15,7 @@ summary: scsiblade.import events
 :imagesdir: ./media/
 
 [.lead]
-scsiblade.import events are reported when attributes of a SAN LUN under LUN import are modified, and corrective actions typically involve following the documented corrective action guidance.
+scsiblade.import EMS events occur when ONTAP encounters issues associated with SAN LUN import operations.
 
 == scsiblade.import.attr.mod
 *Severity*::

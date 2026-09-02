@@ -15,7 +15,7 @@ summary: daasync.periph events
 :imagesdir: ./media/
 
 [.lead]
-daasync.periph events are reported when the system cannot attach a drive, and corrective actions typically involve following the documented corrective action guidance.
+daasync.periph EMS events occur when the system cannot attach a drive.
 
 == daasync.periph.alloc.fail
 *Severity*::

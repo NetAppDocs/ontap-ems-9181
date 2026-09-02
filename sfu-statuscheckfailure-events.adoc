@@ -15,7 +15,7 @@ summary: sfu.statuscheckfailure events
 :imagesdir: ./media/
 
 [.lead]
-sfu.statuscheckfailure events are reported when the (advanced privilege) "storage shelf firmware update" command encounters a failure while attempting to read the status of the firmware update in progress, and corrective actions typically involve following the documented corrective action guidance.
+sfu.statuscheckfailure EMS events occur when the (advanced privilege) "storage shelf firmware update" command encounters a failure while attempting to read the status of the firmware update in progress.
 
 == sfu.statusCheckFailure
 *Severity*::

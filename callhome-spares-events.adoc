@@ -15,7 +15,7 @@ summary: callhome.spares events
 :imagesdir: ./media/
 
 [.lead]
-callhome.spares events are reported when one or more RAID groups do not have an eligible spare disk drive available in case of a disk drive failure, and corrective actions typically involve following the documented corrective action guidance.
+callhome.spares EMS events occur when one or more RAID groups do not have an eligible spare disk drive available in case of a disk drive failure.
 
 == callhome.spares.low
 *Severity*::

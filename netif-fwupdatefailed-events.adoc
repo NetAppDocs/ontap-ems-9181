@@ -15,7 +15,7 @@ summary: netif.fwupdatefailed events
 :imagesdir: ./media/
 
 [.lead]
-netif.fwupdatefailed events are reported when there is an error during a network interface firmware update, and corrective actions typically involve following the documented corrective action guidance.
+netif.fwupdatefailed EMS events occur when there is an error during a network interface firmware update.
 
 == netif.fwUpdateFailed
 *Severity*::

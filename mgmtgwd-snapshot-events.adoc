@@ -15,7 +15,7 @@ summary: mgmtgwd.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.snapshot events are reported when a snapshot cannot be deleted from an Infinite Volume, and corrective actions typically involve following the documented corrective action guidance.
+mgmtgwd.snapshot EMS events occur when ONTAP encounters issues associated with snapshot operations on Infinite Volumes.
 
 == mgmtgwd.snapshot.deleteWarn
 *Deprecated*::

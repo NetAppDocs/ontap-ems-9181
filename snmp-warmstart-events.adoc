@@ -15,7 +15,7 @@ summary: snmp.warmstart events
 :imagesdir: ./media/
 
 [.lead]
-snmp.warmstart events are reported when the SNMP daemon is reinitializing itself with a warmStart, and corrective actions typically involve following the documented corrective action guidance.
+snmp.warmstart EMS events occur when the SNMP daemon is reinitializing itself with a warmStart.
 
 == snmp.warmstart.trap
 *Severity*::

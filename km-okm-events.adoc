@@ -15,7 +15,7 @@ summary: km.okm events
 :imagesdir: ./media/
 
 [.lead]
-km.okm events are reported when this message occurs in a NetApp MetroCluster configuration where both peer clusters are configured with the Onboard Key Manager (OKM), but the number of keys of the specified type is invalid, and corrective actions typically involve contacting NetApp technical support.
+km.okm EMS events occur when ONTAP encounters issues associated with Onboard Key Manager (OKM) key hierarchy in MetroCluster configurations.
 
 == km.okm.count.invalid
 *Severity*::

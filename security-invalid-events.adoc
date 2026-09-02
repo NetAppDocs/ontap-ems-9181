@@ -15,7 +15,7 @@ summary: security.invalid events
 :imagesdir: ./media/
 
 [.lead]
-security.invalid events are reported when an attempt is made to access the system by using invalid authentication credentials, and corrective actions typically involve verifying the reported configuration and health state.
+security.invalid EMS events occur when an attempt is made to access the system by using invalid authentication credentials.
 
 == security.invalid.login
 *Severity*::

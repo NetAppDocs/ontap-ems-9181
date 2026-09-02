@@ -15,7 +15,7 @@ summary: mgmt.nfslisteners events
 :imagesdir: ./media/
 
 [.lead]
-mgmt.nfslisteners events are reported when the listener for the NFS service is not configured, and corrective actions typically involve following the documented corrective action guidance.
+mgmt.nfslisteners EMS events occur when ONTAP encounters issues associated with NFS service listener configuration.
 
 == mgmt.nfslisteners.failure
 *Severity*::

@@ -15,7 +15,7 @@ summary: mlm.tapemc events
 :imagesdir: ./media/
 
 [.lead]
-mlm.tapemc events are reported when the system discovers a new tape or media changer logical unit (Tape/MC LUN) reported by a tape library, and corrective actions typically involve following the documented corrective action guidance.
+mlm.tapemc EMS events occur when ONTAP encounters issues associated with tape and media changer logical units.
 
 == mlm.tapemc.lun.discovery
 *Severity*::

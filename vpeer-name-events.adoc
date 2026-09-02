@@ -15,7 +15,7 @@ summary: vpeer.name events
 :imagesdir: ./media/
 
 [.lead]
-vpeer.name events are reported when system generated a new name for a Vserver because of a naming conflict with another Vserver in the local cluster, and corrective actions typically involve following the documented corrective action guidance.
+vpeer.name EMS events occur when system generated a new name for a Vserver because of a naming conflict with another Vserver in the local cluster.
 
 == vpeer.name.conflict
 *Severity*::

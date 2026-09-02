@@ -15,7 +15,7 @@ summary: raid.debug events
 :imagesdir: ./media/
 
 [.lead]
-raid.debug events are reported when the SCSI debug event, and corrective actions typically involve following the documented corrective action guidance.
+raid.debug EMS events occur when the SCSI debug event.
 
 == raid.debug
 *Severity*::

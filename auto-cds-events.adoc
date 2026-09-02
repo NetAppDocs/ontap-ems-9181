@@ -15,7 +15,7 @@ summary: auto.cds events
 :imagesdir: ./media/
 
 [.lead]
-auto.cds events are reported when this message occurs during upgrade to Data ONTAP(R) 9, and corrective actions typically involve following the documented corrective action guidance.
+auto.cds EMS events occur when ONTAP encounters issues associated with volume efficiency inactive data compression scan disablement during upgrade to Data ONTAP 9.11.1 or later.
 
 == auto.cds.feature.disable.failed
 *Severity*::

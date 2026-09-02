@@ -15,7 +15,7 @@ summary: socket.limit events
 :imagesdir: ./media/
 
 [.lead]
-socket.limit events are reported when the operating system is unable to allocate a new socket because that would exceed the maximum open sockets, and corrective actions typically involve following the documented corrective action guidance.
+socket.limit EMS events occur when the operating system is unable to allocate a new socket because that would exceed the maximum open sockets.
 
 == socket.limit.exceeded
 *Severity*::

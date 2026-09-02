@@ -15,7 +15,7 @@ summary: wafl.svo events
 :imagesdir: ./media/
 
 [.lead]
-wafl.svo events are reported when this event is generated if a write to a svo enabled volume fails to pass a check, and corrective actions typically involve following the documented corrective action guidance.
+wafl.svo EMS events occur when ONTAP encounters issues associated with SnapValidator for Oracle (svo) operations.
 
 == wafl.svo.checkFailed
 *Severity*::

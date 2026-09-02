@@ -15,7 +15,7 @@ summary: wafl.vol events
 :imagesdir: ./media/
 
 [.lead]
-wafl.vol events are reported when the system rejects client access to a volume, and corrective actions typically involve following the documented corrective action guidance.
+wafl.vol EMS events occur when ONTAP encounters issues associated with volume access and operations.
 
 == wafl.vol.access.denied
 *Severity*::

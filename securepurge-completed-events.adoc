@@ -15,7 +15,7 @@ summary: securepurge.completed events
 :imagesdir: ./media/
 
 [.lead]
-securepurge.completed events are reported when a secure purge operation is completed in a flexible volume, and corrective actions typically involve following the documented corrective action guidance.
+securepurge.completed EMS events occur when a secure purge operation is completed in a flexible volume.
 
 == securepurge.completed
 *Severity*::

@@ -15,7 +15,7 @@ summary: sk.ring events
 :imagesdir: ./media/
 
 [.lead]
-sk.ring events are reported when a module detected a condition that warranted dumping the internal tracing buffer to a file, and corrective actions typically involve following the documented corrective action guidance.
+sk.ring EMS events occur when this message indicates that a module detected a condition that warranted dumping the internal tracing buffer to a file.
 
 == sk.ring.buffer.saved
 *Severity*::

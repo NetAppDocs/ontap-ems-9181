@@ -15,7 +15,7 @@ summary: diskown.rescan events
 :imagesdir: ./media/
 
 [.lead]
-diskown.rescan events are reported when the high-availability (HA) messaging layer fails to connect to the specified node for disk ownership updates, and corrective actions typically involve following the documented corrective action guidance.
+diskown.rescan EMS events occur when ONTAP encounters issues associated with disk ownership updates over the HA messaging layer.
 
 == diskown.rescan.notConnected
 *Severity*::

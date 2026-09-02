@@ -15,7 +15,7 @@ summary: telnet.firewall events
 :imagesdir: ./media/
 
 [.lead]
-telnet.firewall events are reported when telnet is automatically removed from firewall policies during a revert operation from Data ONTAP(R) 9, and corrective actions typically involve following the documented corrective action guidance.
+telnet.firewall EMS events occur when telnet is automatically removed from firewall policies during a revert operation from Data ONTAP(R) 9.0 to 8.3.
 
 == telnet.firewall.remove
 *Severity*::

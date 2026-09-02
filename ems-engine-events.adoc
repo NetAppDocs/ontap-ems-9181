@@ -15,7 +15,7 @@ summary: ems.engine events
 :imagesdir: ./media/
 
 [.lead]
-ems.engine events are reported when the Event Management System (EMS) fails to send an event to a mail destination due to name resolution lookup failures for the mail server specified in EMS configuration options, and corrective actions typically involve following the documented corrective action guidance.
+ems.engine EMS events occur when ONTAP encounters issues associated with Event Management System (EMS) operations.
 
 == ems.engine.event.dnsLkupFail
 *Severity*::

@@ -15,7 +15,7 @@ summary: xfcvi.disabled events
 :imagesdir: ./media/
 
 [.lead]
-xfcvi.disabled events are reported when the HA interconnect card is disabled by the ic-type environment variable, and corrective actions typically involve following the documented corrective action guidance.
+xfcvi.disabled EMS events occur when the HA interconnect card is disabled by the ic-type environment variable.
 
 == xfcvi.disabled
 *Severity*::

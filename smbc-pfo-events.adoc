@@ -15,7 +15,7 @@ summary: smbc.pfo events
 :imagesdir: ./media/
 
 [.lead]
-smbc.pfo events are reported when the SnapMirror(R) active sync planned failover operation completes, and corrective actions typically involve following the documented corrective action guidance.
+smbc.pfo EMS events occur when ONTAP encounters issues associated with SnapMirror(R) active sync planned failover operations.
 
 == smbc.pfo.completed
 *Severity*::

@@ -15,7 +15,7 @@ summary: spm.upgrademgr events
 :imagesdir: ./media/
 
 [.lead]
-spm.upgrademgr events are reported when the upgrade manager server (upgrademgr) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
+spm.upgrademgr EMS events occur when the upgrade manager server (upgrademgr) involuntarily terminates.
 
 == spm.upgrademgr.process.exit
 *Severity*::

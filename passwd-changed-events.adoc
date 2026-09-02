@@ -15,7 +15,7 @@ summary: passwd.changed events
 :imagesdir: ./media/
 
 [.lead]
-passwd.changed events are reported when the password for a user has been changed, and corrective actions typically involve following the documented corrective action guidance.
+passwd.changed EMS events occur when the password for a user has been changed.
 
 == passwd.changed
 *Severity*::

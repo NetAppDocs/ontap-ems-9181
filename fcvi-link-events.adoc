@@ -15,7 +15,7 @@ summary: fcvi.link events
 :imagesdir: ./media/
 
 [.lead]
-fcvi.link events are reported when the physical link of the Fibre Channel Virtual Interface (FC-VI) adapter goes down, and corrective actions typically involve following the documented corrective action guidance.
+fcvi.link EMS events occur when ONTAP encounters issues associated with Fibre Channel Virtual Interface (FC-VI) adapter physical link state.
 
 == fcvi.link.down
 *Severity*::

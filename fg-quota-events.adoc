@@ -15,7 +15,7 @@ summary: fg.quota events
 :imagesdir: ./media/
 
 [.lead]
-fg.quota events are reported when a FlexGroup cannot enforce its quota as expected, and corrective actions typically involve following the documented corrective action guidance.
+fg.quota EMS events occur when ONTAP encounters issues associated with FlexGroup quota enforcement.
 
 == fg.quota.cannot.enforce
 *Severity*::

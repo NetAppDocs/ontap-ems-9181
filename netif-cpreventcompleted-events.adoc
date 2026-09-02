@@ -15,7 +15,7 @@ summary: netif.cpreventcompleted events
 :imagesdir: ./media/
 
 [.lead]
-netif.cpreventcompleted events are reported when a CPR Event (core PCI resiliency) has completed, and corrective actions typically involve following the documented corrective action guidance.
+netif.cpreventcompleted EMS events occur when a CPR Event (core PCI resiliency) has completed.
 
 == netif.cprEventCompleted
 *Severity*::

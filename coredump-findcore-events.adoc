@@ -15,7 +15,7 @@ summary: coredump.findcore events
 :imagesdir: ./media/
 
 [.lead]
-coredump.findcore events are reported when the core dump process detects an error while checking for an unsaved core in the dump device, and corrective actions typically involve following the documented corrective action guidance.
+coredump.findcore EMS events occur when ONTAP encounters issues associated with locating unsaved core dumps on the dump device.
 
 == coredump.findcore.error
 *Severity*::

@@ -15,7 +15,7 @@ summary: adminapi.xml events
 :imagesdir: ./media/
 
 [.lead]
-adminapi.xml events are reported when this event is generated in case of a mismatched XML encoding received by ONTAP server, and corrective actions typically involve following the documented corrective action guidance.
+adminapi.xml EMS events occur when ONTAP encounters issues associated with mismatched XML encoding or namespace received by the ONTAP server.
 
 == adminapi.xml.encoding
 *Severity*::

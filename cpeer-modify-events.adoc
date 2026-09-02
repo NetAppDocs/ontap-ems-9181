@@ -15,7 +15,7 @@ summary: cpeer.modify events
 :imagesdir: ./media/
 
 [.lead]
-cpeer.modify events are reported when the address family for a peering relationship is modified, and corrective actions typically involve following the documented corrective action guidance.
+cpeer.modify EMS events occur when the address family for a peering relationship is modified.
 
 == cpeer.modify.address.family
 *Severity*::

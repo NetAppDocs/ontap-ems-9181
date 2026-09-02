@@ -15,7 +15,7 @@ summary: sms.cg events
 :imagesdir: ./media/
 
 [.lead]
-sms.cg events are reported when a SnapMirror(R) Synchronous Automated Failover relationship is part of a cascade configuration, and corrective actions typically involve following the documented corrective action guidance.
+sms.cg EMS events occur when a SnapMirror(R) Synchronous Automated Failover relationship is part of a cascade configuration.
 
 == sms.cg.cascade.not.supported
 *Severity*::

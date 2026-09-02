@@ -15,7 +15,7 @@ summary: repl.exovol events
 :imagesdir: ./media/
 
 [.lead]
-repl.exovol events are reported when an exo-volume scanner detects a loss of volume quiescence during a volume move operation, and corrective actions typically involve checking the reported configuration and connectivity.
+repl.exovol EMS events occur when an exo-volume scanner detects a loss of volume quiescence during a volume move operation.
 
 == repl.exovol.not.quiesced
 *Severity*::

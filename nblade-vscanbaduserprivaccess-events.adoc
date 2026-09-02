@@ -15,7 +15,7 @@ summary: nblade.vscanbaduserprivaccess events
 :imagesdir: ./media/
 
 [.lead]
-nblade.vscanbaduserprivaccess events are reported when this message occurs during a client attempt to connect to the privileged ONTAP_ADMIN$ share, when the logged-in user of that client is not found in the list of allowed users, and corrective actions typically involve ensuring the required configuration and resources are in place.
+nblade.vscanbaduserprivaccess EMS events occur during a client attempt to connect to the privileged ONTAP_ADMIN$ share, when the logged-in user of that client is not found in the list of allowed users.
 
 == Nblade.vscanBadUserPrivAccess
 *Severity*::

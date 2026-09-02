@@ -15,7 +15,7 @@ summary: vsa.device events
 :imagesdir: ./media/
 
 [.lead]
-vsa.device events are reported when the system detects that the kernel environment variables (kenvs) that are used to configure the core dump and NVRAM devices are missing or inconsistent, and corrective actions typically involve following the documented corrective action guidance.
+vsa.device EMS events occur when the system detects that the kernel environment variables (kenvs) that are used to configure the core dump and NVRAM devices are missing or inconsistent.
 
 == vsa.device.bad.config
 *Severity*::

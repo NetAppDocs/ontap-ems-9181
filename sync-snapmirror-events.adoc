@@ -15,7 +15,7 @@ summary: sync.snapmirror events
 :imagesdir: ./media/
 
 [.lead]
-sync.snapmirror events are reported when a storage failover (SFO) operation is vetoed because the aggregate is hosting volumes that are in a SnapMirror(R) Synchronous relationship with StrictSync policy, and corrective actions typically involve following the documented corrective action guidance.
+sync.snapmirror EMS events occur when ONTAP encounters issues associated with SnapMirror(R) Synchronous operations.
 
 == sync.snapmirror.arl.veto
 *Severity*::

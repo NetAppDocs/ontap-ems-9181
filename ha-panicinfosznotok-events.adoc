@@ -15,7 +15,7 @@ summary: ha.panicinfosznotok events
 :imagesdir: ./media/
 
 [.lead]
-ha.panicinfosznotok events are reported when the size of the panic information received from the high-availability (HA) partner is not equal to the expected panic information size, and corrective actions typically involve following the documented corrective action guidance.
+ha.panicinfosznotok EMS events occur when the size of the panic information received from the high-availability (HA) partner is not equal to the expected panic information size.
 
 == ha.panicInfoSzNotOk
 *Severity*::

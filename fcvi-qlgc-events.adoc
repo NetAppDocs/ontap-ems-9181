@@ -15,7 +15,7 @@ summary: fcvi.qlgc events
 :imagesdir: ./media/
 
 [.lead]
-fcvi.qlgc events are reported when total number of async events are overflowed, and corrective actions typically involve following the documented corrective action guidance.
+fcvi.qlgc EMS events occur when ONTAP encounters issues associated with FC-VI adapter firmware and driver operations.
 
 == fcvi.qlgc.async.event.overflow
 *Severity*::

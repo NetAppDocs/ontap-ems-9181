@@ -15,7 +15,7 @@ summary: mlm.array events
 :imagesdir: ./media/
 
 [.lead]
-mlm.array events are reported when the system detects an array LUN from an unsupported array, and corrective actions typically involve following the documented corrective action guidance.
+mlm.array EMS events occur when ONTAP encounters issues associated with array LUN discovery and path management.
 
 == mlm.array.aluaSupported
 *Severity*::

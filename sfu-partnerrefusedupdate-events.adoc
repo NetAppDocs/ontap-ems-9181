@@ -15,7 +15,7 @@ summary: sfu.partnerrefusedupdate events
 :imagesdir: ./media/
 
 [.lead]
-sfu.partnerrefusedupdate events are reported when this message occurs in a high-availability (HA) configuration in which one node refuses firmware download requests from its partner node, in which case the partner node cannot download disk shelf firmware, and corrective actions typically involve following the documented corrective action guidance.
+sfu.partnerrefusedupdate EMS events occur in a high-availability (HA) configuration in which one node refuses firmware download requests from its partner node, in which case the partner node cannot download disk shelf firmware.
 
 == sfu.partnerRefusedUpdate
 *Severity*::

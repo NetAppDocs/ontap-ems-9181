@@ -15,7 +15,7 @@ summary: nblade.fastrecoveryend events
 :imagesdir: ./media/
 
 [.lead]
-nblade.fastrecoveryend events are reported when the NFSv4, and corrective actions typically involve following the documented corrective action guidance.
+nblade.fastrecoveryend EMS events occur when the NFSv4.x server finishes the recovery and is ready to serve data from NFSv4.x clients.
 
 == Nblade.fastRecoveryEnd
 *Severity*::

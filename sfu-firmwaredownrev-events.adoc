@@ -15,7 +15,7 @@ summary: sfu.firmwaredownrev events
 :imagesdir: ./media/
 
 [.lead]
-sfu.firmwaredownrev events are reported when disk shelf firmware is downrev and therefore cannot be updated automatically, and corrective actions typically involve following the documented corrective action guidance.
+sfu.firmwaredownrev EMS events occur when ONTAP encounters issues associated with downrev disk shelf firmware.
 
 == sfu.firmwareDownrev
 *Severity*::

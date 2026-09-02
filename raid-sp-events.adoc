@@ -15,7 +15,7 @@ summary: raid.sp events
 :imagesdir: ./media/
 
 [.lead]
-raid.sp events are reported when one or more aggregate's capacity is not increased as part of the storage pool add job, and corrective actions typically involve following the documented corrective action guidance.
+raid.sp EMS events occur when ONTAP encounters issues associated with storage pool operations.
 
 == raid.sp.add.aggr.grow.noDone
 *Severity*::

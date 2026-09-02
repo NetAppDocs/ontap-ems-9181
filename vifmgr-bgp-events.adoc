@@ -15,7 +15,7 @@ summary: vifmgr.bgp events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.bgp events are reported when logical Interface Manager (VifMgr) connects to BGP daemon, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.bgp EMS events occur when ONTAP encounters issues associated with Border Gateway Protocol (BGP) operations.
 
 == vifmgr.bgp.connected
 *Severity*::

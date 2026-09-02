@@ -15,7 +15,7 @@ summary: vifmgr.started events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.started events are reported when this message occurs to notify you that the Logical Interface Manager (VIFMgr) started, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.started EMS events occur to notify you that the Logical Interface Manager (VIFMgr) started.
 
 == vifmgr.started
 *Severity*::

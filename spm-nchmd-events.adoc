@@ -15,7 +15,7 @@ summary: spm.nchmd events
 :imagesdir: ./media/
 
 [.lead]
-spm.nchmd events are reported when the Node Connectivity Health Monitor process (nchmd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
+spm.nchmd EMS events occur when the Node Connectivity Health Monitor process (nchmd) involuntarily terminates.
 
 == spm.nchmd.process.exit
 *Severity*::

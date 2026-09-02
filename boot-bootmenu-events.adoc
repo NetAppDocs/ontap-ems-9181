@@ -15,7 +15,7 @@ summary: boot.bootmenu events
 :imagesdir: ./media/
 
 [.lead]
-boot.bootmenu events are reported when an error is detected while booting into, or using, the system boot menu, and corrective actions typically involve following the documented corrective action guidance.
+boot.bootmenu EMS events occur when an error is detected while booting into, or using, the system boot menu.
 
 == boot.bootmenu.issue
 *Severity*::

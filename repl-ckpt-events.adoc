@@ -15,7 +15,7 @@ summary: repl.ckpt events
 :imagesdir: ./media/
 
 [.lead]
-repl.ckpt events are reported when this message occurs to record new checkpoint generations subsequent to the first, and corrective actions typically involve following the documented corrective action guidance.
+repl.ckpt EMS events occur to record new checkpoint generations subsequent to the first.
 
 == repl.ckpt.update.generation
 *Severity*::

@@ -15,7 +15,7 @@ summary: lun.scsi events
 :imagesdir: ./media/
 
 [.lead]
-lun.scsi events are reported when the SCSI reservation for one or more LUNs in the secondary or primary Vserver cannot be deleted during a Vserver disaster recovery(DR) resynchronize operation, and corrective actions typically involve following the documented corrective action guidance.
+lun.scsi EMS events occur when the SCSI reservation for one or more LUNs in the secondary or primary Vserver cannot be deleted during a Vserver disaster recovery(DR) resynchronize operation.
 
 == LUN.SCSI.reservation.removal.failed
 *Severity*::

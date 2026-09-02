@@ -15,7 +15,7 @@ summary: nodewatchdog.gfc events
 :imagesdir: ./media/
 
 [.lead]
-nodewatchdog.gfc events are reported when the storage system is low in networking buffers (mbuf) for longer than the duration threshold, which indicates abnormal circumstances, and corrective actions typically involve following the documented corrective action guidance.
+nodewatchdog.gfc EMS events occur when the storage system is low in networking buffers (mbuf) for longer than the duration threshold, which indicates abnormal circumstances.
 
 == nodewatchdog.gfc.too.long
 *Severity*::

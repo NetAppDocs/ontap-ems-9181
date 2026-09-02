@@ -15,7 +15,7 @@ summary: securepurge.aborted events
 :imagesdir: ./media/
 
 [.lead]
-securepurge.aborted events are reported when a secure purge operation is aborted in a flexible volume, and corrective actions typically involve following the documented corrective action guidance.
+securepurge.aborted EMS events occur when a secure purge operation is aborted in a flexible volume.
 
 == securepurge.aborted
 *Severity*::

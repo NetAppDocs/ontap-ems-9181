@@ -15,7 +15,7 @@ summary: nblade.cifsshrconnectfailed events
 :imagesdir: ./media/
 
 [.lead]
-nblade.cifsshrconnectfailed events are reported when the network blade cannot connect to the path specified in the CIFS share, and corrective actions typically involve verifying the reported configuration and health state.
+nblade.cifsshrconnectfailed EMS events occur when the network blade cannot connect to the path specified in the CIFS share.
 
 == Nblade.cifsShrConnectFailed
 *Severity*::

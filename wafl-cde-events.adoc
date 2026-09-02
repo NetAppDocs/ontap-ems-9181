@@ -15,7 +15,7 @@ summary: wafl.cde events
 :imagesdir: ./media/
 
 [.lead]
-wafl.cde events are reported when the WAFL(R) kernel cannot decompress a compressed user data block, and corrective actions typically involve contacting NetApp technical support.
+wafl.cde EMS events occur when the WAFL(R) kernel cannot decompress a compressed user data block.
 
 == wafl.cde.decompression.fail
 *Severity*::

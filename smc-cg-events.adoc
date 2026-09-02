@@ -15,7 +15,7 @@ summary: smc.cg events
 :imagesdir: ./media/
 
 [.lead]
-smc.cg events are reported when a FlexGroup(R) snapshot rename fails and the revert to the original snapshot name also fails, and corrective actions typically involve following the documented corrective action guidance.
+smc.cg EMS events occur when a FlexGroup(R) snapshot rename fails and the revert to the original snapshot name also fails.
 
 == smc.cg.snap.ren.revert.fail
 *Severity*::

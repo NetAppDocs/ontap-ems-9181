@@ -15,7 +15,7 @@ summary: replication.nomemory events
 :imagesdir: ./media/
 
 [.lead]
-replication.nomemory events are reported when there is insufficient memory for the replication transfer to continue, and corrective actions typically involve following the documented corrective action guidance.
+replication.nomemory EMS events occur when there is insufficient memory for the replication transfer to continue.
 
 == replication.noMemory
 *Severity*::

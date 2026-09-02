@@ -15,7 +15,7 @@ summary: snapvault.sys events
 :imagesdir: ./media/
 
 [.lead]
-snapvault.sys events are reported when snapVault(R) encounters an internal error, and corrective actions typically involve following the documented corrective action guidance.
+snapvault.sys EMS events occur when ONTAP encounters issues associated with SnapVault(R) system operations.
 
 == snapvault.sys.internal
 *Severity*::

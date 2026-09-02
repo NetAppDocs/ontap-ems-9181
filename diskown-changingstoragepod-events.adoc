@@ -15,7 +15,7 @@ summary: diskown.changingstoragepod events
 :imagesdir: ./media/
 
 [.lead]
-diskown.changingstoragepod events are reported when aSA r2 updates the ownership of a disk to a different storage pod, and corrective actions typically involve following the documented corrective action guidance.
+diskown.changingstoragepod EMS events occur when ASA r2 updates the ownership of a disk to a different storage pod.
 
 == diskown.changingStoragePod
 *Severity*::

@@ -15,7 +15,7 @@ summary: raid.aggr events
 :imagesdir: ./media/
 
 [.lead]
-raid.aggr events are reported when the usable size of an aggregate does not expand after a corresponding increase in the size of the underlying storage, and corrective actions typically involve checking the reported configuration and connectivity.
+raid.aggr EMS events occur when ONTAP encounters issues associated with aggregate sizing and configuration operations.
 
 == raid.aggr.autoGrow.abort
 *Severity*::

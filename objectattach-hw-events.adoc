@@ -15,7 +15,7 @@ summary: objectattach.hw events
 :imagesdir: ./media/
 
 [.lead]
-objectattach.hw events are reported when an object store attach failed due to an unsupported hardware configuration, and corrective actions typically involve following the documented corrective action guidance.
+objectattach.hw EMS events occur when an object store attach failed due to an unsupported hardware configuration.
 
 == objectAttach.hw.unsupported
 *Severity*::

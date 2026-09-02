@@ -15,7 +15,7 @@ summary: license.term events
 :imagesdir: ./media/
 
 [.lead]
-license.term events are reported when your feature license has expired, and corrective actions typically involve contacting NetApp technical support.
+license.term EMS events occur when ONTAP encounters issues associated with feature license expiration.
 
 == license.term.enforcement
 *Severity*::

@@ -15,7 +15,7 @@ summary: tape.config events
 :imagesdir: ./media/
 
 [.lead]
-tape.config events are reported when the tape configuration file has a format error in a required parameter or is missing a required parameter, and corrective actions typically involve following the documented corrective action guidance.
+tape.config EMS events occur when ONTAP encounters issues associated with tape configuration files.
 
 == tape.config.badKey
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.hainterconnect events
 :imagesdir: ./media/
 
 [.lead]
-callhome.hainterconnect events are reported when the high-availability (HA) interconnect is down, and corrective actions typically involve following the documented corrective action guidance.
+callhome.hainterconnect EMS events occur when the high-availability (HA) interconnect is down.
 
 == callhome.hainterconnect.down
 *Severity*::

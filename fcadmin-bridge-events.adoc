@@ -15,7 +15,7 @@ summary: fcadmin.bridge events
 :imagesdir: ./media/
 
 [.lead]
-fcadmin.bridge events are reported when this event reports the WWN written to a device, and corrective actions typically involve following the documented corrective action guidance.
+fcadmin.bridge EMS events occur when ONTAP encounters issues associated with programming World Wide Names (WWNs) to disk devices.
 
 == fcadmin.bridge.prog.disk
 *Severity*::

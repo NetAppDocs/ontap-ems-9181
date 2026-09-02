@@ -15,7 +15,7 @@ summary: vsdr.volmovsrcfpnonfpaggr events
 :imagesdir: ./media/
 
 [.lead]
-vsdr.volmovsrcfpnonfpaggr events are reported when a volume move operation is executed between FabricPool and non-FabricPool aggregates on the source Vserver of an SVM disaster recovery (SVMDR) relationship, and corrective actions typically involve following the documented corrective action guidance.
+vsdr.volmovsrcfpnonfpaggr EMS events occur when a volume move operation is executed between FabricPool and non-FabricPool aggregates on the source Vserver of an SVM disaster recovery (SVMDR) relationship.
 
 == vsdr.volMovSrcFPNonFPAggr
 *Severity*::

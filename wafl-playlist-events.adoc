@@ -15,7 +15,7 @@ summary: wafl.playlist events
 :imagesdir: ./media/
 
 [.lead]
-wafl.playlist events are reported when this event indicates bad playlist file handle, and corrective actions typically involve following the documented corrective action guidance.
+wafl.playlist EMS events occur when ONTAP encounters issues associated with playlist file handling.
 
 == wafl.playlist.bad_fh
 *Severity*::

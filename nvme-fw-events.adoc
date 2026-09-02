@@ -15,7 +15,7 @@ summary: nvme.fw events
 :imagesdir: ./media/
 
 [.lead]
-nvme.fw events are reported when new firmware has been successfully activated on the drive and running normally, and corrective actions typically involve following the documented corrective action guidance.
+nvme.fw EMS events occur when ONTAP encounters issues associated with NVMe drive firmware activation.
 
 == nvme.fw.activate.complete
 *Severity*::

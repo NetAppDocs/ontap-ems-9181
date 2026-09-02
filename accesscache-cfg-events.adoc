@@ -15,7 +15,7 @@ summary: accesscache.cfg events
 :imagesdir: ./media/
 
 [.lead]
-accesscache.cfg events are reported when exports access cache configuration is modified but the new configuration could not be updated in the Nblade, and corrective actions typically involve following the documented corrective action guidance.
+accesscache.cfg EMS events occur when exports access cache configuration is modified but the new configuration could not be updated in the Nblade.
 
 == accessCache.cfg.updateFailed
 *Severity*::

@@ -15,7 +15,7 @@ summary: aggrcopy.restart events
 :imagesdir: ./media/
 
 [.lead]
-aggrcopy.restart events are reported when 'aggr copy' checks for restart capability on the destination storage system fail, and corrective actions typically involve following the documented corrective action guidance.
+aggrcopy.restart EMS events occur when 'aggr copy' checks for restart capability on the destination storage system fail.
 
 == aggrcopy.restart.dst.chkFail
 *Severity*::

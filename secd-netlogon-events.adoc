@@ -15,7 +15,7 @@ summary: secd.netlogon events
 :imagesdir: ./media/
 
 [.lead]
-secd.netlogon events are reported when none of the configured Netlogon servers are accepting connections, and corrective actions typically involve ensuring the required configuration and resources are in place.
+secd.netlogon EMS events occur when none of the configured Netlogon servers are accepting connections.
 
 == secd.netlogon.noServers
 *Severity*::

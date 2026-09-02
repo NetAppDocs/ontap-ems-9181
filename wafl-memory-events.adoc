@@ -15,7 +15,7 @@ summary: wafl.memory events
 :imagesdir: ./media/
 
 [.lead]
-wafl.memory events are reported when this message occurs periodically to inform the administrator about the amount of WAFL memory that is currently available, and corrective actions typically involve following the documented corrective action guidance.
+wafl.memory EMS events occur when ONTAP encounters issues associated with WAFL memory availability.
 
 == wafl.memory.status
 *Severity*::

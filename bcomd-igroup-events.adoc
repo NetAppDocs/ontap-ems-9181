@@ -15,7 +15,7 @@ summary: bcomd.igroup events
 :imagesdir: ./media/
 
 [.lead]
-bcomd.igroup events are reported when an initiator group marked with the delete-on-unmap flag is not automatically deleted when it is no longer part of a LUN mapping relationship, and corrective actions typically involve following the documented corrective action guidance.
+bcomd.igroup EMS events occur when an initiator group marked with the delete-on-unmap flag is not automatically deleted when it is no longer part of a LUN mapping relationship.
 
 == bcomd.igroup.auto.delete.fail
 *Severity*::

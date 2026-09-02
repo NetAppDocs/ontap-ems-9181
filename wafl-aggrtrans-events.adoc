@@ -15,7 +15,7 @@ summary: wafl.aggrtrans events
 :imagesdir: ./media/
 
 [.lead]
-wafl.aggrtrans events are reported when an aggregate transition operation encounters a corrupted aggregate, and corrective actions typically involve following the documented corrective action guidance.
+wafl.aggrtrans EMS events occur when ONTAP encounters issues associated with aggregate transition operations from 7-Mode to clustered Data ONTAP.
 
 == wafl.aggrtrans.corrupted
 *Severity*::

@@ -15,7 +15,7 @@ summary: dml.drive events
 :imagesdir: ./media/
 
 [.lead]
-dml.drive events are reported when drive offline completes, and corrective actions typically involve following the documented corrective action guidance.
+dml.drive EMS events occur when ONTAP encounters issues associated with drive online and offline operations.
 
 == dml.drive.offline.status
 *Severity*::

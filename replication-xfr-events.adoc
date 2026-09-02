@@ -15,7 +15,7 @@ summary: replication.xfr events
 :imagesdir: ./media/
 
 [.lead]
-replication.xfr events are reported when a SnapMirror(R)/SnapVault(tm) operation is not completed because a block received from the source system failed checksum verification, and corrective actions typically involve following the documented corrective action guidance.
+replication.xfr EMS events occur when ONTAP encounters issues associated with SnapMirror(R) or SnapVault(tm) transfer operations.
 
 == replication.xfr.checksum.fail
 *Severity*::

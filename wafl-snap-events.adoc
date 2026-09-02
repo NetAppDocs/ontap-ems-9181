@@ -15,7 +15,7 @@ summary: wafl.snap events
 :imagesdir: ./media/
 
 [.lead]
-wafl.snap events are reported when the system detects a possible change in the autodelete or autosize policy of the volume, and corrective actions typically involve following the documented corrective action guidance.
+wafl.snap EMS events occur when ONTAP encounters issues associated with snapshot autodelete and autosize policies.
 
 == wafl.snap.autoDel.policyChg
 *Severity*::

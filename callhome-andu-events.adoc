@@ -15,7 +15,7 @@ summary: callhome.andu events
 :imagesdir: ./media/
 
 [.lead]
-callhome.andu events are reported when the automated update of the cluster has been completed, and corrective actions typically involve following the documented corrective action guidance.
+callhome.andu EMS events occur when ONTAP encounters issues associated with the automated update of the cluster.
 
 == callhome.andu.completed
 *Severity*::

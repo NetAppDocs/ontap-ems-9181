@@ -15,7 +15,7 @@ summary: repl.archival events
 :imagesdir: ./media/
 
 [.lead]
-repl.archival events are reported when archival tier scan fails for a cloud snapshot, and corrective actions typically involve following the documented corrective action guidance.
+repl.archival EMS events occur when archival tier scan fails for a cloud snapshot.
 
 == repl.archival.ts.failure
 *Severity*::

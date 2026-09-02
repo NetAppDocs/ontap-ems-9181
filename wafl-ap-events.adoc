@@ -15,7 +15,7 @@ summary: wafl.ap events
 :imagesdir: ./media/
 
 [.lead]
-wafl.ap events are reported when adaptive playlist message, and corrective actions typically involve following the documented corrective action guidance.
+wafl.ap EMS events occur when adaptive playlist message.
 
 == wafl.ap.info
 *Severity*::

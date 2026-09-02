@@ -15,7 +15,7 @@ summary: mgmt.rst events
 :imagesdir: ./media/
 
 [.lead]
-mgmt.rst events are reported when the SnapMirror(R) 'restore' command fails because compression is enabled on the destination volume, and corrective actions typically involve following the documented corrective action guidance.
+mgmt.rst EMS events occur when the SnapMirror(R) 'restore' command fails because compression is enabled on the destination volume.
 
 == mgmt.rst.fail.dst.compressed
 *Severity*::

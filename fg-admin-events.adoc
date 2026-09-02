@@ -15,7 +15,7 @@ summary: fg.admin events
 :imagesdir: ./media/
 
 [.lead]
-fg.admin events are reported when the data component takes longer than 15 seconds to update its view of the FlexGroup volume after an admin operation, and corrective actions typically involve following the documented corrective action guidance.
+fg.admin EMS events occur when the data component takes longer than 15 seconds to update its view of the FlexGroup volume after an admin operation.
 
 == fg.admin.wait.long
 *Severity*::

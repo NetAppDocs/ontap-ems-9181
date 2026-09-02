@@ -15,7 +15,7 @@ summary: vs.multiple events
 :imagesdir: ./media/
 
 [.lead]
-vs.multiple events are reported when more than one Vserver audit consolidation jobs is found, and corrective actions typically involve checking the reported configuration and connectivity.
+vs.multiple EMS events occur when more than one Vserver audit consolidation jobs is found.
 
 == vs.multiple.adtjobs
 *Severity*::

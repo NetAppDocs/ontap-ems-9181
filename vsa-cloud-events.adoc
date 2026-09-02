@@ -15,7 +15,7 @@ summary: vsa.cloud events
 :imagesdir: ./media/
 
 [.lead]
-vsa.cloud events are reported when cluster LIF route update succeeds upon node switchover, and corrective actions typically involve following the documented corrective action guidance.
+vsa.cloud EMS events occur when ONTAP encounters issues associated with Cloud Network Load Balancer operations, disk I/O throttling, or route updates.
 
 == vsa.cloud.aws.api.rtUpdt
 *Severity*::

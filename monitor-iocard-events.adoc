@@ -15,7 +15,7 @@ summary: monitor.iocard events
 :imagesdir: ./media/
 
 [.lead]
-monitor.iocard events are reported when an I/O card is degraded, and corrective actions typically involve following the documented corrective action guidance.
+monitor.iocard EMS events occur when ONTAP encounters issues associated with I/O card operation.
 
 == monitor.ioCard.degraded
 *Severity*::

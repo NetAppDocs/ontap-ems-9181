@@ -15,7 +15,7 @@ summary: fp.est events
 :imagesdir: ./media/
 
 [.lead]
-fp.est events are reported when the volume footprint estimator scan fails to update the catalog file, and corrective actions typically involve checking the reported configuration and connectivity.
+fp.est EMS events occur when ONTAP encounters issues associated with volume footprint estimator scan operations.
 
 == fp.est.scan.catalog.failed
 *Severity*::

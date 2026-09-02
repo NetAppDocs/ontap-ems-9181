@@ -15,7 +15,7 @@ summary: snapmirror.dst events
 :imagesdir: ./media/
 
 [.lead]
-snapmirror.dst events are reported when this event is issued when a SnapMirror incremental transfer to a destination volume is nearing completion and has to abort any dump, vol copy, snapmirror or snapvault operations from that volume, and corrective actions typically involve following the documented corrective action guidance.
+snapmirror.dst EMS events occur when ONTAP encounters issues associated with SnapMirror(R) destination operations.
 
 == snapmirror.dst.abortOps
 *Severity*::

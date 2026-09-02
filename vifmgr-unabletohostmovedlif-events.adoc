@@ -15,7 +15,7 @@ summary: vifmgr.unabletohostmovedlif events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.unabletohostmovedlif events are reported when an attempt to move a logical interface (LIF) IP address to a specific node/port failed, and a subsequent attempt was made to move that LIF to another location, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.unabletohostmovedlif EMS events occur when an attempt to move a logical interface (LIF) IP address to a specific node/port failed, and a subsequent attempt was made to move that LIF to another location.
 
 == vifmgr.unabletohostmovedlif
 *Severity*::

@@ -15,7 +15,7 @@ summary: vol.duplicate events
 :imagesdir: ./media/
 
 [.lead]
-vol.duplicate events are reported when a duplicate master set ID (MSID) has been detected, and corrective actions typically involve contacting NetApp technical support.
+vol.duplicate EMS events occur when a duplicate master set ID (MSID) has been detected.
 
 == vol.duplicate.msid
 *Severity*::

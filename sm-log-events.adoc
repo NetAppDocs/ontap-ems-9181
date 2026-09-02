@@ -15,7 +15,7 @@ summary: sm.log events
 :imagesdir: ./media/
 
 [.lead]
-sm.log events are reported when writing SnapMirror(R) data to a log file fails, and corrective actions typically involve following the documented corrective action guidance.
+sm.log EMS events occur when writing SnapMirror(R) data to a log file fails.
 
 == sm.log.write.fail
 *Severity*::

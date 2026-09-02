@@ -15,7 +15,7 @@ summary: fmmb.add events
 :imagesdir: ./media/
 
 [.lead]
-fmmb.add events are reported when this event is issued when the HA mailbox is attempting to add a mailbox disk and a problem occurred, and corrective actions typically involve following the documented corrective action guidance.
+fmmb.add EMS events occur when the HA mailbox is attempting to add a mailbox disk and a problem occurred.
 
 == fmmb.add.problem
 *Severity*::

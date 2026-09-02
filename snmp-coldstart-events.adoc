@@ -15,7 +15,7 @@ summary: snmp.coldstart events
 :imagesdir: ./media/
 
 [.lead]
-snmp.coldstart events are reported when the SNMP daemon is reinitializing itself with a coldStart, and corrective actions typically involve following the documented corrective action guidance.
+snmp.coldstart EMS events occur when the SNMP daemon is reinitializing itself with a coldStart.
 
 == snmp.coldstart.trap
 *Severity*::

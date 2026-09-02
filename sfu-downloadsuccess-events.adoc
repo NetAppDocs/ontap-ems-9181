@@ -15,7 +15,7 @@ summary: sfu.downloadsuccess events
 :imagesdir: ./media/
 
 [.lead]
-sfu.downloadsuccess events are reported when disk shelf firmware updates successfully, and corrective actions typically involve following the documented corrective action guidance.
+sfu.downloadsuccess EMS events occur when disk shelf firmware updates successfully.
 
 == sfu.downloadSuccess
 *Severity*::

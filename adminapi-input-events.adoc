@@ -15,7 +15,7 @@ summary: adminapi.input events
 :imagesdir: ./media/
 
 [.lead]
-adminapi.input events are reported when the Data ONTAP server receives a bad XML request that does not contain the API name to be executed, and corrective actions typically involve following the documented corrective action guidance.
+adminapi.input EMS events occur when the Data ONTAP server receives a bad XML request that does not contain the API name to be executed.
 
 == adminapi.input.badXml
 *Severity*::

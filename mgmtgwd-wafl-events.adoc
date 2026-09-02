@@ -15,7 +15,7 @@ summary: mgmtgwd.wafl events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.wafl events are reported when the system will automatically enter RDB recovery because the system has detected that a root volume might have changed, possibly causing the local management databases to be out of sync with the replicated databases, and corrective actions typically involve following the documented corrective action guidance.
+mgmtgwd.wafl EMS events occur when the system will automatically enter RDB recovery because the system has detected that a root volume might have changed, possibly causing the local management databases to be out of sync with the replicated databases.
 
 == mgmtgwd.wafl.rdb.autorecover
 *Severity*::

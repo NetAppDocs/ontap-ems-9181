@@ -15,7 +15,7 @@ summary: socket.sndbuflimit events
 :imagesdir: ./media/
 
 [.lead]
-socket.sndbuflimit events are reported when an overflow is detected in the TCP socket send buffer, and corrective actions typically involve following the documented corrective action guidance.
+socket.sndbuflimit EMS events occur when an overflow is detected in the TCP socket send buffer.
 
 == socket.sndbuflimit.exceeded
 *Severity*::

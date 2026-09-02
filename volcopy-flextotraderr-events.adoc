@@ -15,7 +15,7 @@ summary: volcopy.flextotraderr events
 :imagesdir: ./media/
 
 [.lead]
-volcopy.flextotraderr events are reported when the user tries to copy a flexible volume into a traditional volume using the command 'vol copy', and corrective actions typically involve following the documented corrective action guidance.
+volcopy.flextotraderr EMS events occur when the user tries to copy a flexible volume into a traditional volume using the command 'vol copy'.
 
 == volcopy.flexToTradErr
 *Severity*::

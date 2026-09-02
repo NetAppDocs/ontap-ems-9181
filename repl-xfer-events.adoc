@@ -15,7 +15,7 @@ summary: repl.xfer events
 :imagesdir: ./media/
 
 [.lead]
-repl.xfer events are reported when a replication transfer component (sender or receiver) has taken more than an hour to terminate, and corrective actions typically involve following the documented corrective action guidance.
+repl.xfer EMS events occur when a replication transfer component (sender or receiver) has taken more than an hour to terminate.
 
 == repl.xfer.term.timed.out
 *Severity*::

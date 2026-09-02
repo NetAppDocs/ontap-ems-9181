@@ -15,7 +15,7 @@ summary: cr.data events
 :imagesdir: ./media/
 
 [.lead]
-cr.data events are reported when the namespace scanner skips an inode for which it cannot access the data file, and corrective actions typically involve following the documented corrective action guidance.
+cr.data EMS events occur when the namespace scanner skips an inode for which it cannot access the data file.
 
 == CR.Data.File.Inaccessible
 *Deprecated*::

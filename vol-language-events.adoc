@@ -15,7 +15,7 @@ summary: vol.language events
 :imagesdir: ./media/
 
 [.lead]
-vol.language events are reported when this event is issued when the language of an aggregate or a volume is changed, and corrective actions typically involve following the documented corrective action guidance.
+vol.language EMS events occur when ONTAP encounters issues associated with the language configuration of aggregates or volumes.
 
 == vol.language.changed
 *Severity*::

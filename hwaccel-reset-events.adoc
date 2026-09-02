@@ -15,7 +15,7 @@ summary: hwaccel.reset events
 :imagesdir: ./media/
 
 [.lead]
-hwaccel.reset events are reported when a hardware accelerator is reset using software, and corrective actions typically involve following the documented corrective action guidance.
+hwaccel.reset EMS events occur when a hardware accelerator is reset using software.
 
 == hwaccel.reset
 *Severity*::

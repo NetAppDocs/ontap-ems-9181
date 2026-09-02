@@ -15,7 +15,7 @@ summary: net.vserverupdatefailure events
 :imagesdir: ./media/
 
 [.lead]
-net.vserverupdatefailure events are reported when a node cannot be updated with Vserver configuration, and corrective actions typically involve following the documented corrective action guidance.
+net.vserverupdatefailure EMS events occur when a node cannot be updated with Vserver configuration.
 
 == net.vServerUpdateFailure
 *Severity*::

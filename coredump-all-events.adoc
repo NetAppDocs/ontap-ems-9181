@@ -15,7 +15,7 @@ summary: coredump.all events
 :imagesdir: ./media/
 
 [.lead]
-coredump.all events are reported when all disks available to coredump already contain unsaved cores, and corrective actions typically involve following the documented corrective action guidance.
+coredump.all EMS events occur when all disks available to coredump already contain unsaved cores.
 
 == coredump.all.disks.used
 *Severity*::

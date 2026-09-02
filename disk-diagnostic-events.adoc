@@ -15,7 +15,7 @@ summary: disk.diagnostic events
 :imagesdir: ./media/
 
 [.lead]
-disk.diagnostic events are reported when oNTAP retrieves the diagnostic logs from the disk, and corrective actions typically involve following the documented corrective action guidance.
+disk.diagnostic EMS events occur when ONTAP retrieves the diagnostic logs from the disk.
 
 == disk.diagnostic.logs.saved
 *Severity*::

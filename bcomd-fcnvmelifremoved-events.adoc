@@ -15,7 +15,7 @@ summary: bcomd.fcnvmelifremoved events
 :imagesdir: ./media/
 
 [.lead]
-bcomd.fcnvmelifremoved events are reported when an FC NVMe (Nonvolatile Memory Express) logical interface (LIF) is removed, and corrective actions typically involve following the documented corrective action guidance.
+bcomd.fcnvmelifremoved EMS events occur when an FC NVMe (Nonvolatile Memory Express) logical interface (LIF) is removed.
 
 == bcomd.fcNvmeLifRemoved
 *Severity*::

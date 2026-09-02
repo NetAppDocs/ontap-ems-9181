@@ -15,7 +15,7 @@ summary: cluster.op events
 :imagesdir: ./media/
 
 [.lead]
-cluster.op events are reported when a "cluster create" or a "cluster join" or a "cluster unjoin" operation is attempted but does not succeed, and corrective actions typically involve following the documented corrective action guidance.
+cluster.op EMS events occur when ONTAP encounters issues associated with cluster create, join, and unjoin operations.
 
 == cluster.op.fail
 *Severity*::

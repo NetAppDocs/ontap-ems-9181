@@ -15,7 +15,7 @@ summary: mgmtgwd.vol events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.vol events are reported when one of the volume upgrade tasks fails, and corrective actions typically involve following the documented corrective action guidance.
+mgmtgwd.vol EMS events occur when ONTAP encounters issues associated with volume upgrade tasks.
 
 == mgmtgwd.vol.upgrade.failed
 *Severity*::

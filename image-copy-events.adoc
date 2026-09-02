@@ -15,7 +15,7 @@ summary: image.copy events
 :imagesdir: ./media/
 
 [.lead]
-image.copy events are reported when oNTAP software installation was performed via the boot menu, which does not verify the digital signature of the software image, and corrective actions typically involve following the documented corrective action guidance.
+image.copy EMS events occur when ONTAP software installation was performed via the boot menu, which does not verify the digital signature of the software image.
 
 == image.copy.bypass.ds.chk
 *Severity*::

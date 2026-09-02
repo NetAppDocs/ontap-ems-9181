@@ -15,7 +15,7 @@ summary: lsm.pal events
 :imagesdir: ./media/
 
 [.lead]
-lsm.pal events are reported when a block store PAL operation encounters an error, and corrective actions typically involve following the documented corrective action guidance.
+lsm.pal EMS events occur when a block store PAL operation encounters an error.
 
 == lsm.pal.problem
 *Severity*::

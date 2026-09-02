@@ -15,7 +15,7 @@ summary: air.corrected events
 :imagesdir: ./media/
 
 [.lead]
-air.corrected events are reported when the Automated Incremental Repair (AIR) subsystem repairs an inode having a corrupted qtree ID, and corrective actions typically involve following the documented corrective action guidance.
+air.corrected EMS events occur when the Automated Incremental Repair (AIR) subsystem repairs an inode having a corrupted qtree ID.
 
 == air.corrected.qtree.tid
 *Severity*::

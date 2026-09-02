@@ -15,7 +15,7 @@ summary: configbr.nodesturl events
 :imagesdir: ./media/
 
 [.lead]
-configbr.nodesturl events are reported when the cluster backup is saved on only one node and no offsite configuration backup destination URL is configured, and corrective actions typically involve following the documented corrective action guidance.
+configbr.nodesturl EMS events occur when the cluster backup is saved on only one node and no offsite configuration backup destination URL is configured.
 
 == configbr.noDestURL
 *Severity*::

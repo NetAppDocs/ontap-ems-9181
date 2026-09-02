@@ -15,7 +15,7 @@ summary: mgmtgwd.replace events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.replace events are reported when the temporary node management LIF, which is normally deleted automatically, has not been replaced, and corrective actions typically involve following the documented corrective action guidance.
+mgmtgwd.replace EMS events occur when the temporary node management LIF, which is normally deleted automatically, has not been replaced.
 
 == mgmtgwd.replace.node.mgmt.lif
 *Severity*::

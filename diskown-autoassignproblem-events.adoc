@@ -15,7 +15,7 @@ summary: diskown.autoassignproblem events
 :imagesdir: ./media/
 
 [.lead]
-diskown.autoassignproblem events are reported when data ONTAP(R) attempts to assign a disk automatically, but the request fails, and corrective actions typically involve following the documented corrective action guidance.
+diskown.autoassignproblem EMS events occur when Data ONTAP(R) attempts to assign a disk automatically, but the request fails.
 
 == diskown.AutoAssignProblem
 *Severity*::

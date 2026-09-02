@@ -15,7 +15,7 @@ summary: repl.hole events
 :imagesdir: ./media/
 
 [.lead]
-repl.hole events are reported when a SnapMirror(R) transfer encounters an unrecoverable RAID error, and corrective actions typically involve contacting NetApp technical support.
+repl.hole EMS events occur when a SnapMirror(R) transfer encounters an unrecoverable RAID error.
 
 == repl.hole.raid.error
 *Severity*::

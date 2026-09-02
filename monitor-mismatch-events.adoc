@@ -15,7 +15,7 @@ summary: monitor.mismatch events
 :imagesdir: ./media/
 
 [.lead]
-monitor.mismatch events are reported when the version of ONTAP(R) is not supported on this hardware, and corrective actions typically involve following the documented corrective action guidance.
+monitor.mismatch EMS events occur when ONTAP encounters issues associated with hardware and software branding mismatches.
 
 == monitor.mismatch.hourly
 *Severity*::

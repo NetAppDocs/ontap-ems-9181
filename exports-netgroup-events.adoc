@@ -15,7 +15,7 @@ summary: exports.netgroup events
 :imagesdir: ./media/
 
 [.lead]
-exports.netgroup events are reported when the reverse lookup record mapping an IP address to its hostname cannot be found in the configured name servers, and corrective actions typically involve following the documented corrective action guidance.
+exports.netgroup EMS events occur when ONTAP encounters issues associated with netgroup resolution for export-policy evaluation.
 
 == exports.netgroup.dnsNoPtrRec
 *Severity*::

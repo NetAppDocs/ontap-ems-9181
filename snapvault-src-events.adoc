@@ -15,7 +15,7 @@ summary: snapvault.src events
 :imagesdir: ./media/
 
 [.lead]
-snapvault.src events are reported when a SnapVault(R) source appliance receives a transfer request when the service is not enabled, and corrective actions typically involve following the documented corrective action guidance.
+snapvault.src EMS events occur when ONTAP encounters issues associated with the SnapVault(R) source service.
 
 == snapvault.src.notEnabled
 *Severity*::

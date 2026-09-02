@@ -15,7 +15,7 @@ summary: km.okmdb events
 :imagesdir: ./media/
 
 [.lead]
-km.okmdb events are reported when a read of the Onboard Key Manager's database file fails, and corrective actions typically involve checking the reported configuration and connectivity.
+km.okmdb EMS events occur when ONTAP encounters issues associated with the Onboard Key Manager's database file.
 
 == km.okmdb.read.failed
 *Severity*::

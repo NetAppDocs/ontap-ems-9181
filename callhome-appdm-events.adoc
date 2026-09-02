@@ -15,7 +15,7 @@ summary: callhome.appdm events
 :imagesdir: ./media/
 
 [.lead]
-callhome.appdm events are reported when the Application Data Management feature encounters an error while attempting to restore an application from a snapshot, and corrective actions typically involve following the documented corrective action guidance.
+callhome.appdm EMS events occur when the Application Data Management feature encounters an error while attempting to restore an application from a snapshot.
 
 == callhome.appdm.snaprest.fail
 *Severity*::

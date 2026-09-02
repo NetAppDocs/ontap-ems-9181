@@ -15,7 +15,7 @@ summary: wafl.giveback events
 :imagesdir: ./media/
 
 [.lead]
-wafl.giveback events are reported when the system cannot perform a giveback due to vol create, and must abort giveback, and corrective actions typically involve following the documented corrective action guidance.
+wafl.giveback EMS events occur when ONTAP encounters issues associated with high-availability giveback operations.
 
 == wafl.giveback.create.fail
 *Severity*::

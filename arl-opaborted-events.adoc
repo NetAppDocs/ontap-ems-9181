@@ -15,7 +15,7 @@ summary: arl.opaborted events
 :imagesdir: ./media/
 
 [.lead]
-arl.opaborted events are reported when an aggregate relocation operation is aborted, and corrective actions typically involve following the documented corrective action guidance.
+arl.opaborted EMS events occur when an aggregate relocation operation is aborted.
 
 == arl.OpAborted
 *Severity*::

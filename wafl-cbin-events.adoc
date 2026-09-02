@@ -15,7 +15,7 @@ summary: wafl.cbin events
 :imagesdir: ./media/
 
 [.lead]
-wafl.cbin events are reported when cloud mirror configuration changes during the WAFLiron operation on a FabricPool aggregate with unified format enabled, and corrective actions typically involve following the documented corrective action guidance.
+wafl.cbin EMS events occur when ONTAP encounters issues associated with cloud mirror configuration changes during WAFLiron operations on FabricPool aggregates.
 
 == wafl.cbin.iron.mirror.config.changed
 *Severity*::

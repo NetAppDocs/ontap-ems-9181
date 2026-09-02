@@ -15,7 +15,7 @@ summary: vldb.vldbaggr events
 :imagesdir: ./media/
 
 [.lead]
-vldb.vldbaggr events are reported when an aggregate is identified that does not exist in the Volume Location Database, and corrective actions typically involve following the documented corrective action guidance.
+vldb.vldbaggr EMS events occur when an aggregate is identified that does not exist in the Volume Location Database.
 
 == vldb.vldbAggr.missing
 *Severity*::

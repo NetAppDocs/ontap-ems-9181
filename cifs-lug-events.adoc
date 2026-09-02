@@ -15,7 +15,7 @@ summary: cifs.lug events
 :imagesdir: ./media/
 
 [.lead]
-cifs.lug events are reported when the job to import CIFS local users and groups is completed successfully only at a primary site within a MetroCluster(R) configuration or Vserver DR setup, and corrective actions typically involve following the documented corrective action guidance.
+cifs.lug EMS events occur when the job to import CIFS local users and groups is completed successfully only at a primary site within a MetroCluster(R) configuration or Vserver DR setup.
 
 == cifs.lug.import.fail
 *Severity*::

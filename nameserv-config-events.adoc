@@ -15,7 +15,7 @@ summary: nameserv.config events
 :imagesdir: ./media/
 
 [.lead]
-nameserv.config events are reported when a file write for name service configuration fails, and corrective actions typically involve following the documented corrective action guidance.
+nameserv.config EMS events occur when a file write for name service configuration fails.
 
 == nameserv.config.write.failed
 *Severity*::

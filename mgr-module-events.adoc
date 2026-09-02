@@ -15,7 +15,7 @@ summary: mgr.module events
 :imagesdir: ./media/
 
 [.lead]
-mgr.module events are reported when this occurs to inform you of where kernel modules were loaded in memory, and corrective actions typically involve following the documented corrective action guidance.
+mgr.module EMS events occur when this occurs to inform you of where kernel modules were loaded in memory.
 
 == mgr.module.address
 *Severity*::

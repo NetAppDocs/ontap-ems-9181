@@ -15,7 +15,7 @@ summary: gpo.reg events
 :imagesdir: ./media/
 
 [.lead]
-gpo.reg events are reported when the group policy object (GPO) registry policy settings are applied, and corrective actions typically involve following the documented corrective action guidance.
+gpo.reg EMS events occur when ONTAP encounters issues associated with Group Policy Object (GPO) registry policy settings.
 
 == gpo.reg.applied
 *Severity*::

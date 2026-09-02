@@ -15,7 +15,7 @@ summary: kern.syslog events
 :imagesdir: ./media/
 
 [.lead]
-kern.syslog events are reported when we detect that syslog messages were dropped before being logged, and corrective actions typically involve following the documented corrective action guidance.
+kern.syslog EMS events occur when ONTAP encounters issues associated with kernel syslog message handling.
 
 == kern.syslog.drops
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.sidl events
 :imagesdir: ./media/
 
 [.lead]
-wafl.sidl events are reported when a volume or aggregate with single instance data logging enabled encounters a problem in a metafile required for the functioning of the single instance data logging feature, and corrective actions typically involve following the documented corrective action guidance.
+wafl.sidl EMS events occur when ONTAP encounters issues associated with single instance data logging metafile operations.
 
 == wafl.sidl.blkincons.recovery
 *Severity*::

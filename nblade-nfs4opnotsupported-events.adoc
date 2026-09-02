@@ -15,7 +15,7 @@ summary: nblade.nfs4opnotsupported events
 :imagesdir: ./media/
 
 [.lead]
-nblade.nfs4opnotsupported events are reported when a NFSv4 client presents an unsupported operation to the server, and corrective actions typically involve following the documented corrective action guidance.
+nblade.nfs4opnotsupported EMS events occur when a NFSv4 client presents an unsupported operation to the server.
 
 == Nblade.Nfs4OpNotSupported
 *Severity*::

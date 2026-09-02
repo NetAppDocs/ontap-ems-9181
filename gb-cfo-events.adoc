@@ -15,7 +15,7 @@ summary: gb.cfo events
 :imagesdir: ./media/
 
 [.lead]
-gb.cfo events are reported when a high-availability (HA) controller failover (CFO) giveback is canceled due to RAID activity on a partner aggregate, and corrective actions typically involve following the documented corrective action guidance.
+gb.cfo EMS events occur when ONTAP encounters issues associated with controller failover (CFO) giveback operations.
 
 == gb.cfo.abort.raid.fm
 *Severity*::

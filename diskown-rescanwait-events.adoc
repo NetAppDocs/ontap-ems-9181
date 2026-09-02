@@ -15,7 +15,7 @@ summary: diskown.rescanwait events
 :imagesdir: ./media/
 
 [.lead]
-diskown.rescanwait events are reported when the disk ownership rescan code waits, and corrective actions typically involve following the documented corrective action guidance.
+diskown.rescanwait EMS events occur when the disk ownership rescan code waits.
 
 == diskown.rescanWait
 *Severity*::

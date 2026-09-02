@@ -15,7 +15,7 @@ summary: raid.mgvio events
 :imagesdir: ./media/
 
 [.lead]
-raid.mgvio events are reported when this message is generated after detecting an inconsistent RAID write signature on a RAID stripe, during SyncMirror verify operation, and corrective actions typically involve following the documented corrective action guidance.
+raid.mgvio EMS events occur when after detecting an inconsistent RAID write signature on a RAID stripe, during SyncMirror verify operation.
 
 == raid.mgvio.lw.id.inconsist
 *Severity*::

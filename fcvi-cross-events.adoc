@@ -15,7 +15,7 @@ summary: fcvi.cross events
 :imagesdir: ./media/
 
 [.lead]
-fcvi.cross events are reported when the fcvi driver detects a cross connection, and corrective actions typically involve checking the reported configuration and connectivity.
+fcvi.cross EMS events occur when the fcvi driver detects a cross connection.
 
 == fcvi.cross.connect.detected
 *Severity*::

@@ -15,7 +15,7 @@ summary: nonha.resvconflicthalt events
 :imagesdir: ./media/
 
 [.lead]
-nonha.resvconflicthalt events are reported when the controller halts itself after it finds disk with reservation conflicts, and corrective actions typically involve contacting NetApp technical support.
+nonha.resvconflicthalt EMS events occur when the controller halts itself after it finds disk with reservation conflicts.
 
 == nonha.resvConflictHalt
 *Severity*::

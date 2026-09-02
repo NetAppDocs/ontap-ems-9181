@@ -15,7 +15,7 @@ summary: qos.mintp events
 :imagesdir: ./media/
 
 [.lead]
-qos.mintp events are reported when the Quality of Service (QoS) subsystem notices high latency in the cluster interconnect for workloads associated with minimum-throughput policy groups, and corrective actions typically involve following the documented corrective action guidance.
+qos.mintp EMS events occur when the Quality of Service (QoS) subsystem notices high latency in the cluster interconnect for workloads associated with minimum-throughput policy groups.
 
 == qos.mintp.high.intrconct.lat
 *Severity*::

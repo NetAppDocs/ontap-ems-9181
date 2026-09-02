@@ -15,7 +15,7 @@ summary: diff.svcs events
 :imagesdir: ./media/
 
 [.lead]
-diff.svcs events are reported when the system cannot automatically apply the Differentiated Services (diff-svcs) setting to the High Availability (HA) partner, and corrective actions typically involve following the documented corrective action guidance.
+diff.svcs EMS events occur when the system cannot automatically apply the Differentiated Services (diff-svcs) setting to the High Availability (HA) partner.
 
 == diff.svcs.setting.topartner
 *Severity*::

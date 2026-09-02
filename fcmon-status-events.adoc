@@ -15,7 +15,7 @@ summary: fcmon.status events
 :imagesdir: ./media/
 
 [.lead]
-fcmon.status events are reported when fCMON starts up, halts or is requested to print it's current state, and no corrective action is typically required.
+fcmon.status EMS events occur when FCMON starts up, halts or is requested to print it's current state.
 
 == fcmon.status
 *Deprecated*::

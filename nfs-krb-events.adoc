@@ -15,7 +15,7 @@ summary: nfs.krb events
 :imagesdir: ./media/
 
 [.lead]
-nfs.krb events are reported when a Kerberos-enabled LIF in a Vserver shares NFS Kerberos credentials with a LIF in another Vserver, and corrective actions typically involve following the documented corrective action guidance.
+nfs.krb EMS events occur when a Kerberos-enabled LIF in a Vserver shares NFS Kerberos credentials with a LIF in another Vserver.
 
 == nfs.krb.lif.disabled
 *Severity*::

@@ -15,7 +15,7 @@ summary: mixed.controller events
 :imagesdir: ./media/
 
 [.lead]
-mixed.controller events are reported when the system detects a different type of partner controller and will shut down in 24 hours, and corrective actions typically involve following the documented corrective action guidance.
+mixed.controller EMS events occur when ONTAP encounters issues associated with mixed controller models in the same chassis.
 
 == mixed.controller.halt
 *Severity*::

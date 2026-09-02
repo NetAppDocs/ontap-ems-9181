@@ -15,7 +15,7 @@ summary: sis.fingerprint events
 :imagesdir: ./media/
 
 [.lead]
-sis.fingerprint events are reported when a bad block is encountered while reading SIS metafiles, and corrective actions typically involve following the documented corrective action guidance.
+sis.fingerprint EMS events occur when a bad block is encountered while reading SIS metafiles.
 
 == sis.fingerprint.notify.lost
 *Severity*::

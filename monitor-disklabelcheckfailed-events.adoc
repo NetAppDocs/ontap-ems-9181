@@ -15,7 +15,7 @@ summary: monitor.disklabelcheckfailed events
 :imagesdir: ./media/
 
 [.lead]
-monitor.disklabelcheckfailed events are reported when the system detects that a file system disk has an invalid or a missing RAID label, and corrective actions typically involve following the documented corrective action guidance.
+monitor.disklabelcheckfailed EMS events occur when the system detects that a file system disk has an invalid or a missing RAID label.
 
 == monitor.diskLabelCheckFailed
 *Severity*::

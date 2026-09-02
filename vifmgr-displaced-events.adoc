@@ -15,7 +15,7 @@ summary: vifmgr.displaced events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.displaced events are reported when the home port of a displaced logical interface (LIF) has been restored to its original home port, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.displaced EMS events occur when the home port of a displaced logical interface (LIF) has been restored to its original home port.
 
 == vifmgr.displaced.lifHomed
 *Severity*::

@@ -15,7 +15,7 @@ summary: disk.readreservationfailed events
 :imagesdir: ./media/
 
 [.lead]
-disk.readreservationfailed events are reported when a SCSI (Small Computer System Interface) read reservation fails, and corrective actions typically involve following the documented corrective action guidance.
+disk.readreservationfailed EMS events occur when a SCSI (Small Computer System Interface) read reservation fails.
 
 == disk.readReservationFailed
 *Severity*::

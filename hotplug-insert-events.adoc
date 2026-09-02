@@ -15,7 +15,7 @@ summary: hotplug.insert events
 :imagesdir: ./media/
 
 [.lead]
-hotplug.insert events are reported when the module type does not match the system's record for this slot, and corrective actions typically involve following the documented corrective action guidance.
+hotplug.insert EMS events occur when ONTAP encounters issues associated with hot plug module insertion operations.
 
 == hotplug.insert.badCard.type
 *Severity*::

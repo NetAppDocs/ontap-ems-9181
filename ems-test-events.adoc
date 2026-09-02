@@ -15,7 +15,7 @@ summary: ems.test events
 :imagesdir: ./media/
 
 [.lead]
-ems.test events are reported when the system generates a test EMS message of notice severity in response to a user test request, and corrective actions typically involve following the documented corrective action guidance.
+ems.test EMS events occur when the system generates a test EMS message of notice severity in response to a user test request.
 
 == ems.test.notice
 *Severity*::

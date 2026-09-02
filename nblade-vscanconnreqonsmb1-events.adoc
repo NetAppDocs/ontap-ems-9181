@@ -15,7 +15,7 @@ summary: nblade.vscanconnreqonsmb1 events
 :imagesdir: ./media/
 
 [.lead]
-nblade.vscanconnreqonsmb1 events are reported when this message occurs during a client attempt to establish a vscan connection over SMB1, which is not supported, and corrective actions typically involve verifying the reported configuration and health state.
+nblade.vscanconnreqonsmb1 EMS events occur during a client attempt to establish a vscan connection over SMB1, which is not supported.
 
 == Nblade.vscanConnReqOnSMB1
 *Severity*::

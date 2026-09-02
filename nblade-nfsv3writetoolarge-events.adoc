@@ -15,7 +15,7 @@ summary: nblade.nfsv3writetoolarge events
 :imagesdir: ./media/
 
 [.lead]
-nblade.nfsv3writetoolarge events are reported when a client attempts to write over NFSv3 with an amount of data that is greater than the maximum allowed TCP or UDP transfer size, and corrective actions typically involve following the documented corrective action guidance.
+nblade.nfsv3writetoolarge EMS events occur when a client attempts to write over NFSv3 with an amount of data that is greater than the maximum allowed TCP or UDP transfer size.
 
 == Nblade.Nfsv3WriteTooLarge
 *Severity*::

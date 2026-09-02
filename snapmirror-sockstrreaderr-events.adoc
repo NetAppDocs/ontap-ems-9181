@@ -15,7 +15,7 @@ summary: snapmirror.sockstrreaderr events
 :imagesdir: ./media/
 
 [.lead]
-snapmirror.sockstrreaderr events are reported when this event is issued when SnapMirror tries to read a large string from the socket, and corrective actions typically involve following the documented corrective action guidance.
+snapmirror.sockstrreaderr EMS events occur when SnapMirror tries to read a large string from the socket.
 
 == snapmirror.sockStrReadErr
 *Severity*::

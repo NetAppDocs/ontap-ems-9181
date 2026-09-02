@@ -15,7 +15,7 @@ summary: config.fcsameloop events
 :imagesdir: ./media/
 
 [.lead]
-config.fcsameloop events are reported when a disk is multipathed to the same Fibre Channel loop, and corrective actions typically involve following the documented corrective action guidance.
+config.fcsameloop EMS events occur when a disk is multipathed to the same Fibre Channel loop.
 
 == config.FCSameLoop
 *Severity*::

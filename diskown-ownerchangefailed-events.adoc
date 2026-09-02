@@ -15,7 +15,7 @@ summary: diskown.ownerchangefailed events
 :imagesdir: ./media/
 
 [.lead]
-diskown.ownerchangefailed events are reported when a disk ownership change request fails, and corrective actions typically involve verifying the reported configuration and health state.
+diskown.ownerchangefailed EMS events occur when a disk ownership change request fails.
 
 == diskown.ownerChangeFailed
 *Severity*::

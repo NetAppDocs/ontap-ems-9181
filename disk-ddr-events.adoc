@@ -15,7 +15,7 @@ summary: disk.ddr events
 :imagesdir: ./media/
 
 [.lead]
-disk.ddr events are reported when the Dynamic Drive Recognition (DDR) Scanner detects a disk that is not part of its qualification table, and corrective actions typically involve checking the reported configuration and connectivity.
+disk.ddr EMS events occur when ONTAP encounters issues associated with Dynamic Drive Recognition (DDR) operations.
 
 == disk.ddr.dqp.out.of.date
 *Severity*::

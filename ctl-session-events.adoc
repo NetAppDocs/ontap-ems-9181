@@ -15,7 +15,7 @@ summary: ctl.session events
 :imagesdir: ./media/
 
 [.lead]
-ctl.session events are reported when iSCSI CAM target layer session status is changed, and corrective actions typically involve following the documented corrective action guidance.
+ctl.session EMS events occur when iSCSI CAM target layer session status is changed.
 
 == ctl.session.stateChanged
 *Severity*::

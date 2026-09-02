@@ -15,7 +15,7 @@ summary: clam.takeover events
 :imagesdir: ./media/
 
 [.lead]
-clam.takeover events are reported when the Kernel Cluster Services Connectivity, Liveliness, Availability Monitor (CLAM) triggers takeover of a partner node after determining that the local node is in "CLAM quorum" and the partner node is out of "CLAM quorum", and corrective actions typically involve following the documented corrective action guidance.
+clam.takeover EMS events occur when ONTAP encounters issues associated with Connectivity, Liveliness, Availability Monitor (CLAM) initiated takeover operations.
 
 == clam.takeover
 *Severity*::

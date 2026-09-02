@@ -15,7 +15,7 @@ summary: fc.bridge events
 :imagesdir: ./media/
 
 [.lead]
-fc.bridge events are reported when an FC port goes offline, and corrective actions typically involve checking the reported configuration and connectivity.
+fc.bridge EMS events occur when ONTAP encounters issues associated with FC-to-SAS bridges.
 
 == fc.bridge.fc.port.alert
 *Severity*::

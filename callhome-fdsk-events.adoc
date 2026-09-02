@@ -15,7 +15,7 @@ summary: callhome.fdsk events
 :imagesdir: ./media/
 
 [.lead]
-callhome.fdsk events are reported when you fail a file system disk drive, and corrective actions typically involve following the documented corrective action guidance.
+callhome.fdsk EMS events occur when ONTAP encounters issues associated with file system disk drive failures.
 
 == callhome.fdsk.admin
 *Severity*::

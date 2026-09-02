@@ -15,7 +15,7 @@ summary: diskown.changingowner events
 :imagesdir: ./media/
 
 [.lead]
-diskown.changingowner events are reported when the ownership of a disk is being changed, and corrective actions typically involve following the documented corrective action guidance.
+diskown.changingowner EMS events occur when the ownership of a disk is being changed.
 
 == diskown.changingOwner
 *Severity*::

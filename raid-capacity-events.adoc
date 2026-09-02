@@ -15,7 +15,7 @@ summary: raid.capacity events
 :imagesdir: ./media/
 
 [.lead]
-raid.capacity events are reported when the system creates a new aggregate, or registers a new capacity for an existing aggregate, and corrective actions typically involve following the documented corrective action guidance.
+raid.capacity EMS events occur when ONTAP encounters issues associated with licensed capacity registration for aggregates.
 
 == raid.capacity.license.alloc
 *Severity*::

@@ -15,7 +15,7 @@ summary: config.nopartnerdisks events
 :imagesdir: ./media/
 
 [.lead]
-config.nopartnerdisks events are reported when this message occurs in a High-Availablity (HA> configuration when there are no partner disks, and corrective actions typically involve ensuring the required configuration and resources are in place.
+config.nopartnerdisks EMS events occur in a High-Availablity (HA> configuration when there are no partner disks.
 
 == config.noPartnerDisks
 *Severity*::

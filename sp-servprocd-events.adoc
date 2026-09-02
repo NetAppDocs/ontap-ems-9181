@@ -15,7 +15,7 @@ summary: sp.servprocd events
 :imagesdir: ./media/
 
 [.lead]
-sp.servprocd events are reported when this message occurs in the following cases: 1, and corrective actions typically involve following the documented corrective action guidance.
+sp.servprocd EMS events occur in the following cases: 1.
 
 == sp.servprocd.upd.error
 *Severity*::

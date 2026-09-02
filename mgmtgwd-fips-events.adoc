@@ -15,7 +15,7 @@ summary: mgmtgwd.fips events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.fips events are reported when an unrecoverable error prevents initialization of the cryptographic subsystem into FIPS mode, and corrective actions typically involve following the documented corrective action guidance.
+mgmtgwd.fips EMS events occur when an unrecoverable error prevents initialization of the cryptographic subsystem into FIPS mode.
 
 == mgmtgwd.fips.post.failure
 *Severity*::

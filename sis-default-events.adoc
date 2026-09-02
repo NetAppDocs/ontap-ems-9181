@@ -15,7 +15,7 @@ summary: sis.default events
 :imagesdir: ./media/
 
 [.lead]
-sis.default events are reported when this message occurs whenever volume move is done from a non All Flash Optimized node to an All Flash Optimized node and we attempt to enable storage efficiency features and automatic offline volume efficiency, and corrective actions typically involve following the documented corrective action guidance.
+sis.default EMS events occur when ONTAP encounters issues associated with automatic storage efficiency configuration.
 
 == sis.default.auto.se.enable
 *Severity*::

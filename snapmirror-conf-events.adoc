@@ -15,7 +15,7 @@ summary: snapmirror.conf events
 :imagesdir: ./media/
 
 [.lead]
-snapmirror.conf events are reported when there an entry in the snapmirror, and corrective actions typically involve following the documented corrective action guidance.
+snapmirror.conf EMS events occur when ONTAP encounters issues associated with the SnapMirror(R) configuration file.
 
 == snapmirror.conf.depre.cpsync
 *Severity*::

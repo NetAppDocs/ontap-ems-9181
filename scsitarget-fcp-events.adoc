@@ -15,7 +15,7 @@ summary: scsitarget.fcp events
 :imagesdir: ./media/
 
 [.lead]
-scsitarget.fcp events are reported when a small form-factor pluggable (SFP) is inserted into the Fibre Channel (FC) target adapter, and corrective actions typically involve following the documented corrective action guidance.
+scsitarget.fcp EMS events occur when ONTAP encounters issues associated with small form-factor pluggable (SFP) modules in the Fibre Channel (FC) target adapter.
 
 == scsitarget.fcp.sfp.inserted
 *Severity*::

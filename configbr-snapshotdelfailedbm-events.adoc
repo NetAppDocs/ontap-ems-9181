@@ -15,7 +15,7 @@ summary: configbr.snapshotdelfailedbm events
 :imagesdir: ./media/
 
 [.lead]
-configbr.snapshotdelfailedbm events are reported when a Snapshot(tm) copy on the boot media cannot be deleted, and corrective actions typically involve ensuring the required configuration and resources are in place.
+configbr.snapshotdelfailedbm EMS events occur when a Snapshot(tm) copy on the boot media cannot be deleted.
 
 == configbr.snapshotDelFailedBM
 *Severity*::

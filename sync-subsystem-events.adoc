@@ -15,7 +15,7 @@ summary: sync.subsystem events
 :imagesdir: ./media/
 
 [.lead]
-sync.subsystem events are reported when an error occurs on replicating a subsystem synchronously, and corrective actions typically involve following the documented corrective action guidance.
+sync.subsystem EMS events occur when an error occurs on replicating a subsystem synchronously.
 
 == sync.subsystem.replicate.err
 *Severity*::

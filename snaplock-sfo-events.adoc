@@ -15,7 +15,7 @@ summary: snaplock.sfo events
 :imagesdir: ./media/
 
 [.lead]
-snaplock.sfo events are reported when snapLock legal-hold or event-retention operations are aborted during an aggregate relocation or a sendhome operation, and corrective actions typically involve following the documented corrective action guidance.
+snaplock.sfo EMS events occur when SnapLock legal-hold or event-retention operations are aborted during an aggregate relocation or a sendhome operation.
 
 == snaplock.sfo.veto.worm
 *Severity*::

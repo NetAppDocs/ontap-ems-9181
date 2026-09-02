@@ -15,7 +15,7 @@ summary: license.cert events
 :imagesdir: ./media/
 
 [.lead]
-license.cert events are reported when the license validation certificate is expired, and corrective actions typically involve contacting NetApp technical support.
+license.cert EMS events occur when ONTAP encounters issues associated with the license validation certificate.
 
 == license.cert.expired
 *Deprecated*::

@@ -15,7 +15,7 @@ summary: rri.mount events
 :imagesdir: ./media/
 
 [.lead]
-rri.mount events are reported when this event is issued to indicate that flexaggr RRI mount failed, and corrective actions typically involve following the documented corrective action guidance.
+rri.mount EMS events occur when to indicate that flexaggr RRI mount failed.
 
 == rri.mount.fail
 *Severity*::

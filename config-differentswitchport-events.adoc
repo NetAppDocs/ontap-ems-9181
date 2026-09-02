@@ -15,7 +15,7 @@ summary: config.differentswitchport events
 :imagesdir: ./media/
 
 [.lead]
-config.differentswitchport events are reported when the two ports of the disk are connected to different switch ports, and corrective actions typically involve following the documented corrective action guidance.
+config.differentswitchport EMS events occur when the two ports of the disk are connected to different switch ports.
 
 == config.DifferentSwitchPort
 *Severity*::

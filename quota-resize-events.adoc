@@ -15,7 +15,7 @@ summary: quota.resize events
 :imagesdir: ./media/
 
 [.lead]
-quota.resize events are reported when quota resize starts, and no corrective action is typically required.
+quota.resize EMS events occur when ONTAP encounters issues associated with quota resize operations.
 
 == quota.resize.start
 *Severity*::

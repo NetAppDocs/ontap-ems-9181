@@ -15,7 +15,7 @@ summary: esh.auto events
 :imagesdir: ./media/
 
 [.lead]
-esh.auto events are reported when there is an error in autotermination, and corrective actions typically involve following the documented corrective action guidance.
+esh.auto EMS events occur when there is an error in autotermination.
 
 == esh.auto.term.error
 *Severity*::

@@ -15,7 +15,7 @@ summary: disk.fw events
 :imagesdir: ./media/
 
 [.lead]
-disk.fw events are reported when the system detects disks with firmware that is not up-to-date, and corrective actions typically involve following the documented corrective action guidance.
+disk.fw EMS events occur when ONTAP encounters issues associated with disk firmware versions.
 
 == disk.fw.autodownrev
 *Severity*::

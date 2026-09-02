@@ -15,7 +15,7 @@ summary: rlib.mccip events
 :imagesdir: ./media/
 
 [.lead]
-rlib.mccip events are reported when this event is generated if any error occurs while configuring MCC/IP, and corrective actions typically involve following the documented corrective action guidance.
+rlib.mccip EMS events occur when ONTAP encounters issues associated with MetroCluster IP configuration.
 
 == rlib.mccip.config.failure
 *Severity*::

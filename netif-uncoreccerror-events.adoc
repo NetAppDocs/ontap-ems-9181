@@ -15,7 +15,7 @@ summary: netif.uncoreccerror events
 :imagesdir: ./media/
 
 [.lead]
-netif.uncoreccerror events are reported when the network interface controller reports an unrecoverable ECC error, and corrective actions typically involve rebooting the node or cluster component.
+netif.uncoreccerror EMS events occur when the network interface controller reports an unrecoverable ECC error.
 
 == netif.uncorEccError
 *Severity*::

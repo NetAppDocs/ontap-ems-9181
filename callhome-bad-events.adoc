@@ -15,7 +15,7 @@ summary: callhome.bad events
 :imagesdir: ./media/
 
 [.lead]
-callhome.bad events are reported when correctable ECC errors are masked off, possibly due to bad or poorly seated memory or a faulty motherboard, and corrective actions typically involve following the documented corrective action guidance.
+callhome.bad EMS events occur when correctable ECC errors are masked off, possibly due to bad or poorly seated memory or a faulty motherboard.
 
 == callhome.bad.ram
 *Severity*::

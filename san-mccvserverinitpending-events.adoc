@@ -15,7 +15,7 @@ summary: san.mccvserverinitpending events
 :imagesdir: ./media/
 
 [.lead]
-san.mccvserverinitpending events are reported when this message occurs in MetroCluster(TM) configurations on clustered Data ONTAP(R) systems when SAN Vservers exceed the time allotted for initialization during a switchover or switchback operation, and corrective actions typically involve contacting NetApp technical support.
+san.mccvserverinitpending EMS events occur in MetroCluster(TM) configurations on clustered Data ONTAP(R) systems when SAN Vservers exceed the time allotted for initialization during a switchover or switchback operation.
 
 == san.MCCVserverInitPending
 *Severity*::

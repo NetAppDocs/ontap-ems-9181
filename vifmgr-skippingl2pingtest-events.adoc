@@ -15,7 +15,7 @@ summary: vifmgr.skippingl2pingtest events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.skippingl2pingtest events are reported when the number of local ports in the given broadcast domain exceeds the threshold for a node and, as a result, the l2_reachability health monitor has omitted checking ports in that broadcast domain, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.skippingl2pingtest EMS events occur when the number of local ports in the given broadcast domain exceeds the threshold for a node and, as a result, the l2_reachability health monitor has omitted checking ports in that broadcast domain.
 
 == vifmgr.skippingL2PingTest
 *Severity*::

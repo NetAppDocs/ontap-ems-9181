@@ -15,7 +15,7 @@ summary: crypto.import events
 :imagesdir: ./media/
 
 [.lead]
-crypto.import events are reported when the import of a cryptographic key fails, and corrective actions typically involve following the documented corrective action guidance.
+crypto.import EMS events occur when the import of a cryptographic key fails.
 
 == crypto.import.failed
 *Severity*::

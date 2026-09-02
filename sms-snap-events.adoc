@@ -15,7 +15,7 @@ summary: sms.snap events
 :imagesdir: ./media/
 
 [.lead]
-sms.snap events are reported when a snapshot for SnapMirror(R) Synchronous relationship is not successfully replicated, and corrective actions typically involve following the documented corrective action guidance.
+sms.snap EMS events occur when a snapshot for SnapMirror(R) Synchronous relationship is not successfully replicated.
 
 == sms.snap.not.replicated
 *Severity*::

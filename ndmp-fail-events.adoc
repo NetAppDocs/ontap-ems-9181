@@ -15,7 +15,7 @@ summary: ndmp.fail events
 :imagesdir: ./media/
 
 [.lead]
-ndmp.fail events are reported when there is an error in NDMP, and corrective actions typically involve following the documented corrective action guidance.
+ndmp.fail EMS events occur when there is an error in NDMP.
 
 == ndmp.fail.log
 *Severity*::

@@ -15,7 +15,7 @@ summary: lun.vdisk events
 :imagesdir: ./media/
 
 [.lead]
-lun.vdisk events are reported when a volume contains more than the supported limit of LUNs in the volume, and corrective actions typically involve following the documented corrective action guidance.
+lun.vdisk EMS events occur when ONTAP encounters issues associated with LUN count limits in volumes.
 
 == LUN.vdisk.cnt.exceeded
 *Severity*::

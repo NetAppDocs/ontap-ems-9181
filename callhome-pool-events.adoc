@@ -15,7 +15,7 @@ summary: callhome.pool events
 :imagesdir: ./media/
 
 [.lead]
-callhome.pool events are reported when an aggregate does not comply with the current Capacity Pool entitlement, as determined by the Licensing Manager, and corrective actions typically involve following the documented corrective action guidance.
+callhome.pool EMS events occur when an aggregate does not comply with the current Capacity Pool entitlement, as determined by the Licensing Manager.
 
 == callhome.pool.aggr.noncomp
 *Severity*::

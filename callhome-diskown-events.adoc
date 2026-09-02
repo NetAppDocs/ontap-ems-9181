@@ -15,7 +15,7 @@ summary: callhome.diskown events
 :imagesdir: ./media/
 
 [.lead]
-callhome.diskown events are reported when too many disks have been installed, and corrective actions typically involve following the documented corrective action guidance.
+callhome.diskown EMS events occur when too many disks have been installed.
 
 == callhome.diskown.AssignExceeded
 *Severity*::

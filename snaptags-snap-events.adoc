@@ -15,7 +15,7 @@ summary: snaptags.snap events
 :imagesdir: ./media/
 
 [.lead]
-snaptags.snap events are reported when the system detects inconsistency of snapshot-specific information in the snapshot tag's metafile on a volume, and corrective actions typically involve following the documented corrective action guidance.
+snaptags.snap EMS events occur when the system detects inconsistency of snapshot-specific information in the snapshot tag's metafile on a volume.
 
 == snaptags.snap.inconsist
 *Severity*::

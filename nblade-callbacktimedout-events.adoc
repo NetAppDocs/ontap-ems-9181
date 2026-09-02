@@ -15,7 +15,7 @@ summary: nblade.callbacktimedout events
 :imagesdir: ./media/
 
 [.lead]
-nblade.callbacktimedout events are reported when the Nblade is unable to successfully complete a PORTMAP/SM call to the client within 1 seconds, and corrective actions typically involve checking the reported configuration and connectivity.
+nblade.callbacktimedout EMS events occur when the Nblade is unable to successfully complete a PORTMAP/SM call to the client within 1 seconds.
 
 == Nblade.CallbackTimedOut
 *Severity*::

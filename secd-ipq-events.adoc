@@ -15,7 +15,7 @@ summary: secd.ipq events
 :imagesdir: ./media/
 
 [.lead]
-secd.ipq events are reported when the IP qualified name-mapping entry is omitted because of an error during the name-mapping check, and corrective actions typically involve following the documented corrective action guidance.
+secd.ipq EMS events occur when the IP qualified name-mapping entry is omitted because of an error during the name-mapping check.
 
 == secd.ipq.invalid.entry
 *Severity*::

@@ -15,7 +15,7 @@ summary: cifs.replay events
 :imagesdir: ./media/
 
 [.lead]
-cifs.replay events are reported when configuration is not synchronized, and corrective actions typically involve contacting NetApp technical support.
+cifs.replay EMS events occur when configuration is not synchronized.
 
 == cifs.replay.failure
 *Severity*::

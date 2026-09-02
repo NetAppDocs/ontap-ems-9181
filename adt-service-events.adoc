@@ -15,7 +15,7 @@ summary: adt.service events
 :imagesdir: ./media/
 
 [.lead]
-adt.service events are reported when the volume that hosts the destination path where the final audit logs are stored is not accessible or does not have sufficient space and the audit consolidation service is not able to write to the volume, and corrective actions typically involve following the documented corrective action guidance.
+adt.service EMS events occur when ONTAP encounters issues associated with the audit consolidation service being unable to write to the destination volume hosting the audit logs.
 
 == adt.service.block
 *Severity*::

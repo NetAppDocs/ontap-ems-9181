@@ -15,7 +15,7 @@ summary: isns.enqueue events
 :imagesdir: ./media/
 
 [.lead]
-isns.enqueue events are reported when the Internet Storage Name Service (iSNS) is not able to enqueue a new operation to the iSNS subsystem, and corrective actions typically involve following the documented corrective action guidance.
+isns.enqueue EMS events occur when the Internet Storage Name Service (iSNS) is not able to enqueue a new operation to the iSNS subsystem.
 
 == isns.enqueue.failed
 *Severity*::

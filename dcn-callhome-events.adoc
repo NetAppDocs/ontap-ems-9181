@@ -15,7 +15,7 @@ summary: dcn.callhome events
 :imagesdir: ./media/
 
 [.lead]
-dcn.callhome events are reported when you invoke an AutoSupport(R) message on the data compute node (DCN), and the "type" of that message is set to "test", and corrective actions typically involve following the documented corrective action guidance.
+dcn.callhome EMS events occur when ONTAP encounters issues associated with AutoSupport invocation on the data compute node (DCN).
 
 == dcn.callhome.invoke
 *Severity*::

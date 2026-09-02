@@ -15,7 +15,7 @@ summary: sfu.downloadsummary events
 :imagesdir: ./media/
 
 [.lead]
-sfu.downloadsummary events are reported when a disk shelf firmware update completes successfully, and corrective actions typically involve following the documented corrective action guidance.
+sfu.downloadsummary EMS events occur when a disk shelf firmware update completes successfully.
 
 == sfu.downloadSummary
 *Severity*::

@@ -15,7 +15,7 @@ summary: dump.terminate events
 :imagesdir: ./media/
 
 [.lead]
-dump.terminate events are reported when this event is generated during dump termination, we see if we can retrieve the name of the dump, and corrective actions typically involve following the documented corrective action guidance.
+dump.terminate EMS events occur when ONTAP encounters issues associated with dump termination operations.
 
 == dump.terminate
 *Severity*::

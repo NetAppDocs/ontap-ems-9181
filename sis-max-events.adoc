@@ -15,7 +15,7 @@ summary: sis.max events
 :imagesdir: ./media/
 
 [.lead]
-sis.max events are reported when single Instance Storage (SIS) savings on the volume is nearing its maximum limit, and corrective actions typically involve following the documented corrective action guidance.
+sis.max EMS events occur when ONTAP encounters issues associated with Single Instance Storage (SIS) savings limits.
 
 == sis.max.saving.near
 *Severity*::

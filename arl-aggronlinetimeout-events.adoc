@@ -15,7 +15,7 @@ summary: arl.aggronlinetimeout events
 :imagesdir: ./media/
 
 [.lead]
-arl.aggronlinetimeout events are reported when a node fails to bring online the aggregate and its containing volumes within the specified time after relocation, and corrective actions typically involve following the documented corrective action guidance.
+arl.aggronlinetimeout EMS events occur when a node fails to bring online the aggregate and its containing volumes within the specified time after relocation.
 
 == arl.aggrOnlineTimeout
 *Severity*::

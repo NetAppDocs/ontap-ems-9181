@@ -15,7 +15,7 @@ summary: callhome.sfo events
 :imagesdir: ./media/
 
 [.lead]
-callhome.sfo events are reported when the appliance software boots and detects out-of-date motherboard firmware, which can cause serious issues, and corrective actions typically involve following the documented corrective action guidance.
+callhome.sfo EMS events occur when ONTAP encounters issues associated with high-availability (HA) operations.
 
 == callhome.sfo.downrev
 *Severity*::

@@ -15,7 +15,7 @@ summary: lun.inplace events
 :imagesdir: ./media/
 
 [.lead]
-lun.inplace events are reported when an in-place restore from a dump fails and creates a metadata inconsistency because the source object type does not match the existing destination object, and corrective actions typically involve following the documented corrective action guidance.
+lun.inplace EMS events occur when ONTAP encounters issues associated with in-place restore operations on LUNs or NVMe namespaces.
 
 == LUN.inplace.dmpRstrLUNonNS
 *Severity*::

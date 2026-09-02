@@ -15,7 +15,7 @@ summary: smc.dst events
 :imagesdir: ./media/
 
 [.lead]
-smc.dst events are reported when snapMirror creates or deletes a snapshot with a SnapMirror label on a FlexVol destination volume of a SnapMirror(R) relationship, and corrective actions typically involve following the documented corrective action guidance.
+smc.dst EMS events occur when SnapMirror creates or deletes a snapshot with a SnapMirror label on a FlexVol destination volume of a SnapMirror(R) relationship.
 
 == smc.dst.snapshot.op
 *Severity*::

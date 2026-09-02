@@ -15,7 +15,7 @@ summary: callhome.wafliron events
 :imagesdir: ./media/
 
 [.lead]
-callhome.wafliron events are reported when wAFL(R) Iron (wafliron) Optional Commit changes are pending, and corrective actions typically involve following the documented corrective action guidance.
+callhome.wafliron EMS events occur when WAFL(R) Iron (wafliron) Optional Commit changes are pending.
 
 == callhome.wafliron.chg.pending
 *Severity*::

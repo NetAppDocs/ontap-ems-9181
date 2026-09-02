@@ -15,7 +15,7 @@ summary: aps.rebalance events
 :imagesdir: ./media/
 
 [.lead]
-aps.rebalance events are reported when the space rebalancing service encounters an error and fails to free up space on the flexaggr, and corrective actions typically involve following the documented corrective action guidance.
+aps.rebalance EMS events occur when ONTAP encounters issues associated with the space rebalancing service encountering errors during volume move operations.
 
 == aps.rebalance.failed
 *Severity*::

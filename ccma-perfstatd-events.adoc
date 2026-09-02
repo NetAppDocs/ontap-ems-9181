@@ -15,7 +15,7 @@ summary: ccma.perfstatd events
 :imagesdir: ./media/
 
 [.lead]
-ccma.perfstatd events are reported when the Perfstat daemon (perfstatd) has been disabled for more than an hour, and corrective actions typically involve following the documented corrective action guidance.
+ccma.perfstatd EMS events occur when the Perfstat daemon (perfstatd) has been disabled for more than an hour.
 
 == ccma.perfstatd.disabled
 *Severity*::

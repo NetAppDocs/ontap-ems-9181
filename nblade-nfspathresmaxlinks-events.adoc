@@ -15,7 +15,7 @@ summary: nblade.nfspathresmaxlinks events
 :imagesdir: ./media/
 
 [.lead]
-nblade.nfspathresmaxlinks events are reported when this message occurs while resolving an input path, when the server has reached the limit of maximum links it can follow and the corresponding RPC fails, and corrective actions typically involve following the documented corrective action guidance.
+nblade.nfspathresmaxlinks EMS events occur while resolving an input path, when the server has reached the limit of maximum links it can follow and the corresponding RPC fails.
 
 == Nblade.nfsPathResMaxLinks
 *Severity*::

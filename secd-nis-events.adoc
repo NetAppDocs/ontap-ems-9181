@@ -15,7 +15,7 @@ summary: secd.nis events
 :imagesdir: ./media/
 
 [.lead]
-secd.nis events are reported when the server could not establish a TCP connection to a Network Information Service (NIS) server, and corrective actions typically involve following the documented corrective action guidance.
+secd.nis EMS events occur when ONTAP encounters issues associated with Network Information Service (NIS) server communications.
 
 == secd.nis.connectFailure
 *Deprecated*::

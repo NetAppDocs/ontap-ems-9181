@@ -15,7 +15,7 @@ summary: nblade.nfsv4poolexhaust events
 :imagesdir: ./media/
 
 [.lead]
-nblade.nfsv4poolexhaust events are reported when one of the NFSv4 store pools is exhausted, and corrective actions typically involve following the documented corrective action guidance.
+nblade.nfsv4poolexhaust EMS events occur when one of the NFSv4 store pools is exhausted.
 
 == Nblade.nfsV4PoolExhaust
 *Severity*::

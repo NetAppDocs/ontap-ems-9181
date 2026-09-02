@@ -15,7 +15,7 @@ summary: netgroup.ldap events
 :imagesdir: ./media/
 
 [.lead]
-netgroup.ldap events are reported when netgroup, and corrective actions typically involve following the documented corrective action guidance.
+netgroup.ldap EMS events occur when ONTAP encounters issues associated with LDAP netgroup configuration.
 
 == netgroup.ldap.byhost.missing
 *Severity*::

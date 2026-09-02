@@ -15,7 +15,7 @@ summary: fmmb.inststat events
 :imagesdir: ./media/
 
 [.lead]
-fmmb.inststat events are reported when this message occurs whenever the mailbox instance state changes, and corrective actions typically involve following the documented corrective action guidance.
+fmmb.inststat EMS events occur whenever the mailbox instance state changes.
 
 == fmmb.instStat.change
 *Severity*::

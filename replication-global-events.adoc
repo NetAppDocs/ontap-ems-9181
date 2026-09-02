@@ -15,7 +15,7 @@ summary: replication.global events
 :imagesdir: ./media/
 
 [.lead]
-replication.global events are reported when this event is issued when the request to change/set the throttling value for a replication association is failed, and corrective actions typically involve following the documented corrective action guidance.
+replication.global EMS events occur when the request to change/set the throttling value for a replication association is failed.
 
 == replication.global.throttle
 *Severity*::

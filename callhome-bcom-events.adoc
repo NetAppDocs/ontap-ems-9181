@@ -15,7 +15,7 @@ summary: callhome.bcom events
 :imagesdir: ./media/
 
 [.lead]
-callhome.bcom events are reported when multiple attempts to initialize the SAN Kernel Agent for a Vserver have failed, and corrective actions typically involve following the documented corrective action guidance.
+callhome.bcom EMS events occur when multiple attempts to initialize the SAN Kernel Agent for a Vserver have failed.
 
 == callhome.bcom.vsinit.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.partner events
 :imagesdir: ./media/
 
 [.lead]
-callhome.partner events are reported when the storage failover partner is down and takeover cannot begin, and corrective actions typically involve contacting NetApp technical support.
+callhome.partner EMS events occur when the storage failover partner is down and takeover cannot begin.
 
 == callhome.partner.down
 *Severity*::

@@ -15,7 +15,7 @@ summary: rlm.notconfigured events
 :imagesdir: ./media/
 
 [.lead]
-rlm.notconfigured events are reported when this message occurs weekly to remind you to configure the Remote LAN Module (RLM), and corrective actions typically involve following the documented corrective action guidance.
+rlm.notconfigured EMS events occur weekly to remind you to configure the Remote LAN Module (RLM).
 
 == rlm.notConfigured
 *Severity*::

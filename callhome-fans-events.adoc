@@ -15,7 +15,7 @@ summary: callhome.fans events
 :imagesdir: ./media/
 
 [.lead]
-callhome.fans events are reported when multiple fans inside the appliance case fail, and corrective actions typically involve following the documented corrective action guidance.
+callhome.fans EMS events occur when multiple fans inside the appliance case fail.
 
 == callhome.fans.failed
 *Severity*::

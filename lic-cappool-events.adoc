@@ -15,7 +15,7 @@ summary: lic.cappool events
 :imagesdir: ./media/
 
 [.lead]
-lic.cappool events are reported when the system aborts an operation of reassigning nodes to a different capacity pool license, because another reassignment operation to a different capacity pool license in the same request has failed, and corrective actions typically involve following the documented corrective action guidance.
+lic.cappool EMS events occur when ONTAP encounters issues associated with capacity pool license reassignment operations.
 
 == lic.cappool.reassign.abort
 *Severity*::

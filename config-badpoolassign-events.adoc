@@ -15,7 +15,7 @@ summary: config.badpoolassign events
 :imagesdir: ./media/
 
 [.lead]
-config.badpoolassign events are reported when syncMirror(R) is in use and disks are assigned to different pools on the same interface or loop, and corrective actions typically involve following the documented corrective action guidance.
+config.badpoolassign EMS events occur when SyncMirror(R) is in use and disks are assigned to different pools on the same interface or loop.
 
 == config.BadPoolAssign
 *Severity*::

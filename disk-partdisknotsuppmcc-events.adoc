@@ -15,7 +15,7 @@ summary: disk.partdisknotsuppmcc events
 :imagesdir: ./media/
 
 [.lead]
-disk.partdisknotsuppmcc events are reported when a partitioned disk is found in a MetroCluster(TM) configuration, and corrective actions typically involve following the documented corrective action guidance.
+disk.partdisknotsuppmcc EMS events occur when a partitioned disk is found in a MetroCluster(TM) configuration.
 
 == disk.partDiskNotSuppMCC
 *Severity*::

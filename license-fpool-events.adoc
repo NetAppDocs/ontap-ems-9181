@@ -15,7 +15,7 @@ summary: license.fpool events
 :imagesdir: ./media/
 
 [.lead]
-license.fpool events are reported when the maximum storage capacity limit for FabricPool is changed, and corrective actions typically involve following the documented corrective action guidance.
+license.fpool EMS events occur when ONTAP encounters issues associated with the FabricPool storage capacity limit.
 
 == license.fpool.changed
 *Severity*::

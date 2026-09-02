@@ -15,7 +15,7 @@ summary: ctran.jpc events
 :imagesdir: ./media/
 
 [.lead]
-ctran.jpc events are reported when a Join Proposal Coordinator (JPC) node is assigned by Kernel Cluster Services (KCS) Cluster Transaction Manager (CTRAN), and corrective actions typically involve following the documented corrective action guidance.
+ctran.jpc EMS events occur when ONTAP encounters issues associated with Cluster Transaction Manager (CTRAN) Join Proposal Coordinator operations.
 
 == ctran.jpc.assigned
 *Severity*::

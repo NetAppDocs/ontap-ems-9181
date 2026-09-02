@@ -15,7 +15,7 @@ summary: stackmon.stack events
 :imagesdir: ./media/
 
 [.lead]
-stackmon.stack events are reported when the system cannot determine the stack ID for a disk shelf, and corrective actions typically involve following the documented corrective action guidance.
+stackmon.stack EMS events occur when the system cannot determine the stack ID for a disk shelf.
 
 == stackmon.stack.id.conflict
 *Severity*::

@@ -15,7 +15,7 @@ summary: vifmgr.extroute events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.extroute events are reported when a new external route table is added successfully, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.extroute EMS events occur when ONTAP encounters issues associated with external route table operations.
 
 == vifmgr.extRoute.addTable
 *Severity*::

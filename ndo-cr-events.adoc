@@ -15,7 +15,7 @@ summary: ndo.cr events
 :imagesdir: ./media/
 
 [.lead]
-ndo.cr events are reported when a controller replacement operation is canceled by the operator, and corrective actions typically involve following the documented corrective action guidance.
+ndo.cr EMS events occur when ONTAP encounters issues associated with controller replacement operations.
 
 == ndo.cr.canceled
 *Severity*::

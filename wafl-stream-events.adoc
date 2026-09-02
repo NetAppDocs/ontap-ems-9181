@@ -15,7 +15,7 @@ summary: wafl.stream events
 :imagesdir: ./media/
 
 [.lead]
-wafl.stream events are reported when the "wafl scan stream_check" command is completed successfully, and corrective actions typically involve following the documented corrective action guidance.
+wafl.stream EMS events occur when ONTAP encounters issues associated with stream file validation operations.
 
 == wafl.stream.check.complete
 *Severity*::

@@ -15,7 +15,7 @@ summary: auditlog.change events
 :imagesdir: ./media/
 
 [.lead]
-auditlog.change events are reported when the system detects that audit log files have been tampered with, and corrective actions typically involve contacting NetApp technical support.
+auditlog.change EMS events occur when the system detects that audit log files have been tampered with.
 
 == auditlog.change.detected
 *Severity*::

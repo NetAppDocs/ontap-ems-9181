@@ -15,7 +15,7 @@ summary: cecc_log.entry_no_syslog events
 :imagesdir: ./media/
 
 [.lead]
-cecc_log.entry_no_syslog events are reported when correctable ECC errors occurred in the system memory, and corrective actions typically involve following the documented corrective action guidance.
+cecc_log.entry_no_syslog EMS events occur when correctable ECC errors occurred in the system memory.
 
 == cecc_log.entry_no_syslog
 *Severity*::

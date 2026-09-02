@@ -15,7 +15,7 @@ summary: esh.module events
 :imagesdir: ./media/
 
 [.lead]
-esh.module events are reported when the ESH might have failed because it is reporting multiple problems, and corrective actions typically involve following the documented corrective action guidance.
+esh.module EMS events occur when the ESH might have failed because it is reporting multiple problems.
 
 == esh.module.multiprob
 *Severity*::

@@ -15,7 +15,7 @@ summary: async.igroup events
 :imagesdir: ./media/
 
 [.lead]
-async.igroup events are reported when an error occurs asynchronously replicating an initiator group, and corrective actions typically involve following the documented corrective action guidance.
+async.igroup EMS events occur when an error occurs asynchronously replicating an initiator group.
 
 == async.igroup.replication.error
 *Severity*::

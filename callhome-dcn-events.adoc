@@ -15,7 +15,7 @@ summary: callhome.dcn events
 :imagesdir: ./media/
 
 [.lead]
-callhome.dcn events are reported when a Data Compute Node (DCN) encounters a problem, and corrective actions typically involve following the documented corrective action guidance.
+callhome.dcn EMS events occur when a Data Compute Node (DCN) encounters a problem.
 
 == callhome.dcn.error
 *Severity*::

@@ -15,7 +15,7 @@ summary: nvmeof.port events
 :imagesdir: ./media/
 
 [.lead]
-nvmeof.port events are reported when the mode of an NVMe-oF port is changed, and corrective actions typically involve following the documented corrective action guidance.
+nvmeof.port EMS events occur when the mode of an NVMe-oF port is changed.
 
 == nvmeof.port.modify
 *Severity*::

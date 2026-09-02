@@ -15,7 +15,7 @@ summary: callhome.hm events
 :imagesdir: ./media/
 
 [.lead]
-callhome.hm events are reported when an error is detected during the periodic health monitoring of system health monitors, and corrective actions typically involve following the documented corrective action guidance.
+callhome.hm EMS events occur when ONTAP encounters issues associated with system health monitoring alerts.
 
 == callhome.hm.alert.critical
 *Severity*::

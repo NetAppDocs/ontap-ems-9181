@@ -15,7 +15,7 @@ summary: reg.transaction events
 :imagesdir: ./media/
 
 [.lead]
-reg.transaction events are reported when oNTAP(R) cannot commit a registry transaction, and corrective actions typically involve checking the reported configuration and connectivity.
+reg.transaction EMS events occur when ONTAP encounters issues associated with registry transaction commits.
 
 == reg.transaction.commitFail
 *Severity*::

@@ -15,7 +15,7 @@ summary: repl.enable events
 :imagesdir: ./media/
 
 [.lead]
-repl.enable events are reported when sequential splitting mode is enabled for a SnapMirror Synchronous relationship, and corrective actions typically involve following the documented corrective action guidance.
+repl.enable EMS events occur when sequential splitting mode is enabled for a SnapMirror Synchronous relationship.
 
 == repl.enable.seq.split
 *Severity*::

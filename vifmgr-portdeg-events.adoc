@@ -15,7 +15,7 @@ summary: vifmgr.portdeg events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.portdeg events are reported when an administrative action adds a port with a degraded health status to an interface group, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.portdeg EMS events occur when ONTAP encounters issues associated with ports that have a degraded health status.
 
 == vifmgr.portDeg.ifgrpAdded
 *Severity*::

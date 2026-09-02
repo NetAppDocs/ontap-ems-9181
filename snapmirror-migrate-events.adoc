@@ -15,7 +15,7 @@ summary: snapmirror.migrate events
 :imagesdir: ./media/
 
 [.lead]
-snapmirror.migrate events are reported when this event is issued when a migrate completes successfully, and corrective actions typically involve following the documented corrective action guidance.
+snapmirror.migrate EMS events occur when ONTAP encounters issues associated with SnapMirror(R) migration operations.
 
 == snapmirror.migrate.complete
 *Severity*::

@@ -15,7 +15,7 @@ summary: xfcvi.update events
 :imagesdir: ./media/
 
 [.lead]
-xfcvi.update events are reported when there is a change in physical link state of the Fibre Channel Virtual Interface (FC-VI) adapter, and corrective actions typically involve following the documented corrective action guidance.
+xfcvi.update EMS events occur when there is a change in physical link state of the Fibre Channel Virtual Interface (FC-VI) adapter.
 
 == xfcvi.update.link.state
 *Severity*::

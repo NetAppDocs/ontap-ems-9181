@@ -15,7 +15,7 @@ summary: nv.partner events
 :imagesdir: ./media/
 
 [.lead]
-nv.partner events are reported when checking the partner nonvolatile RAM (NVRAM) and the partner NVRAM is disabled, and corrective actions typically involve following the documented corrective action guidance.
+nv.partner EMS events occur when ONTAP encounters issues associated with partner NVRAM validation.
 
 == nv.partner.disabled
 *Severity*::

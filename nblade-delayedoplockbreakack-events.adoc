@@ -15,7 +15,7 @@ summary: nblade.delayedoplockbreakack events
 :imagesdir: ./media/
 
 [.lead]
-nblade.delayedoplockbreakack events are reported when this message appears when the SMB clients experience delays in responding to oplock recalls, and corrective actions typically involve checking the reported configuration and connectivity.
+nblade.delayedoplockbreakack EMS events occur when this message appears when the SMB clients experience delays in responding to oplock recalls.
 
 == Nblade.delayedOplockBreakAck
 *Severity*::

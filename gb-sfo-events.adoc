@@ -15,7 +15,7 @@ summary: gb.sfo events
 :imagesdir: ./media/
 
 [.lead]
-gb.sfo events are reported when a high-availability (HA) storage failover (SFO) giveback is canceled due to RAID activity on a partner aggregate, and corrective actions typically involve following the documented corrective action guidance.
+gb.sfo EMS events occur when ONTAP encounters issues associated with storage failover (SFO) giveback operations.
 
 == gb.sfo.abort.raid.fm
 *Severity*::

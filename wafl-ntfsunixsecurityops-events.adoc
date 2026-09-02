@@ -15,7 +15,7 @@ summary: wafl.ntfsunixsecurityops events
 :imagesdir: ./media/
 
 [.lead]
-wafl.ntfsunixsecurityops events are reported when a UNIX-type permissions or ownership change is attempted by an NFS client on an NTFS (Windows) volume, but changes of this type are prohibited by an export policy rule, and corrective actions typically involve following the documented corrective action guidance.
+wafl.ntfsunixsecurityops EMS events occur when a UNIX-type permissions or ownership change is attempted by an NFS client on an NTFS (Windows) volume, but changes of this type are prohibited by an export policy rule.
 
 == wafl.ntfsUnixSecurityOps
 *Severity*::

@@ -15,7 +15,7 @@ summary: fg.unconvert events
 :imagesdir: ./media/
 
 [.lead]
-fg.unconvert events are reported when a member of a FlexGroup fails to be converted into an independent FlexVol(R) volume, and corrective actions typically involve contacting NetApp technical support.
+fg.unconvert EMS events occur when ONTAP encounters issues associated with FlexGroup member conversion to FlexVol.
 
 == fg.unconvert.critical.fail
 *Severity*::

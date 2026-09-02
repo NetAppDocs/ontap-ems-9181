@@ -15,7 +15,7 @@ summary: daregister.periph events
 :imagesdir: ./media/
 
 [.lead]
-daregister.periph events are reported when a peripheral device is lost during registration, and corrective actions typically involve checking the reported configuration and connectivity.
+daregister.periph EMS events occur when a peripheral device is lost during registration.
 
 == daregister.periph.lost
 *Severity*::

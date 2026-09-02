@@ -15,7 +15,7 @@ summary: replication.wormlog events
 :imagesdir: ./media/
 
 [.lead]
-replication.wormlog events are reported when this event is issued when failed to append to the replication worm log file, and corrective actions typically involve checking the reported configuration and connectivity.
+replication.wormlog EMS events occur when failed to append to the replication worm log file.
 
 == replication.wormlog.appendFail
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.needs events
 :imagesdir: ./media/
 
 [.lead]
-wafl.needs events are reported when batched_free_log needs to be turned on to allow performing one of the requested actions, such as "Dense Undo", "Dense Revert", and "Clone Split", and corrective actions typically involve contacting NetApp technical support.
+wafl.needs EMS events occur when batched_free_log needs to be turned on to allow performing one of the requested actions, such as "Dense Undo", "Dense Revert", and "Clone Split".
 
 == wafl.needs.blog
 *Severity*::

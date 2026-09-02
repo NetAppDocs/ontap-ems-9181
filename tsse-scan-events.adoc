@@ -15,7 +15,7 @@ summary: tsse.scan events
 :imagesdir: ./media/
 
 [.lead]
-tsse.scan events are reported when inactive data compression scan related information failed to be updated on the catalog file, and corrective actions typically involve following the documented corrective action guidance.
+tsse.scan EMS events occur when ONTAP encounters issues associated with inactive data compression and garbage collection scan operations.
 
 == tsse.scan.catalog.failed
 *Deprecated*::

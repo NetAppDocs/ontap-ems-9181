@@ -15,7 +15,7 @@ summary: mgr.boot events
 :imagesdir: ./media/
 
 [.lead]
-mgr.boot events are reported when the system boots from its backup BIOS image because either it failed to boot from its primary BIOS image within the expected timeframe or the image is corrupted, and corrective actions typically involve following the documented corrective action guidance.
+mgr.boot EMS events occur when ONTAP encounters issues associated with system boot operations.
 
 == mgr.boot.bios_backup_flash
 *Severity*::

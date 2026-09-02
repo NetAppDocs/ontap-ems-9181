@@ -15,7 +15,7 @@ summary: raid.labeledit events
 :imagesdir: ./media/
 
 [.lead]
-raid.labeledit events are reported when you run the 'label buildtree' command to create an aggregate from a collection of disks, and corrective actions typically involve following the documented corrective action guidance.
+raid.labeledit EMS events occur when you run the 'label buildtree' command to create an aggregate from a collection of disks.
 
 == raid.labeledit.buildtree
 *Severity*::

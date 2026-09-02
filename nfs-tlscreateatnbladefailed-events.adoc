@@ -15,7 +15,7 @@ summary: nfs.tlscreateatnbladefailed events
 :imagesdir: ./media/
 
 [.lead]
-nfs.tlscreateatnbladefailed events are reported when the creation of TLS (Transport Layer Security) configuration fails at network component for NFS, and corrective actions typically involve following the documented corrective action guidance.
+nfs.tlscreateatnbladefailed EMS events occur when the creation of TLS (Transport Layer Security) configuration fails at network component for NFS.
 
 == Nfs.TLSCreateAtNbladeFailed
 *Severity*::

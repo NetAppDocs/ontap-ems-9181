@@ -15,7 +15,7 @@ summary: netport.eth events
 :imagesdir: ./media/
 
 [.lead]
-netport.eth events are reported when a physical network port has been discovered, and corrective actions typically involve following the documented corrective action guidance.
+netport.eth EMS events occur when a physical network port has been discovered.
 
 == netport.eth.discovered
 *Severity*::

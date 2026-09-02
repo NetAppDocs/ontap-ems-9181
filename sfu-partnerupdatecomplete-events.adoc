@@ -15,7 +15,7 @@ summary: sfu.partnerupdatecomplete events
 :imagesdir: ./media/
 
 [.lead]
-sfu.partnerupdatecomplete events are reported when this message occurs in a high-availability (HA) configuration in which an HA partner was downloading disk shelf firmware and the download was completed, at which point this notification is sent and enclosure services are resumed by the partner, and corrective actions typically involve following the documented corrective action guidance.
+sfu.partnerupdatecomplete EMS events occur in a high-availability (HA) configuration in which an HA partner was downloading disk shelf firmware and the download was completed, at which point this notification is sent and enclosure services are resumed by the partner.
 
 == sfu.partnerUpdateComplete
 *Severity*::

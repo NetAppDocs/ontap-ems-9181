@@ -15,7 +15,7 @@ summary: replication.err events
 :imagesdir: ./media/
 
 [.lead]
-replication.err events are reported when the replication engine fails to create an automatic snapshot, and corrective actions typically involve following the documented corrective action guidance.
+replication.err EMS events occur when the replication engine fails to create an automatic snapshot.
 
 == replication.err.snapCreateFailed
 *Severity*::

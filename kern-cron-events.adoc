@@ -15,7 +15,7 @@ summary: kern.cron events
 :imagesdir: ./media/
 
 [.lead]
-kern.cron events are reported when this event is issued when the kernel cron daemon is unable to reschedule an internal process due to an error in handling of daylight savings time, and corrective actions typically involve following the documented corrective action guidance.
+kern.cron EMS events occur when ONTAP encounters issues associated with kernel cron daemon daylight savings time handling.
 
 == kern.cron.dstError
 *Severity*::

@@ -15,7 +15,7 @@ summary: config.mirroring events
 :imagesdir: ./media/
 
 [.lead]
-config.mirroring events are reported when the name-service configuration is not replicated in the node, and corrective actions typically involve following the documented corrective action guidance.
+config.mirroring EMS events occur when the name-service configuration is not replicated in the node.
 
 == config.mirroring.failure
 *Severity*::

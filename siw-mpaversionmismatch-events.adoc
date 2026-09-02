@@ -15,7 +15,7 @@ summary: siw.mpaversionmismatch events
 :imagesdir: ./media/
 
 [.lead]
-siw.mpaversionmismatch events are reported when there is SW-iWARP Version mismatch between the HA nodes, and corrective actions typically involve following the documented corrective action guidance.
+siw.mpaversionmismatch EMS events occur when there is SW-iWARP Version mismatch between the HA nodes.
 
 == siw.mpaVersionMismatch
 *Severity*::

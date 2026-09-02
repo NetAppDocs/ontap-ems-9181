@@ -15,7 +15,7 @@ summary: callhome.cpu events
 :imagesdir: ./media/
 
 [.lead]
-callhome.cpu events are reported when a CPU fan failed or the fan is spinning too slowly or too fast, and corrective actions typically involve following the documented corrective action guidance.
+callhome.cpu EMS events occur when ONTAP encounters issues associated with CPU fan failures or abnormal spinning speeds.
 
 == callhome.cpu.fan
 *Severity*::

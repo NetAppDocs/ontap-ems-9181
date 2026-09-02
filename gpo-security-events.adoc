@@ -15,7 +15,7 @@ summary: gpo.security events
 :imagesdir: ./media/
 
 [.lead]
-gpo.security events are reported when the GptTmpl, and corrective actions typically involve ensuring the required configuration and resources are in place.
+gpo.security EMS events occur when ONTAP encounters issues associated with Group Policy Object (GPO) security template file format.
 
 == gpo.security.unrecogFileForm
 *Severity*::

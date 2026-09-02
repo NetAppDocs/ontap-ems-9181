@@ -15,7 +15,7 @@ summary: fci.nserr events
 :imagesdir: ./media/
 
 [.lead]
-fci.nserr events are reported when the Fibre Channel fabric cannot successfully complete a Name Server query issued to obtain configuration and device information when an adapter is connected to the Fibre Channel fabric, and corrective actions typically involve following the documented corrective action guidance.
+fci.nserr EMS events occur when ONTAP encounters issues associated with Fibre Channel fabric Name Server operations.
 
 == fci.nserr.general
 *Severity*::

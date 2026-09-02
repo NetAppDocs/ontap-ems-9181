@@ -15,7 +15,7 @@ summary: wafl.snapshot_xlation_setupfailed events
 :imagesdir: ./media/
 
 [.lead]
-wafl.snapshot_xlation_setupfailed events are reported when wAFL(R) cannot setup the snapshot translation table, and corrective actions typically involve following the documented corrective action guidance.
+wafl.snapshot_xlation_setupfailed EMS events occur when WAFL(R) cannot setup the snapshot translation table.
 
 == wafl.snapshot_xlation_setupfailed
 *Severity*::

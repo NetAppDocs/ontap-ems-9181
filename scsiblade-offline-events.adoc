@@ -15,7 +15,7 @@ summary: scsiblade.offline events
 :imagesdir: ./media/
 
 [.lead]
-scsiblade.offline events are reported when the node loses connectivity with the majority of the cluster, and corrective actions typically involve following the documented corrective action guidance.
+scsiblade.offline EMS events occur when the node loses connectivity with the majority of the cluster.
 
 == scsiblade.offline
 *Severity*::

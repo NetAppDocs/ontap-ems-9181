@@ -15,7 +15,7 @@ summary: callhome.ha events
 :imagesdir: ./media/
 
 [.lead]
-callhome.ha events are reported when the HA network security is enabled, and corrective actions typically involve following the documented corrective action guidance.
+callhome.ha EMS events occur when the HA network security is enabled.
 
 == callhome.ha.net.sec.enabled
 *Severity*::

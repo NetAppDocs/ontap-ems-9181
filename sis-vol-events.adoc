@@ -15,7 +15,7 @@ summary: sis.vol events
 :imagesdir: ./media/
 
 [.lead]
-sis.vol events are reported when deprioritized volume gets auto promoted, and corrective actions typically involve following the documented corrective action guidance.
+sis.vol EMS events occur when ONTAP encounters issues associated with automatic deduplication volume prioritization.
 
 == sis.vol.auto.promote
 *Severity*::

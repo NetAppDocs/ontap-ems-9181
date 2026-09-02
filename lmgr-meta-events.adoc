@@ -15,7 +15,7 @@ summary: lmgr.meta events
 :imagesdir: ./media/
 
 [.lead]
-lmgr.meta events are reported when the system detects that the lock manager host metafile is corrupted, and corrective actions typically involve following the documented corrective action guidance.
+lmgr.meta EMS events occur when the system detects that the lock manager host metafile is corrupted.
 
 == lmgr.meta.corrupted
 *Severity*::

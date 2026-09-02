@@ -15,7 +15,7 @@ summary: token.pit events
 :imagesdir: ./media/
 
 [.lead]
-token.pit events are reported when the token manager cannot create a PIT file in a volume, and corrective actions typically involve following the documented corrective action guidance.
+token.pit EMS events occur when ONTAP encounters issues associated with token point-in-time (PIT) file operations.
 
 == token.pit.file.create.info
 *Severity*::

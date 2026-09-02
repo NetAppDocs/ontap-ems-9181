@@ -15,7 +15,7 @@ summary: acp.updateconfiguration events
 :imagesdir: ./media/
 
 [.lead]
-acp.updateconfiguration events are reported when the Alternate Control Path (ACP) Administrator determines that the SAS shelf I/O module (IOM) supports only the in-band ACP configuration, and corrective actions typically involve following the documented corrective action guidance.
+acp.updateconfiguration EMS events occur when the Alternate Control Path (ACP) Administrator determines that the SAS shelf I/O module (IOM) supports only the in-band ACP configuration.
 
 == acp.updateConfiguration
 *Severity*::

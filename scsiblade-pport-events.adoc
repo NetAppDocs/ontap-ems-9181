@@ -15,7 +15,7 @@ summary: scsiblade.pport events
 :imagesdir: ./media/
 
 [.lead]
-scsiblade.pport events are reported when pPorts LIF migration started before BSH cancel completed, and corrective actions typically involve following the documented corrective action guidance.
+scsiblade.pport EMS events occur when ONTAP encounters issues associated with persistent port operations and LIF migration.
 
 == scsiblade.pport.bsh.cancel.timeout
 *Severity*::

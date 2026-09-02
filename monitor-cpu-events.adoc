@@ -15,7 +15,7 @@ summary: monitor.cpu events
 :imagesdir: ./media/
 
 [.lead]
-monitor.cpu events are reported when the CPU busy situation is corrected, and corrective actions typically involve following the documented corrective action guidance.
+monitor.cpu EMS events occur when ONTAP encounters issues associated with CPU utilization.
 
 == monitor.cpu.ok
 *Severity*::

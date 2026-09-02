@@ -15,7 +15,7 @@ summary: raid.assim events
 :imagesdir: ./media/
 
 [.lead]
-raid.assim events are reported when adding an offline disk into a raidtree, and corrective actions typically involve following the documented corrective action guidance.
+raid.assim EMS events occur when ONTAP encounters issues associated with RAID assimilation and disk configuration.
 
 == raid.assim.add.offline.disk
 *Severity*::

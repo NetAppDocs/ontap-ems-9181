@@ -15,7 +15,7 @@ summary: cf.boot events
 :imagesdir: ./media/
 
 [.lead]
-cf.boot events are reported when the failover monitor continues booting after waiting for giveback, and corrective actions typically involve following the documented corrective action guidance.
+cf.boot EMS events occur when the failover monitor continues booting after waiting for giveback.
 
 == cf.boot.continuing
 *Severity*::

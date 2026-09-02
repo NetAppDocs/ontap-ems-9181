@@ -15,7 +15,7 @@ summary: raid.syncmirror events
 :imagesdir: ./media/
 
 [.lead]
-raid.syncmirror events are reported when this message occurs in a SyncMirror(R) configuration (with SyncMirror aggressive timeout capability), when a disk I/O times out with an error, and corrective actions typically involve following the documented corrective action guidance.
+raid.syncmirror EMS events occur when ONTAP encounters issues associated with SyncMirror(R) operations and aggressive timeout handling.
 
 == raid.syncmirror.agrsv.to
 *Severity*::

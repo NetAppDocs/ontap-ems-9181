@@ -15,7 +15,7 @@ summary: dcn.service events
 :imagesdir: ./media/
 
 [.lead]
-dcn.service events are reported when a service has failed on the Data Compute Node (DCN), and corrective actions typically involve following the documented corrective action guidance.
+dcn.service EMS events occur when a service has failed on the Data Compute Node (DCN).
 
 == dcn.service.failure
 *Severity*::

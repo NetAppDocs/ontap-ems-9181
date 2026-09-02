@@ -15,7 +15,7 @@ summary: de.callhome events
 :imagesdir: ./media/
 
 [.lead]
-de.callhome events are reported when you invoke an AutoSupport(R) message on the AI Data Engine, and the "type" of that message is set to "test", and corrective actions typically involve following the documented corrective action guidance.
+de.callhome EMS events occur when ONTAP encounters issues associated with AutoSupport invocation on the AI Data Engine.
 
 == de.callhome.invoke
 *Severity*::

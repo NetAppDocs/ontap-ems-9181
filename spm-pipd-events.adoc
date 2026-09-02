@@ -15,7 +15,7 @@ summary: spm.pipd events
 :imagesdir: ./media/
 
 [.lead]
-spm.pipd events are reported when the post-ingest processing daemon (pipd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
+spm.pipd EMS events occur when the post-ingest processing daemon (pipd) involuntarily terminates.
 
 == spm.pipd.process.exit
 *Deprecated*::

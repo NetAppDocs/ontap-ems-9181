@@ -15,7 +15,7 @@ summary: vsa.ephemeral events
 :imagesdir: ./media/
 
 [.lead]
-vsa.ephemeral events are reported when a node is configured to use ephemeral vNVRAM and the virtual machine has been re-hosted, using new ephemeral disk for vNVRAM, and corrective actions typically involve following the documented corrective action guidance.
+vsa.ephemeral EMS events occur when a node is configured to use ephemeral vNVRAM and the virtual machine has been re-hosted, using new ephemeral disk for vNVRAM.
 
 == vsa.ephemeral.vnvram.reset
 *Severity*::

@@ -15,7 +15,7 @@ summary: snmp.traphost events
 :imagesdir: ./media/
 
 [.lead]
-snmp.traphost events are reported when the snmp daemon could not resolve (find an IP address via DNS for) a traphost, and corrective actions typically involve following the documented corrective action guidance.
+snmp.traphost EMS events occur when the snmp daemon could not resolve (find an IP address via DNS for) a traphost.
 
 == snmp.traphost.resolve.failed
 *Severity*::

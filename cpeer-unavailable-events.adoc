@@ -15,7 +15,7 @@ summary: cpeer.unavailable events
 :imagesdir: ./media/
 
 [.lead]
-cpeer.unavailable events are reported when a peer cluster becomes unavailable, and corrective actions typically involve verifying the reported configuration and health state.
+cpeer.unavailable EMS events occur when a peer cluster becomes unavailable.
 
 == cpeer.unavailable
 *Severity*::

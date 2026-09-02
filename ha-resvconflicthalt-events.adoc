@@ -15,7 +15,7 @@ summary: ha.resvconflicthalt events
 :imagesdir: ./media/
 
 [.lead]
-ha.resvconflicthalt events are reported when the node halts itself after it finds disks with reservation conflicts, and corrective actions typically involve following the documented corrective action guidance.
+ha.resvconflicthalt EMS events occur when the node halts itself after it finds disks with reservation conflicts.
 
 == ha.resvConflictHalt
 *Severity*::

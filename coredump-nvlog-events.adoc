@@ -15,7 +15,7 @@ summary: coredump.nvlog events
 :imagesdir: ./media/
 
 [.lead]
-coredump.nvlog events are reported when one or more unsuccessful attempts have been made to process information in the WAFL (R) NVlog after a previous failure, and corrective actions typically involve following the documented corrective action guidance.
+coredump.nvlog EMS events occur when one or more unsuccessful attempts have been made to process information in the WAFL (R) NVlog after a previous failure.
 
 == coredump.nvlog.replay.dump.dont
 *Severity*::

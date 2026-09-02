@@ -15,7 +15,7 @@ summary: connectx.ibunsupportcable events
 :imagesdir: ./media/
 
 [.lead]
-connectx.ibunsupportcable events are reported when an unsupported InfiniBand cable is detected on the InfiniBand port, and corrective actions typically involve following the documented corrective action guidance.
+connectx.ibunsupportcable EMS events occur when an unsupported InfiniBand cable is detected on the InfiniBand port.
 
 == connectx.IbUnsupportCable
 *Severity*::

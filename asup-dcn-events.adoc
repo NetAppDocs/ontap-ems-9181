@@ -15,7 +15,7 @@ summary: asup.dcn events
 :imagesdir: ./media/
 
 [.lead]
-asup.dcn events are reported when the AutoSupport configurations in the ONTAP cluster fail to propagate to the Data Compute nodes and the AI Data Engine cluster, and corrective actions typically involve following the documented corrective action guidance.
+asup.dcn EMS events occur when ONTAP encounters issues associated with AutoSupport configuration propagation to data compute nodes and the AI Data Engine cluster.
 
 == asup.dcn.sync.failed
 *Severity*::

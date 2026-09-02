@@ -15,7 +15,7 @@ summary: fcvi.attr events
 :imagesdir: ./media/
 
 [.lead]
-fcvi.attr events are reported when any of the FCVI attributes changes, and corrective actions typically involve following the documented corrective action guidance.
+fcvi.attr EMS events occur when any of the FCVI attributes changes.
 
 == fcvi.attr.changed
 *Severity*::

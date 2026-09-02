@@ -15,7 +15,7 @@ summary: ses.unsupported events
 :imagesdir: ./media/
 
 [.lead]
-ses.unsupported events are reported when a disk shelf has one unsupported power supply unit installed in it, and corrective actions typically involve following the documented corrective action guidance.
+ses.unsupported EMS events occur when ONTAP encounters issues associated with unsupported disk shelf power supplies.
 
 == ses.unsupported.shelf.psu
 *Severity*::

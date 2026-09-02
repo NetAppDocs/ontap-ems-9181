@@ -15,7 +15,7 @@ summary: callhome.performance events
 :imagesdir: ./media/
 
 [.lead]
-callhome.performance events are reported when you invoke an AutoSupport for performance archives, and corrective actions typically involve following the documented corrective action guidance.
+callhome.performance EMS events occur when ONTAP encounters issues associated with performance data collection.
 
 == callhome.performance.archive
 *Severity*::

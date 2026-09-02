@@ -15,7 +15,7 @@ summary: upgrade.volume events
 :imagesdir: ./media/
 
 [.lead]
-upgrade.volume events are reported when a volume is offline during a non-disruptive upgrade operation, and corrective actions typically involve following the documented corrective action guidance.
+upgrade.volume EMS events occur when a volume is offline during a non-disruptive upgrade operation.
 
 == upgrade.volume.not.online
 *Severity*::

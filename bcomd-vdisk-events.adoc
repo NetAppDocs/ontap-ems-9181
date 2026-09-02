@@ -15,7 +15,7 @@ summary: bcomd.vdisk events
 :imagesdir: ./media/
 
 [.lead]
-bcomd.vdisk events are reported when this message occurs after a replication failure of a LUN or an NVMe namespace configuration in a MetroCluster(TM) configuration, and corrective actions typically involve following the documented corrective action guidance.
+bcomd.vdisk EMS events occur when ONTAP encounters issues associated with LUN or NVMe namespace configuration replication in a MetroCluster configuration.
 
 == bcomd.vdisk.repl.failed
 *Severity*::

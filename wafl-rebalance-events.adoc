@@ -15,7 +15,7 @@ summary: wafl.rebalance events
 :imagesdir: ./media/
 
 [.lead]
-wafl.rebalance events are reported when a volume rebalance event has happened, and corrective actions typically involve following the documented corrective action guidance.
+wafl.rebalance EMS events occur when a volume rebalance event has happened.
 
 == wafl.rebalance.vol_affi
 *Severity*::

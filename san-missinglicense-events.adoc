@@ -15,7 +15,7 @@ summary: san.missinglicense events
 :imagesdir: ./media/
 
 [.lead]
-san.missinglicense events are reported when this message occurs during replication of the FC/iSCSI service configuration, when the required service is not licensed or has expired in the cluster, and corrective actions typically involve following the documented corrective action guidance.
+san.missinglicense EMS events occur during replication of the FC/iSCSI service configuration, when the required service is not licensed or has expired in the cluster.
 
 == san.MissingLicense
 *Severity*::

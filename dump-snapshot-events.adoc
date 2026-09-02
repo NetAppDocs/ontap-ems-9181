@@ -15,7 +15,7 @@ summary: dump.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-dump.snapshot events are reported when this event is generated during dump restarting and looking for the snapshot that was created by the dump while it was terminating last time and we are unable to locate the snapshot, and corrective actions typically involve following the documented corrective action guidance.
+dump.snapshot EMS events occur when during dump restarting and looking for the snapshot that was created by the dump while it was terminating last time and we are unable to locate the snapshot.
 
 == dump.snapshot.fail
 *Severity*::

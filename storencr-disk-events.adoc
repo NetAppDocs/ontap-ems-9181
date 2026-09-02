@@ -15,7 +15,7 @@ summary: storencr.disk events
 :imagesdir: ./media/
 
 [.lead]
-storencr.disk events are reported when a Storage Encryption disk command operation that modifies encrypting drive parameters is completed successfully, and corrective actions typically involve following the documented corrective action guidance.
+storencr.disk EMS events occur when a Storage Encryption disk command operation that modifies encrypting drive parameters is completed successfully.
 
 == storencr.disk.opDone
 *Severity*::

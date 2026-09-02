@@ -15,7 +15,7 @@ summary: mw.hir events
 :imagesdir: ./media/
 
 [.lead]
-mw.hir events are reported when extent reference has reached a pre-determined threshold value, and corrective actions typically involve following the documented corrective action guidance.
+mw.hir EMS events occur when extent reference has reached a pre-determined threshold value.
 
 == mw.HiR.maxref.notify
 *Severity*::

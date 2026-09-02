@@ -15,7 +15,7 @@ summary: nis.group events
 :imagesdir: ./media/
 
 [.lead]
-nis.group events are reported when the NIS group database build fails, and corrective actions typically involve ensuring the required configuration and resources are in place.
+nis.group EMS events occur when ONTAP encounters issues associated with NIS group database operations.
 
 == nis.group.db.build.failure
 *Severity*::

@@ -15,7 +15,7 @@ summary: flexcache.svmdr events
 :imagesdir: ./media/
 
 [.lead]
-flexcache.svmdr events are reported when flexCache volumes residing on a cluster are not notified about origin vserver going through SVMDR FO/FB events because ECV of FlexCache cluster is less than 9, and corrective actions typically involve following the documented corrective action guidance.
+flexcache.svmdr EMS events occur when ONTAP encounters issues associated with FlexCache volume SVM disaster recovery (SVM-DR) notifications.
 
 == flexcache.svmdr.ecv.warn
 *Severity*::

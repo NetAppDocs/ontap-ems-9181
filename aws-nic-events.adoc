@@ -15,7 +15,7 @@ summary: aws.nic events
 :imagesdir: ./media/
 
 [.lead]
-aws.nic events are reported when data ONTAP(R) is running in Amazon Web Services (AWS) and a network interface stops processing packets at the beginning of system boot, and corrective actions typically involve following the documented corrective action guidance.
+aws.nic EMS events occur when Data ONTAP(R) is running in Amazon Web Services (AWS) and a network interface stops processing packets at the beginning of system boot.
 
 == aws.nic.noTxIntr
 *Severity*::

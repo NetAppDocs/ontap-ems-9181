@@ -15,7 +15,7 @@ summary: lmgr.mcc events
 :imagesdir: ./media/
 
 [.lead]
-lmgr.mcc events are reported when the system vetoes MetroCluster(TM) switchback or negotiated switchover because CIFS oplock recall fails, and corrective actions typically involve following the documented corrective action guidance.
+lmgr.mcc EMS events occur when the system vetoes MetroCluster(TM) switchback or negotiated switchover because CIFS oplock recall fails.
 
 == lmgr.mcc.oplock.recall.fail
 *Severity*::

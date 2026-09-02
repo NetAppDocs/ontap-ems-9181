@@ -15,7 +15,7 @@ summary: sfu.nsmdownloadfailed events
 :imagesdir: ./media/
 
 [.lead]
-sfu.nsmdownloadfailed events are reported when a disk shelf firmware update fails to download disk shelf firmware to a disk shelf successfully, and corrective actions typically involve following the documented corrective action guidance.
+sfu.nsmdownloadfailed EMS events occur when a disk shelf firmware update fails to download disk shelf firmware to a disk shelf successfully.
 
 == sfu.NSMDownloadFailed
 *Severity*::

@@ -15,7 +15,7 @@ summary: shm.nvme events
 :imagesdir: ./media/
 
 [.lead]
-shm.nvme events are reported when the NVMe drive returns a critical warning to the health monitor, and corrective actions typically involve following the documented corrective action guidance.
+shm.nvme EMS events occur when the NVMe drive returns a critical warning to the health monitor.
 
 == shm.NVME.critical.warning
 *Severity*::

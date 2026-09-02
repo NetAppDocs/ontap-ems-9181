@@ -15,7 +15,7 @@ summary: gpo.sec events
 :imagesdir: ./media/
 
 [.lead]
-gpo.sec events are reported when applying group policy object (GPO) event audit policy settings succeeds, and corrective actions typically involve following the documented corrective action guidance.
+gpo.sec EMS events occur when ONTAP encounters issues associated with Group Policy Object (GPO) security policy settings.
 
 == gpo.sec.EvtAdt.applied
 *Severity*::

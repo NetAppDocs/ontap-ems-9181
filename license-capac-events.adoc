@@ -15,7 +15,7 @@ summary: license.capac events
 :imagesdir: ./media/
 
 [.lead]
-license.capac events are reported when the total storage capacity of all disks currently assigned to your system exceeds the limits of your capacity license, and corrective actions typically involve following the documented corrective action guidance.
+license.capac EMS events occur when ONTAP encounters issues associated with capacity license limits.
 
 == license.capac.enforce
 *Severity*::

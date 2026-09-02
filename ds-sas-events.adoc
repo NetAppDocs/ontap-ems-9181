@@ -15,7 +15,7 @@ summary: ds.sas events
 :imagesdir: ./media/
 
 [.lead]
-ds.sas events are reported when the system detects a configuration problem on the shelf I/O module, and corrective actions typically involve following the documented corrective action guidance.
+ds.sas EMS events occur when ONTAP encounters issues associated with Serial Attached SCSI (SAS) disk shelf operations.
 
 == ds.sas.config.warning
 *Severity*::

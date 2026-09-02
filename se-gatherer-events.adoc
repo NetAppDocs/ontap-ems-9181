@@ -15,7 +15,7 @@ summary: se.gatherer events
 :imagesdir: ./media/
 
 [.lead]
-se.gatherer events are reported when single Instance Storage (SIS) auto gathering scanner completed on the auto adaptive volume, and corrective actions typically involve following the documented corrective action guidance.
+se.gatherer EMS events occur when ONTAP encounters issues associated with Single Instance Storage (SIS) auto gathering scanner operations.
 
 == se.gatherer.done
 *Severity*::

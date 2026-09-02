@@ -15,7 +15,7 @@ summary: splog.sp events
 :imagesdir: ./media/
 
 [.lead]
-splog.sp events are reported when the local or remote node Service Processor (SP) cannot be accessed, and corrective actions typically involve following the documented corrective action guidance.
+splog.sp EMS events occur when ONTAP encounters issues associated with Service Processor (SP) log collection.
 
 == splog.sp.not.accessible
 *Severity*::

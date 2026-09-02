@@ -15,7 +15,7 @@ summary: lmgr.scrub events
 :imagesdir: ./media/
 
 [.lead]
-lmgr.scrub events are reported when the internal scrubbing of Remote Lock Entry Metafile (RLEM) fails due to insufficient storage space, and corrective actions typically involve following the documented corrective action guidance.
+lmgr.scrub EMS events occur when the internal scrubbing of Remote Lock Entry Metafile (RLEM) fails due to insufficient storage space.
 
 == lmgr.scrub.lock.space.error
 *Severity*::

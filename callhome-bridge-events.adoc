@@ -15,7 +15,7 @@ summary: callhome.bridge events
 :imagesdir: ./media/
 
 [.lead]
-callhome.bridge events are reported when a bridge reboots unexpectedly, and corrective actions typically involve following the documented corrective action guidance.
+callhome.bridge EMS events occur when a bridge reboots unexpectedly.
 
 == callhome.bridge.reboot.unexp
 *Severity*::

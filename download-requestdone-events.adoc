@@ -15,7 +15,7 @@ summary: download.requestdone events
 :imagesdir: ./media/
 
 [.lead]
-download.requestdone events are reported when a user-initiated download has completed, and corrective actions typically involve following the documented corrective action guidance.
+download.requestdone EMS events occur when a user-initiated download has completed.
 
 == download.requestDone
 *Severity*::

@@ -15,7 +15,7 @@ summary: spm.mes events
 :imagesdir: ./media/
 
 [.lead]
-spm.mes events are reported when the SPD MES daemon (spd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
+spm.mes EMS events occur when the SPD MES daemon (spd) involuntarily terminates.
 
 == spm.mes.process.exit
 *Severity*::

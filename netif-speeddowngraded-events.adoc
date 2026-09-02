@@ -15,7 +15,7 @@ summary: netif.speeddowngraded events
 :imagesdir: ./media/
 
 [.lead]
-netif.speeddowngraded events are reported when the interface is operating at a lower speed than expected, and corrective actions typically involve following the documented corrective action guidance.
+netif.speeddowngraded EMS events occur when the interface is operating at a lower speed than expected.
 
 == netif.speedDowngraded
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.micro events
 :imagesdir: ./media/
 
 [.lead]
-callhome.micro events are reported when a "micro-core" file is available, and corrective actions typically involve contacting NetApp technical support.
+callhome.micro EMS events occur when a "micro-core" file is available.
 
 == callhome.micro.core
 *Severity*::

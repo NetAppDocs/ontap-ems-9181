@@ -15,7 +15,7 @@ summary: reg.key events
 :imagesdir: ./media/
 
 [.lead]
-reg.key events are reported when oNTAP(R) software cannot access the registry because the key is not valid, and corrective actions typically involve following the documented corrective action guidance.
+reg.key EMS events occur when ONTAP encounters issues associated with invalid registry keys.
 
 == reg.key.invalid
 *Severity*::

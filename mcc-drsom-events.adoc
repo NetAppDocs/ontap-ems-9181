@@ -15,7 +15,7 @@ summary: mcc.drsom events
 :imagesdir: ./media/
 
 [.lead]
-mcc.drsom events are reported when it cannot be determined whether a disk belongs to a root aggregate, and corrective actions typically involve following the documented corrective action guidance.
+mcc.drsom EMS events occur when ONTAP encounters issues associated with the disaster recovery Switchover Monitor (DRSOM).
 
 == mcc.drsom.disk.filter.fail
 *Severity*::

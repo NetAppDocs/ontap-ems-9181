@@ -15,7 +15,7 @@ summary: de.node events
 :imagesdir: ./media/
 
 [.lead]
-de.node events are reported when the AIDE cluster loses communication with one of its Data Compute Nodes (DCN), and corrective actions typically involve following the documented corrective action guidance.
+de.node EMS events occur when the AIDE cluster loses communication with one of its Data Compute Nodes (DCN).
 
 == de.node.unreachable
 *Severity*::

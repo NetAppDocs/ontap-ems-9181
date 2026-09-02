@@ -15,7 +15,7 @@ summary: diskown.autoassign events
 :imagesdir: ./media/
 
 [.lead]
-diskown.autoassign events are reported when automatic assigning of a disk fails because the disks on the stack are owned by multiple systems, and corrective actions typically involve following the documented corrective action guidance.
+diskown.autoassign EMS events occur when ONTAP encounters issues associated with automatic disk assignment.
 
 == diskown.AutoAssign.MultipleOwners
 *Severity*::

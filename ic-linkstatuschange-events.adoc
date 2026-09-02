@@ -15,7 +15,7 @@ summary: ic.linkstatuschange events
 :imagesdir: ./media/
 
 [.lead]
-ic.linkstatuschange events are reported when the link status changes for a high-availability (HA) interconnect port, and corrective actions typically involve verifying the reported configuration and health state.
+ic.linkstatuschange EMS events occur when the link status changes for a high-availability (HA) interconnect port.
 
 == ic.linkStatusChange
 *Severity*::

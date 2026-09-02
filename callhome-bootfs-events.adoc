@@ -15,7 +15,7 @@ summary: callhome.bootfs events
 :imagesdir: ./media/
 
 [.lead]
-callhome.bootfs events are reported when a consistency check of the boot media (compact flash or other type) has shown a problem and has not been corrected automatically, and corrective actions typically involve following the documented corrective action guidance.
+callhome.bootfs EMS events occur when a consistency check of the boot media (compact flash or other type) has shown a problem and has not been corrected automatically.
 
 == callhome.bootfs.chkdsk
 *Severity*::

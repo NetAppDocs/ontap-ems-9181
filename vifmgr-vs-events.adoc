@@ -15,7 +15,7 @@ summary: vifmgr.vs events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.vs events are reported when logical Interface Manager (VIFMgr) is unable to retrieve the list of Vservers from the management gateway Vserver cache in the allotted time, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.vs EMS events occur when Logical Interface Manager (VIFMgr) is unable to retrieve the list of Vservers from the management gateway Vserver cache in the allotted time.
 
 == vifmgr.vs.cache.updateFailed
 *Severity*::

@@ -15,7 +15,7 @@ summary: snapmirror.replay events
 :imagesdir: ./media/
 
 [.lead]
-snapmirror.replay events are reported when metadata replay fails in the process of making a Synchronous SnapMirror(R) destination flexible volume writable, and corrective actions typically involve following the documented corrective action guidance.
+snapmirror.replay EMS events occur when metadata replay fails in the process of making a Synchronous SnapMirror(R) destination flexible volume writable.
 
 == snapmirror.replay.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: air.enabled events
 :imagesdir: ./media/
 
 [.lead]
-air.enabled events are reported when this message occurs in a FlexGroup, when the qtree support is enabled on the volume, but disabled on one or more constituent volumes, and corrective actions typically involve following the documented corrective action guidance.
+air.enabled EMS events occur in a FlexGroup, when the qtree support is enabled on the volume, but disabled on one or more constituent volumes.
 
 == air.enabled.fg.qtree
 *Severity*::

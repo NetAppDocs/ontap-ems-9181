@@ -15,7 +15,7 @@ summary: sis.cfg events
 :imagesdir: ./media/
 
 [.lead]
-sis.cfg events are reported when the configuration file for a Single Instance Storage (SIS) volume is deleted, and corrective actions typically involve following the documented corrective action guidance.
+sis.cfg EMS events occur when ONTAP encounters issues associated with Single Instance Storage (SIS) volume configuration.
 
 == sis.cfg.deleted
 *Severity*::

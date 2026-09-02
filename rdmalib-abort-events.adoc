@@ -15,7 +15,7 @@ summary: rdmalib.abort events
 :imagesdir: ./media/
 
 [.lead]
-rdmalib.abort events are reported when a remote NVLOG operation is aborted due to an error, which is logged here, and corrective actions typically involve following the documented corrective action guidance.
+rdmalib.abort EMS events occur when a remote NVLOG operation is aborted due to an error, which is logged here.
 
 == rdmalib.abort.nv.reconnect
 *Severity*::

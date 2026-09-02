@@ -15,7 +15,7 @@ summary: coredump.job events
 :imagesdir: ./media/
 
 [.lead]
-coredump.job events are reported when the system cannot automatically save a core, and corrective actions typically involve following the documented corrective action guidance.
+coredump.job EMS events occur when ONTAP encounters issues associated with automatically saving cores.
 
 == coredump.job.notstarted
 *Severity*::

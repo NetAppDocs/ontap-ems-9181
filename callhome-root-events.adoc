@@ -15,7 +15,7 @@ summary: callhome.root events
 :imagesdir: ./media/
 
 [.lead]
-callhome.root events are reported when the root volume is not working properly and its recovery is required, and corrective actions typically involve contacting NetApp technical support.
+callhome.root EMS events occur when the root volume is not working properly and its recovery is required.
 
 == callhome.root.vol.recovery.reqd
 *Severity*::

@@ -15,7 +15,7 @@ summary: nvme.link events
 :imagesdir: ./media/
 
 [.lead]
-nvme.link events are reported when the NVMe driver disables the PCIe link due to excessive errors, and corrective actions typically involve following the documented corrective action guidance.
+nvme.link EMS events occur when ONTAP encounters issues associated with NVMe SSD PCIe links.
 
 == nvme.link.disabled.error
 *Severity*::

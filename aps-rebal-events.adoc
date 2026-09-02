@@ -15,7 +15,7 @@ summary: aps.rebal events
 :imagesdir: ./media/
 
 [.lead]
-aps.rebal events are reported when the performance rebalancing service detects that a node is at risk in an advisory mode, and corrective actions typically involve following the documented corrective action guidance.
+aps.rebal EMS events occur when ONTAP encounters issues associated with the performance rebalancing service detecting node utilization thresholds being exceeded.
 
 == aps.rebal.perf.advise
 *Severity*::

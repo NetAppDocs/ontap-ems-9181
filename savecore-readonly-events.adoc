@@ -15,7 +15,7 @@ summary: savecore.readonly events
 :imagesdir: ./media/
 
 [.lead]
-savecore.readonly events are reported when an attempt to run the savecore command was made during a read-only boot, and corrective actions typically involve following the documented corrective action guidance.
+savecore.readonly EMS events occur when an attempt to run the savecore command was made during a read-only boot.
 
 == savecore.readonly
 *Severity*::

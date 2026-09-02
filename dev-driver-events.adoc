@@ -15,7 +15,7 @@ summary: dev.driver events
 :imagesdir: ./media/
 
 [.lead]
-dev.driver events are reported when an I/O driver is throttling I/O requests because the underlying controller is overloaded with I/O requests, and corrective actions typically involve following the documented corrective action guidance.
+dev.driver EMS events occur when an I/O driver is throttling I/O requests because the underlying controller is overloaded with I/O requests.
 
 == dev.driver.throttling
 *Severity*::

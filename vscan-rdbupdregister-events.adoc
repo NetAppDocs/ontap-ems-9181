@@ -15,7 +15,7 @@ summary: vscan.rdbupdregister events
 :imagesdir: ./media/
 
 [.lead]
-vscan.rdbupdregister events are reported when the Vscan configuration replication mechanism fails to register RDB update callback, and corrective actions typically involve following the documented corrective action guidance.
+vscan.rdbupdregister EMS events occur when the Vscan configuration replication mechanism fails to register RDB update callback.
 
 == vscan.rdbUpdRegister.failed
 *Severity*::

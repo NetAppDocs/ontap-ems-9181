@@ -15,7 +15,7 @@ summary: replaycache.nfsv41bindelete events
 :imagesdir: ./media/
 
 [.lead]
-replaycache.nfsv41bindelete events are reported when the replay-cache bin associated with an NFSv4, and corrective actions typically involve following the documented corrective action guidance.
+replaycache.nfsv41bindelete EMS events occur when the replay-cache bin associated with an NFSv4.1 session is destroyed due to a policy mismatch.
 
 == ReplayCache.Nfsv41BinDelete
 *Severity*::

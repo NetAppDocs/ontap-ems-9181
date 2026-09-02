@@ -15,7 +15,7 @@ summary: kern.thread events
 :imagesdir: ./media/
 
 [.lead]
-kern.thread events are reported when a thread creation has the system close to the maximum limit for the number of threads, and corrective actions typically involve following the documented corrective action guidance.
+kern.thread EMS events occur when a thread creation has the system close to the maximum limit for the number of threads.
 
 == kern.thread.alloc.limit
 *Severity*::

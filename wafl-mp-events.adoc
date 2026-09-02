@@ -15,7 +15,7 @@ summary: wafl.mp events
 :imagesdir: ./media/
 
 [.lead]
-wafl.mp events are reported when the value of the "multipart enabled" setting in the RAID label changes during the restoration of a snapshot, and an attempt to update the value in the Volume Location Database (VLDB) to match the new RAID label value fails, and corrective actions typically involve following the documented corrective action guidance.
+wafl.mp EMS events occur when the value of the "multipart enabled" setting in the RAID label changes during the restoration of a snapshot, and an attempt to update the value in the Volume Location Database (VLDB) to match the new RAID label value fails.
 
 == wafl.mp.vldb.update.failed
 *Severity*::

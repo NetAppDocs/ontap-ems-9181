@@ -15,7 +15,7 @@ summary: virtual.limits events
 :imagesdir: ./media/
 
 [.lead]
-virtual.limits events are reported when the process virtual memory limit calculations are disabled on a given node, and corrective actions typically involve following the documented corrective action guidance.
+virtual.limits EMS events occur when ONTAP encounters issues associated with process virtual memory limit calculations.
 
 == virtual.limits.disabled
 *Severity*::

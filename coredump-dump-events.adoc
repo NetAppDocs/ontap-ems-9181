@@ -15,7 +15,7 @@ summary: coredump.dump events
 :imagesdir: ./media/
 
 [.lead]
-coredump.dump events are reported when there is an unsaved core on the dump device, and corrective actions typically involve following the documented corrective action guidance.
+coredump.dump EMS events occur when ONTAP encounters issues associated with coredump operations.
 
 == coredump.dump.abort
 *Severity*::

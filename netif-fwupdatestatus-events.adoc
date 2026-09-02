@@ -15,7 +15,7 @@ summary: netif.fwupdatestatus events
 :imagesdir: ./media/
 
 [.lead]
-netif.fwupdatestatus events are reported when this message occurs to indicate the status of a network interface firmware update, and corrective actions typically involve following the documented corrective action guidance.
+netif.fwupdatestatus EMS events occur to indicate the status of a network interface firmware update.
 
 == netif.fwUpdateStatus
 *Severity*::

@@ -15,7 +15,7 @@ summary: raid.plex events
 :imagesdir: ./media/
 
 [.lead]
-raid.plex events are reported when disks in a plex do not have the same hardware-based pool, and corrective actions typically involve following the documented corrective action guidance.
+raid.plex EMS events occur when ONTAP encounters issues associated with plex operations.
 
 == raid.plex.faultIsolation.reminder
 *Severity*::

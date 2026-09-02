@@ -15,7 +15,7 @@ summary: diskown.disknotsup events
 :imagesdir: ./media/
 
 [.lead]
-diskown.disknotsup events are reported when newly inserted disks are only supported with software disk ownership enabled, but it is not enabled, and corrective actions typically involve following the documented corrective action guidance.
+diskown.disknotsup EMS events occur when newly inserted disks are only supported with software disk ownership enabled, but it is not enabled.
 
 == diskown.diskNotSup
 *Severity*::

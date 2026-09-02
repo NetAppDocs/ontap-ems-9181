@@ -15,7 +15,7 @@ summary: sp.userlist events
 :imagesdir: ./media/
 
 [.lead]
-sp.userlist events are reported when there is an error updating user information for the Service Processor (SP), and corrective actions typically involve following the documented corrective action guidance.
+sp.userlist EMS events occur when there is an error updating user information for the Service Processor (SP).
 
 == sp.userlist.update.failed
 *Severity*::

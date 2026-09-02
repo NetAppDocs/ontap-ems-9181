@@ -15,7 +15,7 @@ summary: ctl.ctlbe events
 :imagesdir: ./media/
 
 [.lead]
-ctl.ctlbe events are reported when iO failure due to internal error, and corrective actions typically involve following the documented corrective action guidance.
+ctl.ctlbe EMS events occur when ONTAP encounters issues associated with CAM target layer operations.
 
 == ctl.ctlbe.IOInternalError
 *Severity*::

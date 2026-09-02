@@ -15,7 +15,7 @@ summary: snaplock.legal events
 :imagesdir: ./media/
 
 [.lead]
-snaplock.legal events are reported when this message occurs on completion of a legal-hold dump-files operation on a SnapLock(R) compliance volume, and corrective actions typically involve following the documented corrective action guidance.
+snaplock.legal EMS events occur when ONTAP encounters issues associated with SnapLock(R) legal-hold operations.
 
 == snaplock.legal.hold.dump.files.op.status
 *Severity*::

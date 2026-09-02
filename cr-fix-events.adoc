@@ -15,7 +15,7 @@ summary: cr.fix events
 :imagesdir: ./media/
 
 [.lead]
-cr.fix events are reported when corrective action for corrupt redirector file failed, and corrective actions typically involve following the documented corrective action guidance.
+cr.fix EMS events occur when ONTAP encounters issues associated with correcting corrupt or dangling files and redirectors.
 
 == CR.Fix.Corrupt.Redir.Failed
 *Deprecated*::

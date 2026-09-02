@@ -15,7 +15,7 @@ summary: snaplock.invalid events
 :imagesdir: ./media/
 
 [.lead]
-snaplock.invalid events are reported when an invalid autocommit period value is found on a SnapLock(R) volume, and corrective actions typically involve following the documented corrective action guidance.
+snaplock.invalid EMS events occur when an invalid autocommit period value is found on a SnapLock(R) volume.
 
 == snaplock.invalid.autocommit
 *Severity*::

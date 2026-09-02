@@ -15,7 +15,7 @@ summary: air.disable events
 :imagesdir: ./media/
 
 [.lead]
-air.disable events are reported when any inconsistency is found with the async delete trashbin directory of a volume, and corrective actions typically involve following the documented corrective action guidance.
+air.disable EMS events occur when ONTAP encounters issues associated with inconsistencies in the async delete trashbin directory or the preserve unlink trash directory.
 
 == air.disable.async.delete.cli
 *Severity*::

@@ -15,7 +15,7 @@ summary: sfu.downloadctrllerbridge events
 :imagesdir: ./media/
 
 [.lead]
-sfu.downloadctrllerbridge events are reported when a disk shelf firmware download starts on a particular disk shelf, and corrective actions typically involve following the documented corrective action guidance.
+sfu.downloadctrllerbridge EMS events occur when a disk shelf firmware download starts on a particular disk shelf.
 
 == sfu.downloadCtrllerBridge
 *Severity*::

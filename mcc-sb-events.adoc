@@ -15,7 +15,7 @@ summary: mcc.sb events
 :imagesdir: ./media/
 
 [.lead]
-mcc.sb events are reported when dump/restore is aborted during a MetroCluster switchback operation, and corrective actions typically involve following the documented corrective action guidance.
+mcc.sb EMS events occur when ONTAP encounters issues associated with dump or restore operations during MetroCluster switchback.
 
 == mcc.sb.abort.dump
 *Severity*::

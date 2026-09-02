@@ -15,7 +15,7 @@ summary: vscan.pool events
 :imagesdir: ./media/
 
 [.lead]
-vscan.pool events are reported when the Vscan scanner pool is automatically activated, and corrective actions typically involve following the documented corrective action guidance.
+vscan.pool EMS events occur when ONTAP encounters issues associated with Vscan scanner pool activation or configuration.
 
 == vscan.pool.autoActivated
 *Severity*::

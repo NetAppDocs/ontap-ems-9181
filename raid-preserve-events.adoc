@@ -15,7 +15,7 @@ summary: raid.preserve events
 :imagesdir: ./media/
 
 [.lead]
-raid.preserve events are reported when during RAID replay of NVRAM, entries associated with a non-existent (offline or missing) aggregate were discovered, and corrective actions typically involve following the documented corrective action guidance.
+raid.preserve EMS events occur when ONTAP encounters issues associated with RAID configuration preservation operations.
 
 == raid.preserve.nvram
 *Severity*::

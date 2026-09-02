@@ -15,7 +15,7 @@ summary: tape.cmd events
 :imagesdir: ./media/
 
 [.lead]
-tape.cmd events are reported when a Check Condition status from the tape drive reports an informational condition or status to the controller, and corrective actions typically involve following the documented corrective action guidance.
+tape.cmd EMS events occur when ONTAP encounters issues associated with tape drive command execution.
 
 == tape.cmd.chkCondErr
 *Severity*::

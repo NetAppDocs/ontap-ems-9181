@@ -15,7 +15,7 @@ summary: mgmtgwd.configbr events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.configbr events are reported when a scheduled configuration backup is successfully created, and corrective actions typically involve following the documented corrective action guidance.
+mgmtgwd.configbr EMS events occur when ONTAP encounters issues associated with configuration backup and restore operations.
 
 == mgmtgwd.configbr.backupCompleted
 *Deprecated*::

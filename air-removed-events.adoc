@@ -15,7 +15,7 @@ summary: air.removed events
 :imagesdir: ./media/
 
 [.lead]
-air.removed events are reported when there is an inconsistency in the remote lock entry metafile, and corrective actions typically involve following the documented corrective action guidance.
+air.removed EMS events occur when there is an inconsistency in the remote lock entry metafile.
 
 == air.removed.remote.lck.entry
 *Severity*::

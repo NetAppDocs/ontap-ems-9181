@@ -15,7 +15,7 @@ summary: dml.fae events
 :imagesdir: ./media/
 
 [.lead]
-dml.fae events are reported when the Device Management Layer fails to import key material, and corrective actions typically involve verifying the reported configuration and health state.
+dml.fae EMS events occur when the Device Management Layer fails to import key material.
 
 == dml.fae.key.import.failed
 *Severity*::

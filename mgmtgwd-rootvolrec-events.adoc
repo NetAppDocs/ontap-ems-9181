@@ -15,7 +15,7 @@ summary: mgmtgwd.rootvolrec events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.rootvolrec events are reported when the system detects that the root volume is dangerously low on space, and corrective actions typically involve contacting NetApp technical support.
+mgmtgwd.rootvolrec EMS events occur when the system detects that the root volume is dangerously low on space.
 
 == mgmtgwd.rootvolrec.low.space
 *Severity*::

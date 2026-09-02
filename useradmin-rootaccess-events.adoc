@@ -15,7 +15,7 @@ summary: useradmin.rootaccess events
 :imagesdir: ./media/
 
 [.lead]
-useradmin.rootaccess events are reported when the root account has been enabled or disabled because of the option security, and corrective actions typically involve following the documented corrective action guidance.
+useradmin.rootaccess EMS events occur when the root account has been enabled or disabled because of the option security.rootaccess.enable.
 
 == useradmin.rootaccess.enabled
 *Severity*::

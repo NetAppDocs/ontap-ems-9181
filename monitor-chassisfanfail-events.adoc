@@ -15,7 +15,7 @@ summary: monitor.chassisfanfail events
 :imagesdir: ./media/
 
 [.lead]
-monitor.chassisfanfail events are reported when multiple chassis fans have failed, and the system will shut down in a few minutes unless corrected, and corrective actions typically involve following the documented corrective action guidance.
+monitor.chassisfanfail EMS events occur when multiple chassis fans have failed, and the system will shut down in a few minutes unless corrected.
 
 == monitor.chassisFanFail.xMinShutdown
 *Severity*::

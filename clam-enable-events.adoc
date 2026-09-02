@@ -15,7 +15,7 @@ summary: clam.enable events
 :imagesdir: ./media/
 
 [.lead]
-clam.enable events are reported when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) is enabled to operate on this node, and corrective actions typically involve following the documented corrective action guidance.
+clam.enable EMS events occur when ONTAP encounters issues associated with Connectivity, Liveliness, Availability Monitor (CLAM) being enabled.
 
 == clam.enable
 *Severity*::

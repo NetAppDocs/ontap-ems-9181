@@ -15,7 +15,7 @@ summary: scsiblade.lu events
 :imagesdir: ./media/
 
 [.lead]
-scsiblade.lu events are reported when this node completes a group internal rebuild for an LU, and corrective actions typically involve following the documented corrective action guidance.
+scsiblade.lu EMS events occur when ONTAP encounters issues associated with logical unit (LU) group operations and resynchronization.
 
 == scsiblade.lu.gir.end
 *Severity*::

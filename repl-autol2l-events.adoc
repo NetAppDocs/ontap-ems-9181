@@ -15,7 +15,7 @@ summary: repl.autol2l events
 :imagesdir: ./media/
 
 [.lead]
-repl.autol2l events are reported when the replication destination engine encounters an unsupported configuration during a transfer with storage efficiency, and corrective actions typically involve following the documented corrective action guidance.
+repl.autol2l EMS events occur when the replication destination engine encounters an unsupported configuration during a transfer with storage efficiency.
 
 == repl.autol2l.unsupported.configuration
 *Severity*::

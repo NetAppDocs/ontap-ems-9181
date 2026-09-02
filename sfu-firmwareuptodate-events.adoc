@@ -15,7 +15,7 @@ summary: sfu.firmwareuptodate events
 :imagesdir: ./media/
 
 [.lead]
-sfu.firmwareuptodate events are reported when a disk shelf firmware update is requested but all shelves are determined to be updated already to the latest version of firmware available on the system, and corrective actions typically involve following the documented corrective action guidance.
+sfu.firmwareuptodate EMS events occur when a disk shelf firmware update is requested but all shelves are determined to be updated already to the latest version of firmware available on the system.
 
 == sfu.firmwareUpToDate
 *Severity*::

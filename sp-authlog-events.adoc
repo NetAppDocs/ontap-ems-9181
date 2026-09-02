@@ -15,7 +15,7 @@ summary: sp.authlog events
 :imagesdir: ./media/
 
 [.lead]
-sp.authlog events are reported when the Service Processor (SP) or baseboard management controller (BMC) fails to log an authentication event in the system event log (SEL), and corrective actions typically involve following the documented corrective action guidance.
+sp.authlog EMS events occur when the Service Processor (SP) or baseboard management controller (BMC) fails to log an authentication event in the system event log (SEL).
 
 == sp.authlog.failure
 *Severity*::

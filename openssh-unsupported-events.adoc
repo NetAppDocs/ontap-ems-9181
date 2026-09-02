@@ -15,7 +15,7 @@ summary: openssh.unsupported events
 :imagesdir: ./media/
 
 [.lead]
-openssh.unsupported events are reported when an unsupported cipher is used while attempting an SSH connection, and corrective actions typically involve following the documented corrective action guidance.
+openssh.unsupported EMS events occur when ONTAP encounters issues associated with SSH connection attempts using unsupported parameters.
 
 == openssh.unsupported.cipher
 *Severity*::

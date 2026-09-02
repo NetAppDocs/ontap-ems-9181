@@ -15,7 +15,7 @@ summary: monitor.completed events
 :imagesdir: ./media/
 
 [.lead]
-monitor.completed events are reported when wafliron in the optional commit mode has finished on the aggregate but changes have not been committed or rejected, and corrective actions typically involve following the documented corrective action guidance.
+monitor.completed EMS events occur when wafliron in the optional commit mode has finished on the aggregate but changes have not been committed or rejected.
 
 == monitor.completed.iron
 *Severity*::

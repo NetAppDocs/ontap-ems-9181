@@ -15,7 +15,7 @@ summary: ses.status events
 :imagesdir: ./media/
 
 [.lead]
-ses.status events are reported when a failure has been detected in ACP processor that provides alternate control path capability, and corrective actions typically involve following the documented corrective action guidance.
+ses.status EMS events occur when ONTAP encounters issues associated with disk shelf environmental monitoring and component status.
 
 == ses.status.ACPError
 *Severity*::

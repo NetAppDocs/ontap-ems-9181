@@ -15,7 +15,7 @@ summary: platform.insufficientmemory events
 :imagesdir: ./media/
 
 [.lead]
-platform.insufficientmemory events are reported when there is not enough system memory for the system to function, likely due to slots that contain incorrect, failed, or missing DIMMs, and corrective actions typically involve following the documented corrective action guidance.
+platform.insufficientmemory EMS events occur when there is not enough system memory for the system to function, likely due to slots that contain incorrect, failed, or missing DIMMs.
 
 == platform.insufficientMemory
 *Severity*::

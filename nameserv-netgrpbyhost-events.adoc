@@ -15,7 +15,7 @@ summary: nameserv.netgrpbyhost events
 :imagesdir: ./media/
 
 [.lead]
-nameserv.netgrpbyhost events are reported when netgroup is configured but the netgroup byhost database is not generated during an upgrade operation, and corrective actions typically involve following the documented corrective action guidance.
+nameserv.netgrpbyhost EMS events occur when netgroup is configured but the netgroup byhost database is not generated during an upgrade operation.
 
 == nameserv.netgrpbyhost.failed
 *Severity*::

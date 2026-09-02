@@ -15,7 +15,7 @@ summary: san.iscsilifrepaired events
 :imagesdir: ./media/
 
 [.lead]
-san.iscsilifrepaired events are reported when an iSCSI LIF is repaired during Vserver initialization, and no corrective action is typically required.
+san.iscsilifrepaired EMS events occur when an iSCSI LIF is repaired during Vserver initialization.
 
 == san.iscsiLifRepaired
 *Severity*::

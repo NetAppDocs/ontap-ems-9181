@@ -15,7 +15,7 @@ summary: spmgmt.driver events
 :imagesdir: ./media/
 
 [.lead]
-spmgmt.driver events are reported when the system encounters an error while trying to get hourly statistics from the Service Processor (SP), and corrective actions typically involve following the documented corrective action guidance.
+spmgmt.driver EMS events occur when ONTAP encounters issues associated with the Service Processor (SP) driver.
 
 == spmgmt.driver.hourly.stats
 *Severity*::

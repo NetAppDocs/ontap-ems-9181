@@ -15,7 +15,7 @@ summary: vol.max events
 :imagesdir: ./media/
 
 [.lead]
-vol.max events are reported when this message occurs as a reminder that the maximum volume size limit is increased from the default value defined in the Platform Specific Module (PSM) table, and corrective actions typically involve following the documented corrective action guidance.
+vol.max EMS events occur as a reminder that the maximum volume size limit is increased from the default value defined in the Platform Specific Module (PSM) table.
 
 == vol.max.size.increased
 *Severity*::

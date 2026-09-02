@@ -15,7 +15,7 @@ summary: config.mirrornotmultipath events
 :imagesdir: ./media/
 
 [.lead]
-config.mirrornotmultipath events are reported when a disk is not multipathed but synchronous mirroring is enabled, and corrective actions typically involve following the documented corrective action guidance.
+config.mirrornotmultipath EMS events occur when a disk is not multipathed but synchronous mirroring is enabled.
 
 == config.MirrorNotMultiPath
 *Severity*::

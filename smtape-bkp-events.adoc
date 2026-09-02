@@ -15,7 +15,7 @@ summary: smtape.bkp events
 :imagesdir: ./media/
 
 [.lead]
-smtape.bkp events are reported when an SMTape backup operation is aborted because a write to tape device fails, and corrective actions typically involve following the documented corrective action guidance.
+smtape.bkp EMS events occur when ONTAP encounters issues associated with SMTape backup operations.
 
 == smtape.bkp.abort.write.err
 *Severity*::

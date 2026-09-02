@@ -15,7 +15,7 @@ summary: scsitarget.slifct events
 :imagesdir: ./media/
 
 [.lead]
-scsitarget.slifct events are reported when the Fibre Channel target device driver encounters an unrecognized asynchronous event notification from the firmware, possibly as a result of a firmware update, and corrective actions typically involve following the documented corrective action guidance.
+scsitarget.slifct EMS events occur when ONTAP encounters issues associated with Fibre Channel target device driver operations and firmware.
 
 == scsitarget.slifct.asyncError
 *Deprecated*::

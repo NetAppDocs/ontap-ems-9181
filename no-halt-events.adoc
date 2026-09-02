@@ -15,7 +15,7 @@ summary: no.halt events
 :imagesdir: ./media/
 
 [.lead]
-no.halt events are reported when the option raid, and corrective actions typically involve following the documented corrective action guidance.
+no.halt EMS events occur when ONTAP encounters issues associated with automatic shutdown being disabled.
 
 == no.halt.brokenDisk
 *Severity*::

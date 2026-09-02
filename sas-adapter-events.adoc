@@ -15,7 +15,7 @@ summary: sas.adapter events
 :imagesdir: ./media/
 
 [.lead]
-sas.adapter events are reported when the base WWN associated with the SAS adapter is of invalid format, and corrective actions typically involve following the documented corrective action guidance.
+sas.adapter EMS events occur when ONTAP encounters issues associated with SAS adapter operations and firmware.
 
 == sas.adapter.bad.WWN
 *Severity*::

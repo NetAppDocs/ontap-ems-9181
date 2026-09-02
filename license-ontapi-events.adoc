@@ -15,7 +15,7 @@ summary: license.ontapi events
 :imagesdir: ./media/
 
 [.lead]
-license.ontapi events are reported when oNTAPI enablement evaluation license is installed successfully, and corrective actions typically involve contacting NetApp technical support.
+license.ontapi EMS events occur when ONTAP encounters issues associated with ONTAPI enablement license operations.
 
 == license.ontapi.eval
 *Severity*::

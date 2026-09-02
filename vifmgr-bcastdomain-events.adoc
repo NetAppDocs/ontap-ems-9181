@@ -15,7 +15,7 @@ summary: vifmgr.bcastdomain events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.bcastdomain events are reported when a network port is added to a broadcast domain, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.bcastdomain EMS events occur when ONTAP encounters issues associated with broadcast domain operations.
 
 == vifmgr.bcastdomain.portadd
 *Severity*::

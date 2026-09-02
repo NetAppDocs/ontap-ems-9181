@@ -15,7 +15,7 @@ summary: mgmtgwd.var events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.var events are reported when the system detects a missing or corrupted /var root directory, and corrective actions typically involve contacting NetApp technical support.
+mgmtgwd.var EMS events occur when the system detects a missing or corrupted /var root directory.
 
 == mgmtgwd.var.recovery
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.carrier events
 :imagesdir: ./media/
 
 [.lead]
-callhome.carrier events are reported when all the disks in the carrier, that contains more than one disk in it, have failed, and corrective actions typically involve following the documented corrective action guidance.
+callhome.carrier EMS events occur when all the disks in the carrier, that contains more than one disk in it, have failed.
 
 == callhome.carrier.fault
 *Severity*::

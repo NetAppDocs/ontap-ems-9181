@@ -15,7 +15,7 @@ summary: snapdiff.zapi events
 :imagesdir: ./media/
 
 [.lead]
-snapdiff.zapi events are reported when the snapshot differencing engine, SnapDiff, fails to obtain an appropriate file name for the requested file access protocol, and corrective actions typically involve following the documented corrective action guidance.
+snapdiff.zapi EMS events occur when the snapshot differencing engine, SnapDiff, fails to obtain an appropriate file name for the requested file access protocol.
 
 == snapdiff.zapi.filenameUnavailable
 *Severity*::

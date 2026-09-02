@@ -15,7 +15,7 @@ summary: vsdr.net events
 :imagesdir: ./media/
 
 [.lead]
-vsdr.net events are reported when the system tries to automatically replicate a logical interface (LIF) in a MetroCluster(TM) configuration or Vserver DR setup and the IP address of the LIF that is being created already exists in another Vserver, and corrective actions typically involve following the documented corrective action guidance.
+vsdr.net EMS events occur when ONTAP encounters issues associated with logical interface (LIF) replication in MetroCluster or Vserver DR configurations.
 
 == vsdr.net.IPInDiffVserver
 *Severity*::

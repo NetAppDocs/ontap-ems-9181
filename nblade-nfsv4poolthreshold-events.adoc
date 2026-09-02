@@ -15,7 +15,7 @@ summary: nblade.nfsv4poolthreshold events
 :imagesdir: ./media/
 
 [.lead]
-nblade.nfsv4poolthreshold events are reported when one of the NFSv4 store pools is nearing exhaustion (80% of max size), and corrective actions typically involve following the documented corrective action guidance.
+nblade.nfsv4poolthreshold EMS events occur when one of the NFSv4 store pools is nearing exhaustion (80% of max size).
 
 == Nblade.nfsV4PoolThreshold
 *Severity*::

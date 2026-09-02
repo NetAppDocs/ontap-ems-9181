@@ -15,7 +15,7 @@ summary: cf.ndustart events
 :imagesdir: ./media/
 
 [.lead]
-cf.ndustart events are reported when a nondisruptive upgrade starts, and corrective actions typically involve following the documented corrective action guidance.
+cf.ndustart EMS events occur when a nondisruptive upgrade starts.
 
 == cf.nduStart
 *Severity*::

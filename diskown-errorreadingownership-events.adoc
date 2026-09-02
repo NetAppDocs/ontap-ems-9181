@@ -15,7 +15,7 @@ summary: diskown.errorreadingownership events
 :imagesdir: ./media/
 
 [.lead]
-diskown.errorreadingownership events are reported when this event is issued when we get an error while reading all the DOWNs at once, and corrective actions typically involve following the documented corrective action guidance.
+diskown.errorreadingownership EMS events occur when we get an error while reading all the DOWNs at once.
 
 == diskown.errorReadingOwnership
 *Severity*::

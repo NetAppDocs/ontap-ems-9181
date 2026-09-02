@@ -15,7 +15,7 @@ summary: snmp.fips events
 :imagesdir: ./media/
 
 [.lead]
-snmp.fips events are reported when the system fails to delete SNMP traphosts and users that are not FIPS compliant, and corrective actions typically involve following the documented corrective action guidance.
+snmp.fips EMS events occur when ONTAP encounters issues associated with SNMP FIPS compliance.
 
 == snmp.fips.objs.del.failed
 *Severity*::

@@ -15,7 +15,7 @@ summary: mgr.partner events
 :imagesdir: ./media/
 
 [.lead]
-mgr.partner events are reported when this event is generated after a successful cluster takeover caused by a partner panic, and indicates partner stack trace information was collected from the time of the panic, and corrective actions typically involve following the documented corrective action guidance.
+mgr.partner EMS events occur when after a successful cluster takeover caused by a partner panic, and indicates partner stack trace information was collected from the time of the panic.
 
 == mgr.partner.stack.saved
 *Severity*::

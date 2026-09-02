@@ -15,7 +15,7 @@ summary: scsitarget.fct events
 :imagesdir: ./media/
 
 [.lead]
-scsitarget.fct events are reported when a Fibre Channel (FC) Registered State Change Notification (RSCN) frame is received, specifically for a fabric name change event, and corrective actions typically involve following the documented corrective action guidance.
+scsitarget.fct EMS events occur when ONTAP encounters issues associated with Fibre Channel (FC) target adapter operations and fabric connectivity.
 
 == scsitarget.fct.fabNameRSCN
 *Severity*::

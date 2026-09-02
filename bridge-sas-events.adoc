@@ -15,7 +15,7 @@ summary: bridge.sas events
 :imagesdir: ./media/
 
 [.lead]
-bridge.sas events are reported when the SAS disk shelves behind an FC-to-SAS bridge are not cabled correctly, indicating an invalid SAS2 to SAS3 transition, and corrective actions typically involve following the documented corrective action guidance.
+bridge.sas EMS events occur when the SAS disk shelves behind an FC-to-SAS bridge are not cabled correctly, indicating an invalid SAS2 to SAS3 transition.
 
 == bridge.SAS.invalidTransition
 *Severity*::

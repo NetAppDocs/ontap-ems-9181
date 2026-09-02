@@ -15,7 +15,7 @@ summary: configbr.deletefailed events
 :imagesdir: ./media/
 
 [.lead]
-configbr.deletefailed events are reported when an old configuration backup cannot be deleted, and corrective actions typically involve ensuring the required configuration and resources are in place.
+configbr.deletefailed EMS events occur when an old configuration backup cannot be deleted.
 
 == configbr.deleteFailed
 *Severity*::

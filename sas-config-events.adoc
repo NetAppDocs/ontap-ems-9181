@@ -15,7 +15,7 @@ summary: sas.config events
 :imagesdir: ./media/
 
 [.lead]
-sas.config events are reported when the SAS (Serial Attached SCSI) adapter is connected to a misconfigured SAS domain, and corrective actions typically involve following the documented corrective action guidance.
+sas.config EMS events occur when ONTAP encounters issues associated with SAS domain configuration.
 
 == sas.config.bad
 *Severity*::

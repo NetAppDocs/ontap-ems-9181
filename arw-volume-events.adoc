@@ -15,7 +15,7 @@ summary: arw.volume events
 :imagesdir: ./media/
 
 [.lead]
-arw.volume events are reported when the anti-ransomware state of a volume is changed, and corrective actions typically involve following the documented corrective action guidance.
+arw.volume EMS events occur when the anti-ransomware state of a volume is changed.
 
 == arw.volume.state
 *Severity*::

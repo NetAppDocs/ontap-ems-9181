@@ -15,7 +15,7 @@ summary: monitor.power events
 :imagesdir: ./media/
 
 [.lead]
-monitor.power events are reported when the main unit power supply is in a degraded mode, and corrective actions typically involve following the documented corrective action guidance.
+monitor.power EMS events occur when ONTAP encounters issues associated with main unit power supply operation.
 
 == monitor.power.degraded
 *Deprecated*::

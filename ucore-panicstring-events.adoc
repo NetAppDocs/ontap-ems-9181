@@ -15,7 +15,7 @@ summary: ucore.panicstring events
 :imagesdir: ./media/
 
 [.lead]
-ucore.panicstring events are reported when a userspace application crashes, and we manage to obtain a panic string indicating the cause of the crash, and corrective actions typically involve contacting NetApp technical support.
+ucore.panicstring EMS events occur when a userspace application crashes, and we manage to obtain a panic string indicating the cause of the crash.
 
 == ucore.panicString
 *Severity*::

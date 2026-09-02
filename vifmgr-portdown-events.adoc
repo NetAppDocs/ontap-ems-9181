@@ -15,7 +15,7 @@ summary: vifmgr.portdown events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.portdown events are reported when a link down event was received on a network port, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.portdown EMS events occur when a link down event was received on a network port.
 
 == vifmgr.portdown
 *Severity*::

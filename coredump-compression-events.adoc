@@ -15,7 +15,7 @@ summary: coredump.compression events
 :imagesdir: ./media/
 
 [.lead]
-coredump.compression events are reported when a compressed kernel core is generated, and corrective actions typically involve following the documented corrective action guidance.
+coredump.compression EMS events occur when a compressed kernel core is generated.
 
 == coredump.compression.details
 *Severity*::

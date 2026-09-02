@@ -15,7 +15,7 @@ summary: callhome.dsk events
 :imagesdir: ./media/
 
 [.lead]
-callhome.dsk events are reported when a disk drive failure occurred and the Embedded Switched Hub (ESH) removed the disk drive from the loop electronically--bypassing the disk drive on one or possibly both ports, and corrective actions typically involve following the documented corrective action guidance.
+callhome.dsk EMS events occur when ONTAP encounters issues associated with disk drive failures, bypasses, configuration problems, or redundancy loss.
 
 == callhome.dsk.bypass
 *Severity*::

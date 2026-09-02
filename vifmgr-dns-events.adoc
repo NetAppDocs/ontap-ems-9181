@@ -15,7 +15,7 @@ summary: vifmgr.dns events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.dns events are reported when lIF changes cause the ONTAP DNS server to be reconfigured, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.dns EMS events occur when ONTAP encounters issues associated with the ONTAP DNS server.
 
 == vifmgr.dns.reconfigured
 *Severity*::

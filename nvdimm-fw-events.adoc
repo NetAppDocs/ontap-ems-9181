@@ -15,7 +15,7 @@ summary: nvdimm.fw events
 :imagesdir: ./media/
 
 [.lead]
-nvdimm.fw events are reported when nVDIMM controller firmware failed to upgrade, and corrective actions typically involve following the documented corrective action guidance.
+nvdimm.fw EMS events occur when ONTAP encounters issues associated with NVDIMM controller firmware updates.
 
 == nvdimm.fw.upgrade.failure
 *Severity*::

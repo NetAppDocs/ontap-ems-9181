@@ -15,7 +15,7 @@ summary: sis.chkpoint events
 :imagesdir: ./media/
 
 [.lead]
-sis.chkpoint events are reported when a Single Instance Storage (SIS) checkpoint is deleted, and corrective actions typically involve following the documented corrective action guidance.
+sis.chkpoint EMS events occur when ONTAP encounters issues associated with Single Instance Storage (SIS) checkpoint operations.
 
 == sis.chkpoint.delete
 *Severity*::

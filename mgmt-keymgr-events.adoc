@@ -15,7 +15,7 @@ summary: mgmt.keymgr events
 :imagesdir: ./media/
 
 [.lead]
-mgmt.keymgr events are reported when the system cannot delete the key ID associated with the encrypted aggregate from the key management server, and corrective actions typically involve following the documented corrective action guidance.
+mgmt.keymgr EMS events occur when the system cannot delete the key ID associated with the encrypted aggregate from the key management server.
 
 == mgmt.keymgr.keyid.noDelete
 *Severity*::

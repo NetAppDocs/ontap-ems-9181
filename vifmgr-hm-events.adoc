@@ -15,7 +15,7 @@ summary: vifmgr.hm events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.hm events are reported when a health monitor has been fully activated for an IPspace, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.hm EMS events occur when a health monitor has been fully activated for an IPspace.
 
 == vifmgr.hm.promoted
 *Severity*::

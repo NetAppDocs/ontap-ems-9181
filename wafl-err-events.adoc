@@ -15,7 +15,7 @@ summary: wafl.err events
 :imagesdir: ./media/
 
 [.lead]
-wafl.err events are reported when a level 1 indirect block with given block number is not found in a compacted block, and corrective actions typically involve following the documented corrective action guidance.
+wafl.err EMS events occur when a level 1 indirect block with given block number is not found in a compacted block.
 
 == wafl.err.L1.compacted.block
 *Severity*::

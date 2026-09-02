@@ -15,7 +15,7 @@ summary: disk.fail events
 :imagesdir: ./media/
 
 [.lead]
-disk.fail events are reported when a disk is marked failed, is being sanitized, or has entered Maintenance Center, and corrective actions typically involve following the documented corrective action guidance.
+disk.fail EMS events occur when a disk is marked failed, is being sanitized, or has entered Maintenance Center.
 
 == disk.fail.ssdstats
 *Severity*::

@@ -15,7 +15,7 @@ summary: nvmf.graceperiod events
 :imagesdir: ./media/
 
 [.lead]
-nvmf.graceperiod events are reported when this message occurs daily while the NVMe over Fabrics (NVMe-oF) protocol is in use and the license grace period is active, and corrective actions typically involve contacting NetApp technical support.
+nvmf.graceperiod EMS events occur when ONTAP encounters issues associated with the NVMe over Fabrics (NVMe-oF) license grace period.
 
 == nvmf.graceperiod.active
 *Severity*::

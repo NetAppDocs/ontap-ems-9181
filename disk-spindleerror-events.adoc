@@ -15,7 +15,7 @@ summary: disk.spindleerror events
 :imagesdir: ./media/
 
 [.lead]
-disk.spindleerror events are reported when a disk returns a spindle detect error, and corrective actions typically involve following the documented corrective action guidance.
+disk.spindleerror EMS events occur when ONTAP encounters issues associated with disk spindle motor problems.
 
 == disk.spindleError.detect
 *Severity*::

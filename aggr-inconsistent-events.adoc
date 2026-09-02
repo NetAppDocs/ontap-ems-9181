@@ -15,7 +15,7 @@ summary: aggr.inconsistent events
 :imagesdir: ./media/
 
 [.lead]
-aggr.inconsistent events are reported when the 'aggr inconsistent' command is used to modify a state of an aggregate, and corrective actions typically involve following the documented corrective action guidance.
+aggr.inconsistent EMS events occur when the 'aggr inconsistent' command is used to modify a state of an aggregate.
 
 == aggr.inconsistent.modify
 *Severity*::

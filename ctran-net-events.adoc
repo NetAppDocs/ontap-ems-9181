@@ -15,7 +15,7 @@ summary: ctran.net events
 :imagesdir: ./media/
 
 [.lead]
-ctran.net events are reported when the Cluster Transaction Manager (CTRAN) on the local node is unable to reach a peer node that it believes is in CLAM quorum, and corrective actions typically involve checking the reported configuration and connectivity.
+ctran.net EMS events occur when the Cluster Transaction Manager (CTRAN) on the local node is unable to reach a peer node that it believes is in CLAM quorum.
 
 == ctran.net.unreachable
 *Severity*::

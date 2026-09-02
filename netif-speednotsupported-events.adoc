@@ -15,7 +15,7 @@ summary: netif.speednotsupported events
 :imagesdir: ./media/
 
 [.lead]
-netif.speednotsupported events are reported when a network interface autonegotiates to an unsupported speed, and corrective actions typically involve following the documented corrective action guidance.
+netif.speednotsupported EMS events occur when a network interface autonegotiates to an unsupported speed.
 
 == netif.speedNotSupported
 *Severity*::

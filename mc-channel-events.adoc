@@ -15,7 +15,7 @@ summary: mc.channel events
 :imagesdir: ./media/
 
 [.lead]
-mc.channel events are reported when this message occurs on failure in new channel creation in Mirror Cache, and corrective actions typically involve following the documented corrective action guidance.
+mc.channel EMS events occur on failure in new channel creation in Mirror Cache.
 
 == mc.channel.create.failed
 *Severity*::

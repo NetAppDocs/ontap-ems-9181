@@ -15,7 +15,7 @@ summary: mgmt.cifssymlink events
 :imagesdir: ./media/
 
 [.lead]
-mgmt.cifssymlink events are reported when configuration of a CIFS symbolic link fails; the symbolic link might not be available through CIFS, and corrective actions typically involve checking the reported configuration and connectivity.
+mgmt.cifssymlink EMS events occur when ONTAP encounters issues associated with CIFS symbolic link configuration.
 
 == mgmt.cifssymlink.failure
 *Severity*::

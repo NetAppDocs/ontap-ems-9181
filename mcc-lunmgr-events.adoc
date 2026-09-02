@@ -15,7 +15,7 @@ summary: mcc.lunmgr events
 :imagesdir: ./media/
 
 [.lead]
-mcc.lunmgr events are reported when failing to allocate a CTL Target LUN ID to a target disk, and corrective actions typically involve following the documented corrective action guidance.
+mcc.lunmgr EMS events occur when failing to allocate a CTL Target LUN ID to a target disk.
 
 == mcc.lunmgr.lunid_alloc_failure
 *Severity*::

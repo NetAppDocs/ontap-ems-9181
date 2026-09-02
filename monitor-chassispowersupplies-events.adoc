@@ -15,7 +15,7 @@ summary: monitor.chassispowersupplies events
 :imagesdir: ./media/
 
 [.lead]
-monitor.chassispowersupplies events are reported when all power supplies are OK, and corrective actions typically involve following the documented corrective action guidance.
+monitor.chassispowersupplies EMS events occur when all power supplies are OK.
 
 == monitor.chassisPowerSupplies.ok
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.invoke events
 :imagesdir: ./media/
 
 [.lead]
-callhome.invoke events are reported when you invoke an AutoSupport(R) message, and the "type" of that message is set to "test", and corrective actions typically involve following the documented corrective action guidance.
+callhome.invoke EMS events occur when ONTAP encounters issues associated with user-invoked AutoSupport messages.
 
 == callhome.invoke
 *Severity*::

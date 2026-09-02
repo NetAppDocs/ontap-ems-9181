@@ -15,7 +15,7 @@ summary: lmgr.enable events
 :imagesdir: ./media/
 
 [.lead]
-lmgr.enable events are reported when the enabling of the remote lock functionality is unsuccessful due to insufficient storage space, and corrective actions typically involve following the documented corrective action guidance.
+lmgr.enable EMS events occur when the enabling of the remote lock functionality is unsuccessful due to insufficient storage space.
 
 == lmgr.enable.remote.lock.space.error
 *Severity*::

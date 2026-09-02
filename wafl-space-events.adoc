@@ -15,7 +15,7 @@ summary: wafl.space events
 :imagesdir: ./media/
 
 [.lead]
-wafl.space events are reported when an internal error has occurred during a space balancing activity, and corrective actions typically involve contacting NetApp technical support.
+wafl.space EMS events occur when an internal error has occurred during a space balancing activity.
 
 == wafl.space.balancing.op.hung
 *Severity*::

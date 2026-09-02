@@ -15,7 +15,7 @@ summary: ha.tp events
 :imagesdir: ./media/
 
 [.lead]
-ha.tp events are reported when the testpoint is encountered or hit, and corrective actions typically involve following the documented corrective action guidance.
+ha.tp EMS events occur when the testpoint is encountered or hit.
 
 == ha.tp.testPointHit
 *Severity*::

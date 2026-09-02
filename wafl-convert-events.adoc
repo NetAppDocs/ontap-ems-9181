@@ -15,7 +15,7 @@ summary: wafl.convert events
 :imagesdir: ./media/
 
 [.lead]
-wafl.convert events are reported when a directory cannot be safely converted to Unicode format, and corrective actions typically involve following the documented corrective action guidance.
+wafl.convert EMS events occur when a directory cannot be safely converted to Unicode format.
 
 == wafl.convert.directory.failed
 *Severity*::

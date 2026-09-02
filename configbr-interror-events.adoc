@@ -15,7 +15,7 @@ summary: configbr.interror events
 :imagesdir: ./media/
 
 [.lead]
-configbr.interror events are reported when an attempt to create a configuration backup file encountered an internal software error, and corrective actions typically involve following the documented corrective action guidance.
+configbr.interror EMS events occur when an attempt to create a configuration backup file encountered an internal software error.
 
 == configbr.intError
 *Severity*::

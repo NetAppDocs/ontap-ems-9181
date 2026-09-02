@@ -15,7 +15,7 @@ summary: lmgr.hostfile events
 :imagesdir: ./media/
 
 [.lead]
-lmgr.hostfile events are reported when the volume lock manager hosts file is unusable, and no corrective action is typically required.
+lmgr.hostfile EMS events occur when ONTAP encounters issues associated with the volume lock manager hosts file.
 
 == lmgr.hostfile.cleared
 *Severity*::

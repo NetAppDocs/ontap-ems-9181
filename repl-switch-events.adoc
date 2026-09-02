@@ -15,7 +15,7 @@ summary: repl.switch events
 :imagesdir: ./media/
 
 [.lead]
-repl.switch events are reported when the average Op Latency increases beyond the threshold value in parallel splitting mode, and corrective actions typically involve following the documented corrective action guidance.
+repl.switch EMS events occur when the average Op Latency increases beyond the threshold value in parallel splitting mode.
 
 == repl.switch.to.seq.split
 *Severity*::

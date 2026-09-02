@@ -15,7 +15,7 @@ summary: wafl.compaction events
 :imagesdir: ./media/
 
 [.lead]
-wafl.compaction events are reported when the aggregates compaction CP value is changed, and corrective actions typically involve following the documented corrective action guidance.
+wafl.compaction EMS events occur when the aggregates compaction CP value is changed.
 
 == wafl.compaction.CP.value
 *Severity*::

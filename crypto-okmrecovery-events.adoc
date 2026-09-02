@@ -15,7 +15,7 @@ summary: crypto.okmrecovery events
 :imagesdir: ./media/
 
 [.lead]
-crypto.okmrecovery events are reported when the Onboard Key Manager (OKM) recovery command in the boot menu fails to recover the OKM hierarchy, and corrective actions typically involve following the documented corrective action guidance.
+crypto.okmrecovery EMS events occur when the Onboard Key Manager (OKM) recovery command in the boot menu fails to recover the OKM hierarchy.
 
 == crypto.okmrecovery.failed
 *Severity*::

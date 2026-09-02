@@ -15,7 +15,7 @@ summary: lun.op events
 :imagesdir: ./media/
 
 [.lead]
-lun.op events are reported when a LUN is restored or a LUN clone is created in a volume that is currently in the nvfailed state, and corrective actions typically involve following the documented corrective action guidance.
+lun.op EMS events occur when a LUN is restored or a LUN clone is created in a volume that is currently in the nvfailed state.
 
 == LUN.op.nvfail.offline
 *Severity*::

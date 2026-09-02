@@ -15,7 +15,7 @@ summary: dense.rri events
 :imagesdir: ./media/
 
 [.lead]
-dense.rri events are reported when wAFL message corresponding to volume level dedupe or cross volume dedupe is timed out while waiting for the Remote Refcount Increment on volume, and corrective actions typically involve following the documented corrective action guidance.
+dense.rri EMS events occur when WAFL message corresponding to volume level dedupe or cross volume dedupe is timed out while waiting for the Remote Refcount Increment on volume.
 
 == dense.rri.wait.for.free.file.timedout
 *Severity*::

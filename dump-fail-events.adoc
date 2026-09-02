@@ -15,7 +15,7 @@ summary: dump.fail events
 :imagesdir: ./media/
 
 [.lead]
-dump.fail events are reported when this event is generated while dump is trying to restart and there is no space left in the snap reserve, and corrective actions typically involve following the documented corrective action guidance.
+dump.fail EMS events occur when while dump is trying to restart and there is no space left in the snap reserve.
 
 == dump.fail.snapreserve
 *Severity*::

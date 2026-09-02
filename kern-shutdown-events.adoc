@@ -15,7 +15,7 @@ summary: kern.shutdown events
 :imagesdir: ./media/
 
 [.lead]
-kern.shutdown events are reported when this event is issued to indicate a pending shutdown is underway, and corrective actions typically involve following the documented corrective action guidance.
+kern.shutdown EMS events occur when ONTAP encounters issues associated with kernel shutdown operations.
 
 == kern.shutdown
 *Severity*::

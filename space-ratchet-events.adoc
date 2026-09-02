@@ -15,7 +15,7 @@ summary: space.ratchet events
 :imagesdir: ./media/
 
 [.lead]
-space.ratchet events are reported when this event is generated if the space ratchet catches a space-check error, and corrective actions typically involve following the documented corrective action guidance.
+space.ratchet EMS events occur when ONTAP encounters issues associated with the space ratchet mechanism.
 
 == space.ratchet.failure
 *Severity*::

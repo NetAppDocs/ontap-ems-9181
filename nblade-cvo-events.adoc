@@ -15,7 +15,7 @@ summary: nblade.cvo events
 :imagesdir: ./media/
 
 [.lead]
-nblade.cvo events are reported when a remote volume has been accessed in the Cloud Volumes ONTAP(R) environment, and corrective actions typically involve following the documented corrective action guidance.
+nblade.cvo EMS events occur when a remote volume has been accessed in the Cloud Volumes ONTAP(R) environment.
 
 == nblade.cvo.remote.access
 *Severity*::

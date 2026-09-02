@@ -15,7 +15,7 @@ summary: fcvi.fcrenabled events
 :imagesdir: ./media/
 
 [.lead]
-fcvi.fcrenabled events are reported when this message occurs if Fiber Channel Routing (FCR) functionality is enabled on the system, and corrective actions typically involve following the documented corrective action guidance.
+fcvi.fcrenabled EMS events occur if Fiber Channel Routing (FCR) functionality is enabled on the system.
 
 == fcvi.fcrEnabled
 *Severity*::

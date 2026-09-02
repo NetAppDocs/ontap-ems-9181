@@ -15,7 +15,7 @@ summary: shelf.module events
 :imagesdir: ./media/
 
 [.lead]
-shelf.module events are reported when the system cannot complete the configuration of a disk shelf module with the desired parameters, and corrective actions typically involve contacting NetApp technical support.
+shelf.module EMS events occur when ONTAP encounters issues associated with disk shelf module configuration.
 
 == shelf.module.configuration.failure
 *Severity*::

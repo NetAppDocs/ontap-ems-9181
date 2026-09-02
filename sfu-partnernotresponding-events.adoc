@@ -15,7 +15,7 @@ summary: sfu.partnernotresponding events
 :imagesdir: ./media/
 
 [.lead]
-sfu.partnernotresponding events are reported when one node in a high-availability (HA) configuration does not respond to firmware download requests from another node, in which case the other node cannot download disk shelf firmware, and corrective actions typically involve following the documented corrective action guidance.
+sfu.partnernotresponding EMS events occur when one node in a high-availability (HA) configuration does not respond to firmware download requests from another node, in which case the other node cannot download disk shelf firmware.
 
 == sfu.partnerNotResponding
 *Severity*::

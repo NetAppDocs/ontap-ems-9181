@@ -15,7 +15,7 @@ summary: xfcvi.invalid events
 :imagesdir: ./media/
 
 [.lead]
-xfcvi.invalid events are reported when xfcvi driver receives invalid advertisement, and corrective actions typically involve following the documented corrective action guidance.
+xfcvi.invalid EMS events occur when ONTAP encounters issues associated with FC-VI adapter advertisements and SFP modules.
 
 == xfcvi.invalid.advertisement
 *Severity*::

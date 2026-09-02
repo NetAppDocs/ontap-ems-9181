@@ -15,7 +15,7 @@ summary: fmmb.blobnotfound events
 :imagesdir: ./media/
 
 [.lead]
-fmmb.blobnotfound events are reported when a mailbox 'blob' is not read from the on-disk mailbox data structure, and corrective actions typically involve following the documented corrective action guidance.
+fmmb.blobnotfound EMS events occur when a mailbox 'blob' is not read from the on-disk mailbox data structure.
 
 == fmmb.BlobNotFound
 *Severity*::

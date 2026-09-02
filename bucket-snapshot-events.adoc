@@ -15,7 +15,7 @@ summary: bucket.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-bucket.snapshot events are reported when the object server completes a snapshot restore operation, and corrective actions typically involve following the documented corrective action guidance.
+bucket.snapshot EMS events occur when ONTAP encounters issues associated with object server snapshot restore operations for S3 buckets.
 
 == bucket.snapshot.restore.complete
 *Severity*::

@@ -15,7 +15,7 @@ summary: license.sfo events
 :imagesdir: ./media/
 
 [.lead]
-license.sfo events are reported when a storage failover giveback is vetoed because a select capacity license has not been installed and the license installation grace period has ended, and corrective actions typically involve following the documented corrective action guidance.
+license.sfo EMS events occur when ONTAP encounters issues associated with storage failover giveback and capacity license requirements.
 
 == license.sfo.gb.veto
 *Severity*::

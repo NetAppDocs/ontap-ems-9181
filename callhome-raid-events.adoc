@@ -15,7 +15,7 @@ summary: callhome.raid events
 :imagesdir: ./media/
 
 [.lead]
-callhome.raid events are reported when auto-partitioning for root aggregate creation is disabled on a system, and corrective actions typically involve following the documented corrective action guidance.
+callhome.raid EMS events occur when ONTAP encounters issues associated with RAID operations.
 
 == callhome.raid.adp.disabled
 *Severity*::

@@ -15,7 +15,7 @@ summary: license.de events
 :imagesdir: ./media/
 
 [.lead]
-license.de events are reported when the licensing information in the ONTAP cluster has successfully propagated to the AI Data Engine cluster after a previous failure, and corrective actions typically involve following the documented corrective action guidance.
+license.de EMS events occur when ONTAP encounters issues associated with licensing information propagation to the AI Data Engine cluster.
 
 == license.de.sync.success
 *Severity*::

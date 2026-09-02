@@ -15,7 +15,7 @@ summary: monitor.nvramlowbattery events
 :imagesdir: ./media/
 
 [.lead]
-monitor.nvramlowbattery events are reported when the NVRAM battery is at a dangerously low power level, and corrective actions typically involve following the documented corrective action guidance.
+monitor.nvramlowbattery EMS events occur when ONTAP encounters issues associated with NVRAM battery power level.
 
 == monitor.nvramLowBattery
 *Severity*::

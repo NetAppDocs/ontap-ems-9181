@@ -15,7 +15,7 @@ summary: cpeer.recv events
 :imagesdir: ./media/
 
 [.lead]
-cpeer.recv events are reported when there is an incoming cluster peer request using the system-generated passphrase, and corrective actions typically involve verifying the reported configuration and health state.
+cpeer.recv EMS events occur when there is an incoming cluster peer request using the system-generated passphrase.
 
 == cpeer.recv.pp.mismatch
 *Severity*::

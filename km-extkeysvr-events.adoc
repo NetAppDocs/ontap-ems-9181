@@ -15,7 +15,7 @@ summary: km.extkeysvr events
 :imagesdir: ./media/
 
 [.lead]
-km.extkeysvr events are reported when a key is retrieved or restored from an external KMIP server, and corrective actions typically involve following the documented corrective action guidance.
+km.extkeysvr EMS events occur when a key is retrieved or restored from an external KMIP server.
 
 == km.extkeysvr.details
 *Severity*::

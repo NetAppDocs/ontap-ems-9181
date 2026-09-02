@@ -15,7 +15,7 @@ summary: sis.logical events
 :imagesdir: ./media/
 
 [.lead]
-sis.logical events are reported when the deduplication engine's logical data limit is nearly reached on a volume, and corrective actions typically involve following the documented corrective action guidance.
+sis.logical EMS events occur when ONTAP encounters issues associated with deduplication logical data limits.
 
 == sis.logical.limit.near
 *Severity*::

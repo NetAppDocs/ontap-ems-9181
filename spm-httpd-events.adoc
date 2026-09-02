@@ -15,7 +15,7 @@ summary: spm.httpd events
 :imagesdir: ./media/
 
 [.lead]
-spm.httpd events are reported when the web server (httpd) involuntarily terminates, and corrective actions typically involve following the documented corrective action guidance.
+spm.httpd EMS events occur when the web server (httpd) involuntarily terminates.
 
 == spm.httpd.process.exit
 *Severity*::

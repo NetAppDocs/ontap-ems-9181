@@ -15,7 +15,7 @@ summary: callhome.battery events
 :imagesdir: ./media/
 
 [.lead]
-callhome.battery events are reported when the battery is either incapable of maintaining data during a power-outage, or is experiencing a failure that poses a physical threat, and corrective actions typically involve following the documented corrective action guidance.
+callhome.battery EMS events occur when ONTAP encounters issues associated with NVRAM battery capacity, charging, temperature, or environmental conditions.
 
 == callhome.battery.failure
 *Severity*::

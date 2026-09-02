@@ -15,7 +15,7 @@ summary: disk.uid events
 :imagesdir: ./media/
 
 [.lead]
-disk.uid events are reported when a SCSI (Small Computer System Interface) INQUIRY command done during a disk drive initialization sequence finds different data in the INQUIRY response for page 0x83, and corrective actions typically involve following the documented corrective action guidance.
+disk.uid EMS events occur when a SCSI (Small Computer System Interface) INQUIRY command done during a disk drive initialization sequence finds different data in the INQUIRY response for page 0x83.
 
 == disk.uid.changed
 *Severity*::

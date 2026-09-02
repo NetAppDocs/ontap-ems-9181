@@ -15,7 +15,7 @@ summary: vs.migrate events
 :imagesdir: ./media/
 
 [.lead]
-vs.migrate events are reported when the source Vserver cleanup operation has completed, and corrective actions typically involve following the documented corrective action guidance.
+vs.migrate EMS events occur when ONTAP encounters issues associated with Vserver migration operations.
 
 == vs.migrate.cleanup.completed
 *Severity*::

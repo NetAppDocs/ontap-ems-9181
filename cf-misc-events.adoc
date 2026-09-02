@@ -15,7 +15,7 @@ summary: cf.misc events
 :imagesdir: ./media/
 
 [.lead]
-cf.misc events are reported when the message occurs when a giveback is initiated before the partner has reached waiting-for-giveback state, and corrective actions typically involve following the documented corrective action guidance.
+cf.misc EMS events occur when ONTAP encounters issues associated with miscellaneous high-availability operations.
 
 == cf.misc.givebackPartnerNotReady
 *Severity*::

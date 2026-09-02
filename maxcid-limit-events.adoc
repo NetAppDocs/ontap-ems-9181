@@ -15,7 +15,7 @@ summary: maxcid.limit events
 :imagesdir: ./media/
 
 [.lead]
-maxcid.limit events are reported when system exceeds the maximum number of open network data connections on the node, and corrective actions typically involve following the documented corrective action guidance.
+maxcid.limit EMS events occur when system exceeds the maximum number of open network data connections on the node.
 
 == maxCID.limit.exceeded
 *Severity*::

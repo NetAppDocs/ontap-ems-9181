@@ -15,7 +15,7 @@ summary: clam.reenable events
 :imagesdir: ./media/
 
 [.lead]
-clam.reenable events are reported when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) is reenabled to operate on this node after being intentionally disabled, and corrective actions typically involve rebooting the node or cluster component.
+clam.reenable EMS events occur when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) is reenabled to operate on this node after being intentionally disabled.
 
 == clam.reenable
 *Severity*::

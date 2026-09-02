@@ -15,7 +15,7 @@ summary: vifmgr.port events
 :imagesdir: ./media/
 
 [.lead]
-vifmgr.port events are reported when a physical network port has been discovered, and corrective actions typically involve following the documented corrective action guidance.
+vifmgr.port EMS events occur when ONTAP encounters issues associated with physical network port discovery, configuration, or health monitoring.
 
 == vifmgr.port.discovered
 *Severity*::

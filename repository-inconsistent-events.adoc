@@ -15,7 +15,7 @@ summary: repository.inconsistent events
 :imagesdir: ./media/
 
 [.lead]
-repository.inconsistent events are reported when this message occurs during a client file operation request, when the Infinite Volume namespace redirector detects an inconsistency in the file attributes for a file in the namespace constituent, and corrective actions typically involve contacting NetApp technical support.
+repository.inconsistent EMS events occur during a client file operation request, when the Infinite Volume namespace redirector detects an inconsistency in the file attributes for a file in the namespace constituent.
 
 == Repository.Inconsistent.Attribute
 *Deprecated*::

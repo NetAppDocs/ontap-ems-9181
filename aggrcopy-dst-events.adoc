@@ -15,7 +15,7 @@ summary: aggrcopy.dst events
 :imagesdir: ./media/
 
 [.lead]
-aggrcopy.dst events are reported when this event is issued when an aggregate copy start is issued on an aggregate which is offline, and corrective actions typically involve following the documented corrective action guidance.
+aggrcopy.dst EMS events occur when ONTAP encounters issues associated with aggregate copy operations on the destination aggregate.
 
 == aggrcopy.dst.autoRestrictMsg
 *Severity*::

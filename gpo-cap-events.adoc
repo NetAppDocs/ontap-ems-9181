@@ -15,7 +15,7 @@ summary: gpo.cap events
 :imagesdir: ./media/
 
 [.lead]
-gpo.cap events are reported when applying group policy object (GPO) central access policy (CAP) settings succeeds, and corrective actions typically involve following the documented corrective action guidance.
+gpo.cap EMS events occur when ONTAP encounters issues associated with Group Policy Object (GPO) central access policy (CAP) settings.
 
 == gpo.CAP.applied
 *Severity*::

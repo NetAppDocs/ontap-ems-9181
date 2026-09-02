@@ -15,7 +15,7 @@ summary: nblade.nfsrcchecksummismatch events
 :imagesdir: ./media/
 
 [.lead]
-nblade.nfsrcchecksummismatch events are reported when the server detects a retransmitted request from the client with a modified payload, and corrective actions typically involve following the documented corrective action guidance.
+nblade.nfsrcchecksummismatch EMS events occur when the server detects a retransmitted request from the client with a modified payload.
 
 == Nblade.nfsRCChecksumMismatch
 *Severity*::

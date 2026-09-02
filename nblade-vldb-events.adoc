@@ -15,7 +15,7 @@ summary: nblade.vldb events
 :imagesdir: ./media/
 
 [.lead]
-nblade.vldb events are reported when a protocol requests a list of blades but one cannot be generated due to one or more references to a previous request or requests still outstanding, and corrective actions typically involve following the documented corrective action guidance.
+nblade.vldb EMS events occur when ONTAP encounters issues associated with volume location database (VLDB) operations.
 
 == Nblade.vldb.LeakedBladeList
 *Severity*::

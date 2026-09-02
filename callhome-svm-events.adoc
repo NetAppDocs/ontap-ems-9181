@@ -15,7 +15,7 @@ summary: callhome.svm events
 :imagesdir: ./media/
 
 [.lead]
-callhome.svm events are reported when a Vserver migration failed to be aborted, and corrective actions typically involve following the documented corrective action guidance.
+callhome.svm EMS events occur when ONTAP encounters issues associated with Vserver migration operations.
 
 == callhome.svm.mig.abort.fail
 *Severity*::

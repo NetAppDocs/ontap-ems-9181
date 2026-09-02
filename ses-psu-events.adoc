@@ -15,7 +15,7 @@ summary: ses.psu events
 :imagesdir: ./media/
 
 [.lead]
-ses.psu events are reported when the power supplies that are installed in a disk shelf are not compatible with each other, and corrective actions typically involve following the documented corrective action guidance.
+ses.psu EMS events occur when ONTAP encounters issues associated with disk shelf power supply units.
 
 == ses.psu.comboError
 *Severity*::

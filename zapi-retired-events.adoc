@@ -15,7 +15,7 @@ summary: zapi.retired events
 :imagesdir: ./media/
 
 [.lead]
-zapi.retired events are reported when oNTAPI (ZAPI) is used for ONTAP data storage management, and corrective actions typically involve ensuring the required configuration and resources are in place.
+zapi.retired EMS events occur when ONTAPI (ZAPI) is used for ONTAP data storage management.
 
 == zapi.retired.usageDetected
 *Severity*::

@@ -15,7 +15,7 @@ summary: raid.config events
 :imagesdir: ./media/
 
 [.lead]
-raid.config events are reported when this message occurs during a mirror check, when the system discovers that all plexes have failed in an aggregate, and corrective actions typically involve following the documented corrective action guidance.
+raid.config EMS events occur when ONTAP encounters issues associated with RAID configuration and disk management.
 
 == raid.config.check.failed
 *Severity*::

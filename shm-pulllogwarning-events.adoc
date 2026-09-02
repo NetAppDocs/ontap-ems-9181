@@ -15,7 +15,7 @@ summary: shm.pulllogwarning events
 :imagesdir: ./media/
 
 [.lead]
-shm.pulllogwarning events are reported when the disk dongle requests the system to retrieve the error log, and corrective actions typically involve following the documented corrective action guidance.
+shm.pulllogwarning EMS events occur when the disk dongle requests the system to retrieve the error log.
 
 == shm.pullLogWarning
 *Severity*::

@@ -15,7 +15,7 @@ summary: hya.caching events
 :imagesdir: ./media/
 
 [.lead]
-hya.caching events are reported when auto adaptive compression is enabled on a volume in a Flash Pool aggregate or when Flash Pool caching is enabled on an auto adaptive compression volume, and corrective actions typically involve following the documented corrective action guidance.
+hya.caching EMS events occur when auto adaptive compression is enabled on a volume in a Flash Pool aggregate or when Flash Pool caching is enabled on an auto adaptive compression volume.
 
 == hya.caching.cde.vol.warning
 *Severity*::

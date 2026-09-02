@@ -15,7 +15,7 @@ summary: ha.aggregate events
 :imagesdir: ./media/
 
 [.lead]
-ha.aggregate events are reported when an aggregate ownership change has failed, and corrective actions typically involve following the documented corrective action guidance.
+ha.aggregate EMS events occur when an aggregate ownership change has failed.
 
 == ha.aggregate.ownershipChangeFailed
 *Severity*::

@@ -15,7 +15,7 @@ summary: fmmb.major events
 :imagesdir: ./media/
 
 [.lead]
-fmmb.major events are reported when this event is issued when the HA Mailbox major reset data should exist and it doesn't, and corrective actions typically involve following the documented corrective action guidance.
+fmmb.major EMS events occur when the HA Mailbox major reset data should exist and it doesn't.
 
 == fmmb.major.reset.invalid
 *Severity*::

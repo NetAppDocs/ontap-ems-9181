@@ -15,7 +15,7 @@ summary: audit.cap events
 :imagesdir: ./media/
 
 [.lead]
-audit.cap events are reported when the system fails to generate an audit staging event as a part of the Central Access Policy (CAP) evaluation during access checks, and corrective actions typically involve following the documented corrective action guidance.
+audit.cap EMS events occur when the system fails to generate an audit staging event as a part of the Central Access Policy (CAP) evaluation during access checks.
 
 == audit.cap.staging.event.failure
 *Severity*::

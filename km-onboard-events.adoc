@@ -15,7 +15,7 @@ summary: km.onboard events
 :imagesdir: ./media/
 
 [.lead]
-km.onboard events are reported when a cluster administrator supplies the wrong Onboard Key Manager cluster-wide passphrase more than three times in a row while attempting to enable Common Criteria (CC) mode, and corrective actions typically involve following the documented corrective action guidance.
+km.onboard EMS events occur when a cluster administrator supplies the wrong Onboard Key Manager cluster-wide passphrase more than three times in a row while attempting to enable Common Criteria (CC) mode.
 
 == km.onboard.ccmode.wrongpass
 *Severity*::

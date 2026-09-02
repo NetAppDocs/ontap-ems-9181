@@ -15,7 +15,7 @@ summary: arw.snapshot events
 :imagesdir: ./media/
 
 [.lead]
-arw.snapshot events are reported when a new ARP snapshot is created in anti-ransomware enabled volume, and corrective actions typically involve following the documented corrective action guidance.
+arw.snapshot EMS events occur when ONTAP encounters issues associated with anti-ransomware snapshot creation and expiry time management.
 
 == arw.snapshot.created
 *Severity*::

@@ -15,7 +15,7 @@ summary: wafl.vv events
 :imagesdir: ./media/
 
 [.lead]
-wafl.vv events are reported when data ONTAP(R) cannot map a volume to serve a client request because of invalid data Set Identifiers, and corrective actions typically involve following the documented corrective action guidance.
+wafl.vv EMS events occur when ONTAP encounters issues associated with virtual volume data set identifiers.
 
 == wafl.vv.bad.DSIDorMSID
 *Severity*::

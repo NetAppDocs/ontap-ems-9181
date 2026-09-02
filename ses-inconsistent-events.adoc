@@ -15,7 +15,7 @@ summary: ses.inconsistent events
 :imagesdir: ./media/
 
 [.lead]
-ses.inconsistent events are reported when the system detects an inconsistent configuration of shelf-to-channel connections, and corrective actions typically involve verifying the reported configuration and health state.
+ses.inconsistent EMS events occur when the system detects an inconsistent configuration of shelf-to-channel connections.
 
 == ses.inconsistent.config
 *Severity*::

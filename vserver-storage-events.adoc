@@ -15,7 +15,7 @@ summary: vserver.storage events
 :imagesdir: ./media/
 
 [.lead]
-vserver.storage events are reported when the Storage of Vserver is full, and corrective actions typically involve following the documented corrective action guidance.
+vserver.storage EMS events occur when ONTAP encounters issues associated with Vserver storage capacity limits.
 
 == vserver.storage.full
 *Severity*::

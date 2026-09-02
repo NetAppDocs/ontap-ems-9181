@@ -15,7 +15,7 @@ summary: secd.nametrans events
 :imagesdir: ./media/
 
 [.lead]
-secd.nametrans events are reported when the group name cannot be resolved by any of the entities in the ns-switch for the virtual server, and corrective actions typically involve following the documented corrective action guidance.
+secd.nametrans EMS events occur when ONTAP encounters issues associated with name mapping and resolution.
 
 == secd.nameTrans.groupNotFound
 *Severity*::

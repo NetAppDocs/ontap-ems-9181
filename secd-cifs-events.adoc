@@ -15,7 +15,7 @@ summary: secd.cifs events
 :imagesdir: ./media/
 
 [.lead]
-secd.cifs events are reported when the CIFS server machine account is missing from the Active Directory domain, and corrective actions typically involve following the documented corrective action guidance.
+secd.cifs EMS events occur when the CIFS server machine account is missing from the Active Directory domain.
 
 == secd.cifs.machacct.missing
 *Severity*::

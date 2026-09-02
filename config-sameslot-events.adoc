@@ -15,7 +15,7 @@ summary: config.sameslot events
 :imagesdir: ./media/
 
 [.lead]
-config.sameslot events are reported when a SAS disk is multipathed to host adapters in the same controller slot, and corrective actions typically involve following the documented corrective action guidance.
+config.sameslot EMS events occur when a SAS disk is multipathed to host adapters in the same controller slot.
 
 == config.sameSlot
 *Severity*::

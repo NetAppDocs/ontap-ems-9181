@@ -15,7 +15,7 @@ summary: callhome.nvdimm events
 :imagesdir: ./media/
 
 [.lead]
-callhome.nvdimm events are reported when excessive correctable error-correcting code (ECC) memory errors are reported by the NVDIMM, and corrective actions typically involve following the documented corrective action guidance.
+callhome.nvdimm EMS events occur when ONTAP encounters issues associated with NVDIMM hardware.
 
 == callhome.nvdimm.cecc
 *Severity*::

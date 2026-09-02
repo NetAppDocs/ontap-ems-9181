@@ -15,7 +15,7 @@ summary: nblade.showmountdisabled events
 :imagesdir: ./media/
 
 [.lead]
-nblade.showmountdisabled events are reported when the "showmount" command is triggered by client, but the command is disabled on the NFS server, and corrective actions typically involve following the documented corrective action guidance.
+nblade.showmountdisabled EMS events occur when the "showmount" command is triggered by client, but the command is disabled on the NFS server.
 
 == nblade.showmountdisabled
 *Severity*::

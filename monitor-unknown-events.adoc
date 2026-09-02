@@ -15,7 +15,7 @@ summary: monitor.unknown events
 :imagesdir: ./media/
 
 [.lead]
-monitor.unknown events are reported when the status monitor receives an unexpected message type, and corrective actions typically involve following the documented corrective action guidance.
+monitor.unknown EMS events occur when the status monitor receives an unexpected message type.
 
 == monitor.unknown.message
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.recoverybegin events
 :imagesdir: ./media/
 
 [.lead]
-nblade.recoverybegin events are reported when the NFS server enters the lock recovery state, and corrective actions typically involve following the documented corrective action guidance.
+nblade.recoverybegin EMS events occur when the NFS server enters the lock recovery state.
 
 == Nblade.recoveryBegin
 *Severity*::

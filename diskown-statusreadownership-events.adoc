@@ -15,7 +15,7 @@ summary: diskown.statusreadownership events
 :imagesdir: ./media/
 
 [.lead]
-diskown.statusreadownership events are reported when an event is logged to track that an error was encountered while reading all data ownership blocks at once, and corrective actions typically involve following the documented corrective action guidance.
+diskown.statusreadownership EMS events occur when an event is logged to track that an error was encountered while reading all data ownership blocks at once.
 
 == diskown.statusReadOwnership
 *Severity*::

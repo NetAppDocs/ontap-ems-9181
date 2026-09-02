@@ -15,7 +15,7 @@ summary: nblade.pcp events
 :imagesdir: ./media/
 
 [.lead]
-nblade.pcp events are reported when a network port undergoes multiple link state transitions within a short period of time, and corrective actions typically involve following the documented corrective action guidance.
+nblade.pcp EMS events occur when ONTAP encounters issues associated with network port connectivity and RDMA connections.
 
 == Nblade.pcp.linkThrashing
 *Severity*::

@@ -15,7 +15,7 @@ summary: disk.selectiontimeout events
 :imagesdir: ./media/
 
 [.lead]
-disk.selectiontimeout events are reported when a selection timeout is received, and corrective actions typically involve following the documented corrective action guidance.
+disk.selectiontimeout EMS events occur when a selection timeout is received.
 
 == disk.selectionTimeout
 *Severity*::

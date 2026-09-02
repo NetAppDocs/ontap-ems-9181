@@ -15,7 +15,7 @@ summary: volcreate.fsid events
 :imagesdir: ./media/
 
 [.lead]
-volcreate.fsid events are reported when flexible volumes were created with file system identifiers (FSIDs) which conflict with existing volumes, and corrective actions typically involve following the documented corrective action guidance.
+volcreate.fsid EMS events occur when flexible volumes were created with file system identifiers (FSIDs) which conflict with existing volumes.
 
 == volcreate.fsid.dup
 *Severity*::

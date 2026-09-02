@@ -15,7 +15,7 @@ summary: raid.fm events
 :imagesdir: ./media/
 
 [.lead]
-raid.fm events are reported when this event contains summary information for the disaster takeover, and corrective actions typically involve following the documented corrective action guidance.
+raid.fm EMS events occur when ONTAP encounters issues associated with high-availability (HA) takeover and giveback operations.
 
 == raid.fm.disasterSummary
 *Severity*::

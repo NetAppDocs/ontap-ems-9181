@@ -15,7 +15,7 @@ summary: vserver.ipspace events
 :imagesdir: ./media/
 
 [.lead]
-vserver.ipspace events are reported when this message occurs in a MetroCluster(R) configuration when attempting to replicate a "vserver create" operation onto the destination cluster, but the configured IPspace cannot be found on the destination cluster, and corrective actions typically involve following the documented corrective action guidance.
+vserver.ipspace EMS events occur when ONTAP encounters issues associated with IPspace availability during Vserver creation in MetroCluster configurations.
 
 == vserver.ipspace.lookupfailed
 *Severity*::

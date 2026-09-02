@@ -15,7 +15,7 @@ summary: lmgr.files events
 :imagesdir: ./media/
 
 [.lead]
-lmgr.files events are reported when a lock manager file object cannot be allocated due to reaching the limit for file objects in the associated pool, and corrective actions typically involve following the documented corrective action guidance.
+lmgr.files EMS events occur when a lock manager file object cannot be allocated due to reaching the limit for file objects in the associated pool.
 
 == lmgr.files.limit.hit
 *Severity*::

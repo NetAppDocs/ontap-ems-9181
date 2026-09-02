@@ -15,7 +15,7 @@ summary: callhome.reboot events
 :imagesdir: ./media/
 
 [.lead]
-callhome.reboot events are reported when this message occurs after an appliance reboot--the appliance reports this event after the reboot is complete, and corrective actions typically involve following the documented corrective action guidance.
+callhome.reboot EMS events occur when ONTAP encounters issues associated with system reboots.
 
 == callhome.reboot
 *Severity*::

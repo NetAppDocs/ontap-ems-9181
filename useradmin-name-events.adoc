@@ -15,7 +15,7 @@ summary: useradmin.name events
 :imagesdir: ./media/
 
 [.lead]
-useradmin.name events are reported when an administrative name in the cluster is longer than the maximum allowed 255 characters, and corrective actions typically involve following the documented corrective action guidance.
+useradmin.name EMS events occur when an administrative name in the cluster is longer than the maximum allowed 255 characters.
 
 == useradmin.name.too.long
 *Severity*::

@@ -15,7 +15,7 @@ summary: callhome.wafl events
 :imagesdir: ./media/
 
 [.lead]
-callhome.wafl events are reported when this message occurs after a WAFL(R) check (wack) operation runs, and corrective actions typically involve checking the reported configuration and connectivity.
+callhome.wafl EMS events occur when ONTAP encounters issues associated with WAFL(R) file system integrity.
 
 == callhome.wafl.check
 *Severity*::

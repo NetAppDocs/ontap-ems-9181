@@ -15,7 +15,7 @@ summary: vnvram.jswap events
 :imagesdir: ./media/
 
 [.lead]
-vnvram.jswap events are reported when this message occurs whenever a journal swap event takes place, and corrective actions typically involve following the documented corrective action guidance.
+vnvram.jswap EMS events occur when ONTAP encounters issues associated with NVLog journal swap operations.
 
 == vnvram.jswap
 *Severity*::

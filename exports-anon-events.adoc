@@ -15,7 +15,7 @@ summary: exports.anon events
 :imagesdir: ./media/
 
 [.lead]
-exports.anon events are reported when we cannot get UNIX credentials for a user id when evaluating the "-anon" portion of an export-policy rule, and corrective actions typically involve following the documented corrective action guidance.
+exports.anon EMS events occur when we cannot get UNIX credentials for a user id when evaluating the "-anon" portion of an export-policy rule.
 
 == exports.anon.noCredForId
 *Severity*::

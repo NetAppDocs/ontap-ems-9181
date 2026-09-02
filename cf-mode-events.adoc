@@ -15,7 +15,7 @@ summary: cf.mode events
 :imagesdir: ./media/
 
 [.lead]
-cf.mode events are reported when the controller is automatically set to High Availability(HA) mode because of the configuration values in the Field Replaceable Unit(FRU) or the slot of the interconnect/NVRAM card (depending on the hardware type of the controller), and corrective actions typically involve following the documented corrective action guidance.
+cf.mode EMS events occur when ONTAP encounters issues associated with High Availability (HA) mode configuration.
 
 == cf.mode.auto.HA
 *Severity*::

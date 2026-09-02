@@ -15,7 +15,7 @@ summary: esh.speed events
 :imagesdir: ./media/
 
 [.lead]
-esh.speed events are reported when there is an error in the link speed of the disk shelves that are attached to the node, and corrective actions typically involve following the documented corrective action guidance.
+esh.speed EMS events occur when there is an error in the link speed of the disk shelves that are attached to the node.
 
 == esh.speed.error
 *Severity*::

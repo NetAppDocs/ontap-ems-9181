@@ -15,7 +15,7 @@ summary: acp.dev events
 :imagesdir: ./media/
 
 [.lead]
-acp.dev events are reported when the Alternate Control Path (ACP) Administrator encounters an error event in a development-only kernel, and corrective actions typically involve following the documented corrective action guidance.
+acp.dev EMS events occur when the Alternate Control Path (ACP) Administrator encounters an error event in a development-only kernel.
 
 == acp.dev.notify
 *Severity*::

@@ -15,7 +15,7 @@ summary: disk.iorecoverederror events
 :imagesdir: ./media/
 
 [.lead]
-disk.iorecoverederror events are reported when a disk determines that it will fail shortly, and corrective actions typically involve following the documented corrective action guidance.
+disk.iorecoverederror EMS events occur when ONTAP encounters issues associated with recovered disk errors.
 
 == disk.ioRecoveredError.pfa
 *Severity*::

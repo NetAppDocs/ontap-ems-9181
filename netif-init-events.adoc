@@ -15,7 +15,7 @@ summary: netif.init events
 :imagesdir: ./media/
 
 [.lead]
-netif.init events are reported when initialization of a network interface failed due to an unexpected software error, and corrective actions typically involve contacting NetApp technical support.
+netif.init EMS events occur when initialization of a network interface failed due to an unexpected software error.
 
 == netif.init.failed
 *Severity*::

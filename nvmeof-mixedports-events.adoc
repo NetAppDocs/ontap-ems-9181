@@ -15,7 +15,7 @@ summary: nvmeof.mixedports events
 :imagesdir: ./media/
 
 [.lead]
-nvmeof.mixedports events are reported when there is no longer a nonrecommended mix of a dedicated port and a nondedicated port cabled from a node to a shelf, and corrective actions typically involve following the documented corrective action guidance.
+nvmeof.mixedports EMS events occur when ONTAP encounters issues associated with mixed dedicated and nondedicated port connections to shelves.
 
 == nvmeof.mixedports.clear
 *Severity*::

@@ -15,7 +15,7 @@ summary: snaplock.user events
 :imagesdir: ./media/
 
 [.lead]
-snaplock.user events are reported when the SnapLock(R) logging system fails to securely log either the addition or deletion of the compliance admin role to or from a user account, and corrective actions typically involve following the documented corrective action guidance.
+snaplock.user EMS events occur when the SnapLock(R) logging system fails to securely log either the addition or deletion of the compliance admin role to or from a user account.
 
 == snaplock.user
 *Severity*::

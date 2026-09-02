@@ -15,7 +15,7 @@ summary: callhome.kernel events
 :imagesdir: ./media/
 
 [.lead]
-callhome.kernel events are reported when you invoke an AutoSupport for kernel coredump files, and corrective actions typically involve following the documented corrective action guidance.
+callhome.kernel EMS events occur when ONTAP encounters issues associated with kernel coredump file collection.
 
 == callhome.kernel.core
 *Deprecated*::

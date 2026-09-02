@@ -15,7 +15,7 @@ summary: rlm.ssh events
 :imagesdir: ./media/
 
 [.lead]
-rlm.ssh events are reported when rLM SSH access list needs to be resetup, and corrective actions typically involve following the documented corrective action guidance.
+rlm.ssh EMS events occur when rLM SSH access list needs to be resetup.
 
 == rlm.ssh.access.resetup
 *Severity*::

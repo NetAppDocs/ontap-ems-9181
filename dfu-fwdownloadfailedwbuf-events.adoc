@@ -15,7 +15,7 @@ summary: dfu.fwdownloadfailedwbuf events
 :imagesdir: ./media/
 
 [.lead]
-dfu.fwdownloadfailedwbuf events are reported when retries are exhausted on the write buffer command that is used to download firmware to a disk, and corrective actions typically involve following the documented corrective action guidance.
+dfu.fwdownloadfailedwbuf EMS events occur when retries are exhausted on the write buffer command that is used to download firmware to a disk.
 
 == dfu.fwDownloadFailedWbuf
 *Severity*::

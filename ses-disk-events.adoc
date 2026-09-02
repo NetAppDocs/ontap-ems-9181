@@ -15,7 +15,7 @@ summary: ses.disk events
 :imagesdir: ./media/
 
 [.lead]
-ses.disk events are reported when there are no longer any drives in a FAS2050 system's slots 20 through 23, and corrective actions typically involve following the documented corrective action guidance.
+ses.disk EMS events occur when ONTAP encounters issues associated with disk drive configuration.
 
 == ses.disk.configOk
 *Severity*::

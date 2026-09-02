@@ -15,7 +15,7 @@ summary: cifs.db events
 :imagesdir: ./media/
 
 [.lead]
-cifs.db events are reported when a CIFS server fails to be removed on the secondary site for an SVM in a MetroCluster configuration or SVM DR setup, and corrective actions typically involve following the documented corrective action guidance.
+cifs.db EMS events occur when a CIFS server fails to be removed on the secondary site for an SVM in a MetroCluster configuration or SVM DR setup.
 
 == cifs.db.v2.exists
 *Severity*::

@@ -15,7 +15,7 @@ summary: nblade.fpolpassthruonsmb1 events
 :imagesdir: ./media/
 
 [.lead]
-nblade.fpolpassthruonsmb1 events are reported when this message occurs during a client attempt to establish an FPolicy pass-through read channel over SMB1, which is not supported, and corrective actions typically involve verifying the reported configuration and health state.
+nblade.fpolpassthruonsmb1 EMS events occur during a client attempt to establish an FPolicy pass-through read channel over SMB1, which is not supported.
 
 == Nblade.fpolPassthruOnSMB1
 *Severity*::

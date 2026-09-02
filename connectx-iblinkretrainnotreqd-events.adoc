@@ -15,7 +15,7 @@ summary: connectx.iblinkretrainnotreqd events
 :imagesdir: ./media/
 
 [.lead]
-connectx.iblinkretrainnotreqd events are reported when the software detects that the previous InfiniBand link training was successful, and corrective actions typically involve following the documented corrective action guidance.
+connectx.iblinkretrainnotreqd EMS events occur when the software detects that the previous InfiniBand link training was successful.
 
 == connectx.IBLinkRetrainNotReqd
 *Severity*::

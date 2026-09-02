@@ -15,7 +15,7 @@ summary: rsh.rcmd events
 :imagesdir: ./media/
 
 [.lead]
-rsh.rcmd events are reported when there is an error in binding a reserved port, and corrective actions typically involve following the documented corrective action guidance.
+rsh.rcmd EMS events occur when ONTAP encounters issues associated with reserved port binding operations.
 
 == rsh.rcmd.port.bind
 *Severity*::

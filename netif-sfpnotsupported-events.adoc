@@ -15,7 +15,7 @@ summary: netif.sfpnotsupported events
 :imagesdir: ./media/
 
 [.lead]
-netif.sfpnotsupported events are reported when the installed Small Form-factor Pluggable (SFP+ or QSFP+) module is not supported, and corrective actions typically involve following the documented corrective action guidance.
+netif.sfpnotsupported EMS events occur when the installed Small Form-factor Pluggable (SFP+ or QSFP+) module is not supported.
 
 == netif.sfpNotSupported
 *Severity*::

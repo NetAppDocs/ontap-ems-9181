@@ -15,7 +15,7 @@ summary: vfilermigrate.diskownershipmismatch events
 :imagesdir: ./media/
 
 [.lead]
-vfilermigrate.diskownershipmismatch events are reported when the SnapMover feature is licensed but the disk ownership model is not using the software-based disk ownership model, and corrective actions typically involve following the documented corrective action guidance.
+vfilermigrate.diskownershipmismatch EMS events occur when the SnapMover feature is licensed but the disk ownership model is not using the software-based disk ownership model.
 
 == vfilermigrate.diskOwnershipMismatch
 *Severity*::

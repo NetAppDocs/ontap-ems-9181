@@ -15,7 +15,7 @@ summary: san.duplicateipaddress events
 :imagesdir: ./media/
 
 [.lead]
-san.duplicateipaddress events are reported when this message occurs in MetroCluster(TM) configurations of clustered ONTAP(R), when an IP LIF is created in the source cluster, but one of the storage virtual machines (SVMs) in the destination cluster is already configured with an IP LIF having the same IP address, and corrective actions typically involve following the documented corrective action guidance.
+san.duplicateipaddress EMS events occur in MetroCluster(TM) configurations of clustered ONTAP(R), when an IP LIF is created in the source cluster, but one of the storage virtual machines (SVMs) in the destination cluster is already configured with an IP LIF having the same IP address.
 
 == san.DuplicateIpAddress
 *Severity*::

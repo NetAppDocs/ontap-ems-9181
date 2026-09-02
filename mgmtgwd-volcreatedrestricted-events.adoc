@@ -15,7 +15,7 @@ summary: mgmtgwd.volcreatedrestricted events
 :imagesdir: ./media/
 
 [.lead]
-mgmtgwd.volcreatedrestricted events are reported when a volume is created in the restricted state, and corrective actions typically involve following the documented corrective action guidance.
+mgmtgwd.volcreatedrestricted EMS events occur when a volume is created in the restricted state.
 
 == mgmtgwd.volcreatedrestricted
 *Severity*::

@@ -15,7 +15,7 @@ summary: vdom.unmapped events
 :imagesdir: ./media/
 
 [.lead]
-vdom.unmapped events are reported when this message occurs for Virtual Disk Object Manager (VDOM) errors that do not currently map to specific VDOM EMS events, and corrective actions typically involve following the documented corrective action guidance.
+vdom.unmapped EMS events occur for Virtual Disk Object Manager (VDOM) errors that do not currently map to specific VDOM EMS events.
 
 == VDOM.unmapped.event
 *Severity*::

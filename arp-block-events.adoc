@@ -15,7 +15,7 @@ summary: arp.block events
 :imagesdir: ./media/
 
 [.lead]
-arp.block events are reported when this message occurs after the anti-ransomware feature has completed its workload evaluation on the volume and determined that the data entropy is high, and corrective actions typically involve following the documented corrective action guidance.
+arp.block EMS events occur after the anti-ransomware feature has completed its workload evaluation on the volume and determined that the data entropy is high.
 
 == arp.block.unsuitable.workload
 *Severity*::

@@ -15,7 +15,7 @@ summary: sk.hog events
 :imagesdir: ./media/
 
 [.lead]
-sk.hog events are reported when this event is issued when a process runs too long, and corrective actions typically involve following the documented corrective action guidance.
+sk.hog EMS events occur when a process runs too long.
 
 == sk.hog.runtime
 *Severity*::

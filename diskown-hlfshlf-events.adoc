@@ -15,7 +15,7 @@ summary: diskown.hlfshlf events
 :imagesdir: ./media/
 
 [.lead]
-diskown.hlfshlf events are reported when half-shelf based drive assignment is enabled or disabled, and corrective actions typically involve following the documented corrective action guidance.
+diskown.hlfshlf EMS events occur when ONTAP encounters issues associated with half-shelf based drive assignment.
 
 == diskown.hlfShlf.assignStatus
 *Severity*::

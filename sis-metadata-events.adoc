@@ -15,7 +15,7 @@ summary: sis.metadata events
 :imagesdir: ./media/
 
 [.lead]
-sis.metadata events are reported when inconsistencies are found in deduplication metadata, and corrective actions typically involve following the documented corrective action guidance.
+sis.metadata EMS events occur when inconsistencies are found in deduplication metadata.
 
 == sis.metadata.inconsistent
 *Severity*::
