@@ -14,6 +14,9 @@ summary: upgrademgr.upc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+upgrademgr.upc EMS events occur when this message appears when the update preparedness job skips all update preparedness checks because an automated nondisruptive upgrade (ANDU) is currently in progress.
+
 == upgrademgr.upc.skip
 *Severity*::
 NOTICE

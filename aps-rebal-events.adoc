@@ -14,6 +14,9 @@ summary: aps.rebal events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+aps.rebal EMS events occur when ONTAP encounters issues associated with the performance rebalancing service detecting node utilization thresholds being exceeded.
+
 == aps.rebal.perf.advise
 *Severity*::
 NOTICE

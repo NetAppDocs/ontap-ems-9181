@@ -3,16 +3,12 @@ settings:
   downlevel: true
   internal:
     pdf_enabled: false
-    github_edit: false
     github_issue: false
-    lipi_enabled: false
   prod:
     pdf_enabled: true
     avatars_enabled: false
     harmony_enabled: false
-    github_edit: false
     github_issue: false
-    lipi_enabled: false
   versions:
     # This Repo
     - version-number: "9.18.1"

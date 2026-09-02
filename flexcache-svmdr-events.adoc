@@ -14,6 +14,9 @@ summary: flexcache.svmdr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.svmdr EMS events occur when ONTAP encounters issues associated with FlexCache volume SVM disaster recovery (SVM-DR) notifications.
+
 == flexcache.svmdr.ecv.warn
 *Severity*::
 ERROR

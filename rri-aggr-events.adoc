@@ -14,6 +14,9 @@ summary: rri.aggr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rri.aggr EMS events occur when to indicate there is not enough free space to do RRI work.
+
 == rri.aggr.nospace
 *Severity*::
 ERROR

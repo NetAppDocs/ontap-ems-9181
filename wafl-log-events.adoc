@@ -14,6 +14,9 @@ summary: wafl.log events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.log EMS events occur when WAFL reports suspended messages that have been languishing for more than 30 seconds (represented by the macro MAX_SUSP_TIME_REPORT_THRESHOLD).
+
 == wafl.log.languish.messages
 *Severity*::
 NOTICE

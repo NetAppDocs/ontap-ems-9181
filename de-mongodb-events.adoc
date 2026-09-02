@@ -14,6 +14,9 @@ summary: de.mongodb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+de.mongodb EMS events occur when MongoDB health degrades within the AI Data Engine (AIDE) cluster, impacting shard integrity, replica set consistency, and config server availability, resulting in metadata access failures and disruption of Metadata Engine services.
+
 == de.mongodb.health.failed
 *Severity*::
 ERROR

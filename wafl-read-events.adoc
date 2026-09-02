@@ -14,6 +14,9 @@ summary: wafl.read events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.read EMS events occur when potential incorrect data read is detected.
+
 == wafl.read.incorrect.data
 *Severity*::
 NOTICE

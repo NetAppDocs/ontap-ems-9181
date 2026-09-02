@@ -14,6 +14,9 @@ summary: de.svm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+de.svm EMS events occur when an SVM (storage virtual machine) becomes inaccessible within the AI Data Engine (AIDE) cluster hindering scan, checks and updates on AIDE data.
+
 == de.svm.inaccessible
 *Severity*::
 ERROR

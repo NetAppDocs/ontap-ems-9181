@@ -14,6 +14,9 @@ summary: license.de events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+license.de EMS events occur when ONTAP encounters issues associated with licensing information propagation to the AI Data Engine cluster.
+
 == license.de.sync.success
 *Severity*::
 NOTICE

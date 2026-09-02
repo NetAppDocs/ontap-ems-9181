@@ -14,6 +14,9 @@ summary: nblade.nfs4unoptimizedio events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.nfs4unoptimizedio EMS events occur when a session trunking group that is created by the NFSv41 client is split across multiple nodes.
+
 == Nblade.nfs4UnOptimizedIO
 *Deprecated*::
 Deprecated as of version 9.18 as this ems message need N2N infrastructure bootarg, but this is disabled completely and we cannot repro this ems message. Hence, ems message should be removed.
